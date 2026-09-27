@@ -27,10 +27,11 @@ Maintainers who would rather not have their project listed can open an issue, an
 
 ## Making a change
 
-1. Fork the repository and create a branch.
-2. For pipeline changes, run the tests and linter: `python3 -m unittest discover scripts` (Python 3.11+) and `ruff check scripts && ruff format --check scripts`.
-3. To try the pipeline on a small scale: `GITHUB_TOKEN=$(gh auth token) python3 scripts/radar.py all --languages "Rust"`, then `python3 -m http.server -d site 8000`. Do not commit the generated data from a partial run.
-4. Keep pull requests focused on one change, and describe what changed and why in a few sentences.
+1. Comment on the issue you want to work on and wait to be assigned, so two people don't solve the same issue.
+2. Fork the repository and create a branch.
+3. For pipeline changes, run the tests and linter: `python3 -m unittest discover scripts` (Python 3.11+) and `ruff check scripts && ruff format --check scripts`.
+4. To try the pipeline on a small scale: `GITHUB_TOKEN=$(gh auth token) python3 scripts/radar.py all --languages "Rust"`, then `python3 -m http.server -d site 8000`. Do not commit the generated data from a partial run.
+5. Keep pull requests focused on one change, and describe what changed and why in a few sentences.
 
 ## Style
 
