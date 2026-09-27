@@ -115,6 +115,8 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) first, and see the [Code of Conduct](COD
 
 Thank you to everyone who has made the radar better:
 
+- [@Nomee-123](https://github.com/Nomee-123): the `/` shortcut that focuses the website search ([#10](https://github.com/TanbirRamim/open-source-radar/pull/10))
+- [@yyashikasharmaa](https://github.com/yyashikasharmaa): the Robotics topic ([#11](https://github.com/TanbirRamim/open-source-radar/pull/11))
 - [@dharma0009](https://github.com/dharma0009): RSS feeds for every language ([#16](https://github.com/TanbirRamim/open-source-radar/pull/16))
 
 Your name goes here with your first merged pull request.
