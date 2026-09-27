@@ -97,9 +97,11 @@ curl -s https://tanbirramim.github.io/open-source-radar/data/issues.json | jq '.
 
 The format, with examples, is documented in [docs/data.md](docs/data.md).
 
+Prefer a feed reader? Every language has an RSS feed of its 50 newest beginner issues, for example [Python](https://tanbirramim.github.io/open-source-radar/feeds/python.xml). All feeds are listed on the [feed index](https://tanbirramim.github.io/open-source-radar/feeds/index.html).
+
 ## Contributing
 
-This project is itself a good first contribution. Ideas:
+This project is itself a good first contribution. The [good first issues](https://github.com/TanbirRamim/open-source-radar/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) are scoped so you can finish one in an evening, and every pull request gets a review. Ideas:
 
 - Improve a guide chapter or a [language quickstart](languages/README.md), or add a new one.
 - Add a label variant, language or topic keyword to [`scripts/config.toml`](scripts/config.toml).
@@ -108,6 +110,14 @@ This project is itself a good first contribution. Ideas:
 - Improve the [website](site/) or the [pipeline](scripts/radar.py), with a test in [`scripts/test_radar.py`](scripts/test_radar.py).
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) first, and see the [Code of Conduct](CODE_OF_CONDUCT.md). Maintainers who prefer their project not to be listed can [open an issue](https://github.com/TanbirRamim/open-source-radar/issues/new/choose) and it will be excluded.
+
+### Contributors
+
+Thank you to everyone who has made the radar better:
+
+- [@dharma0009](https://github.com/dharma0009): RSS feeds for every language ([#16](https://github.com/TanbirRamim/open-source-radar/pull/16))
+
+Your name goes here with your first merged pull request.
 
 ## Please, be a good citizen
 

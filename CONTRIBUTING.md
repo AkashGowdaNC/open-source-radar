@@ -15,7 +15,7 @@ These are rebuilt by the scheduled workflow, and manual edits are overwritten:
 
 - everything in `issues/by-language/` and `issues/by-topic/`, and `issues/README.md`
 - `projects/README.md`
-- `data/*.json` (and `site/data/`, which is built at deploy time and not committed)
+- `data/*.json` (and `site/data/` and `site/feeds/`, which are built at deploy time and not committed)
 - the block between `RADAR:STATS:START` and `RADAR:STATS:END` in `README.md`
 
 To change what they contain, change `scripts/config.toml` or `scripts/radar.py`.
