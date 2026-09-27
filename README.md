@@ -12,6 +12,9 @@ Open, unclaimed, newcomer-friendly issues from active open source projects, sort
 [![CI](https://github.com/TanbirRamim/open-source-radar/actions/workflows/ci.yml/badge.svg)](https://github.com/TanbirRamim/open-source-radar/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-0E7C72.svg)](LICENSE)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-C2710C.svg)](CONTRIBUTING.md)
+[![GitHub stars](https://img.shields.io/github/stars/TanbirRamim/open-source-radar?style=social)](https://github.com/TanbirRamim/open-source-radar/stargazers)
+
+Found it useful? A star helps other newcomers find the radar.
 
 </div>
 
@@ -119,7 +122,7 @@ Thank you to everyone who has made the radar better:
 - [@yyashikasharmaa](https://github.com/yyashikasharmaa): the Robotics topic ([#11](https://github.com/TanbirRamim/open-source-radar/pull/11))
 - [@dharma0009](https://github.com/dharma0009): RSS feeds for every language ([#16](https://github.com/TanbirRamim/open-source-radar/pull/16))
 
-Your name goes here with your first merged pull request.
+Your name goes here with your first merged pull request. And if the radar helped you, please give it a star: it's the simplest way to help other newcomers find it.
 
 ## Please, be a good citizen
 
