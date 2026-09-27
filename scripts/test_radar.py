@@ -1,7 +1,10 @@
 """Unit tests for the pure parts of the radar pipeline: python -m unittest discover scripts"""
 
 import datetime as dt
+import tempfile
 import unittest
+import xml.etree.ElementTree as ET
+from pathlib import Path
 from typing import ClassVar
 
 import radar
@@ -193,7 +196,7 @@ class ProjectsPageTests(unittest.TestCase):
             radar.ROOT = pathlib.Path(tmp)
             try:
                 radar.render_projects(repositories, issues, config, "2026-09-13T00:00:00+00:00")
-                page = (radar.ROOT / "projects" / "README.md").read_text()
+                page = (radar.ROOT / "projects" / "README.md").read_text(encoding="utf-8")
             finally:
                 radar.ROOT = original
         self.assertIn("## Rust", page)
@@ -226,6 +229,59 @@ class QueryTests(unittest.TestCase):
         self.assertIn('"good \\"first\\""', query)
         self.assertIn('expression: "HEAD:AGENTS.md"', query)
         self.assertNotIn("p0:", radar.build_repo_query(["a/b"], ["x"], 5, include_policy=False))
+
+
+class PageHeaderTests(unittest.TestCase):
+    def test_extra_line_goes_under_the_subtitle(self):
+        header = radar.page_header("Go issues", "Subtitle.", "2026-09-27T11:00:00+00:00", "[RSS feed](x.xml)")
+        self.assertIn("Subtitle.\n\n[RSS feed](x.xml)\n\n> Updated", header)
+        self.assertNotIn("\n\n\n", radar.page_header("Go issues", "Subtitle.", "2026-09-27T11:00:00+00:00"))
+
+
+class LanguageFeedTests(unittest.TestCase):
+    def test_render_language_feeds(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            original_root = radar.ROOT
+            radar.ROOT = Path(tmp)
+
+            try:
+                repositories = {
+                    "owner/repo": {"language": "Python"},
+                }
+                issues = [
+                    {
+                        "repo": "owner/repo",
+                        "level": "beginner",
+                        "title": "Issue <with> & special chars",
+                        "url": "https://github.com/owner/repo/issues/1",
+                        "created": "2026-09-20",
+                    },
+                ]
+
+                radar.render_language_feeds(
+                    {"Python": "python"},
+                    repositories,
+                    issues,
+                )
+
+                feed = Path(tmp) / "site" / "feeds" / "python.xml"
+                self.assertTrue(feed.exists())
+
+                root = ET.parse(feed).getroot()
+                items = root.findall("./channel/item")
+
+                self.assertEqual(len(items), 1)
+                self.assertEqual(items[0].findtext("title"), "Issue <with> & special chars")
+                self.assertEqual(
+                    items[0].findtext("guid"),
+                    "https://github.com/owner/repo/issues/1",
+                )
+                self.assertEqual(
+                    items[0].findtext("pubDate"),
+                    "Sun, 20 Sep 2026 00:00:00 +0000",
+                )
+            finally:
+                radar.ROOT = original_root
 
 
 if __name__ == "__main__":
