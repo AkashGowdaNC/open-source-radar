@@ -2,6 +2,10 @@
 
 Notable changes to Open Source Radar. Data refreshes are not listed.
 
+## 2026-09-27
+
+- RSS feeds of the 50 newest beginner issues for every language, at `feeds/<language>.xml`, listed on `feeds/index.html` and linked from each language page. Thanks to @dharma0009 (#16).
+
 ## 2026-09-25
 
 - Issues whose latest comment is a recent request to take them ("can I work on this?", "please assign this to me") are skipped for 21 days (`claim_within_days`). Any later reply, such as a maintainer saying they don't assign issues, lists the issue again.
