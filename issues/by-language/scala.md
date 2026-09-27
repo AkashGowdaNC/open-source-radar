@@ -1,8 +1,8 @@
 # Scala issues
 
-**28** open issues (15 labeled for beginners) across **17** active Scala projects.
+**29** open issues (15 labeled for beginners) across **18** active Scala projects.
 
-> Updated automatically on **2026-09-26 20:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-27 11:34 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,6 +10,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Creating pull request via web API returns escaped response](https://github.com/gitbucket/gitbucket/issues/2306) 💬 7 | [gitbucket/gitbucket](https://github.com/gitbucket/gitbucket) | 9.4k | 🟡 help wanted | 2026-09-26 |  |
 | [UrlChecker can't see private on-prem repos: release notes and version diffs silently dropped](https://github.com/scala-steward-org/scala-steward/issues/4003) 💬 2 | [scala-steward-org/scala-steward](https://github.com/scala-steward-org/scala-steward) | 1.2k | 🟡 help wanted | 2026-09-24 |  |
 | [[BUG] rounding doubles floats can result in -0.0 result](https://github.com/NVIDIA/cudf-spark/issues/9349) 💬 1 | [NVIDIA/cudf-spark](https://github.com/NVIDIA/cudf-spark) | 1k | 🟢 beginner | 2026-09-19 | 🤖 disclose AI use · 🔏 DCO |
 | [Unable to create a routes file with same name as a method in Predef](https://github.com/playframework/playframework/issues/10204) 💬 7 | [playframework/playframework](https://github.com/playframework/playframework) | 12.6k | 🟡 help wanted | 2026-09-18 |  |
@@ -23,14 +24,14 @@
 | [Clean constructor parameters for 'Indexer' and 'ScalaCli'](https://github.com/scalameta/metals/issues/4788) 💬 6 | [scalameta/metals](https://github.com/scalameta/metals) | 2.3k | 🟢 beginner | 2026-08-12 |  |
 | [Add chicken-bit support to BOOM](https://github.com/riscv-boom/riscv-boom/issues/36) 💬 5 | [riscv-boom/riscv-boom](https://github.com/riscv-boom/riscv-boom) | 2.2k | 🟢 beginner | 2026-08-03 |  |
 | [[EPIC] Replace hand-rolled native code with existing arrow-rs kernels](https://github.com/apache/datafusion-comet/issues/5104) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-08-03 | ✍️ CLA |
-| [[FEATURE] Interval analysis to improve a..b](https://github.com/apalache-mc/apalache/issues/446) | [apalache-mc/apalache](https://github.com/apalache-mc/apalache) | 602 | 🟡 help wanted | 2026-08-02 | 🤖 disclose AI use · 🔏 DCO |
-| [[FEATURE] Detect uninitialized 'CONSTANT's in the 'ConfigurationPass'](https://github.com/apalache-mc/apalache/issues/1274) | [apalache-mc/apalache](https://github.com/apalache-mc/apalache) | 602 | 🟢 beginner | 2026-08-02 | 🤖 disclose AI use · 🔏 DCO |
-| [Introduce a rewriting optimization for 'tup \\in S \\X T'](https://github.com/apalache-mc/apalache/issues/1931) 💬 2 | [apalache-mc/apalache](https://github.com/apalache-mc/apalache) | 602 | 🟢 beginner | 2026-08-01 | 🤖 disclose AI use · 🔏 DCO |
+| [[FEATURE] Interval analysis to improve a..b](https://github.com/apalache-mc/apalache/issues/446) | [apalache-mc/apalache](https://github.com/apalache-mc/apalache) | 604 | 🟡 help wanted | 2026-08-02 | 🤖 disclose AI use · 🔏 DCO |
+| [[FEATURE] Detect uninitialized 'CONSTANT's in the 'ConfigurationPass'](https://github.com/apalache-mc/apalache/issues/1274) | [apalache-mc/apalache](https://github.com/apalache-mc/apalache) | 604 | 🟢 beginner | 2026-08-02 | 🤖 disclose AI use · 🔏 DCO |
+| [Introduce a rewriting optimization for 'tup \\in S \\X T'](https://github.com/apalache-mc/apalache/issues/1931) 💬 2 | [apalache-mc/apalache](https://github.com/apalache-mc/apalache) | 604 | 🟢 beginner | 2026-08-01 | 🤖 disclose AI use · 🔏 DCO |
 | [ScalaSQL support](https://github.com/Iltotore/iron/issues/375) | [Iltotore/iron](https://github.com/Iltotore/iron) | 558 | 🟢 beginner | 2026-07-06 |  |
 | [Cask support](https://github.com/Iltotore/iron/issues/374) | [Iltotore/iron](https://github.com/Iltotore/iron) | 558 | 🟢 beginner | 2026-07-02 |  |
-| [SFTP and SSH resolvers are not correctly used to download dependencies since 0.13.1](https://github.com/sbt/sbt/issues/1810) 💬 16 | [sbt/sbt](https://github.com/sbt/sbt) | 5k | 🟡 help wanted | 2026-06-27 | 🤖 disclose AI use · ✍️ CLA |
-| [[2.x] '@cacheLevel' and '@transient' annotation does not work if local val](https://github.com/sbt/sbt/issues/9162) 💬 2 | [sbt/sbt](https://github.com/sbt/sbt) | 5k | 🟡 help wanted | 2026-06-27 | 🤖 disclose AI use · ✍️ CLA |
-| [clean does not seem to work with java projects](https://github.com/sbt/sbt/issues/7187) 💬 2 | [sbt/sbt](https://github.com/sbt/sbt) | 5k | 🟡 help wanted | 2026-06-27 | 🤖 disclose AI use · ✍️ CLA |
+| [SFTP and SSH resolvers are not correctly used to download dependencies since 0.13.1](https://github.com/sbt/sbt/issues/1810) 💬 16 | [sbt/sbt](https://github.com/sbt/sbt) | 5k | 🟡 help wanted | 2026-06-27 | ✍️ CLA |
+| [[2.x] '@cacheLevel' and '@transient' annotation does not work if local val](https://github.com/sbt/sbt/issues/9162) 💬 2 | [sbt/sbt](https://github.com/sbt/sbt) | 5k | 🟡 help wanted | 2026-06-27 | ✍️ CLA |
+| [clean does not seem to work with java projects](https://github.com/sbt/sbt/issues/7187) 💬 2 | [sbt/sbt](https://github.com/sbt/sbt) | 5k | 🟡 help wanted | 2026-06-27 | ✍️ CLA |
 | [:memo: Publish kyuubi-spark-authz Spark 4.0 binary to Maven Central](https://github.com/apache/kyuubi/issues/7449) 💬 4 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-06-11 | 🤖 disclose AI use · ✍️ CLA |
 | [Scala 3 builds](https://github.com/typelevel/frameless/issues/945) | [typelevel/frameless](https://github.com/typelevel/frameless) | 895 | 🟡 help wanted | 2026-05-25 |  |
 | [How to Add the suggested constraints to verification run using PySpark ?](https://github.com/awslabs/deequ/issues/383) 💬 2 | [awslabs/deequ](https://github.com/awslabs/deequ) | 3.6k | 🟡 help wanted | 2026-05-06 | ✍️ CLA |

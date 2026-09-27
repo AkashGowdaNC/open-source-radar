@@ -1,8 +1,8 @@
 # Dart issues
 
-**51** open issues (24 labeled for beginners) across **32** active Dart projects.
+**49** open issues (24 labeled for beginners) across **32** active Dart projects.
 
-> Updated automatically on **2026-09-26 20:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-27 11:34 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,6 +10,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Feature: Self-hosted sync server](https://github.com/simonoppowa/OpenNutriTracker/issues/79) 💬 5 | [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) | 2.6k | 🟡 help wanted | 2026-09-27 |  |
+| [Submit OpenNutriTracker to the F-Droid repository](https://github.com/simonoppowa/OpenNutriTracker/issues/575) 💬 4 | [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) | 2.6k | 🟢 beginner | 2026-09-27 |  |
 | [Local deb update issue](https://github.com/ubuntu/app-center/issues/2190) | [ubuntu/app-center](https://github.com/ubuntu/app-center) | 925 | 🟢 beginner | 2026-09-24 | ✍️ CLA |
 | [Crazy house pieces disappear](https://github.com/lichess-org/mobile/issues/3599) 💬 9 | [lichess-org/mobile](https://github.com/lichess-org/mobile) | 2.6k | 🟢 beginner | 2026-09-23 | 🤖 disclose AI use |
 | [Use the default theme available by the themeData for tooltips instead of library's custom theme](https://github.com/imaNNeo/fl_chart/issues/1377) 💬 3 | [imaNNeo/fl_chart](https://github.com/imaNNeo/fl_chart) | 7.6k | 🟢 beginner | 2026-09-17 |  |
@@ -32,7 +34,6 @@
 | [Ente Auth iOS: slow unlock](https://github.com/ente/ente/issues/4749) 💬 10 | [ente/ente](https://github.com/ente/ente) | 29.1k | 🟢 beginner | 2026-08-11 |  |
 | [Add a method to check whether the platform supports dynamic theming](https://github.com/material-foundation/flutter-packages/issues/390) 💬 7 | [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages) | 862 | 🟡 help wanted | 2026-08-07 |  |
 | [Improve development experience](https://github.com/material-foundation/flutter-packages/issues/299) | [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages) | 862 | 🟡 help wanted | 2026-08-07 |  |
-| [Submit OpenNutriTracker to the F-Droid repository](https://github.com/simonoppowa/OpenNutriTracker/issues/575) 💬 4 | [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) | 2.6k | 🟢 beginner | 2026-08-05 |  |
 | [iOS版本播放界面侧滑返回](https://github.com/Predidit/Kazumi/issues/2427) | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 30.3k | 🟡 help wanted | 2026-08-04 |  |
 | [SOCKS5 Proxy/Orbot Support](https://github.com/ImranR98/Obtainium/issues/121) 💬 9 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20k | 🟡 help wanted | 2026-07-31 | 📄 AI policy |
 | [gif 动态图打开后不会动态显示](https://github.com/fregie/pho/issues/28) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 |  |
@@ -50,7 +51,6 @@
 | [Browers plugin? (eg. Firefox)](https://github.com/authpass/authpass/issues/41) 💬 13 | [authpass/authpass](https://github.com/authpass/authpass) | 2.8k | 🟡 help wanted | 2026-05-29 | ✍️ CLA |
 | [阅黑色背景右和下边会有一个白边](https://github.com/Anxcye/anx-reader/issues/93) 💬 4 | [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) | 8.9k | 🟡 help wanted | 2026-05-24 |  |
 | [feat: implement podcast sync api](https://github.com/ubuntu-flutter-community/musicpod/issues/36) 💬 6 | [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod) | 672 | 🟡 help wanted | 2026-05-20 |  |
-| [Feature: Self-hosted sync server](https://github.com/simonoppowa/OpenNutriTracker/issues/79) 💬 5 | [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) | 2.6k | 🟡 help wanted | 2026-05-06 |  |
 | [[HDR] Linux - Native HDR Rendering Support](https://github.com/AimesSoft/NipaPlay-Reload/issues/423) | [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload) | 1.8k | 🟡 help wanted | 2026-05-05 |  |
 | [[HDR] Android - Native HDR Rendering Support](https://github.com/AimesSoft/NipaPlay-Reload/issues/421) | [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload) | 1.8k | 🟡 help wanted | 2026-05-05 |  |
 | [[UI/UX] Improve channel arragement](https://github.com/zjs81/meshcore-open/issues/70) | [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) | 618 | 🟢 beginner | 2026-05-05 |  |
@@ -59,5 +59,3 @@
 | [Memory profile tables should scroll together](https://github.com/flutter/devtools/issues/9483) 💬 1 | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-05-03 | 📄 AI policy · ✍️ CLA |
 | [是否可以加入Komari api增加服务器](https://github.com/lollipopkit/flutter_server_box/issues/1144) 💬 1 | [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) | 8.7k | 🟡 help wanted | 2026-04-30 | ✍️ CLA |
 | [[User reported] Click on tags in the log events rows to filter by those tags](https://github.com/flutter/devtools/issues/9558) 💬 3 | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-04-22 | 📄 AI policy · ✍️ CLA |
-| [Only a single isolate shown in isolate picker when multiple are running](https://github.com/flutter/devtools/issues/8561) 💬 1 | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-03-30 | 📄 AI policy · ✍️ CLA |
-| [Add option to disable RSS graph or scale memory chart axis](https://github.com/flutter/devtools/issues/9625) | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-03-30 | 📄 AI policy · ✍️ CLA |

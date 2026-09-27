@@ -1,8 +1,8 @@
 # C# issues
 
-**273** open issues (80 labeled for beginners) across **81** active C# projects.
+**274** open issues (80 labeled for beginners) across **81** active C# projects.
 
-> Updated automatically on **2026-09-26 20:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-27 11:34 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,10 +10,11 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Address race in PerformanceCounterLib](https://github.com/dotnet/runtime/issues/90803) 💬 20 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-27 | ✍️ CLA |
+| [Unnecessary sign-extension for some never-negative expressions](https://github.com/dotnet/runtime/issues/119680) 💬 4 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-27 | ✍️ CLA |
 | [Add OnBindingContextChanging](https://github.com/dotnet/maui/issues/24804) 💬 4 | [dotnet/maui](https://github.com/dotnet/maui) | 23.3k | 🟢 beginner | 2026-09-26 | ✍️ CLA |
 | [Roslyn fails to report nullability issues with spread access in collection expressions](https://github.com/dotnet/roslyn/issues/85698) 💬 12 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-09-26 | ✍️ CLA |
 | ['SemanticModel.GetSymbolInfo' doesn't return a symbol for 'FunctionPointerUnmanagedCallingConventionSyntax'](https://github.com/dotnet/roslyn/issues/59060) 💬 7 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-09-26 | ✍️ CLA |
-| [Address race in PerformanceCounterLib](https://github.com/dotnet/runtime/issues/90803) 💬 20 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-26 | ✍️ CLA |
 | [Resize the window on startup](https://github.com/microsoft/WinUI-Gallery/issues/1606) 💬 17 | [microsoft/WinUI-Gallery](https://github.com/microsoft/WinUI-Gallery) | 3.7k | 🟡 help wanted | 2026-09-26 | ✍️ CLA |
 | [Pasting generic type names in doc comments should escape '&lt;' and '&gt;'](https://github.com/dotnet/roslyn/issues/19197) 💬 3 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-09-25 | ✍️ CLA |
 | [Use disjoint-set-union for 'ClassLayout::AreCompatible'.](https://github.com/dotnet/runtime/issues/42801) 💬 7 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟢 beginner | 2026-09-25 | ✍️ CLA |
@@ -101,7 +102,6 @@
 | [Source Generators: Allow more than one subfolder for hintnames](https://github.com/dotnet/roslyn/issues/70859) 💬 4 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-09-03 | ✍️ CLA |
 | [Task: update the "Postpone" part](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/issues/980) 💬 3 | [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) | 9.7k | 🟡 help wanted | 2026-09-03 |  |
 | [Unify the WebSocket and HTTP pipelines](https://github.com/ThreeMammals/Ocelot/issues/2422) | [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot) | 8.7k | 🟡 help wanted | 2026-09-03 |  |
-| [[Proposal] Document that Linq-to-XML is thread-safe for multiple readers](https://github.com/dotnet/runtime/issues/123068) 💬 4 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-02 | ✍️ CLA |
 | [Single calc instance and window vs. Multiple calc windows](https://github.com/microsoft/calculator/issues/215) 💬 42 | [microsoft/calculator](https://github.com/microsoft/calculator) | 31.1k | 🟡 help wanted | 2026-09-01 | ✍️ CLA |
 | [Provide Name property for all framework components](https://github.com/QuantConnect/Lean/issues/3839) 💬 3 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 21.8k | 🟢 beginner | 2026-09-01 |  |
 | [Possibly too aggressive cleaning](https://github.com/builtbybel/FluentCleaner/issues/51) 💬 11 | [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner) | 6.2k | 🟡 help wanted | 2026-09-01 |  |
@@ -211,4 +211,4 @@
 | [Linux port](https://github.com/rocksdanister/lively/issues/220) 💬 40 | [rocksdanister/lively](https://github.com/rocksdanister/lively) | 19.7k | 🟡 help wanted | 2026-06-30 |  |
 | [Add support for 'after.{SolutionName}.slnx.targets' for slnx solutions](https://github.com/dotnet/msbuild/issues/12166) 💬 4 | [dotnet/msbuild](https://github.com/dotnet/msbuild) | 5.6k | 🟡 help wanted | 2026-06-30 |  |
 
-Showing the 200 most recently updated. See all 273 on the website.
+Showing the 200 most recently updated. See all 274 on the website.

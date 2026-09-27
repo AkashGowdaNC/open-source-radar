@@ -1,8 +1,8 @@
 # C++ issues
 
-**351** open issues (125 labeled for beginners) across **101** active C++ projects.
+**364** open issues (124 labeled for beginners) across **101** active C++ projects.
 
-> Updated automatically on **2026-09-26 20:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-27 11:34 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,6 +10,10 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [window of a windows terminal is appending to the end of windows stack](https://github.com/microsoft/terminal/issues/15763) 💬 26 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use |
+| [Broken geometry exporting a solid derived from an arc of ellipse to a step file](https://github.com/FreeCAD/FreeCAD/issues/14447) 💬 6 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟡 help wanted | 2026-09-27 | ⚠️ AI restricted |
+| [Ability to add Guidepost as POI](https://github.com/organicmaps/organicmaps/issues/13636) | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.5k | 🟢 beginner | 2026-09-27 | 🔏 DCO |
+| [Linux: 100% CPU when using external-message-pump with Version 84+](https://github.com/chromiumembedded/cef/issues/3002) 💬 8 | [chromiumembedded/cef](https://github.com/chromiumembedded/cef) | 4.8k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use |
 | [Launch size, Launch position should each have a "as current window" button](https://github.com/microsoft/terminal/issues/18390) 💬 3 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use |
 | [x:Bind not Binding](https://github.com/microsoft/terminal/issues/11767) 💬 13 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟢 beginner | 2026-09-26 | 🤖 disclose AI use |
 | [TechDraw: Keyboard navigation of the Section Plane is chaotic](https://github.com/FreeCAD/FreeCAD/issues/30833) 💬 3 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟢 beginner | 2026-09-25 | ⚠️ AI restricted |
@@ -26,6 +30,7 @@
 | [Core: Add incremental save option](https://github.com/FreeCAD/FreeCAD/issues/27318) 💬 6 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟢 beginner | 2026-09-23 | ⚠️ AI restricted |
 | [rlqs: Support percentage/ratio-based rate limit strategies](https://github.com/envoyproxy/envoy/issues/46086) 💬 4 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29k | 🟡 help wanted | 2026-09-23 | 🤖 disclose AI use · 🔏 DCO |
 | [Seed Ratio is being tracked from torrent size, not downloaded data](https://github.com/transmission/transmission/issues/6087) 💬 13 | [transmission/transmission](https://github.com/transmission/transmission) | 15.2k | 🟡 help wanted | 2026-09-23 |  |
+| [Windows Terminal may need to be translated into more languages](https://github.com/microsoft/terminal/issues/10667) 💬 26 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-09-22 | 🤖 disclose AI use |
 | [BIM: External reference will ignore multiple coordinate systems](https://github.com/FreeCAD/FreeCAD/issues/23323) 💬 4 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟡 help wanted | 2026-09-22 | ⚠️ AI restricted |
 | [BIM: Room finish marks](https://github.com/FreeCAD/FreeCAD/issues/5740) | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟢 beginner | 2026-09-22 | ⚠️ AI restricted |
 | [BIM: Door/Window marks](https://github.com/FreeCAD/FreeCAD/issues/5741) | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟢 beginner | 2026-09-22 | ⚠️ AI restricted |
@@ -72,15 +77,14 @@
 | [[TRACKER] Potential Development Halting Issues.](https://github.com/FlaxEngine/FlaxEngine/issues/2220) 💬 6 | [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) | 7k | 🟡 help wanted | 2026-09-15 |  |
 | [Light theme renders fully transparent with 'zen.widget.linux.transparency' - dark UI text is unreadable over d](https://github.com/zen-browser/desktop/issues/15334) 💬 2 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | 44.6k | 🟢 beginner | 2026-09-14 |  |
 | [UI glitch when rapidly switching Sidebar/Tabs layout options in Settings](https://github.com/zen-browser/desktop/issues/14837) 💬 4 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | 44.6k | 🟢 beginner | 2026-09-14 |  |
-| [Sketcher: Double-click selection includes wrong object types and impacts performance](https://github.com/FreeCAD/FreeCAD/issues/32248) 💬 3 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟢 beginner | 2026-09-14 | ⚠️ AI restricted |
 | [≥1 s delay reopening the main window after it is closed by unfocusing (KDE Plasma?)](https://github.com/hluk/CopyQ/issues/3634) 💬 14 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.3k | 🟡 help wanted | 2026-09-14 |  |
 | [g++-16 on OSX: test_flags-cpp26 Exception: SegFault](https://github.com/Neargye/magic_enum/issues/467) 💬 5 | [Neargye/magic_enum](https://github.com/Neargye/magic_enum) | 6.2k | 🟡 help wanted | 2026-09-14 |  |
 | [ARC B580 - Menus are sluggish in the redot editor.](https://github.com/Redot-Engine/redot-engine/issues/921) 💬 9 | [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) | 6.1k | 🟡 help wanted | 2026-09-14 | ⚠️ AI restricted |
-| [Support serializing NURBS surface classes](https://github.com/panda3d/panda3d/issues/1467) 💬 5 | [panda3d/panda3d](https://github.com/panda3d/panda3d) | 5.2k | 🟢 beginner | 2026-09-14 |  |
 | [Connect Crow to Apache and Nginx using custom modules](https://github.com/CrowCpp/Crow/issues/94) 💬 4 | [CrowCpp/Crow](https://github.com/CrowCpp/Crow) | 5k | 🟡 help wanted | 2026-09-14 |  |
 | [Non-active window on copyq startup](https://github.com/hluk/CopyQ/issues/3670) | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.3k | 🟡 help wanted | 2026-09-13 |  |
 | [Yo-kai Watch 2 - Blasters mode is broken](https://github.com/azahar-emu/azahar/issues/170) 💬 8 | [azahar-emu/azahar](https://github.com/azahar-emu/azahar) | 8.2k | 🟡 help wanted | 2026-09-13 | 🤖 disclose AI use |
-| [ggml : add ANE backend](https://github.com/ggml-org/llama.cpp/issues/10453) 💬 25 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 129.6k | 🟡 help wanted | 2026-09-12 | ⚠️ AI restricted |
+| [ggml : add ANE backend](https://github.com/ggml-org/llama.cpp/issues/10453) 💬 25 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 129.7k | 🟡 help wanted | 2026-09-12 | ⚠️ AI restricted |
+| [Add support for 'tmux' Control Mode](https://github.com/microsoft/terminal/issues/3656) 💬 23 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-09-12 | 🤖 disclose AI use |
 | [all *.json files are interpreted as objects](https://github.com/OpenRCT2/OpenRCT2/issues/16807) 💬 3 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.3k | 🟢 beginner | 2026-09-12 |  |
 | [Homebrew cask is now deprecated because CopyQ fails Gatekeeper checks](https://github.com/hluk/CopyQ/issues/3498) 💬 8 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.3k | 🟡 help wanted | 2026-09-12 |  |
 | [verbose mode partition commands with wrong partition identifier](https://github.com/ClickHouse/ClickHouse/issues/6743) 💬 2 | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 50.1k | 🟢 beginner | 2026-09-11 | 🤖 disclose AI use · ✍️ CLA |
@@ -107,22 +111,27 @@
 | [tray menu does not work with ubuntu 26](https://github.com/hluk/CopyQ/issues/3645) 💬 3 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.3k | 🟡 help wanted | 2026-09-11 |  |
 | [Execution time limit annotations](https://github.com/nasa/fprime/issues/3688) 💬 3 | [nasa/fprime](https://github.com/nasa/fprime) | 11.8k | 🟡 help wanted | 2026-09-11 | 🤖 disclose AI use |
 | [[RFC]: Hot Standby Mode for Master Service Metadata High Availability](https://github.com/kvcache-ai/Mooncake/issues/1200) 💬 4 | [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) | 6.7k | 🟢 beginner | 2026-09-11 | 🤖 disclose AI use |
+| [Support runtime variables in the custom user title](https://github.com/microsoft/terminal/issues/1320) 💬 8 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-09-10 | 🤖 disclose AI use |
+| [Holding Alt+Shift+Left/Right to resize panes stalls the UI (4+ panes)](https://github.com/microsoft/terminal/issues/20562) 💬 3 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-09-10 | 🤖 disclose AI use |
 | [Status panel and Glance buttons use dark-theme colors on light themes](https://github.com/zen-browser/desktop/issues/15280) 💬 5 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | 44.6k | 🟢 beginner | 2026-09-10 |  |
 | [Consider feature adoption: Vector PP and Stanley within RPP package](https://github.com/ros-navigation/navigation2/issues/5952) 💬 10 | [ros-navigation/navigation2](https://github.com/ros-navigation/navigation2) | 4.7k | 🟡 help wanted | 2026-09-10 | 🔏 DCO |
+| [Add icon to profile title on settings UI](https://github.com/microsoft/terminal/issues/9694) 💬 29 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟢 beginner | 2026-09-09 | 🤖 disclose AI use |
+| [Terminal will always choose 16x16 image in profile icon regardless resolution and scaling when an .ico file is](https://github.com/microsoft/terminal/issues/19264) 💬 3 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-09-09 | 🤖 disclose AI use |
 | [When you change the objective in a scenario that you have already failed it does not remove the failed objecti](https://github.com/OpenRCT2/OpenRCT2/issues/16510) 💬 4 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.3k | 🟢 beginner | 2026-09-09 |  |
 | [Add Bluesky and Mastodon to the Edit Place screen](https://github.com/organicmaps/organicmaps/issues/10142) 💬 6 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.5k | 🟢 beginner | 2026-09-09 | 🔏 DCO |
 | [Translate "more..."](https://github.com/organicmaps/organicmaps/issues/13214) 💬 1 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.5k | 🟢 beginner | 2026-09-09 | 🔏 DCO |
 | [Linux: Embed AppImage update information](https://github.com/hluk/CopyQ/issues/3688) | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.3k | 🟡 help wanted | 2026-09-09 |  |
 | [delay字段添加随机延迟功能，如pre_delay[100,5000],在100到5000ms之间随机延迟](https://github.com/MaaXYZ/MaaFramework/issues/1470) 💬 1 | [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework) | 4.9k | 🟡 help wanted | 2026-09-09 |  |
 | [Implement (Contour's) Color Palette Update Notification and report](https://github.com/microsoft/terminal/issues/18375) 💬 4 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-09-08 | 🤖 disclose AI use |
-| [Remove dr_wav.h](https://github.com/ggml-org/whisper.cpp/issues/165) 💬 2 | [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) | 53.9k | 🟢 beginner | 2026-09-08 | ⚠️ AI restricted |
+| [Remove dr_wav.h](https://github.com/ggml-org/whisper.cpp/issues/165) 💬 2 | [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) | 54k | 🟢 beginner | 2026-09-08 | ⚠️ AI restricted |
 | [Signed releases](https://github.com/envoyproxy/envoy/issues/14076) 💬 19 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29k | 🟡 help wanted | 2026-09-08 | 🤖 disclose AI use · 🔏 DCO |
 | [clang-tidy: enable performance-*](https://github.com/alibaba/zvec/issues/291) 💬 3 | [alibaba/zvec](https://github.com/alibaba/zvec) | 16k | 🟡 help wanted | 2026-09-08 |  |
 | [clang-tidy: enable clang-analyzer-*](https://github.com/alibaba/zvec/issues/292) | [alibaba/zvec](https://github.com/alibaba/zvec) | 16k | 🟡 help wanted | 2026-09-08 |  |
 | [Add ability to not automatically copy whitespace-only selections](https://github.com/microsoft/terminal/issues/11751) 💬 6 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-09-07 | 🤖 disclose AI use |
-| [llama cpp server cant open to public](https://github.com/ggml-org/llama.cpp/issues/6268) 💬 8 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 129.6k | 🟢 beginner | 2026-09-06 | ⚠️ AI restricted |
+| [llama cpp server cant open to public](https://github.com/ggml-org/llama.cpp/issues/6268) 💬 8 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 129.7k | 🟢 beginner | 2026-09-06 | ⚠️ AI restricted |
 | [Fallback code paths with "SIMD Everywhere"](https://github.com/simdjson/simdjson/issues/1091) 💬 6 | [simdjson/simdjson](https://github.com/simdjson/simdjson) | 24.3k | 🟢 beginner | 2026-09-06 | 📄 AI policy |
 | [[BUG] Python groupby rolling aggregations return index inconsistent with pandas](https://github.com/NVIDIA/cudf/issues/10249) 💬 7 | [NVIDIA/cudf](https://github.com/NVIDIA/cudf) | 9.8k | 🟢 beginner | 2026-09-06 |  |
+| ['clear(..)' supports a sync mode](https://github.com/bpftrace/bpftrace/issues/3549) 💬 8 | [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) | 10.3k | 🟢 beginner | 2026-09-04 | 🔏 DCO |
 | [[Android][Vanilla] CIA installation fails on Xiaomi Android 16 because /storage/emulated/0 is duplicated in th](https://github.com/azahar-emu/azahar/issues/2418) 💬 2 | [azahar-emu/azahar](https://github.com/azahar-emu/azahar) | 8.2k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use |
 | [Bazel rules for C#](https://github.com/protocolbuffers/protobuf/issues/18352) 💬 4 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 72.1k | 🟡 help wanted | 2026-09-03 | ✍️ CLA |
 | [C++ \| Array size of enumeration not reliable in case of not consecutive numbers (actual size does not match)](https://github.com/protocolbuffers/protobuf/issues/15541) 💬 5 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 72.1k | 🟡 help wanted | 2026-09-03 | ✍️ CLA |
@@ -138,10 +147,12 @@
 | [-Wnull dereference warning, when using -Os, -DNDEBUG and -Wnull-dereference flags after upgrading to protobuf ](https://github.com/protocolbuffers/protobuf/issues/19291) 💬 2 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 72.1k | 🟡 help wanted | 2026-09-03 | ✍️ CLA |
 | [Multiple CWE's in protobuf after SAST analysis by PVS-Studio](https://github.com/protocolbuffers/protobuf/issues/24882) 💬 2 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 72.1k | 🟡 help wanted | 2026-09-03 | ✍️ CLA |
 | [PHP: C extension has undocumented "append" function that has no package parity.](https://github.com/protocolbuffers/protobuf/issues/26188) 💬 2 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 72.1k | 🟡 help wanted | 2026-09-03 | ✍️ CLA |
-| [GGUF convert support for Vibevoice](https://github.com/ggml-org/llama.cpp/issues/17488) 💬 6 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 129.6k | 🟢 beginner | 2026-09-01 | ⚠️ AI restricted |
-| [Feature Request: support the multi-modal Bagel model](https://github.com/ggml-org/llama.cpp/issues/17861) 💬 2 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 129.6k | 🟡 help wanted | 2026-09-01 | ⚠️ AI restricted |
+| [GGUF convert support for Vibevoice](https://github.com/ggml-org/llama.cpp/issues/17488) 💬 6 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 129.7k | 🟢 beginner | 2026-09-01 | ⚠️ AI restricted |
+| [Feature Request: support the multi-modal Bagel model](https://github.com/ggml-org/llama.cpp/issues/17861) 💬 2 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 129.7k | 🟡 help wanted | 2026-09-01 | ⚠️ AI restricted |
+| [Suggestion: ability for applications to set their tab icon](https://github.com/microsoft/terminal/issues/1868) 💬 16 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-09-01 | 🤖 disclose AI use |
 | [Custom icons for tabs without favicons not saving](https://github.com/zen-browser/desktop/issues/13020) 💬 4 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | 44.6k | 🟢 beginner | 2026-09-01 |  |
 | [[FEA] Add support to str.normalize_spaces and str.normalize_characters in dask_cudf](https://github.com/NVIDIA/cudf/issues/10908) 💬 1 | [NVIDIA/cudf](https://github.com/NVIDIA/cudf) | 9.8k | 🟢 beginner | 2026-09-01 |  |
+| [Add title to split window](https://github.com/microsoft/terminal/issues/4717) 💬 9 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-08-31 | 🤖 disclose AI use |
 | [Wayland - remote desktop interaction popup](https://github.com/hluk/CopyQ/issues/3662) 💬 1 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.3k | 🟡 help wanted | 2026-08-31 |  |
 | [[Bug]: failed deploy oceanbase in developing mode](https://github.com/oceanbase/oceanbase/issues/1651) 💬 2 | [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) | 10.3k | 🟢 beginner | 2026-08-31 |  |
 | [[Bug]: 缺少两个编译依赖](https://github.com/oceanbase/oceanbase/issues/1865) 💬 2 | [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) | 10.3k | 🟢 beginner | 2026-08-31 |  |
@@ -149,6 +160,7 @@
 | [Use a Clip rect for Pane animations instead of the Width/Height](https://github.com/microsoft/terminal/issues/7436) 💬 1 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-08-28 | 🤖 disclose AI use |
 | [Severe Qt 6 memory leak](https://github.com/jellyfin/jellyfin-desktop/issues/1091) 💬 18 | [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) | 5.8k | 🟡 help wanted | 2026-08-28 |  |
 | [Run thread/address sanitizers in Nav2 System Tests CI](https://github.com/ros-navigation/navigation2/issues/6349) 💬 4 | [ros-navigation/navigation2](https://github.com/ros-navigation/navigation2) | 4.7k | 🟡 help wanted | 2026-08-25 | 🔏 DCO |
+| [Duplicate tab should create a new tab next to the original](https://github.com/microsoft/terminal/issues/20355) 💬 4 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-08-24 | 🤖 disclose AI use |
 | [Tracing for WASM plugins](https://github.com/envoyproxy/envoy/issues/40859) | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29k | 🟡 help wanted | 2026-08-24 | 🤖 disclose AI use · 🔏 DCO |
 | [Security posture status for Stateful Session filter](https://github.com/envoyproxy/envoy/issues/39289) 💬 11 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29k | 🟡 help wanted | 2026-08-24 | 🤖 disclose AI use · 🔏 DCO |
 | [can't view the torrents i have that extend past my screen with auto resize on](https://github.com/transmission/transmission/issues/9005) 💬 4 | [transmission/transmission](https://github.com/transmission/transmission) | 15.2k | 🟡 help wanted | 2026-08-24 |  |
@@ -160,15 +172,18 @@
 | [Allow specifying wildcards ('*') for '--[ug]id-map' on mounts](https://github.com/canonical/multipass/issues/1200) 💬 10 | [canonical/multipass](https://github.com/canonical/multipass) | 9.3k | 🟢 beginner | 2026-08-20 | ✍️ CLA |
 | [Can't handle parallel installs](https://github.com/canonical/multipass/issues/1129) 💬 6 | [canonical/multipass](https://github.com/canonical/multipass) | 9.3k | 🟡 help wanted | 2026-08-20 | ✍️ CLA |
 | [[delete] suspend and resume running instances when deleting](https://github.com/canonical/multipass/issues/549) 💬 2 | [canonical/multipass](https://github.com/canonical/multipass) | 9.3k | 🟡 help wanted | 2026-08-20 | ✍️ CLA |
+| [Rendering artifacts when Windows scaling is not the standard 125%](https://github.com/microsoft/terminal/issues/20281) 💬 1 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-08-19 | 🤖 disclose AI use |
 | [Microsoft Pinyin IME can't switch to Chinese in WT 1.24 on Win11 25H2 Build 26200](https://github.com/microsoft/terminal/issues/20481) 💬 3 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-08-19 | 🤖 disclose AI use |
 | ['til::coalesce&lt;T&gt;' should be able to take a function that returns 'T'](https://github.com/microsoft/terminal/issues/15940) 💬 4 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-08-19 | 🤖 disclose AI use |
 | [Bluetooth headset controls (pause/play) are not detected by Karabiner](https://github.com/pqrs-org/Karabiner-Elements/issues/2398) 💬 38 | [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) | 22.9k | 🟡 help wanted | 2026-08-19 |  |
-| [Add ability to limit auto-detection to a subset of languages](https://github.com/ggml-org/whisper.cpp/issues/1242) 💬 6 | [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) | 53.9k | 🟢 beginner | 2026-08-18 | ⚠️ AI restricted |
+| [WT should set COLORTERM](https://github.com/microsoft/terminal/issues/11057) 💬 50 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-08-18 | 🤖 disclose AI use |
+| [Add ability to limit auto-detection to a subset of languages](https://github.com/ggml-org/whisper.cpp/issues/1242) 💬 6 | [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) | 54k | 🟢 beginner | 2026-08-18 | ⚠️ AI restricted |
 | [[FEA] Allow Hybrid Scan PQ reader to prune row groups with length-absent bloom filters](https://github.com/NVIDIA/cudf/issues/23515) 💬 4 | [NVIDIA/cudf](https://github.com/NVIDIA/cudf) | 9.8k | 🟢 beginner | 2026-08-18 |  |
 | [[FEA] Change cudf::io::detail::make_column() to have a more verbose name.](https://github.com/NVIDIA/cudf/issues/11391) 💬 3 | [NVIDIA/cudf](https://github.com/NVIDIA/cudf) | 9.8k | 🟢 beginner | 2026-08-18 |  |
-| [[Feature Request]: Option to set volume for ringtone](https://github.com/meshtastic/firmware/issues/8498) 💬 5 | [meshtastic/firmware](https://github.com/meshtastic/firmware) | 8.3k | 🟡 help wanted | 2026-08-18 | ✍️ CLA |
+| [[Feature Request]: Option to set volume for ringtone](https://github.com/meshtastic/firmware/issues/8498) 💬 5 | [meshtastic/firmware](https://github.com/meshtastic/firmware) | 8.4k | 🟡 help wanted | 2026-08-18 | ✍️ CLA |
 | [Sequential download option in GUI](https://github.com/transmission/transmission/issues/7370) 💬 10 | [transmission/transmission](https://github.com/transmission/transmission) | 15.2k | 🟡 help wanted | 2026-08-17 |  |
 | [AppImage: Broken Pipe upon opening links in-game](https://github.com/PrismLauncher/PrismLauncher/issues/5854) 💬 3 | [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) | 10.5k | 🟡 help wanted | 2026-08-17 | 🤖 disclose AI use · 🔏 DCO |
+| [Automatic scrolling of window when setting cursor position](https://github.com/microsoft/terminal/issues/14774) 💬 12 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-08-16 | 🤖 disclose AI use |
 | [Allow worker CPU affinity to be set](https://github.com/envoyproxy/envoy/issues/14619) 💬 8 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29k | 🟡 help wanted | 2026-08-14 | 🤖 disclose AI use · 🔏 DCO |
 | [Build binaries for Windows ARM64](https://github.com/jellyfin/jellyfin-desktop/issues/214) 💬 24 | [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) | 5.8k | 🟡 help wanted | 2026-08-14 |  |
 | [JMP 1.9.0 not showing pagination as result of library page size setting in video libraries](https://github.com/jellyfin/jellyfin-desktop/issues/404) 💬 2 | [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) | 5.8k | 🟡 help wanted | 2026-08-14 |  |
@@ -189,26 +204,11 @@
 | [YAML::Node::EndMark()](https://github.com/jbeder/yaml-cpp/issues/1217) 💬 2 | [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | 6.1k | 🟡 help wanted | 2026-08-11 | ⚠️ AI restricted |
 | [Disabling focus mode in quake window should persist when persisting window layout](https://github.com/microsoft/terminal/issues/19897) 💬 9 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-08-10 | 🤖 disclose AI use |
 | [Please enhance context about exceptions handling in yaml-cpp](https://github.com/jbeder/yaml-cpp/issues/1395) | [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | 6.1k | 🟡 help wanted | 2026-08-10 | ⚠️ AI restricted |
-| [[BUG] SenseCap Indicator touch in BaseUI](https://github.com/meshtastic/firmware/issues/10099) 💬 4 | [meshtastic/firmware](https://github.com/meshtastic/firmware) | 8.3k | 🟡 help wanted | 2026-08-09 | ✍️ CLA |
-| [Extra padding on bottom when showTabsInTitlebar is false](https://github.com/microsoft/terminal/issues/19308) 💬 5 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-08-07 | 🤖 disclose AI use |
+| [[BUG] SenseCap Indicator touch in BaseUI](https://github.com/meshtastic/firmware/issues/10099) 💬 4 | [meshtastic/firmware](https://github.com/meshtastic/firmware) | 8.4k | 🟡 help wanted | 2026-08-09 | ✍️ CLA |
 | [[Feature Request] Screen sharing is of somewhat low quality](https://github.com/telegramdesktop/tdesktop/issues/16487) 💬 61 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 33k | 🟡 help wanted | 2026-08-06 |  |
 | [Add softirq processing time into Off-CPU time](https://github.com/KDAB/hotspot/issues/717) 💬 3 | [KDAB/hotspot](https://github.com/KDAB/hotspot) | 5.2k | 🟡 help wanted | 2026-08-06 |  |
 | [forge not launching on 1.13.2](https://github.com/PrismLauncher/PrismLauncher/issues/5793) 💬 5 | [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) | 10.5k | 🟡 help wanted | 2026-08-05 | 🤖 disclose AI use · 🔏 DCO |
 | [saved position slowly drifts down](https://github.com/mumble-voip/mumble/issues/7112) 💬 4 | [mumble-voip/mumble](https://github.com/mumble-voip/mumble) | 8.3k | 🟡 help wanted | 2026-08-05 |  |
 | ["High Resolution" mode on macOS](https://github.com/TigerVNC/tigervnc/issues/878) 💬 23 | [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) | 7.5k | 🟡 help wanted | 2026-08-05 |  |
-| [Implement WebcamVideo backend using AVFoundation](https://github.com/panda3d/panda3d/issues/1532) 💬 3 | [panda3d/panda3d](https://github.com/panda3d/panda3d) | 5.2k | 🟢 beginner | 2026-08-04 |  |
-| [add support for signed data types for TTL](https://github.com/ydb-platform/ydb/issues/12751) | [ydb-platform/ydb](https://github.com/ydb-platform/ydb) | 4.8k | 🟢 beginner | 2026-08-03 |  |
-| [TMemoryLimitException should be inherited from std::exception](https://github.com/ydb-platform/ydb/issues/2887) | [ydb-platform/ydb](https://github.com/ydb-platform/ydb) | 4.8k | 🟢 beginner | 2026-08-02 |  |
-| [Any chance for Windows binaries (and default files) without .MSI ?](https://github.com/transmission/transmission/issues/1133) 💬 6 | [transmission/transmission](https://github.com/transmission/transmission) | 15.2k | 🟡 help wanted | 2026-08-01 |  |
-| [Decomp upstream list](https://github.com/TwilitRealm/dusklight/issues/51) 💬 4 | [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight) | 5.5k | 🟢 beginner | 2026-07-31 |  |
-| [[android] Add instructions on how to add a missing TTS language](https://github.com/organicmaps/organicmaps/issues/6210) 💬 4 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.5k | 🟢 beginner | 2026-07-30 | 🔏 DCO |
-| [Distance to stop in route](https://github.com/organicmaps/organicmaps/issues/10784) 💬 10 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.5k | 🟢 beginner | 2026-07-30 | 🔏 DCO |
-| [[BUG] --benchmark_perf_counters only counts user events](https://github.com/google/benchmark/issues/1601) 💬 1 | [google/benchmark](https://github.com/google/benchmark) | 10.4k | 🟡 help wanted | 2026-07-30 | 🤖 disclose AI use · ✍️ CLA |
-| [Host Function capability to call into Wasm Function](https://github.com/WasmEdge/WasmEdge/issues/1673) 💬 5 | [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) | 10.8k | 🟡 help wanted | 2026-07-29 | 🤖 disclose AI use · 🔏 DCO |
-| [Would automatic Dark Mode be available?](https://github.com/hluk/CopyQ/issues/1351) 💬 9 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.3k | 🟡 help wanted | 2026-07-27 |  |
-| [(Locale): Missing Spanish text for Mountaineer Stormpike.](https://github.com/azerothcore/azerothcore-wotlk/issues/16313) 💬 3 | [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) | 9k | 🟢 beginner | 2026-07-27 |  |
-| [Allow NPCs to milk cows](https://github.com/CleverRaven/Cataclysm-DDA/issues/86410) | [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) | 13.2k | 🟢 beginner | 2026-07-26 |  |
-| [[Enhancement Proposal] Fix badly rendered shadows on common objects.](https://github.com/diasurgical/DevilutionX/issues/2451) 💬 15 | [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) | 9.8k | 🟢 beginner | 2026-07-26 |  |
-| [[Feature Request]: Implement Power Saving for STM32 (STM32WLE5CC, etc.) based Microcontrollers](https://github.com/meshtastic/firmware/issues/8628) 💬 4 | [meshtastic/firmware](https://github.com/meshtastic/firmware) | 8.3k | 🟡 help wanted | 2026-07-25 | ✍️ CLA |
 
-Showing the 200 most recently updated. See all 351 on the website.
+Showing the 200 most recently updated. See all 364 on the website.

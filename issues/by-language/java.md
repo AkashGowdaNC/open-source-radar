@@ -1,8 +1,8 @@
 # Java issues
 
-**250** open issues (101 labeled for beginners) across **80** active Java projects.
+**246** open issues (100 labeled for beginners) across **79** active Java projects.
 
-> Updated automatically on **2026-09-26 20:55 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-27 11:34 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,7 +10,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Opt-in to Arm Memory Tagging Extensions (MTE)](https://github.com/TeamNewPipe/NewPipe/issues/12644) 💬 6 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 39.8k | 🟢 beginner | 2026-09-26 | 📄 AI policy |
+| [KsDataTable.test.ts: replace explicit 'any' with real types](https://github.com/kestra-io/kestra/issues/19279) 💬 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.4k | 🟢 beginner | 2026-09-27 |  |
 | [[Task] Remove the unused MemorySafeWindowTinyLFUMap implementation](https://github.com/apache/shenyu/issues/7309) 💬 1 | [apache/shenyu](https://github.com/apache/shenyu) | 8.8k | 🟢 beginner | 2026-09-26 |  |
 | [client-facade.ts: replace explicit 'any' with real types](https://github.com/kestra-io/kestra/issues/19274) 💬 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.4k | 🟢 beginner | 2026-09-25 |  |
 | [Device authorization user_code verification has no server-side rate limit](https://github.com/keycloak/keycloak/issues/51275) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37k | 🟡 help wanted | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
@@ -18,7 +18,6 @@
 | [Organization group roles are not automapped to realm/resource_access](https://github.com/keycloak/keycloak/issues/52764) 💬 9 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37k | 🟡 help wanted | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
 | [OIDC backchannel Logout : multiple sessions on same client, only one backchannel request](https://github.com/keycloak/keycloak/issues/27359) 💬 5 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37k | 🟡 help wanted | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
 | [Batch offline service based on IP address](https://github.com/alibaba/nacos/issues/2272) 💬 24 | [alibaba/nacos](https://github.com/alibaba/nacos) | 33.4k | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · ✍️ CLA |
-| [[JENKINS-31511] Recent (since 1.628) bug introduced into pluginManager filter UI](https://github.com/jenkinsci/jenkins/issues/21563) 💬 12 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 26.6k | 🟢 beginner | 2026-09-24 | ✍️ CLA |
 | [Support for Azure Cognitive Services Speech SDK](https://github.com/spring-projects/spring-ai/issues/1165) 💬 9 | [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) | 9.5k | 🟡 help wanted | 2026-09-24 | 🤖 disclose AI use · ✍️ CLA · 🔏 DCO |
 | [I am not able to export simulation as text file.](https://github.com/logisim-evolution/logisim-evolution/issues/1655) 💬 6 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.7k | 🟡 help wanted | 2026-09-24 |  |
 | [macOS app fails Gatekeeper; Homebrew cask deprecated and scheduled for disablement](https://github.com/logisim-evolution/logisim-evolution/issues/2699) 💬 1 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.7k | 🟡 help wanted | 2026-09-24 |  |
@@ -51,7 +50,6 @@
 | [[Feature][API] Associate worker group with tenant](https://github.com/apache/dolphinscheduler/issues/17167) 💬 3 | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14.5k | 🟡 help wanted | 2026-09-15 |  |
 | [AppManager initialisation](https://github.com/MuntashirAkon/AppManager/issues/1829) 💬 4 | [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) | 9.1k | 🟡 help wanted | 2026-09-15 | 🔏 DCO |
 | [Convert all phrases into sentence case](https://github.com/camunda/camunda/issues/32869) 💬 6 | [camunda/camunda](https://github.com/camunda/camunda) | 4.3k | 🟢 beginner | 2026-09-14 | ✍️ CLA |
-| [Deep recursion / stackoverflow with tiff image](https://github.com/drewnoakes/metadata-extractor/issues/559) 💬 6 | [drewnoakes/metadata-extractor](https://github.com/drewnoakes/metadata-extractor) | 2.8k | 🟡 help wanted | 2026-09-14 |  |
 | [[Improvement][Create Workflow] The Java node in the workflow supports JShell as a run type.](https://github.com/apache/dolphinscheduler/issues/18631) 💬 1 | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14.5k | 🟡 help wanted | 2026-09-12 |  |
 | [io.grpc.StatusRuntimeException: DEADLINE_EXCEEDED: deadline exceeded after 0.981473792s. [buffered_nanos=71961](https://github.com/apache/dubbo/issues/12414) 💬 11 | [apache/dubbo](https://github.com/apache/dubbo) | 41.6k | 🟢 beginner | 2026-09-11 | ✍️ CLA |
 | [Add bazel flag for max_cas_entry size.](https://github.com/bazelbuild/bazel/issues/18449) 💬 11 | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 25.9k | 🟡 help wanted | 2026-09-11 | ✍️ CLA |
@@ -68,7 +66,6 @@
 | [Support import of OpenVEX statements](https://github.com/DependencyTrack/dependency-track/issues/7094) 💬 8 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.2k | 🟢 beginner | 2026-09-07 | ⚠️ AI restricted · 🔏 DCO |
 | [[Umbrella][Performance] Track benchmark-driven optimizations and propose evidence guidelines](https://github.com/apache/seatunnel/issues/12086) 💬 2 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.7k | 🟡 help wanted | 2026-09-06 | ✍️ CLA |
 | [include git commit id in status information and artifact README](https://github.com/yacy/yacy_search_server/issues/466) 💬 1 | [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) | 4k | 🟢 beginner | 2026-09-06 |  |
-| [[Improve][Zeta] Investigate the SeaTunnelServer#reset() no-op and worker execution-state reconciliation after ](https://github.com/apache/seatunnel/issues/12125) | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.7k | 🟡 help wanted | 2026-09-05 | ✍️ CLA |
 | [Create Alerts for Distributed Commands Queue backlogs.](https://github.com/camunda/camunda/issues/49809) 💬 3 | [camunda/camunda](https://github.com/camunda/camunda) | 4.3k | 🟢 beginner | 2026-09-05 | ✍️ CLA |
 | [jetty-unixsocket: No ability to set permissions on unix domain socket - other services cannot connect](https://github.com/jetty/jetty.project/issues/10860) 💬 17 | [jetty/jetty.project](https://github.com/jetty/jetty.project) | 4.1k | 🟡 help wanted | 2026-09-04 |  |
 | [Support cancellation](https://github.com/modelcontextprotocol/java-sdk/issues/130) 💬 8 | [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3.7k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use |
@@ -210,5 +207,8 @@
 | [[Feature] MCP Tool notification support](https://github.com/agentscope-ai/agentscope-java/issues/115) 💬 3 | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5.8k | 🟡 help wanted | 2026-05-28 |  |
 | [[Proposal Wanted] Merge deployment support](https://github.com/agentscope-ai/agentscope-java/issues/116) | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5.8k | 🟡 help wanted | 2026-05-28 |  |
 | [[Docs]: Divide Docs into functional usage and principle sections](https://github.com/agentscope-ai/agentscope-java/issues/216) 💬 1 | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5.8k | 🟡 help wanted | 2026-05-28 |  |
+| [[Bug] Failed to initialize MCP client: business-knowledge-query](https://github.com/agentscope-ai/agentscope-java/issues/885) | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5.8k | 🟡 help wanted | 2026-05-28 |  |
+| [[Feature]: tunner需要增加skill和prompt的优化和迭代的工具](https://github.com/agentscope-ai/agentscope-java/issues/1263) | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5.8k | 🟡 help wanted | 2026-05-28 |  |
+| [(mediaCCC) audio language changes when switching to background player](https://github.com/TeamNewPipe/NewPipe/issues/10720) 💬 10 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 39.8k | 🟢 beginner | 2026-05-27 | 📄 AI policy |
 
-Showing the 200 most recently updated. See all 250 on the website.
+Showing the 200 most recently updated. See all 246 on the website.
