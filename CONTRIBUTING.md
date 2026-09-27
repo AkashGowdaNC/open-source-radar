@@ -4,6 +4,7 @@ Thanks for helping people find their first open source contribution. Every kind 
 
 ## Ways to help
 
+- **Star the repository.** If the radar helped you, a star is the quickest way to help other newcomers find it.
 - **Guide and quickstarts.** Fix mistakes, clarify steps, add missing tips, or add a quickstart for a language in [`languages/`](languages/README.md).
 - **Data quality.** Add label variants, languages or topic keywords in [`scripts/config.toml`](scripts/config.toml), or report a project whose AI policy, CLA or DCO requirement was detected incorrectly.
 - **Website.** Improve accessibility, performance or usability of [`site/`](site/).
