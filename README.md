@@ -123,6 +123,7 @@ Thank you to everyone who has made the radar better:
 - [@dharma0009](https://github.com/dharma0009): RSS feeds for every language ([#16](https://github.com/TanbirRamim/open-source-radar/pull/16))
 - [@PandaHUN777](https://github.com/PandaHUN777): Atom self links in the RSS feeds ([#30](https://github.com/TanbirRamim/open-source-radar/pull/30))
 - [@nightcityblade](https://github.com/nightcityblade): an end-to-end smoke test for the render pipeline ([#34](https://github.com/TanbirRamim/open-source-radar/pull/34))
+- [@Shivani2965](https://github.com/Shivani2965): a styled RSS feed index page ([#36](https://github.com/TanbirRamim/open-source-radar/pull/36))
 
 Your name goes here with your first merged pull request. And if the radar helped you, please give it a star: it's the simplest way to help other newcomers find it.
 
