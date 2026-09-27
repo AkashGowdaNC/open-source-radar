@@ -2,7 +2,9 @@
 
 **5** open issues (5 labeled for beginners) across **3** active Elixir projects.
 
-> Updated automatically on **2026-09-27 11:34 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+[RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/elixir.xml)
+
+> Updated automatically on **2026-09-27 21:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 

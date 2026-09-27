@@ -1,8 +1,10 @@
 # JavaScript issues
 
-**161** open issues (74 labeled for beginners) across **62** active JavaScript projects.
+**162** open issues (76 labeled for beginners) across **63** active JavaScript projects.
 
-> Updated automatically on **2026-09-27 11:34 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+[RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/javascript.xml)
+
+> Updated automatically on **2026-09-27 21:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,7 +12,10 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Add Reload File button, just call it Reload](https://github.com/Acode-Foundation/Acode/issues/2390) 💬 4 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) | 7.1k | 🟢 beginner | 2026-09-27 |  |
+| [[Bug] 动态签发的叶子证书 authorityKeyIdentifier 为空 SEQUENCE，导致 Python 3.13+ X509_STRICT 校验失败](https://github.com/docmirror/dev-sidecar/issues/712) | [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) | 24.2k | 🟢 beginner | 2026-09-27 |  |
+| [[p5.js 2.0+ Bug Report]: Floats in strands shaders are always rounded to 4 decimals](https://github.com/processing/p5.js/issues/8884) 💬 16 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-27 | ⚠️ AI restricted |
+| [Remove Safari 9 WebGL constants workaround](https://github.com/CesiumGS/cesium/issues/5315) 💬 1 | [CesiumGS/cesium](https://github.com/CesiumGS/cesium) | 15.8k | 🟢 beginner | 2026-09-27 | ✍️ CLA |
+| [Add Reload File button, just call it Reload](https://github.com/Acode-Foundation/Acode/issues/2390) 💬 4 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) | 7.2k | 🟢 beginner | 2026-09-27 |  |
 | [error handler of same domain can be called several times when it throws](https://github.com/nodejs/node/issues/25505) 💬 4 | [nodejs/node](https://github.com/nodejs/node) | 122.1k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use · 🔏 DCO |
 | [UI Lag when using 1Password env file](https://github.com/usebruno/bruno/issues/6057) 💬 13 | [usebruno/bruno](https://github.com/usebruno/bruno) | 47.2k | 🟢 beginner | 2026-09-25 |  |
 | [[p5.js 2.0+ Bug Report]: computeNormals(SMOOTH) destroys uv attribute](https://github.com/processing/p5.js/issues/9205) 💬 2 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-25 | ⚠️ AI restricted |
@@ -55,7 +60,6 @@
 | [Catch and handle ChunkLoadError](https://github.com/gatsbyjs/gatsby/issues/33844) 💬 11 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) | 55.9k | 🟡 help wanted | 2026-09-01 |  |
 | [SSR: Restricting Access to Specific Pages Based on Authenticated User](https://github.com/gatsbyjs/gatsby/issues/36427) 💬 9 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) | 55.9k | 🟡 help wanted | 2026-09-01 |  |
 | [Add 'defaultOptions' method to main beautifier](https://github.com/beautifier/js-beautify/issues/1584) 💬 4 | [beautifier/js-beautify](https://github.com/beautifier/js-beautify) | 9k | 🟢 beginner | 2026-09-01 |  |
-| [[p5.js 2.0+ Bug Report]: Floats in strands shaders are always rounded to 4 decimals](https://github.com/processing/p5.js/issues/8884) 💬 15 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-08-31 | ⚠️ AI restricted |
 | [[Help] 值是正确的但是一直显示❌ JWT secret mismatch](https://github.com/maillab/cloud-mail/issues/545) 💬 3 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.4k | 🟡 help wanted | 2026-08-30 |  |
 | [[Help] cf部署完毕，邮箱后台怎么进入](https://github.com/maillab/cloud-mail/issues/553) | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.4k | 🟡 help wanted | 2026-08-30 |  |
 | [[Feature Request] Support line styles in Scattermapbox](https://github.com/plotly/plotly.js/issues/6791) 💬 12 | [plotly/plotly.js](https://github.com/plotly/plotly.js) | 18.3k | 🟢 beginner | 2026-08-28 | ⚠️ AI restricted |
@@ -110,7 +114,7 @@
 | [[ACTION] Simplify Notion upload image affordance](https://github.com/PipedreamHQ/pipedream/issues/20537) 💬 2 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-08-03 |  |
 | [[ACTION] DPD Shipping - Get Tracking Data with Weight (detail=3)](https://github.com/PipedreamHQ/pipedream/issues/21321) 💬 5 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-08-03 |  |
 | [Sms8 - SMS GATEWAY: OTP & webhook](https://github.com/PipedreamHQ/pipedream/issues/20977) 💬 9 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-08-03 |  |
-| [Show errors in user friendly way](https://github.com/Acode-Foundation/Acode/issues/1800) 💬 2 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) | 7.1k | 🟢 beginner | 2026-07-31 |  |
+| [Show errors in user friendly way](https://github.com/Acode-Foundation/Acode/issues/1800) 💬 2 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) | 7.2k | 🟢 beginner | 2026-07-31 |  |
 | [Open npmjs.com instead of asking for OTP](https://github.com/sindresorhus/np/issues/726) 💬 11 | [sindresorhus/np](https://github.com/sindresorhus/np) | 7.7k | 🟡 help wanted | 2026-07-28 |  |
 | [Request: a getSession method?](https://github.com/expressjs/session/issues/322) 💬 8 | [expressjs/session](https://github.com/expressjs/session) | 6.4k | 🟡 help wanted | 2026-07-25 |  |
 | [HDR support](https://github.com/xanderfrangos/twinkle-tray/issues/97) 💬 90 | [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) | 9.1k | 🟡 help wanted | 2026-07-23 |  |
@@ -136,7 +140,6 @@
 | [Large graph layout performance](https://github.com/lutzroeder/netron/issues/1369) | [lutzroeder/netron](https://github.com/lutzroeder/netron) | 33.5k | 🟡 help wanted | 2026-06-29 |  |
 | [GitHub 提问 (Issue) 高质量操作指南](https://github.com/justlovemaki/AIClient2API/issues/128) 💬 2 | [justlovemaki/AIClient2API](https://github.com/justlovemaki/AIClient2API) | 8.8k | 🟢 beginner | 2026-06-29 |  |
 | [manage: Promise was rejected because the browsing context is going away](https://github.com/openstyles/stylus/issues/2152) 💬 1 | [openstyles/stylus](https://github.com/openstyles/stylus) | 6.9k | 🟡 help wanted | 2026-06-29 |  |
-| [Beautifier spoils pseudo-classes and pseudo-elements inside nested CSS, .userCSS, '@supports' or '@media'](https://github.com/openstyles/stylus/issues/1960) 💬 2 | [openstyles/stylus](https://github.com/openstyles/stylus) | 6.9k | 🟡 help wanted | 2026-06-25 |  |
 | [[TRIGGER] Facebook Pages webhooks](https://github.com/PipedreamHQ/pipedream/issues/21070) 💬 1 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-06-24 |  |
 | [Option to not put a space before /&gt; in self-closing tags](https://github.com/beautifier/js-beautify/issues/654) 💬 13 | [beautifier/js-beautify](https://github.com/beautifier/js-beautify) | 9k | 🟢 beginner | 2026-06-23 |  |
 | [Yotpo Loyalty & Referrals — New Actions: Adjust Points, Record Action, Set Birthday, Get/Add Customer Tags, Cr](https://github.com/PipedreamHQ/pipedream/issues/21210) 💬 2 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-06-22 |  |

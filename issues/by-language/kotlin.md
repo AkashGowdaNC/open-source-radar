@@ -1,8 +1,10 @@
 # Kotlin issues
 
-**165** open issues (59 labeled for beginners) across **74** active Kotlin projects.
+**163** open issues (58 labeled for beginners) across **74** active Kotlin projects.
 
-> Updated automatically on **2026-09-27 11:34 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+[RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/kotlin.xml)
+
+> Updated automatically on **2026-09-27 21:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,6 +12,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [CI: Skip test sources for 'DirectSnackbarMakeUsage' and similar lint rules](https://github.com/ankidroid/Anki-Android/issues/22127) | [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) | 11.9k | 🟢 beginner | 2026-09-27 | 🤖 disclose AI use |
+| [Thread-safe date formatting and scope ownership for 2 launches left from #5070](https://github.com/kiwix/kiwix-android/issues/5078) | [kiwix/kiwix-android](https://github.com/kiwix/kiwix-android) | 1.5k | 🟢 beginner | 2026-09-27 |  |
 | [Testers wanted for "Google Closed Testing"](https://github.com/aj3423/SpamBlocker/issues/664) 💬 32 | [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) | 1.9k | 🟡 help wanted | 2026-09-26 |  |
 | [Add rule 'ReplaceTryFinallyWithUse'](https://github.com/detekt/detekt/issues/8900) 💬 7 | [detekt/detekt](https://github.com/detekt/detekt) | 7.1k | 🟡 help wanted | 2026-09-25 | 📄 AI policy |
 | [[Feature]: Add LADB / Direct Wireless Debugging backend option](https://github.com/kitsumed/ShizuCallRecorder/issues/97) 💬 2 | [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) | 1.6k | 🟡 help wanted | 2026-09-25 | 🤖 disclose AI use |
@@ -22,22 +26,19 @@
 | [Document what 'Accept-Encoding:'/'Content-Encoding:' is supported](https://github.com/openhab/openhab-android/issues/3059) 💬 5 | [openhab/openhab-android](https://github.com/openhab/openhab-android) | 651 | 🟡 help wanted | 2026-09-24 | 🔏 DCO |
 | [DPAD control scheme on Android TV is not intuitive](https://github.com/mpv-android/mpv-android/issues/1100) 💬 11 | [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) | 3.6k | 🟡 help wanted | 2026-09-23 |  |
 | [Self mode timeout](https://github.com/andreknieriem/open-headunit/issues/897) 💬 10 | [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit) | 2.5k | 🟡 help wanted | 2026-09-23 |  |
-| [please support Chinese](https://github.com/LeanBitLab/LeanType/issues/235) 💬 6 | [LeanBitLab/LeanType](https://github.com/LeanBitLab/LeanType) | 997 | 🟡 help wanted | 2026-09-23 |  |
+| [please support Chinese](https://github.com/LeanBitLab/LeanType/issues/235) 💬 6 | [LeanBitLab/LeanType](https://github.com/LeanBitLab/LeanType) | 999 | 🟡 help wanted | 2026-09-23 |  |
 | [SmtpClientAuthentication is disabled for the Mailbox](https://github.com/thunderbird/thunderbird-android/issues/10787) 💬 22 | [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) | 14k | 🟡 help wanted | 2026-09-21 | 🤖 disclose AI use |
 | [Add a java annotation use checker](https://github.com/ZacSweers/metro/issues/850) 💬 5 | [ZacSweers/metro](https://github.com/ZacSweers/metro) | 1.4k | 🟢 beginner | 2026-09-21 |  |
 | [osmdroid is now archived and will no longer receive updates or new releases](https://github.com/commons-app/apps-android-commons/issues/6380) 💬 3 | [commons-app/apps-android-commons](https://github.com/commons-app/apps-android-commons) | 1.2k | 🟢 beginner | 2026-09-21 |  |
 | [Corrupt-delete file](https://github.com/TeamAmaze/AmazeFileManager/issues/4721) 💬 8 | [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) | 6.4k | 🟡 help wanted | 2026-09-20 |  |
-| [The last file of the folder gets hidden behind the now playing bottom widget](https://github.com/RetroMusicPlayer/RetroMusicPlayer/issues/1478) 💬 5 | [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) | 5.3k | 🟢 beginner | 2026-09-20 |  |
 | [no such table workspec](https://github.com/commons-app/apps-android-commons/issues/6434) 💬 2 | [commons-app/apps-android-commons](https://github.com/commons-app/apps-android-commons) | 1.2k | 🟢 beginner | 2026-09-19 |  |
 | [Category suggestions sometimes not found](https://github.com/commons-app/apps-android-commons/issues/6438) 💬 12 | [commons-app/apps-android-commons](https://github.com/commons-app/apps-android-commons) | 1.2k | 🟢 beginner | 2026-09-19 |  |
 | [Using the headunit server mode wireless connection is very laggy and may even be disconnected.](https://github.com/andreknieriem/open-headunit/issues/979) 💬 1 | [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit) | 2.5k | 🟡 help wanted | 2026-09-18 |  |
 | [Feature Request: Option For App-Dependent Background Colors](https://github.com/LawnchairLauncher/lawnicons/issues/1813) 💬 2 | [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) | 2.1k | 🟡 help wanted | 2026-09-18 |  |
 | [[DISCUSSION] Inclusion in default F-Droid repo](https://github.com/LawnchairLauncher/lawnicons/issues/897) 💬 8 | [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) | 2.1k | 🟡 help wanted | 2026-09-18 |  |
 | [Repeat entry of phone pin to reveal imap/smtp password on Android 16 but not 10](https://github.com/thunderbird/thunderbird-android/issues/11565) 💬 2 | [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) | 14k | 🟡 help wanted | 2026-09-17 | 🤖 disclose AI use |
-| [Flaky emulator test: Error on ZipFile unknown archive](https://github.com/ankidroid/Anki-Android/issues/21885) 💬 1 | [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) | 11.9k | 🟡 help wanted | 2026-09-17 | 🤖 disclose AI use |
 | [Select current server URL when Server URL configuration dialog is launched](https://github.com/getodk/collect/issues/4574) 💬 12 | [getodk/collect](https://github.com/getodk/collect) | 791 | 🟢 beginner | 2026-09-17 | 🤖 disclose AI use |
 | [Map maintenance with overlays](https://github.com/streetcomplete/StreetComplete/issues/4735) 💬 14 | [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) | 4.8k | 🟡 help wanted | 2026-09-14 |  |
-| [Thread-safe date formatting and scope ownership for 2 launches left from #5070](https://github.com/kiwix/kiwix-android/issues/5078) | [kiwix/kiwix-android](https://github.com/kiwix/kiwix-android) | 1.5k | 🟢 beginner | 2026-09-14 |  |
 | [[Account setup] Display "warning" message when using POP3](https://github.com/thunderbird/thunderbird-android/issues/7551) 💬 5 | [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) | 14k | 🟢 beginner | 2026-09-11 | 🤖 disclose AI use |
 | [Investigate in which case 'originalMessage.from' can be either null or empty on 'TextQuoteCreator.prefixQuoteT](https://github.com/thunderbird/thunderbird-android/issues/10610) 💬 1 | [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) | 14k | 🟡 help wanted | 2026-09-11 | 🤖 disclose AI use |
 | [When moving mail a second time, the folder list scroll position is off by 1](https://github.com/thunderbird/thunderbird-android/issues/1493) 💬 3 | [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) | 14k | 🟡 help wanted | 2026-09-11 | 🤖 disclose AI use |
@@ -142,7 +143,7 @@
 | [Rework UI of configure widget screens](https://github.com/home-assistant/android/issues/6289) 💬 1 | [home-assistant/android](https://github.com/home-assistant/android) | 3.9k | 🟢 beginner | 2026-06-17 | ⚠️ AI restricted |
 | [Add support for Add to tile](https://github.com/home-assistant/android/issues/5623) 💬 2 | [home-assistant/android](https://github.com/home-assistant/android) | 3.9k | 🟢 beginner | 2026-06-17 | ⚠️ AI restricted |
 | [[Feature Request] Add more LLM providers](https://github.com/PixelPlayerHQ/PixelPlayer/issues/760) 💬 4 | [PixelPlayerHQ/PixelPlayer](https://github.com/PixelPlayerHQ/PixelPlayer) | 6.5k | 🟢 beginner | 2026-06-14 |  |
-| [Install apps not progressing when screen goes off in restore phase of lineageos 22 first boot](https://github.com/seedvault-app/seedvault/issues/1022) 💬 1 | [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) | 1.8k | 🟢 beginner | 2026-06-14 |  |
+| [Install apps not progressing when screen goes off in restore phase of lineageos 22 first boot](https://github.com/seedvault-app/seedvault/issues/1022) 💬 1 | [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) | 1.9k | 🟢 beginner | 2026-06-14 |  |
 | [Android TV Support](https://github.com/HeliBorg/HeliBoard/issues/416) 💬 6 | [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) | 6.2k | 🟡 help wanted | 2026-06-11 |  |
 | [Figure out why interrupt bug wasn't caught by tests](https://github.com/JakeWharton/mosaic/issues/1019) 💬 1 | [JakeWharton/mosaic](https://github.com/JakeWharton/mosaic) | 2.8k | 🟡 help wanted | 2026-06-06 |  |
 | [Encryption passphrase regenerates when you switch apps](https://github.com/nextcloud/android/issues/11571) 💬 3 | [nextcloud/android](https://github.com/nextcloud/android) | 5.6k | 🟢 beginner | 2026-06-03 | 🤖 disclose AI use · 🔏 DCO |
@@ -151,7 +152,7 @@
 | [Create an option to automatically export settings, when they change, to the last selected note for that purpos](https://github.com/orgzly-revived/orgzly-android-revived/issues/945) 💬 1 | [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) | 1.1k | 🟢 beginner | 2026-05-23 |  |
 | [[Bug] No longer see files/folders within secure folder](https://github.com/leonlatsch/Photok/issues/678) 💬 5 | [leonlatsch/Photok](https://github.com/leonlatsch/Photok) | 972 | 🟢 beginner | 2026-05-21 |  |
 | [Queue UI requests from page fragments while app in background](https://github.com/ankidroid/Anki-Android/issues/15706) 💬 3 | [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) | 11.9k | 🟡 help wanted | 2026-05-20 | 🤖 disclose AI use |
-| [Configurable number of snapshots to keep](https://github.com/seedvault-app/seedvault/issues/977) 💬 2 | [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) | 1.8k | 🟡 help wanted | 2026-05-18 |  |
+| [Configurable number of snapshots to keep](https://github.com/seedvault-app/seedvault/issues/977) 💬 2 | [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) | 1.9k | 🟡 help wanted | 2026-05-18 |  |
 | [NAT66 eBPF mode](https://github.com/Mygod/VPNHotspot/issues/728) | [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) | 6.5k | 🟡 help wanted | 2026-05-15 |  |
 | [[Feature]: Support Dual Call Scenario](https://github.com/kitsumed/ShizuCallRecorder/issues/2) | [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) | 1.6k | 🟡 help wanted | 2026-05-15 | 🤖 disclose AI use |
 | [App being hardly usable in Android Desktop Mode in maximized state](https://github.com/libre-tube/LibreTube/issues/8249) 💬 6 | [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) | 12.7k | 🟡 help wanted | 2026-05-14 |  |
@@ -174,4 +175,3 @@
 | [Support for mathematical formula](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/240) 💬 4 | [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer) | 1.1k | 🟡 help wanted | 2026-04-07 |  |
 | [Support webp images](https://github.com/cashapp/paparazzi/issues/258) 💬 2 | [cashapp/paparazzi](https://github.com/cashapp/paparazzi) | 2.6k | 🟡 help wanted | 2026-04-06 |  |
 | [Add FAQ/Wiki/Recipes](https://github.com/cashapp/paparazzi/issues/583) 💬 3 | [cashapp/paparazzi](https://github.com/cashapp/paparazzi) | 2.6k | 🟡 help wanted | 2026-04-06 |  |
-| [Remove the swipe gesture from the bottom once the user is familiar with the app](https://github.com/kiwix/kiwix-android/issues/4621) 💬 5 | [kiwix/kiwix-android](https://github.com/kiwix/kiwix-android) | 1.5k | 🟢 beginner | 2026-03-31 |  |
