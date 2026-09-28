@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/haskell.xml)
 
-> Updated automatically on **2026-09-27 21:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-28 12:35 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Trusted registries don't work correctly for multi-part repo names](https://github.com/hadolint/hadolint/issues/401) 💬 8 | [hadolint/hadolint](https://github.com/hadolint/hadolint) | 12.4k | 🟡 help wanted | 2026-09-28 |  |
 | [Output to STDOUT blocks reporting to STDERR](https://github.com/gren-lang/compiler/issues/388) 💬 1 | [gren-lang/compiler](https://github.com/gren-lang/compiler) | 504 | 🟢 beginner | 2026-09-16 |  |
 | [Bugs/Issue8182 golden requires -fdebug, but the Bugs suite is not covered by fdebugTestFilter](https://github.com/agda/agda/issues/8748) 💬 1 | [agda/agda](https://github.com/agda/agda) | 2.9k | 🟡 help wanted | 2026-09-11 |  |
 | [Use github actions' cron to build additional libraries?](https://github.com/agda/agda/issues/4328) 💬 5 | [agda/agda](https://github.com/agda/agda) | 2.9k | 🟡 help wanted | 2026-09-02 |  |
@@ -20,7 +21,6 @@
 | ['withReduceDefs' does not block reduction of record projections](https://github.com/agda/agda/issues/8566) 💬 1 | [agda/agda](https://github.com/agda/agda) | 2.9k | 🟡 help wanted | 2026-08-19 |  |
 | [Install on Windows via Winget support](https://github.com/hadolint/hadolint/issues/1217) 💬 1 | [hadolint/hadolint](https://github.com/hadolint/hadolint) | 12.4k | 🟡 help wanted | 2026-07-22 |  |
 | [Haskell-based compiler 0.6.5 crashes when compiling a package that has a summary field &gt;= 80 chars](https://github.com/gren-lang/compiler/issues/380) | [gren-lang/compiler](https://github.com/gren-lang/compiler) | 504 | 🟢 beginner | 2026-07-02 |  |
-| [Trusted registries don't work correctly for multi-part repo names](https://github.com/hadolint/hadolint/issues/401) 💬 7 | [hadolint/hadolint](https://github.com/hadolint/hadolint) | 12.4k | 🟡 help wanted | 2026-06-22 |  |
 | [Environment variables values are ignored when executing rules](https://github.com/hadolint/hadolint/issues/341) 💬 4 | [hadolint/hadolint](https://github.com/hadolint/hadolint) | 12.4k | 🟡 help wanted | 2026-06-22 |  |
 | [add nom run](https://github.com/maralorn/nix-output-monitor/issues/110) 💬 5 | [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) | 1.7k | 🟡 help wanted | 2026-05-29 |  |
 | [Add benchmarks for compilation](https://github.com/IntersectMBO/plutus/issues/6113) 💬 1 | [IntersectMBO/plutus](https://github.com/IntersectMBO/plutus) | 1.6k | 🟢 beginner | 2026-05-01 |  |

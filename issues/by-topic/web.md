@@ -1,8 +1,8 @@
 # Web development issues
 
-**265** open issues (120 labeled for beginners) across **108** projects tagged with topics like `web`, `frontend`, `react`, `vue`, `svelte`, `angular`.
+**268** open issues (121 labeled for beginners) across **108** projects tagged with topics like `web`, `frontend`, `react`, `vue`, `svelte`, `angular`.
 
-> Updated automatically on **2026-09-27 21:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-28 12:35 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,12 +10,12 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Allow content inside MudDivider](https://github.com/MudBlazor/MudBlazor/issues/7212) 💬 3 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-09-28 |  |
 | [reinforce(gspo) training didn't yield any improments](https://github.com/unslothai/unsloth/issues/3485) 💬 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 76.9k | 🟡 help wanted | 2026-09-27 |  |
 | [[p5.js 2.0+ Bug Report]: Floats in strands shaders are always rounded to 4 decimals](https://github.com/processing/p5.js/issues/8884) 💬 16 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-27 | ⚠️ AI restricted |
 | [Multi-Key Deadlocks & Silent Key Leakage on Acquisition Timeout in 'RedisLockingProvider'](https://github.com/medusajs/medusa/issues/16995) 💬 1 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.5k | 🟡 help wanted | 2026-09-25 |  |
 | [[Bug]: '@medusajs/test-utils': database credentials are captured at module load, ignoring runner 'env'](https://github.com/medusajs/medusa/issues/16272) 💬 4 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.5k | 🟡 help wanted | 2026-09-25 |  |
 | [[p5.js 2.0+ Bug Report]: computeNormals(SMOOTH) destroys uv attribute](https://github.com/processing/p5.js/issues/9205) 💬 2 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-25 | ⚠️ AI restricted |
-| [Allow content inside MudDivider](https://github.com/MudBlazor/MudBlazor/issues/7212) 💬 2 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-09-25 |  |
 | [Improve admin UI for certificate validity and signing request expiration](https://github.com/LibreSign/libresign/issues/8712) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 825 | 🟢 beginner | 2026-09-25 | 🤖 disclose AI use · 🔏 DCO |
 | [Register Signature Rejection in Policy Workbench and add flow tests](https://github.com/LibreSign/libresign/issues/8689) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 825 | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
 | [Add the Signature Rejection Policy Workbench module](https://github.com/LibreSign/libresign/issues/8688) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 825 | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
@@ -52,7 +52,7 @@
 | [Execution time limit annotations](https://github.com/nasa/fprime/issues/3688) 💬 3 | [nasa/fprime](https://github.com/nasa/fprime) | 11.8k | 🟡 help wanted | 2026-09-11 | 🤖 disclose AI use |
 | [Handle MainActivity destruction on Android (like retrieveLostData of ImagePicker)](https://github.com/vicajilau/flutter_file_picker/issues/1258) 💬 12 | [vicajilau/flutter_file_picker](https://github.com/vicajilau/flutter_file_picker) | 1.6k | 🟡 help wanted | 2026-09-10 |  |
 | [HTTP4K Connect - Amazon IRSA Support](https://github.com/http4k/http4k/issues/1388) 💬 2 | [http4k/http4k](https://github.com/http4k/http4k) | 2.8k | 🟢 beginner | 2026-09-09 | ✍️ CLA · 🔏 DCO |
-| [Zombie chrome-headless processes created on element export](https://github.com/penpot/penpot/issues/10339) 💬 1 | [penpot/penpot](https://github.com/penpot/penpot) | 60.4k | 🟢 beginner | 2026-09-08 | 🤖 disclose AI use · 🔏 DCO |
+| [Zombie chrome-headless processes created on element export](https://github.com/penpot/penpot/issues/10339) 💬 1 | [penpot/penpot](https://github.com/penpot/penpot) | 60.5k | 🟢 beginner | 2026-09-08 | 🤖 disclose AI use · 🔏 DCO |
 | [It would be handy for devs to have a 'harper-cli linter-tree' command](https://github.com/Automattic/harper/issues/2323) 💬 3 | [Automattic/harper](https://github.com/Automattic/harper) | 16k | 🟢 beginner | 2026-09-08 | 🤖 disclose AI use |
 | [Add Hurl to Offical Redhat/Centos/Fedora repository](https://github.com/Orange-OpenSource/hurl/issues/367) 💬 1 | [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) | 19.2k | 🟡 help wanted | 2026-09-07 | 📄 AI policy |
 | [Support import of OpenVEX statements](https://github.com/DependencyTrack/dependency-track/issues/7094) 💬 8 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.2k | 🟢 beginner | 2026-09-07 | ⚠️ AI restricted · 🔏 DCO |
@@ -118,22 +118,23 @@
 | [Add a check to test if :hover styles require doubletapping links](https://github.com/GoogleChrome/lighthouse/issues/9474) 💬 9 | [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) | 30.8k | 🟢 beginner | 2026-08-26 | ✍️ CLA |
 | [Spanish translations](https://github.com/Smaug6739/Alexandrie/issues/651) | [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) | 2.8k | 🟢 beginner | 2026-08-26 |  |
 | [Show only insights not included in any dashboard](https://github.com/PostHog/posthog/issues/26621) 💬 10 | [PostHog/posthog](https://github.com/PostHog/posthog) | 40k | 🟢 beginner | 2026-08-25 | ⚠️ AI restricted |
-| ["Editor" is imported from external module "@tiptap/core" but never used warning](https://github.com/ueberdosis/tiptap/issues/6621) 💬 1 | [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) | 38.5k | 🟢 beginner | 2026-08-25 | 🤖 disclose AI use |
+| ["Editor" is imported from external module "@tiptap/core" but never used warning](https://github.com/ueberdosis/tiptap/issues/6621) 💬 1 | [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) | 38.6k | 🟢 beginner | 2026-08-25 | 🤖 disclose AI use |
 | [Storybook: Setup internationalisation](https://github.com/recharts/recharts/issues/3419) 💬 3 | [recharts/recharts](https://github.com/recharts/recharts) | 27.6k | 🟢 beginner | 2026-08-25 |  |
-| [Reduce redundancy in generated OpenAPI definition names](https://github.com/FeatherCMS/feather/issues/125) | [FeatherCMS/feather](https://github.com/FeatherCMS/feather) | 608 | 🟢 beginner | 2026-08-25 |  |
+| [useInfiniteScroll 在第一次请求还未返回时，快速切换到其他组件，会造成无限循环的请求](https://github.com/alibaba/hooks/issues/2579) 💬 6 | [alibaba/hooks](https://github.com/alibaba/hooks) | 15k | 🟡 help wanted | 2026-08-25 |  |
+| [Reduce redundancy in generated OpenAPI definition names](https://github.com/FeatherCMS/feather/issues/125) | [FeatherCMS/feather](https://github.com/FeatherCMS/feather) | 607 | 🟢 beginner | 2026-08-25 |  |
 | [window bun process.env.HOME is undefined](https://github.com/oven-sh/bun/issues/10502) 💬 5 | [oven-sh/bun](https://github.com/oven-sh/bun) | 96.1k | 🟢 beginner | 2026-08-24 |  |
 | [Api to reset the state of a specific scenario in Wiremock?](https://github.com/wiremock/wiremock/issues/847) 💬 8 | [wiremock/wiremock](https://github.com/wiremock/wiremock) | 7.4k | 🟢 beginner | 2026-08-24 |  |
 | [Offer a mechanism to bootstrap / provision a new Dependency-Track instance](https://github.com/DependencyTrack/dependency-track/issues/6193) 💬 2 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.2k | 🟡 help wanted | 2026-08-24 | ⚠️ AI restricted · 🔏 DCO |
 | [Improve public documents sharing](https://github.com/Smaug6739/Alexandrie/issues/608) | [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) | 2.8k | 🟢 beginner | 2026-08-24 |  |
 | [MudSelect should support nullable enums and show placeholder when value is null](https://github.com/MudBlazor/MudBlazor/issues/5647) 💬 2 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-08-23 |  |
 | [Joplin integration](https://github.com/LinwoodDev/Butterfly/issues/253) 💬 3 | [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) | 2k | 🟢 beginner | 2026-08-23 |  |
-| [Thai translation](https://github.com/donnemartin/system-design-primer/issues/187) 💬 6 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 372.2k | 🟡 help wanted | 2026-08-21 |  |
+| [Thai translation](https://github.com/donnemartin/system-design-primer/issues/187) 💬 6 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 372.3k | 🟡 help wanted | 2026-08-21 |  |
 | [Bug: In Cohorts, the 'set' operator filters in null values for person properties](https://github.com/PostHog/posthog/issues/29916) 💬 4 | [PostHog/posthog](https://github.com/PostHog/posthog) | 40k | 🟢 beginner | 2026-08-21 | ⚠️ AI restricted |
 | [Impossible to add word-wrap to menu title; 'white-space: normal' has no effect](https://github.com/ant-design/ant-design/issues/38918) 💬 6 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 99.6k | 🟡 help wanted | 2026-08-20 |  |
 | [Mask Slow Performance and Inaccurate Input on Blazor Server](https://github.com/MudBlazor/MudBlazor/issues/6280) 💬 8 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟡 help wanted | 2026-08-20 |  |
 | [Aliases do not appear to be reported in notifications](https://github.com/DependencyTrack/dependency-track/issues/3723) 💬 1 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.2k | 🟢 beginner | 2026-08-20 | ⚠️ AI restricted · 🔏 DCO |
 | [Web Accessibility Issue in tabs and cards](https://github.com/ant-design/ant-design/issues/53584) 💬 6 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 99.6k | 🟡 help wanted | 2026-08-19 |  |
-| [Greek Translation](https://github.com/donnemartin/system-design-primer/issues/130) 💬 5 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 372.2k | 🟡 help wanted | 2026-08-18 |  |
+| [Greek Translation](https://github.com/donnemartin/system-design-primer/issues/130) 💬 5 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 372.3k | 🟡 help wanted | 2026-08-18 |  |
 | [Adding a viewport "simulated real mode" with mockup](https://github.com/responsively-org/responsively-app/issues/363) 💬 2 | [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) | 25.2k | 🟡 help wanted | 2026-08-18 |  |
 | [MudDateRangePicker ResetAsync() does not affect the DateRange or the current focused period](https://github.com/MudBlazor/MudBlazor/issues/9692) 💬 3 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-08-18 |  |
 | [addTagOnEnter setting](https://github.com/yairEO/tagify/issues/1500) 💬 5 | [yairEO/tagify](https://github.com/yairEO/tagify) | 3.9k | 🟡 help wanted | 2026-08-17 |  |
@@ -157,8 +158,8 @@
 | [Implement case-changing utility methods](https://github.com/oven-sh/bun/issues/15087) 💬 17 | [oven-sh/bun](https://github.com/oven-sh/bun) | 96.1k | 🟢 beginner | 2026-08-04 |  |
 | [Feature Request: 3D Pipeline/Water Pipe Drawing Tool](https://github.com/pascalorg/editor/issues/227) 💬 4 | [pascalorg/editor](https://github.com/pascalorg/editor) | 24.3k | 🟡 help wanted | 2026-08-04 |  |
 | [Add drag and drop functionality to TreeView](https://github.com/MudBlazor/MudBlazor/issues/5987) 💬 16 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟡 help wanted | 2026-08-03 |  |
-| [[Bug]: Microsoft Pinyin Input Method Fails to Complete Input After Enabling the CharacterCount Plugin](https://github.com/ueberdosis/tiptap/issues/5878) 💬 2 | [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) | 38.5k | 🟢 beginner | 2026-08-02 | 🤖 disclose AI use |
-| [User-agent parser / accessor on Request](https://github.com/sanic-org/sanic/issues/2744) 💬 3 | [sanic-org/sanic](https://github.com/sanic-org/sanic) | 18.6k | 🟡 help wanted | 2026-08-02 |  |
+| [Group MCP tools by read and write/ delete](https://github.com/PostHog/posthog/issues/76236) 💬 2 | [PostHog/posthog](https://github.com/PostHog/posthog) | 40k | 🟢 beginner | 2026-08-02 | ⚠️ AI restricted |
+| [[Bug]: Microsoft Pinyin Input Method Fails to Complete Input After Enabling the CharacterCount Plugin](https://github.com/ueberdosis/tiptap/issues/5878) 💬 2 | [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) | 38.6k | 🟢 beginner | 2026-08-02 | 🤖 disclose AI use |
 | [[Feature Request]: Support the new error state API](https://github.com/VueTorrent/VueTorrent/issues/2319) 💬 3 | [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) | 7k | 🟢 beginner | 2026-08-02 |  |
 | [Feature: negate condition in verify()](https://github.com/wiremock/wiremock/issues/1892) 💬 2 | [wiremock/wiremock](https://github.com/wiremock/wiremock) | 7.4k | 🟡 help wanted | 2026-08-01 |  |
 | [Support returning HTTP 404 when mapping files aren't found.](https://github.com/wiremock/wiremock/issues/2470) 💬 1 | [wiremock/wiremock](https://github.com/wiremock/wiremock) | 7.4k | 🟡 help wanted | 2026-08-01 |  |
@@ -178,10 +179,10 @@
 | [textAscent() and textDescent() broken if textSize &gt; 200](https://github.com/processing/p5.js/issues/8771) 💬 15 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-07-18 | ⚠️ AI restricted |
 | [Test input.type change from text to file to text](https://github.com/web-platform-tests/wpt/issues/2611) 💬 8 | [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) | 6.2k | 🟢 beginner | 2026-07-18 |  |
 | [It would be a great help to have a Harper corpus tool for Harper devs to help research new linting rules](https://github.com/Automattic/harper/issues/3841) | [Automattic/harper](https://github.com/Automattic/harper) | 16k | 🟢 beginner | 2026-07-17 | 🤖 disclose AI use |
-| [[Documentation]: How do you get the content from the Editor?](https://github.com/ueberdosis/tiptap/issues/6689) 💬 1 | [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) | 38.5k | 🟢 beginner | 2026-07-16 | 🤖 disclose AI use |
-| [[Documentation]: NodePos method name setAttribute is misspelled as setAttributes](https://github.com/ueberdosis/tiptap/issues/4956) | [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) | 38.5k | 🟢 beginner | 2026-07-16 | 🤖 disclose AI use |
-| [[Documentation]: Update Nuxt example for 3 version](https://github.com/ueberdosis/tiptap/issues/4965) | [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) | 38.5k | 🟢 beginner | 2026-07-16 | 🤖 disclose AI use |
-| [[Documentation]: example for extending existing mark](https://github.com/ueberdosis/tiptap/issues/4674) | [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) | 38.5k | 🟢 beginner | 2026-07-16 | 🤖 disclose AI use |
+| [[Documentation]: How do you get the content from the Editor?](https://github.com/ueberdosis/tiptap/issues/6689) 💬 1 | [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) | 38.6k | 🟢 beginner | 2026-07-16 | 🤖 disclose AI use |
+| [[Documentation]: NodePos method name setAttribute is misspelled as setAttributes](https://github.com/ueberdosis/tiptap/issues/4956) | [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) | 38.6k | 🟢 beginner | 2026-07-16 | 🤖 disclose AI use |
+| [[Documentation]: Update Nuxt example for 3 version](https://github.com/ueberdosis/tiptap/issues/4965) | [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) | 38.6k | 🟢 beginner | 2026-07-16 | 🤖 disclose AI use |
+| [[Documentation]: example for extending existing mark](https://github.com/ueberdosis/tiptap/issues/4674) | [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) | 38.6k | 🟢 beginner | 2026-07-16 | 🤖 disclose AI use |
 | [The MavenMetaAnalyzer task fails due to invalid URLs](https://github.com/DependencyTrack/dependency-track/issues/3566) 💬 2 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.2k | 🟢 beginner | 2026-07-16 | ⚠️ AI restricted · 🔏 DCO |
 | [[content] Add more flexible mechanism for 'FilesystemLoader' to ignore paths](https://github.com/schultek/jaspr/issues/789) | [schultek/jaspr](https://github.com/schultek/jaspr) | 2.5k | 🟢 beginner | 2026-07-16 |  |
 | [Navigation Tree View Sets State not in Tree View Pattern](https://github.com/w3c/aria-practices/issues/3371) 💬 2 | [w3c/aria-practices](https://github.com/w3c/aria-practices) | 1.4k | 🟢 beginner | 2026-07-15 |  |
@@ -209,6 +210,5 @@
 | [no way to define "no option forwardfor"](https://github.com/haproxy/haproxy/issues/130) 💬 8 | [haproxy/haproxy](https://github.com/haproxy/haproxy) | 6.9k | 🟢 beginner | 2026-06-24 |  |
 | [Option to not put a space before /&gt; in self-closing tags](https://github.com/beautifier/js-beautify/issues/654) 💬 13 | [beautifier/js-beautify](https://github.com/beautifier/js-beautify) | 9k | 🟢 beginner | 2026-06-23 |  |
 | [add support for link type extensions ('&lt;link [rel]&gt;')](https://github.com/kristoff-it/superhtml/issues/143) 💬 1 | [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) | 1.4k | 🟢 beginner | 2026-06-23 |  |
-| [Converging toward a principal Unreal Engine backend/binding for Dear ImGui?](https://github.com/ocornut/imgui/issues/9122) 💬 48 | [ocornut/imgui](https://github.com/ocornut/imgui) | 76.4k | 🟡 help wanted | 2026-06-21 | ✍️ CLA |
 
-Showing the 200 most recently updated. See all 265 on the website.
+Showing the 200 most recently updated. See all 268 on the website.

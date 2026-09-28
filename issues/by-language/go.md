@@ -1,10 +1,10 @@
 # Go issues
 
-**330** open issues (70 labeled for beginners) across **79** active Go projects.
+**331** open issues (69 labeled for beginners) across **80** active Go projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/go.xml)
 
-> Updated automatically on **2026-09-27 21:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-28 12:35 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,32 +12,35 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Enable native-filter coverage in memory-backed integration suites](https://github.com/jaegertracing/jaeger/issues/9666) | [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23.2k | 🟢 beginner | 2026-09-27 | 📄 AI policy · 🔏 DCO |
+| [ListWatch: StreamWatcher is consuming high memory in high pod churn](https://github.com/kubernetes/kubernetes/issues/129705) 💬 13 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 128.1k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use · ✍️ CLA |
+| [fix(alpine): false positives for apk packages without an origin (o:) field](https://github.com/aquasecurity/trivy/issues/11322) | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 38.1k | 🟡 help wanted | 2026-09-28 |  |
+| [handshakeloss interop test fails for quic-go server because the server closes the connection after 5 seconds](https://github.com/quic-go/quic-go/issues/4215) 💬 7 | [quic-go/quic-go](https://github.com/quic-go/quic-go) | 11.8k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use |
 | [all: flaky failures on netbsd/arm](https://github.com/golang/go/issues/73820) 💬 745 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-09-26 |  |
 | [runtime: flaky failures on NetBSD since CL 526118](https://github.com/golang/go/issues/62524) 💬 158 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-09-26 |  |
-| [Wanted: Who is using Open Code Review? Please leave a comment!](https://github.com/alibaba/open-code-review/issues/1020) 💬 13 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 41.9k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use · ✍️ CLA |
+| [Wanted: Who is using Open Code Review? Please leave a comment!](https://github.com/alibaba/open-code-review/issues/1020) 💬 13 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 42.1k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use · ✍️ CLA |
 | [[Bug]: v1.38.7 - "Cannot open session" persists across restarts: transcript display projection fails with a du](https://github.com/esengine/DeepSeek-Reasonix/issues/10456) 💬 4 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35.7k | 🟡 help wanted | 2026-09-26 |  |
 | [[Bug]: v1.38.10 v5 迁移：同一 revision 重复导入 + 超限日志无限重试，导致工作区永久只读（连带该工作区 shell 永久失效）](https://github.com/esengine/DeepSeek-Reasonix/issues/10509) 💬 11 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35.7k | 🟡 help wanted | 2026-09-26 |  |
 | [cmd/compile/internal/pgo: error parsing profile (for pgo) after scaling](https://github.com/golang/go/issues/73640) 💬 13 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-09-25 |  |
 | [cmd/vet: detect evaluation-order mistakes](https://github.com/golang/go/issues/81753) 💬 3 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-09-25 |  |
 | [runtime: deadlock while stopping the world (most recently openbsd/amd64)](https://github.com/golang/go/issues/62541) 💬 15 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-09-24 |  |
-| [Mirror cursor for JSX stops working in some case](https://github.com/microsoft/TypeScript/issues/56669) 💬 3 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 111.2k | 🟡 help wanted | 2026-09-24 | 🤖 disclose AI use · ✍️ CLA |
+| [Mirror cursor for JSX stops working in some case](https://github.com/microsoft/TypeScript/issues/56669) 💬 3 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 111.3k | 🟡 help wanted | 2026-09-24 | 🤖 disclose AI use · ✍️ CLA |
 | [[Enhancement]: [Stanford G02] Integrate a ready SGLang reranking endpoint](https://github.com/milvus-io/milvus/issues/53843) | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46.3k | 🟢 beginner | 2026-09-24 | 🔏 DCO |
 | [[Enhancement]: [Stanford G01] Integrate a ready SGLang embedding endpoint](https://github.com/milvus-io/milvus/issues/53842) | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46.3k | 🟢 beginner | 2026-09-24 | 🔏 DCO |
 | [[Enhancement]: [Stanford E02] Expose static Explain through a CLI and API](https://github.com/milvus-io/milvus/issues/53830) | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46.3k | 🟢 beginner | 2026-09-24 | 🔏 DCO |
 | [runtime: linux/s390x test timeout](https://github.com/golang/go/issues/60413) 💬 873 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-09-23 |  |
-| [Type-asserting function call on variable initialized using 'this' causes false implicit-any in VSCode](https://github.com/microsoft/TypeScript/issues/51661) 💬 4 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 111.2k | 🟡 help wanted | 2026-09-23 | 🤖 disclose AI use · ✍️ CLA |
-| [Please Allow Mixins to function properly with new-able types](https://github.com/microsoft/TypeScript/issues/53737) 💬 2 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 111.2k | 🟡 help wanted | 2026-09-23 | 🤖 disclose AI use · ✍️ CLA |
-| [Unexpected "used before its declaration" error when implementing a exported type of a merged namespace](https://github.com/microsoft/TypeScript/issues/54429) 💬 1 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 111.2k | 🟡 help wanted | 2026-09-23 | 🤖 disclose AI use · ✍️ CLA |
-| [Auto-closing of tags within curly braces '{}' does not work when parent element is same tag in JSX](https://github.com/microsoft/TypeScript/issues/58322) 💬 2 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 111.2k | 🟡 help wanted | 2026-09-23 | 🤖 disclose AI use · ✍️ CLA |
-| [texSubImage2D missing WebGL2 syntax](https://github.com/microsoft/TypeScript/issues/58695) 💬 1 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 111.2k | 🟡 help wanted | 2026-09-23 | 🤖 disclose AI use · ✍️ CLA |
-| [strange interaction with 'resolveJsonModule', 'createRequire', naming it 'require', and requiring JSON](https://github.com/microsoft/TypeScript/issues/61292) 💬 3 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 111.2k | 🟡 help wanted | 2026-09-23 | 🤖 disclose AI use · ✍️ CLA |
-| [Intellisense keeps crashing](https://github.com/microsoft/TypeScript/issues/63151) 💬 25 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 111.2k | 🟡 help wanted | 2026-09-23 | 🤖 disclose AI use · ✍️ CLA |
+| [Type-asserting function call on variable initialized using 'this' causes false implicit-any in VSCode](https://github.com/microsoft/TypeScript/issues/51661) 💬 4 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 111.3k | 🟡 help wanted | 2026-09-23 | 🤖 disclose AI use · ✍️ CLA |
+| [Please Allow Mixins to function properly with new-able types](https://github.com/microsoft/TypeScript/issues/53737) 💬 2 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 111.3k | 🟡 help wanted | 2026-09-23 | 🤖 disclose AI use · ✍️ CLA |
+| [Unexpected "used before its declaration" error when implementing a exported type of a merged namespace](https://github.com/microsoft/TypeScript/issues/54429) 💬 1 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 111.3k | 🟡 help wanted | 2026-09-23 | 🤖 disclose AI use · ✍️ CLA |
+| [Auto-closing of tags within curly braces '{}' does not work when parent element is same tag in JSX](https://github.com/microsoft/TypeScript/issues/58322) 💬 2 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 111.3k | 🟡 help wanted | 2026-09-23 | 🤖 disclose AI use · ✍️ CLA |
+| [texSubImage2D missing WebGL2 syntax](https://github.com/microsoft/TypeScript/issues/58695) 💬 1 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 111.3k | 🟡 help wanted | 2026-09-23 | 🤖 disclose AI use · ✍️ CLA |
+| [strange interaction with 'resolveJsonModule', 'createRequire', naming it 'require', and requiring JSON](https://github.com/microsoft/TypeScript/issues/61292) 💬 3 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 111.3k | 🟡 help wanted | 2026-09-23 | 🤖 disclose AI use · ✍️ CLA |
+| [Intellisense keeps crashing](https://github.com/microsoft/TypeScript/issues/63151) 💬 25 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 111.3k | 🟡 help wanted | 2026-09-23 | 🤖 disclose AI use · ✍️ CLA |
 | [VM mesh expansion, ISTIO_INBOUND_PORTS conflicts with Docker container outbound traffic](https://github.com/istio/istio/issues/27728) 💬 24 | [istio/istio](https://github.com/istio/istio) | 38.4k | 🟡 help wanted | 2026-09-23 |  |
 | [Implement AMX support](https://github.com/google/gvisor/issues/9896) 💬 2 | [google/gvisor](https://github.com/google/gvisor) | 19.4k | 🟡 help wanted | 2026-09-23 | 🤖 disclose AI use · ✍️ CLA |
 | [\\echo and \\warn -n problem on interactive](https://github.com/xo/usql/issues/215) 💬 1 | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
 | [feature: support vi key bindings (ala readline/bash/psql vi modes)](https://github.com/xo/usql/issues/236) 💬 5 | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
 | ['\\ss' without arguments lists columns for all tables](https://github.com/xo/usql/issues/363) 💬 2 | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
+| [Implement privilege related \\d commands](https://github.com/xo/usql/issues/172) | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
 | [x/website/tour: PageUp and PageDown navigation stops working when focus is outside the tour editor](https://github.com/golang/go/issues/81596) 💬 2 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-09-22 |  |
 | [Support For Windows Containers](https://github.com/kubernetes/minikube/issues/2015) 💬 68 | [kubernetes/minikube](https://github.com/kubernetes/minikube) | 32.2k | 🟡 help wanted | 2026-09-22 |  |
 | [Unable to load docker containerd managed images to cluster](https://github.com/kubernetes-sigs/kind/issues/3795) 💬 68 | [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) | 15.5k | 🟡 help wanted | 2026-09-22 |  |
@@ -88,7 +91,6 @@
 | [Allow versioning to be enabled via ObjectBucketClaim](https://github.com/rook/rook/issues/17318) 💬 9 | [rook/rook](https://github.com/rook/rook) | 13.7k | 🟡 help wanted | 2026-09-05 | 🤖 disclose AI use · 🔏 DCO |
 | [Emoji causes quote to be stuck on screen when scrolling](https://github.com/micro-editor/micro/issues/3792) 💬 12 | [micro-editor/micro](https://github.com/micro-editor/micro) | 29.6k | 🟡 help wanted | 2026-09-04 |  |
 | [Crazy plugin idea](https://github.com/99designs/gqlgen/issues/3906) 💬 4 | [99designs/gqlgen](https://github.com/99designs/gqlgen) | 10.8k | 🟡 help wanted | 2026-09-04 |  |
-| [ListWatch: StreamWatcher is consuming high memory in high pod churn](https://github.com/kubernetes/kubernetes/issues/129705) 💬 12 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 128.1k | 🟡 help wanted | 2026-09-02 | 🤖 disclose AI use · ✍️ CLA |
 | [Refactor Volume Code](https://github.com/kubernetes/kubernetes/issues/14217) 💬 19 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 128.1k | 🟡 help wanted | 2026-09-02 | 🤖 disclose AI use · ✍️ CLA |
 | [Audit all APIs for selector fields, ensure documented semantics when nil or empty.](https://github.com/kubernetes/kubernetes/issues/25836) 💬 9 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 128.1k | 🟡 help wanted | 2026-09-02 | 🤖 disclose AI use · ✍️ CLA |
 | [API can be streamlined: assume same key for some 'EnvVarSource'](https://github.com/kubernetes/kubernetes/issues/132195) 💬 18 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 128.1k | 🟡 help wanted | 2026-09-02 | 🤖 disclose AI use · ✍️ CLA |
@@ -210,7 +212,5 @@
 | [Add instructions for installing on SteamOS / Steam Deck](https://github.com/Jguer/yay/issues/2098) 💬 26 | [Jguer/yay](https://github.com/Jguer/yay) | 13.8k | 🟡 help wanted | 2026-07-13 |  |
 | [implement a wasmplugin to support Content Security Policy](https://github.com/higress-group/higress/issues/1706) 💬 1 | [higress-group/higress](https://github.com/higress-group/higress) | 9.5k | 🟢 beginner | 2026-07-12 | 🤖 disclose AI use |
 | [Gnome/XWayland : Crash on standby/resume](https://github.com/fyne-io/fyne/issues/1603) 💬 10 | [fyne-io/fyne](https://github.com/fyne-io/fyne) | 28.7k | 🟡 help wanted | 2026-07-11 |  |
-| [fyne_demo slow on PowerShell with administrative privileges](https://github.com/fyne-io/fyne/issues/1135) | [fyne-io/fyne](https://github.com/fyne-io/fyne) | 28.7k | 🟡 help wanted | 2026-07-11 |  |
-| [Feature: telnet, ftp provisioner](https://github.com/hashicorp/packer/issues/7971) 💬 2 | [hashicorp/packer](https://github.com/hashicorp/packer) | 15.8k | 🟡 help wanted | 2026-07-11 | ✍️ CLA |
 
-Showing the 200 most recently updated. See all 330 on the website.
+Showing the 200 most recently updated. See all 331 on the website.

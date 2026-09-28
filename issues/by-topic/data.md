@@ -1,8 +1,8 @@
 # Data and databases issues
 
-**292** open issues (136 labeled for beginners) across **89** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
+**295** open issues (137 labeled for beginners) across **89** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
 
-> Updated automatically on **2026-09-27 21:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-28 12:35 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,12 +10,14 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [KsDataTable.test.ts: replace explicit 'any' with real types](https://github.com/kestra-io/kestra/issues/19279) 💬 4 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.4k | 🟢 beginner | 2026-09-27 |  |
-| [BUG: views not adhering to sort order in view definition](https://github.com/beekeeper-studio/beekeeper-studio/issues/1521) 💬 10 | [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | 23.7k | 🟢 beginner | 2026-09-27 | ✍️ CLA |
+| [KsDataTable.vue: replace explicit 'any' with real types](https://github.com/kestra-io/kestra/issues/19273) 💬 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.4k | 🟢 beginner | 2026-09-28 |  |
+| [BUG: Losing pending changes after closing the app](https://github.com/beekeeper-studio/beekeeper-studio/issues/2201) 💬 7 | [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | 23.7k | 🟢 beginner | 2026-09-28 | ✍️ CLA |
+| [BUG: views not adhering to sort order in view definition](https://github.com/beekeeper-studio/beekeeper-studio/issues/1521) 💬 10 | [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | 23.7k | 🟢 beginner | 2026-09-28 | ✍️ CLA |
+| [[BUG] java.lang.OutOfMemoryError: GC overhead limit exceeded](https://github.com/apache/hertzbeat/issues/1714) 💬 14 | [apache/hertzbeat](https://github.com/apache/hertzbeat) | 7.4k | 🟢 beginner | 2026-09-28 |  |
 | [Support / Fix: local import in CUBEJS_SCHEMA_PATH sub directory, avoid throwing not found.](https://github.com/cube-js/cube/issues/7040) 💬 4 | [cube-js/cube](https://github.com/cube-js/cube) | 20.9k | 🟡 help wanted | 2026-09-27 | 🔏 DCO |
 | [Deprecate native ltree support in the ParadeDB index in favor of bitmap intersection](https://github.com/paradedb/paradedb/issues/6093) 💬 2 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9.3k | 🟢 beginner | 2026-09-27 | ✍️ CLA |
+| [[Question] Add monitoring grouping function](https://github.com/apache/hertzbeat/issues/698) 💬 2 | [apache/hertzbeat](https://github.com/apache/hertzbeat) | 7.4k | 🟡 help wanted | 2026-09-27 |  |
 | [Databricks: add SQL endpoint operators](https://github.com/apache/airflow/issues/21377) 💬 13 | [apache/airflow](https://github.com/apache/airflow) | 47k | 🟢 beginner | 2026-09-25 | 🤖 disclose AI use · ✍️ CLA |
-| [client-facade.ts: replace explicit 'any' with real types](https://github.com/kestra-io/kestra/issues/19274) 💬 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.4k | 🟢 beginner | 2026-09-25 |  |
 | [Direct link to an experiment step from the step list](https://github.com/elabftw/elabftw/issues/7483) 💬 1 | [elabftw/elabftw](https://github.com/elabftw/elabftw) | 1.4k | 🟢 beginner | 2026-09-25 |  |
 | [Default to listening on ::](https://github.com/dragonflydb/dragonfly/issues/8266) 💬 4 | [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) | 31.7k | 🟢 beginner | 2026-09-24 | ✍️ CLA · 🔏 DCO |
 | [Subquery support](https://github.com/tursodatabase/turso/issues/34) 💬 2 | [tursodatabase/turso](https://github.com/tursodatabase/turso) | 24.4k | 🟡 help wanted | 2026-09-24 | 🤖 disclose AI use |
@@ -49,6 +51,7 @@
 | [\\echo and \\warn -n problem on interactive](https://github.com/xo/usql/issues/215) 💬 1 | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
 | [feature: support vi key bindings (ala readline/bash/psql vi modes)](https://github.com/xo/usql/issues/236) 💬 5 | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
 | ['\\ss' without arguments lists columns for all tables](https://github.com/xo/usql/issues/363) 💬 2 | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
+| [Implement privilege related \\d commands](https://github.com/xo/usql/issues/172) | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
 | [积木报表在线填报表单中数据字典不能获取系统中已有数据字典、新增又提示编码已经存在](https://github.com/jeecgboot/jimureport/issues/4797) | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.5k | 🟡 help wanted | 2026-09-23 |  |
 | [积木报表横向分组一级标题无法设置分组合计](https://github.com/jeecgboot/jimureport/issues/4796) 💬 1 | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.5k | 🟡 help wanted | 2026-09-23 |  |
 | [Unit test stub autogenerator](https://github.com/apache/hamilton/issues/74) 💬 6 | [apache/hamilton](https://github.com/apache/hamilton) | 2.6k | 🟢 beginner | 2026-09-23 | ✍️ CLA |
@@ -103,7 +106,7 @@
 | [include git commit id in status information and artifact README](https://github.com/yacy/yacy_search_server/issues/466) 💬 1 | [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) | 4k | 🟢 beginner | 2026-09-06 |  |
 | [control state of individual taskflow in mapped task-group](https://github.com/apache/airflow/issues/40543) 💬 12 | [apache/airflow](https://github.com/apache/airflow) | 47k | 🟢 beginner | 2026-09-05 | 🤖 disclose AI use · ✍️ CLA |
 | [Improve discovery for F# explicit fields](https://github.com/dotnet/efcore/issues/12923) 💬 3 | [dotnet/efcore](https://github.com/dotnet/efcore) | 14.8k | 🟡 help wanted | 2026-09-05 | ✍️ CLA |
-| [Webhook source: support HTTP GET verification handshake for providers like Meta/Facebook, WhatsApp, Instagram](https://github.com/risingwavelabs/risingwave/issues/26236) 💬 2 | [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) | 9.3k | 🟢 beginner | 2026-09-05 | ✍️ CLA |
+| [Webhook source: support HTTP GET verification handshake for providers like Meta/Facebook, WhatsApp, Instagram](https://github.com/risingwavelabs/risingwave/issues/26236) 💬 2 | [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) | 9.4k | 🟢 beginner | 2026-09-05 | ✍️ CLA |
 | [Support for PowerPC 'ppc64le' architecture](https://github.com/qdrant/qdrant/issues/3940) 💬 2 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 34.9k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use |
 | [Flacky 'test_parallel_graph_build' on Windows](https://github.com/qdrant/qdrant/issues/1452) 💬 2 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 34.9k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use |
 | [Refresh CHYT benchmark results](https://github.com/ClickHouse/ClickBench/issues/1459) | [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) | 1.1k | 🟡 help wanted | 2026-09-03 |  |
@@ -138,7 +141,7 @@
 | [[BUG] backup fails with —trx-table](https://github.com/mydumper/mydumper/issues/2301) 💬 13 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.2k | 🟡 help wanted | 2026-08-24 |  |
 | [Support for greek locale](https://github.com/dbeaver/dbeaver/issues/7932) 💬 4 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 51.9k | 🟡 help wanted | 2026-08-21 | 🤖 disclose AI use |
 | [Bug: In Cohorts, the 'set' operator filters in null values for person properties](https://github.com/PostHog/posthog/issues/29916) 💬 4 | [PostHog/posthog](https://github.com/PostHog/posthog) | 40k | 🟢 beginner | 2026-08-21 | ⚠️ AI restricted |
-| [SQL Server CDC: silent data loss when upstream disables CDC on a captured table](https://github.com/risingwavelabs/risingwave/issues/25828) 💬 6 | [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) | 9.3k | 🟢 beginner | 2026-08-21 | ✍️ CLA |
+| [SQL Server CDC: silent data loss when upstream disables CDC on a captured table](https://github.com/risingwavelabs/risingwave/issues/25828) 💬 6 | [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) | 9.4k | 🟢 beginner | 2026-08-21 | ✍️ CLA |
 | [Search - Use the same words for criteria in "Products search" and in the product page (and edition page)](https://github.com/openfoodfacts/openfoodfacts-server/issues/17) | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-08-21 | 🤖 disclose AI use |
 | [Add play store promo](https://github.com/openfoodfacts/openfoodfacts-server/issues/604) 💬 6 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-08-21 | 🤖 disclose AI use |
 | [[feature request] loadUpdateData only insert](https://github.com/liquibase/liquibase/issues/1101) 💬 5 | [liquibase/liquibase](https://github.com/liquibase/liquibase) | 5.6k | 🟡 help wanted | 2026-08-20 |  |
@@ -154,7 +157,6 @@
 | [Support cast from varchar to day-time interval type](https://github.com/trinodb/trino/issues/4697) 💬 5 | [trinodb/trino](https://github.com/trinodb/trino) | 13.3k | 🟢 beginner | 2026-08-16 | ✍️ CLA |
 | [Unable to create new table with camel case enum type field using sea-orm-cli migrate](https://github.com/SeaQL/sea-orm/issues/2405) 💬 2 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | 9.9k | 🟡 help wanted | 2026-08-15 |  |
 | [[BUG] Error when adding Date32 and Int64](https://github.com/apache/datafusion/issues/12342) 💬 14 | [apache/datafusion](https://github.com/apache/datafusion) | 9.4k | 🟢 beginner | 2026-08-15 | ✍️ CLA |
-| [IPMI Monitoring Data Interruption Issue](https://github.com/apache/hertzbeat/issues/3197) 💬 10 | [apache/hertzbeat](https://github.com/apache/hertzbeat) | 7.4k | 🟢 beginner | 2026-08-15 |  |
 | [Expose incremental reindexing in python and node](https://github.com/lancedb/lancedb/issues/685) 💬 1 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11.5k | 🟢 beginner | 2026-08-14 |  |
 | [Implement cache tagging (RemoveByTagAsync + tagged writes)](https://github.com/FoundatioFx/Foundatio/issues/8) 💬 6 | [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio) | 2.1k | 🟡 help wanted | 2026-08-13 |  |
 | [changefeedccl: incorrect metric types](https://github.com/cockroachdb/cockroach/issues/134547) 💬 4 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-08-12 | ✍️ CLA |
@@ -183,6 +185,7 @@
 | [Document execution plan operations](https://github.com/FalkorDB/FalkorDB/issues/82) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.3k | 🟡 help wanted | 2026-08-03 |  |
 | [Redis Graph doesn't allow single quote to be escaped when creating a vertex/edge](https://github.com/FalkorDB/FalkorDB/issues/71) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.3k | 🟡 help wanted | 2026-08-03 |  |
 | [add support for signed data types for TTL](https://github.com/ydb-platform/ydb/issues/12751) | [ydb-platform/ydb](https://github.com/ydb-platform/ydb) | 4.8k | 🟢 beginner | 2026-08-03 |  |
+| [Group MCP tools by read and write/ delete](https://github.com/PostHog/posthog/issues/76236) 💬 2 | [PostHog/posthog](https://github.com/PostHog/posthog) | 40k | 🟢 beginner | 2026-08-02 | ⚠️ AI restricted |
 | [TMemoryLimitException should be inherited from std::exception](https://github.com/ydb-platform/ydb/issues/2887) | [ydb-platform/ydb](https://github.com/ydb-platform/ydb) | 4.8k | 🟢 beginner | 2026-08-02 |  |
 | [It is recommended that the GRPC server add a timeout limit.](https://github.com/gogf/gf/issues/3189) 💬 5 | [gogf/gf](https://github.com/gogf/gf) | 13.3k | 🟡 help wanted | 2026-08-01 |  |
 | [Duplicate ids on same page](https://github.com/phpmyadmin/phpmyadmin/issues/19108) 💬 5 | [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 7.9k | 🟢 beginner | 2026-08-01 | 🔏 DCO |
@@ -207,8 +210,5 @@
 | [UI bug with bootstrap theme on settings &gt; Page related settings](https://github.com/phpmyadmin/phpmyadmin/issues/18505) 💬 6 | [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 7.9k | 🟢 beginner | 2026-07-16 | 🔏 DCO |
 | [Github Action for automatically running pgbench](https://github.com/supabase/supavisor/issues/11) 💬 4 | [supabase/supavisor](https://github.com/supabase/supavisor) | 2.3k | 🟢 beginner | 2026-07-15 |  |
 | [Dashboards: template variables result in invalid regex for profiles panels](https://github.com/grafana/grafana/issues/68092) 💬 9 | [grafana/grafana](https://github.com/grafana/grafana) | 77k | 🟢 beginner | 2026-07-14 | ✍️ CLA |
-| [OSX compatibility](https://github.com/cboxdoerfer/fsearch/issues/7) 💬 14 | [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) | 4.4k | 🟡 help wanted | 2026-07-14 |  |
-| [Model calculation is not able to read features from stdin](https://github.com/catboost/catboost/issues/200) 💬 4 | [catboost/catboost](https://github.com/catboost/catboost) | 9.1k | 🟢 beginner | 2026-07-13 |  |
-| ['Booster.save_model(format="pmml")' is highly inefficient in size.](https://github.com/catboost/catboost/issues/2387) 💬 5 | [catboost/catboost](https://github.com/catboost/catboost) | 9.1k | 🟢 beginner | 2026-07-13 |  |
 
-Showing the 200 most recently updated. See all 292 on the website.
+Showing the 200 most recently updated. See all 295 on the website.

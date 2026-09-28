@@ -1,10 +1,10 @@
 # Java issues
 
-**246** open issues (100 labeled for beginners) across **79** active Java projects.
+**250** open issues (101 labeled for beginners) across **79** active Java projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/java.xml)
 
-> Updated automatically on **2026-09-27 21:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-28 12:35 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,11 +12,17 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [积木报表横向分组一级标题无法设置分组合计](https://github.com/jeecgboot/JeecgBoot/issues/9898) | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 48k | 🟡 help wanted | 2026-09-28 |  |
+| [App Crash on mark video as watched](https://github.com/TeamNewPipe/NewPipe/issues/10939) 💬 8 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 39.8k | 🟢 beginner | 2026-09-28 | 📄 AI policy |
+| [KsDataTable.vue: replace explicit 'any' with real types](https://github.com/kestra-io/kestra/issues/19273) 💬 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.4k | 🟢 beginner | 2026-09-28 |  |
+| [Custom wire colors / multi-wire selecting](https://github.com/logisim-evolution/logisim-evolution/issues/1994) 💬 6 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.7k | 🟡 help wanted | 2026-09-28 |  |
+| [[Proposal] Migration planning from Java Logic Simulator to Logisim](https://github.com/logisim-evolution/logisim-evolution/issues/3005) 💬 1 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.7k | 🟡 help wanted | 2026-09-28 |  |
+| [Unify spelling of Logisim-evolution](https://github.com/logisim-evolution/logisim-evolution/issues/3008) | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.7k | 🟢 beginner | 2026-09-28 |  |
+| [[BUG] java.lang.OutOfMemoryError: GC overhead limit exceeded](https://github.com/apache/hertzbeat/issues/1714) 💬 14 | [apache/hertzbeat](https://github.com/apache/hertzbeat) | 7.4k | 🟢 beginner | 2026-09-28 |  |
 | [Fine-grained permission conflicting with each other](https://github.com/keycloak/keycloak/issues/50740) 💬 7 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use · 🔏 DCO |
-| [KsDataTable.test.ts: replace explicit 'any' with real types](https://github.com/kestra-io/kestra/issues/19279) 💬 4 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.4k | 🟢 beginner | 2026-09-27 |  |
 | [[js-plantuml] Improve 'js-plantuml' editor (to be similar to 'editor.plantuml.com')](https://github.com/plantuml/plantuml/issues/2907) | [plantuml/plantuml](https://github.com/plantuml/plantuml) | 13.3k | 🟢 beginner | 2026-09-27 |  |
+| [[Question] Add monitoring grouping function](https://github.com/apache/hertzbeat/issues/698) 💬 2 | [apache/hertzbeat](https://github.com/apache/hertzbeat) | 7.4k | 🟡 help wanted | 2026-09-27 |  |
 | [[Task] Remove the unused MemorySafeWindowTinyLFUMap implementation](https://github.com/apache/shenyu/issues/7309) 💬 1 | [apache/shenyu](https://github.com/apache/shenyu) | 8.8k | 🟢 beginner | 2026-09-26 |  |
-| [client-facade.ts: replace explicit 'any' with real types](https://github.com/kestra-io/kestra/issues/19274) 💬 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.4k | 🟢 beginner | 2026-09-25 |  |
 | [Device authorization user_code verification has no server-side rate limit](https://github.com/keycloak/keycloak/issues/51275) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37k | 🟡 help wanted | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
 | [Authentication required sub-flow steps which are in an alternative subflow become mandatory](https://github.com/keycloak/keycloak/issues/17411) 💬 4 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37k | 🟡 help wanted | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
 | [Organization group roles are not automapped to realm/resource_access](https://github.com/keycloak/keycloak/issues/52764) 💬 9 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37k | 🟡 help wanted | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
@@ -59,9 +65,11 @@
 | [Support for Vavr types?](https://github.com/micronaut-projects/micronaut-core/issues/3520) 💬 2 | [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) | 6.4k | 🟡 help wanted | 2026-09-11 |  |
 | [How do you use SNI with SSL?](https://github.com/micronaut-projects/micronaut-core/issues/1131) 💬 1 | [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) | 6.4k | 🟡 help wanted | 2026-09-11 |  |
 | [Full-duplex support for browsers that do not support WebSocket](https://github.com/micronaut-projects/micronaut-core/issues/583) 💬 2 | [micronaut-projects/micronaut-core](https://github.com/micronaut-projects/micronaut-core) | 6.4k | 🟡 help wanted | 2026-09-11 |  |
-| [[Feature Request]: Generate a PDF file from a XRechnung XML file](https://github.com/Stirling-Tools/Stirling-PDF/issues/2025) 💬 4 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 93.1k | 🟡 help wanted | 2026-09-09 |  |
+| [[Feature Request]: Generate a PDF file from a XRechnung XML file](https://github.com/Stirling-Tools/Stirling-PDF/issues/2025) 💬 4 | [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 93.2k | 🟡 help wanted | 2026-09-09 |  |
 | [[Feature][WorkflowTiming] Supports multiple timing plans for one workflow](https://github.com/apache/dolphinscheduler/issues/15151) 💬 7 | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14.5k | 🟡 help wanted | 2026-09-08 |  |
 | [Delay component](https://github.com/logisim-evolution/logisim-evolution/issues/1840) 💬 26 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.7k | 🟡 help wanted | 2026-09-08 |  |
+| [Add "search instead for" feature to search page](https://github.com/TeamNewPipe/NewPipe/issues/6032) 💬 3 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 39.8k | 🟢 beginner | 2026-09-07 | 📄 AI policy |
+| [Showing total number of subscriptions.](https://github.com/TeamNewPipe/NewPipe/issues/6292) 💬 1 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 39.8k | 🟢 beginner | 2026-09-07 | 📄 AI policy |
 | [Support Bearer Tokens for authenticating instead of using a token in basic auth](https://github.com/Graylog2/graylog2-server/issues/5167) 💬 2 | [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) | 8.1k | 🟢 beginner | 2026-09-07 |  |
 | [No icon to launch logisim-evolution on snap version](https://github.com/logisim-evolution/logisim-evolution/issues/1662) 💬 3 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.7k | 🟢 beginner | 2026-09-07 |  |
 | [PlaRom in subcircuit makes clock stop working](https://github.com/logisim-evolution/logisim-evolution/issues/1247) 💬 12 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.7k | 🟡 help wanted | 2026-09-07 |  |
@@ -119,7 +127,6 @@
 | [导出可以提供instance类型的支持吗](https://github.com/apache/fesod/issues/366) 💬 4 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-08-16 | ✍️ CLA |
 | [[Feature]: Add ArgumentHexColor](https://github.com/Minestom/Minestom/issues/3199) 💬 3 | [Minestom/Minestom](https://github.com/Minestom/Minestom) | 3.3k | 🟢 beginner | 2026-08-16 |  |
 | [[Bug] [Flink] stop flink job error](https://github.com/apache/dolphinscheduler/issues/16789) 💬 6 | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14.5k | 🟢 beginner | 2026-08-15 |  |
-| [IPMI Monitoring Data Interruption Issue](https://github.com/apache/hertzbeat/issues/3197) 💬 10 | [apache/hertzbeat](https://github.com/apache/hertzbeat) | 7.4k | 🟢 beginner | 2026-08-15 |  |
 | [Improve coverage reporting for partially covered expressions](https://github.com/tlaplus/tlaplus/issues/845) 💬 5 | [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus) | 3.1k | 🟡 help wanted | 2026-08-13 | 🔏 DCO |
 | [Optimize jdk.internal.misc.Unsafe.storeStoreFence() into no-op on x86 platforms](https://github.com/eclipse-openj9/openj9/issues/19042) 💬 3 | [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) | 3.5k | 🟢 beginner | 2026-08-12 | 🤖 disclose AI use · ✍️ CLA · 🔏 DCO |
 | ['--test_output=streamed' does not stream the logs when executing remotely](https://github.com/bazelbuild/bazel/issues/30651) | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 25.9k | 🟡 help wanted | 2026-08-11 | ✍️ CLA |
@@ -205,12 +212,5 @@
 | [[Bug] [seatunnel task] run the seatunnel task ,report "-e and --deploy-mode deprecated in 2.3.1, please use -m](https://github.com/apache/dolphinscheduler/issues/16617) 💬 2 | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14.5k | 🟡 help wanted | 2026-05-31 |  |
 | [Projects view, versions column should support semantic versioning](https://github.com/DependencyTrack/dependency-track/issues/378) 💬 3 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.2k | 🟡 help wanted | 2026-05-30 | ⚠️ AI restricted · 🔏 DCO |
 | [core issue # Issue: Enable Kineto Profiler Support in JavaCPP PyTorch Bindings，need javacpp compile kineto par](https://github.com/bytedeco/javacpp-presets/issues/1772) | [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) | 2.9k | 🟡 help wanted | 2026-05-30 |  |
-| [Re-implement fuzzy analysis for internal scanner](https://github.com/DependencyTrack/dependency-track/issues/6195) | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.2k | 🟡 help wanted | 2026-05-29 | ⚠️ AI restricted · 🔏 DCO |
-| [[Best Pratice] JavaWeb Integration Solution](https://github.com/agentscope-ai/agentscope-java/issues/113) 💬 3 | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5.8k | 🟡 help wanted | 2026-05-28 |  |
-| [[Feature] MCP Tool notification support](https://github.com/agentscope-ai/agentscope-java/issues/115) 💬 3 | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5.8k | 🟡 help wanted | 2026-05-28 |  |
-| [[Proposal Wanted] Merge deployment support](https://github.com/agentscope-ai/agentscope-java/issues/116) | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5.8k | 🟡 help wanted | 2026-05-28 |  |
-| [[Docs]: Divide Docs into functional usage and principle sections](https://github.com/agentscope-ai/agentscope-java/issues/216) 💬 1 | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5.8k | 🟡 help wanted | 2026-05-28 |  |
-| [[Bug] Failed to initialize MCP client: business-knowledge-query](https://github.com/agentscope-ai/agentscope-java/issues/885) | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5.8k | 🟡 help wanted | 2026-05-28 |  |
-| [[Feature]: tunner需要增加skill和prompt的优化和迭代的工具](https://github.com/agentscope-ai/agentscope-java/issues/1263) | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5.8k | 🟡 help wanted | 2026-05-28 |  |
 
-Showing the 200 most recently updated. See all 246 on the website.
+Showing the 200 most recently updated. See all 250 on the website.

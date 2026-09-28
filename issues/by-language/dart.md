@@ -1,10 +1,10 @@
 # Dart issues
 
-**50** open issues (25 labeled for beginners) across **32** active Dart projects.
+**52** open issues (27 labeled for beginners) across **33** active Dart projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/dart.xml)
 
-> Updated automatically on **2026-09-27 21:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-28 12:35 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Toast cannot be closed in either horizontal direction](https://github.com/duobaseio/forui/issues/1208) 💬 1 | [duobaseio/forui](https://github.com/duobaseio/forui) | 2.4k | 🟢 beginner | 2026-09-28 |  |
+| [Toast auto-dismiss silently disabled by non-screen-reader accessibility services](https://github.com/duobaseio/forui/issues/1207) 💬 1 | [duobaseio/forui](https://github.com/duobaseio/forui) | 2.4k | 🟢 beginner | 2026-09-28 |  |
 | [Feature: Self-hosted sync server](https://github.com/simonoppowa/OpenNutriTracker/issues/79) 💬 5 | [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) | 2.6k | 🟡 help wanted | 2026-09-27 |  |
 | [Submit OpenNutriTracker to the F-Droid repository](https://github.com/simonoppowa/OpenNutriTracker/issues/575) 💬 4 | [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) | 2.6k | 🟢 beginner | 2026-09-27 |  |
 | [Local deb update issue](https://github.com/ubuntu/app-center/issues/2190) | [ubuntu/app-center](https://github.com/ubuntu/app-center) | 925 | 🟢 beginner | 2026-09-24 | ✍️ CLA |
@@ -19,7 +21,7 @@
 | [Use the default theme available by the themeData for tooltips instead of library's custom theme](https://github.com/imaNNeo/fl_chart/issues/1377) 💬 3 | [imaNNeo/fl_chart](https://github.com/imaNNeo/fl_chart) | 7.6k | 🟢 beginner | 2026-09-17 |  |
 | [Add more languages](https://github.com/ferraridamiano/ConverterNOW/issues/2) 💬 10 | [ferraridamiano/ConverterNOW](https://github.com/ferraridamiano/ConverterNOW) | 624 | 🟡 help wanted | 2026-09-16 |  |
 | [Stale promotion UI on analysis board](https://github.com/lichess-org/mobile/issues/3610) 💬 1 | [lichess-org/mobile](https://github.com/lichess-org/mobile) | 2.6k | 🟢 beginner | 2026-09-14 | 🤖 disclose AI use |
-| [Support for older versions of MacOS](https://github.com/localsend/localsend/issues/1200) 💬 8 | [localsend/localsend](https://github.com/localsend/localsend) | 92.8k | 🟡 help wanted | 2026-09-12 |  |
+| [Support for older versions of MacOS](https://github.com/localsend/localsend/issues/1200) 💬 8 | [localsend/localsend](https://github.com/localsend/localsend) | 92.9k | 🟡 help wanted | 2026-09-12 |  |
 | [Handle MainActivity destruction on Android (like retrieveLostData of ImagePicker)](https://github.com/vicajilau/flutter_file_picker/issues/1258) 💬 12 | [vicajilau/flutter_file_picker](https://github.com/vicajilau/flutter_file_picker) | 1.6k | 🟡 help wanted | 2026-09-10 |  |
 | [[FR] remove formatting option](https://github.com/AppFlowy-IO/AppFlowy/issues/3427) 💬 10 | [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | 77k | 🟢 beginner | 2026-09-09 |  |
 | [[Feature Request] Support range versions](https://github.com/leoafarias/fvm/issues/751) 💬 1 | [leoafarias/fvm](https://github.com/leoafarias/fvm) | 5.5k | 🟡 help wanted | 2026-09-08 |  |
@@ -29,10 +31,9 @@
 | [Create integration test for 'appFlavor'](https://github.com/getsentry/sentry-dart/issues/1802) | [getsentry/sentry-dart](https://github.com/getsentry/sentry-dart) | 873 | 🟢 beginner | 2026-09-01 |  |
 | [Add option maxCacheSize](https://github.com/getsentry/sentry-dart/issues/1830) 💬 1 | [getsentry/sentry-dart](https://github.com/getsentry/sentry-dart) | 873 | 🟢 beginner | 2026-09-01 |  |
 | [MIssing file referred to in "Running DevTools Tests" section of TESTING.md](https://github.com/flutter/devtools/issues/8293) 💬 2 | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟢 beginner | 2026-08-30 | 📄 AI policy · ✍️ CLA |
-| [[Bug] When drag and dropping contact to Bcc, the field isn't highlighted](https://github.com/linagora/tmail-flutter/issues/3074) 💬 1 | [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) | 655 | 🟢 beginner | 2026-08-29 |  |
+| [[Bug] When drag and dropping contact to Bcc, the field isn't highlighted](https://github.com/linagora/tmail-flutter/issues/3074) 💬 1 | [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) | 656 | 🟢 beginner | 2026-08-29 |  |
 | [Joplin integration](https://github.com/LinwoodDev/Butterfly/issues/253) 💬 3 | [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) | 2k | 🟢 beginner | 2026-08-23 |  |
-| [适配鸿蒙5（需要帮助）](https://github.com/lollipopkit/flutter_server_box/issues/869) 💬 4 | [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) | 8.7k | 🟡 help wanted | 2026-08-22 | ✍️ CLA |
-| [Add the blink effect for the "next mistake button"](https://github.com/lichess-org/mobile/issues/2953) | [lichess-org/mobile](https://github.com/lichess-org/mobile) | 2.6k | 🟢 beginner | 2026-08-20 | 🤖 disclose AI use |
+| [适配鸿蒙5（需要帮助）](https://github.com/lollipopkit/flutter_server_box/issues/869) 💬 4 | [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) | 8.8k | 🟡 help wanted | 2026-08-22 | ✍️ CLA |
 | [Adding a pointer beside the bar rod.](https://github.com/imaNNeo/fl_chart/issues/1480) 💬 6 | [imaNNeo/fl_chart](https://github.com/imaNNeo/fl_chart) | 7.6k | 🟢 beginner | 2026-08-15 |  |
 | [Ente Auth iOS: slow unlock](https://github.com/ente/ente/issues/4749) 💬 10 | [ente/ente](https://github.com/ente/ente) | 29.1k | 🟢 beginner | 2026-08-11 |  |
 | [Add a method to check whether the platform supports dynamic theming](https://github.com/material-foundation/flutter-packages/issues/390) 💬 7 | [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages) | 862 | 🟡 help wanted | 2026-08-07 |  |
@@ -54,11 +55,12 @@
 | [Browers plugin? (eg. Firefox)](https://github.com/authpass/authpass/issues/41) 💬 13 | [authpass/authpass](https://github.com/authpass/authpass) | 2.8k | 🟡 help wanted | 2026-05-29 | ✍️ CLA |
 | [阅黑色背景右和下边会有一个白边](https://github.com/Anxcye/anx-reader/issues/93) 💬 4 | [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) | 8.9k | 🟡 help wanted | 2026-05-24 |  |
 | [feat: implement podcast sync api](https://github.com/ubuntu-flutter-community/musicpod/issues/36) 💬 6 | [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod) | 672 | 🟡 help wanted | 2026-05-20 |  |
+| [Add advanced repeater settings controls in app UI](https://github.com/zjs81/meshcore-open/issues/237) 💬 1 | [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) | 621 | 🟢 beginner | 2026-05-10 |  |
 | [[HDR] Linux - Native HDR Rendering Support](https://github.com/AimesSoft/NipaPlay-Reload/issues/423) | [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload) | 1.8k | 🟡 help wanted | 2026-05-05 |  |
 | [[HDR] Android - Native HDR Rendering Support](https://github.com/AimesSoft/NipaPlay-Reload/issues/421) | [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload) | 1.8k | 🟡 help wanted | 2026-05-05 |  |
-| [[UI/UX] Improve channel arragement](https://github.com/zjs81/meshcore-open/issues/70) | [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) | 619 | 🟢 beginner | 2026-05-05 |  |
+| [[UI/UX] Improve channel arragement](https://github.com/zjs81/meshcore-open/issues/70) | [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) | 621 | 🟢 beginner | 2026-05-05 |  |
 | [fix: 'shorebird preview' should detect/warn when targeting x86 devices](https://github.com/shorebirdtech/shorebird/issues/1173) 💬 11 | [shorebirdtech/shorebird](https://github.com/shorebirdtech/shorebird) | 3k | 🟢 beginner | 2026-05-03 |  |
 | [feat: Would like better usage information for 'aar' missing option](https://github.com/shorebirdtech/shorebird/issues/982) 💬 1 | [shorebirdtech/shorebird](https://github.com/shorebirdtech/shorebird) | 3k | 🟢 beginner | 2026-05-03 |  |
 | [Memory profile tables should scroll together](https://github.com/flutter/devtools/issues/9483) 💬 1 | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-05-03 | 📄 AI policy · ✍️ CLA |
-| [是否可以加入Komari api增加服务器](https://github.com/lollipopkit/flutter_server_box/issues/1144) 💬 1 | [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) | 8.7k | 🟡 help wanted | 2026-04-30 | ✍️ CLA |
+| [是否可以加入Komari api增加服务器](https://github.com/lollipopkit/flutter_server_box/issues/1144) 💬 1 | [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) | 8.8k | 🟡 help wanted | 2026-04-30 | ✍️ CLA |
 | [[User reported] Click on tags in the log events rows to filter by those tags](https://github.com/flutter/devtools/issues/9558) 💬 3 | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-04-22 | 📄 AI policy · ✍️ CLA |

@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/clojure.xml)
 
-> Updated automatically on **2026-09-27 21:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-28 12:35 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,7 +13,7 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Web Search Tool](https://github.com/editor-code-assistant/eca/issues/70) 💬 8 | [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) | 1k | 🟢 beginner | 2026-09-15 |  |
-| [Zombie chrome-headless processes created on element export](https://github.com/penpot/penpot/issues/10339) 💬 1 | [penpot/penpot](https://github.com/penpot/penpot) | 60.4k | 🟢 beginner | 2026-09-08 | 🤖 disclose AI use · 🔏 DCO |
+| [Zombie chrome-headless processes created on element export](https://github.com/penpot/penpot/issues/10339) 💬 1 | [penpot/penpot](https://github.com/penpot/penpot) | 60.5k | 🟢 beginner | 2026-09-08 | 🤖 disclose AI use · 🔏 DCO |
 | [Show when a subscription or alert was skipped because it was empty](https://github.com/metabase/metabase/issues/80736) 💬 4 | [metabase/metabase](https://github.com/metabase/metabase) | 49.4k | 🟢 beginner | 2026-09-08 | ✍️ CLA |
 | [Queries doesnt respect styled CSS tags](https://github.com/logseq/logseq/issues/6060) 💬 2 | [logseq/logseq](https://github.com/logseq/logseq) | 45.1k | 🟢 beginner | 2026-09-06 | ✍️ CLA |
 | [Hide parts of schema in OpenAPI spec](https://github.com/metosin/malli/issues/1309) 💬 1 | [metosin/malli](https://github.com/metosin/malli) | 1.8k | 🟡 help wanted | 2026-08-25 |  |

@@ -2,7 +2,7 @@
 
 **213** open issues (108 labeled for beginners) across **57** projects tagged with topics like `security`, `privacy`, `cryptography`, `encryption`, `authentication`, `oauth`.
 
-> Updated automatically on **2026-09-27 21:05 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-28 12:35 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,9 +10,12 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [fix(alpine): false positives for apk packages without an origin (o:) field](https://github.com/aquasecurity/trivy/issues/11322) | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 38.1k | 🟡 help wanted | 2026-09-28 |  |
+| [When OPENSSL_armcap is set then OPENSSL_armv8_rsa_neonized cannot be set.](https://github.com/openssl/openssl/issues/32994) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.8k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use · ✍️ CLA |
+| [Implement EVP_SKEY_get0_key_len function](https://github.com/openssl/openssl/issues/32998) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.8k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use · ✍️ CLA |
+| [Add indicator in assembly browser how many jumps/calls the user is from a reference point.](https://github.com/rizinorg/rizin/issues/6788) 💬 6 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-09-28 | 🤖 disclose AI use |
 | [openssl cms sign command does not support 'noattr' when 'digest' is used](https://github.com/openssl/openssl/issues/28743) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.8k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use · ✍️ CLA |
 | [Ability to add Guidepost as POI](https://github.com/organicmaps/organicmaps/issues/13636) | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.5k | 🟢 beginner | 2026-09-27 | 🔏 DCO |
-| [Add indicator in assembly browser how many jumps/calls the user is from a reference point.](https://github.com/rizinorg/rizin/issues/6788) 💬 3 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-09-27 | 🤖 disclose AI use |
 | [Investigate if other banners have the same behavior of /etc/motd banner as described in #11826](https://github.com/ComplianceAsCode/content/issues/11844) 💬 1 | [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) | 2.8k | 🟢 beginner | 2026-09-27 |  |
 | [Feature: Self-hosted sync server](https://github.com/simonoppowa/OpenNutriTracker/issues/79) 💬 5 | [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) | 2.6k | 🟡 help wanted | 2026-09-27 |  |
 | [Submit OpenNutriTracker to the F-Droid repository](https://github.com/simonoppowa/OpenNutriTracker/issues/575) 💬 4 | [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) | 2.6k | 🟢 beginner | 2026-09-27 |  |
@@ -37,7 +40,7 @@
 | [blocking/ blocked tasks](https://github.com/super-productivity/super-productivity/issues/4173) 💬 10 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.3k | 🟡 help wanted | 2026-09-24 |  |
 | [CalDAV Connection fails (android)](https://github.com/super-productivity/super-productivity/issues/3603) 💬 10 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.3k | 🟡 help wanted | 2026-09-23 |  |
 | [borg2 b24: benchmarking needed](https://github.com/borgbackup/borg/issues/10315) 💬 9 | [borgbackup/borg](https://github.com/borgbackup/borg) | 13.8k | 🟡 help wanted | 2026-09-23 |  |
-| [please support Chinese](https://github.com/LeanBitLab/LeanType/issues/235) 💬 6 | [LeanBitLab/LeanType](https://github.com/LeanBitLab/LeanType) | 999 | 🟡 help wanted | 2026-09-23 |  |
+| [please support Chinese](https://github.com/LeanBitLab/LeanType/issues/235) 💬 6 | [LeanBitLab/LeanType](https://github.com/LeanBitLab/LeanType) | 1k | 🟡 help wanted | 2026-09-23 |  |
 | [Let a CMP client require EnvelopedData (reject EncryptedValue) for centrally generated keys](https://github.com/openssl/openssl/issues/32797) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.8k | 🟡 help wanted | 2026-09-22 | 🤖 disclose AI use · ✍️ CLA |
 | [With external engine, getting DHE copy parameter's failure.](https://github.com/openssl/openssl/issues/23137) 💬 12 | [openssl/openssl](https://github.com/openssl/openssl) | 30.8k | 🟡 help wanted | 2026-09-21 | 🤖 disclose AI use · ✍️ CLA |
 | [💡 Add Youtrack as issue provider](https://github.com/super-productivity/super-productivity/issues/5733) 💬 5 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.3k | 🟡 help wanted | 2026-09-21 |  |
@@ -50,9 +53,6 @@
 | [macbook use Touch ID instead password](https://github.com/GyulyVGC/sniffnet/issues/1300) 💬 3 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 41.3k | 🟢 beginner | 2026-09-17 | 🤖 disclose AI use |
 | [Update speed tests to measure GPU performance for cuPQC code](https://github.com/open-quantum-safe/liboqs/issues/2160) 💬 42 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-09-16 |  |
 | [Debug Watchpoint does not support read write permission together](https://github.com/rizinorg/rizin/issues/6743) | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-09-15 | 🤖 disclose AI use |
-| [RFC 9919: OCSP with SHA-256](https://github.com/openssl/openssl/issues/32813) | [openssl/openssl](https://github.com/openssl/openssl) | 30.8k | 🟡 help wanted | 2026-09-13 | 🤖 disclose AI use · ✍️ CLA |
-| [Backport 0c2a196af8 (per-OSSL_LIB_CTX CONF storage) to 3.0-3.6: conf_ssl.c double-free still present in all re](https://github.com/openssl/openssl/issues/32804) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.8k | 🟡 help wanted | 2026-09-13 | 🤖 disclose AI use · ✍️ CLA |
-| [Support ECH SSLKEYLOGFILE](https://github.com/openssl/openssl/issues/31607) 💬 5 | [openssl/openssl](https://github.com/openssl/openssl) | 30.8k | 🟡 help wanted | 2026-09-12 | 🤖 disclose AI use · ✍️ CLA |
 | [[Feature]: InCallService - Add a option to whitelist allowed third-party apps package name](https://github.com/kitsumed/ShizuCallRecorder/issues/46) 💬 3 | [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) | 1.6k | 🟡 help wanted | 2026-09-11 | 🤖 disclose AI use |
 | [New audit: repojacking](https://github.com/zizmorcore/zizmor/issues/479) 💬 9 | [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) | 6.6k | 🟢 beginner | 2026-09-10 | 📄 AI policy |
 | [Add Bluesky and Mastodon to the Edit Place screen](https://github.com/organicmaps/organicmaps/issues/10142) 💬 6 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.5k | 🟢 beginner | 2026-09-09 | 🔏 DCO |
@@ -90,11 +90,11 @@
 | [create a nice logo / icon / favicon / ...](https://github.com/borgbackup/borg/issues/4690) 💬 10 | [borgbackup/borg](https://github.com/borgbackup/borg) | 13.8k | 🟡 help wanted | 2026-08-12 |  |
 | [Can you write github workflow files to generate executable files on the windows and linux platforms](https://github.com/vanhauser-thc/thc-hydra/issues/1017) 💬 5 | [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) | 12.3k | 🟡 help wanted | 2026-08-12 |  |
 | [Ente Auth iOS: slow unlock](https://github.com/ente/ente/issues/4749) 💬 10 | [ente/ente](https://github.com/ente/ente) | 29.1k | 🟢 beginner | 2026-08-11 |  |
-| [Simplify SecretInjection: drop basic_auth and query_params flags](https://github.com/superradcompany/microsandbox/issues/703) 💬 2 | [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 8.4k | 🟢 beginner | 2026-08-11 | 🔏 DCO |
-| [Support deepagents(langchain) backend](https://github.com/superradcompany/microsandbox/issues/1084) 💬 4 | [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 8.4k | 🟡 help wanted | 2026-08-11 | 🔏 DCO |
+| [Simplify SecretInjection: drop basic_auth and query_params flags](https://github.com/superradcompany/microsandbox/issues/703) 💬 2 | [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 8.5k | 🟢 beginner | 2026-08-11 | 🔏 DCO |
+| [Support deepagents(langchain) backend](https://github.com/superradcompany/microsandbox/issues/1084) 💬 4 | [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 8.5k | 🟡 help wanted | 2026-08-11 | 🔏 DCO |
 | [Samba integration](https://github.com/lldap/lldap/issues/599) 💬 32 | [lldap/lldap](https://github.com/lldap/lldap) | 6.5k | 🟡 help wanted | 2026-08-11 |  |
 | [Setup Onboarding Login-Flow (for Enforce 2FA)](https://github.com/WordPress/two-factor/issues/813) 💬 3 | [WordPress/two-factor](https://github.com/WordPress/two-factor) | 825 | 🟡 help wanted | 2026-08-10 | 🤖 disclose AI use |
-| [Scaled instances and the deletion problem](https://github.com/HaschekSolutions/pictshare/issues/80) 💬 8 | [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare) | 950 | 🟡 help wanted | 2026-08-09 |  |
+| [Scaled instances and the deletion problem](https://github.com/HaschekSolutions/pictshare/issues/80) 💬 8 | [HaschekSolutions/pictshare](https://github.com/HaschekSolutions/pictshare) | 951 | 🟡 help wanted | 2026-08-09 |  |
 | [[Feature Request]: Add Shuffle button within both YouTube and User Playlists](https://github.com/FreeTubeApp/FreeTube/issues/5618) 💬 10 | [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) | 22k | 🟢 beginner | 2026-08-06 |  |
 | [[Feature Request]: Have refresh timestamp on the subscriptions page update on an interval](https://github.com/FreeTubeApp/FreeTube/issues/5140) 💬 4 | [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) | 22k | 🟢 beginner | 2026-08-06 |  |
 | [[Feature Request]: Localise 'README.md'](https://github.com/FreeTubeApp/FreeTube/issues/3200) 💬 1 | [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) | 22k | 🟡 help wanted | 2026-08-06 |  |
@@ -142,7 +142,7 @@
 | [希望可以加入收藏功能](https://github.com/fregie/pho/issues/5) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 |  |
 | [可以支援繁體中文嗎?](https://github.com/fregie/pho/issues/76) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 |  |
 | [Make Wycheproof CI (network) failure resistant](https://github.com/open-quantum-safe/liboqs/issues/2495) 💬 2 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-07-28 |  |
-| [Expose ergonomic create_with_progress / create_detached_with_progress in the Rust SDK](https://github.com/superradcompany/microsandbox/issues/593) 💬 3 | [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 8.4k | 🟢 beginner | 2026-07-25 | 🔏 DCO |
+| [Expose ergonomic create_with_progress / create_detached_with_progress in the Rust SDK](https://github.com/superradcompany/microsandbox/issues/593) 💬 3 | [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 8.5k | 🟢 beginner | 2026-07-25 | 🔏 DCO |
 | [Emulation check for CVE-2026-24061 – GNU InetUtils telnetd Authentication Bypass Vulnerability](https://github.com/e-m-b-a/emba/issues/1905) 💬 1 | [e-m-b-a/emba](https://github.com/e-m-b-a/emba) | 3.7k | 🟢 beginner | 2026-07-23 |  |
 | [Feature request: Automatically scroll down for highlighted matches on large output data](https://github.com/gchq/CyberChef/issues/1386) 💬 2 | [gchq/CyberChef](https://github.com/gchq/CyberChef) | 36k | 🟡 help wanted | 2026-07-21 | 🤖 disclose AI use · ✍️ CLA |
 | [Support Falco running with sandboxed runtimes](https://github.com/falcosecurity/falco/issues/1413) 💬 59 | [falcosecurity/falco](https://github.com/falcosecurity/falco) | 9.4k | 🟡 help wanted | 2026-07-21 |  |
@@ -175,7 +175,7 @@
 | [Find functions that perform temporary seek from the API and refactor to use the offset argument if possible](https://github.com/rizinorg/rizin/issues/2906) 💬 3 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-14 | 🤖 disclose AI use |
 | [Specifying only Group Name and Version will not match VulnerableSoftware using the Internal Analyzer.](https://github.com/DependencyTrack/dependency-track/issues/2984) 💬 2 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.2k | 🟢 beginner | 2026-06-13 | ⚠️ AI restricted · 🔏 DCO |
 | [[3.x-migration] ApiController](https://github.com/MISP/MISP/issues/9382) 💬 2 | [MISP/MISP](https://github.com/MISP/MISP) | 6.6k | 🟢 beginner | 2026-06-12 | ✍️ CLA |
-| [FR: Add support for Synology RT2600 series routers and SRM platform](https://github.com/tailscale/tailscale/issues/5455) 💬 23 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | 36.9k | 🟡 help wanted | 2026-06-10 | 🔏 DCO |
+| [FR: Add support for Synology RT2600 series routers and SRM platform](https://github.com/tailscale/tailscale/issues/5455) 💬 23 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | 37k | 🟡 help wanted | 2026-06-10 | 🔏 DCO |
 | [Windows 7 API Extensions (VxKex)](https://github.com/ungoogled-software/ungoogled-chromium/issues/3811) 💬 2 | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.8k | 🟡 help wanted | 2026-06-10 |  |
 | [Enhance footer to include link to privacy policy](https://github.com/MISP/MISP/issues/3438) 💬 4 | [MISP/MISP](https://github.com/MISP/MISP) | 6.6k | 🟢 beginner | 2026-06-09 | ✍️ CLA |
 | [[Feature] MV2 Bypass in Chrome 151.X+](https://github.com/ungoogled-software/ungoogled-chromium/issues/3812) 💬 1 | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.8k | 🟡 help wanted | 2026-06-08 |  |
