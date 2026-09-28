@@ -1,10 +1,10 @@
 # Scala issues
 
-**29** open issues (15 labeled for beginners) across **18** active Scala projects.
+**28** open issues (15 labeled for beginners) across **17** active Scala projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/scala.xml)
 
-> Updated automatically on **2026-09-28 12:35 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-28 23:15 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -14,14 +14,13 @@
 | --- | --- | ---: | --- | --- | --- |
 | [Introduce a rewriting optimization for 'tup \\in S \\X T'](https://github.com/apalache-mc/apalache/issues/1931) 💬 5 | [apalache-mc/apalache](https://github.com/apalache-mc/apalache) | 604 | 🟢 beginner | 2026-09-27 | 🤖 disclose AI use · 🔏 DCO |
 | [Creating pull request via web API returns escaped response](https://github.com/gitbucket/gitbucket/issues/2306) 💬 7 | [gitbucket/gitbucket](https://github.com/gitbucket/gitbucket) | 9.4k | 🟡 help wanted | 2026-09-26 |  |
-| [UrlChecker can't see private on-prem repos: release notes and version diffs silently dropped](https://github.com/scala-steward-org/scala-steward/issues/4003) 💬 2 | [scala-steward-org/scala-steward](https://github.com/scala-steward-org/scala-steward) | 1.2k | 🟡 help wanted | 2026-09-24 |  |
 | [[BUG] rounding doubles floats can result in -0.0 result](https://github.com/NVIDIA/cudf-spark/issues/9349) 💬 1 | [NVIDIA/cudf-spark](https://github.com/NVIDIA/cudf-spark) | 1k | 🟢 beginner | 2026-09-19 | 🤖 disclose AI use · 🔏 DCO |
 | [Unable to create a routes file with same name as a method in Predef](https://github.com/playframework/playframework/issues/10204) 💬 7 | [playframework/playframework](https://github.com/playframework/playframework) | 12.6k | 🟡 help wanted | 2026-09-18 |  |
 | [EntityDecoder MediaRange translation](https://github.com/http4s/http4s/issues/4973) 💬 11 | [http4s/http4s](https://github.com/http4s/http4s) | 2.6k | 🟢 beginner | 2026-09-05 |  |
 | [[FEATURE] Extract kyuubiClientPrincipal/kyuubiClientKeytab from JDBC connection properties](https://github.com/apache/kyuubi/issues/6689) 💬 1 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-08-31 | 🤖 disclose AI use · ✍️ CLA |
-| [[feature]: Make methods like 'Kyo.collectAll' available in objects like 'Sync'](https://github.com/getkyo/kyo/issues/1640) 💬 2 | [getkyo/kyo](https://github.com/getkyo/kyo) | 813 | 🟢 beginner | 2026-08-28 |  |
-| [[actor] Opt-in per-actor dead-letter queue for unprocessed messages on shutdown](https://github.com/getkyo/kyo/issues/1690) | [getkyo/kyo](https://github.com/getkyo/kyo) | 813 | 🟡 help wanted | 2026-08-28 |  |
-| [[feature]: Kerberos auth for kyo-sql-postgres](https://github.com/getkyo/kyo/issues/1841) | [getkyo/kyo](https://github.com/getkyo/kyo) | 813 | 🟡 help wanted | 2026-08-28 |  |
+| [[feature]: Make methods like 'Kyo.collectAll' available in objects like 'Sync'](https://github.com/getkyo/kyo/issues/1640) 💬 2 | [getkyo/kyo](https://github.com/getkyo/kyo) | 814 | 🟢 beginner | 2026-08-28 |  |
+| [[actor] Opt-in per-actor dead-letter queue for unprocessed messages on shutdown](https://github.com/getkyo/kyo/issues/1690) | [getkyo/kyo](https://github.com/getkyo/kyo) | 814 | 🟡 help wanted | 2026-08-28 |  |
+| [[feature]: Kerberos auth for kyo-sql-postgres](https://github.com/getkyo/kyo/issues/1841) | [getkyo/kyo](https://github.com/getkyo/kyo) | 814 | 🟡 help wanted | 2026-08-28 |  |
 | [OrganizeImports: regex alternation (\|) in groups config doesn't match imports correctly](https://github.com/scalacenter/scalafix/issues/2477) 💬 4 | [scalacenter/scalafix](https://github.com/scalacenter/scalafix) | 875 | 🟢 beginner | 2026-08-27 |  |
 | [Board editor: possibly disable 960 Castling in standard](https://github.com/lichess-org/lila/issues/12926) 💬 9 | [lichess-org/lila](https://github.com/lichess-org/lila) | 18.8k | 🟢 beginner | 2026-08-15 | 🤖 disclose AI use |
 | [Clean constructor parameters for 'Indexer' and 'ScalaCli'](https://github.com/scalameta/metals/issues/4788) 💬 6 | [scalameta/metals](https://github.com/scalameta/metals) | 2.3k | 🟢 beginner | 2026-08-12 |  |
