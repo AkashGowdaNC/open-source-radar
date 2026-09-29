@@ -1,10 +1,10 @@
 # Nix issues
 
-**14** open issues (8 labeled for beginners) across **9** active Nix projects.
+**15** open issues (9 labeled for beginners) across **9** active Nix projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/nix.xml)
 
-> Updated automatically on **2026-09-29 12:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-29 22:18 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Bind services to loopback only by default](https://github.com/kiriwalawren/nixflix/issues/364) | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 582 | 🟢 beginner | 2026-09-29 |  |
 | [Lidarr: Create metadata tags configuration service](https://github.com/kiriwalawren/nixflix/issues/335) 💬 1 | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 582 | 🟢 beginner | 2026-09-25 |  |
 | [Navidrome: add lyrics plugin](https://github.com/kiriwalawren/nixflix/issues/334) | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 582 | 🟢 beginner | 2026-09-25 |  |
 | [Integrate autobrr](https://github.com/kiriwalawren/nixflix/issues/359) 💬 1 | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 582 | 🟢 beginner | 2026-09-25 |  |

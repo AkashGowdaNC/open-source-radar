@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/julia.xml)
 
-> Updated automatically on **2026-09-29 12:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-29 22:18 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -14,7 +14,7 @@
 | --- | --- | ---: | --- | --- | --- |
 | [Conjugate heat transfer, requires implementation of new temperature scalar transport equation](https://github.com/WaterLily-jl/WaterLily.jl/issues/172) 💬 15 | [WaterLily-jl/WaterLily.jl](https://github.com/WaterLily-jl/WaterLily.jl) | 846 | 🟡 help wanted | 2026-09-27 |  |
 | [Legend entries are in wrong order for areaplot](https://github.com/JuliaPlots/Plots.jl/issues/5029) 💬 1 | [JuliaPlots/Plots.jl](https://github.com/JuliaPlots/Plots.jl) | 2k | 🟢 beginner | 2026-09-20 |  |
-| [Missing Rmath derivatives](https://github.com/EnzymeAD/Enzyme.jl/issues/1620) 💬 2 | [EnzymeAD/Enzyme.jl](https://github.com/EnzymeAD/Enzyme.jl) | 588 | 🟡 help wanted | 2026-09-14 |  |
+| [Missing Rmath derivatives](https://github.com/EnzymeAD/Enzyme.jl/issues/1620) 💬 2 | [EnzymeAD/Enzyme.jl](https://github.com/EnzymeAD/Enzyme.jl) | 589 | 🟡 help wanted | 2026-09-14 |  |
 | [Can't turn off range and indexing parentheses](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues/877) 💬 1 | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl) | 644 | 🟢 beginner | 2026-09-10 |  |
 | [Utilize DocumenterCodeblocks.jl in all subpackages of the ecosystem](https://github.com/JuliaDynamics/DynamicalSystems.jl/issues/270) | [JuliaDynamics/DynamicalSystems.jl](https://github.com/JuliaDynamics/DynamicalSystems.jl) | 952 | 🟢 beginner | 2026-08-18 |  |
 | [Functional equivalents missing for some layers](https://github.com/FluxML/Flux.jl/issues/2013) 💬 4 | [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) | 4.8k | 🟢 beginner | 2026-08-12 |  |
@@ -26,7 +26,7 @@
 | [Testing apps should ideally upload the app somewhere and then download it on another machine which doesn't hav](https://github.com/JuliaLang/PackageCompiler.jl/issues/322) 💬 5 | [JuliaLang/PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl) | 1.6k | 🟡 help wanted | 2026-07-31 |  |
 | [More refined handling of (top-level) semicolons](https://github.com/JuliaEditorSupport/JuliaFormatter.jl/issues/1239) 💬 1 | [JuliaEditorSupport/JuliaFormatter.jl](https://github.com/JuliaEditorSupport/JuliaFormatter.jl) | 644 | 🟢 beginner | 2026-07-26 |  |
 | [CI job to push automated fixes to PRs](https://github.com/JuliaDocs/Documenter.jl/issues/2229) 💬 6 | [JuliaDocs/Documenter.jl](https://github.com/JuliaDocs/Documenter.jl) | 919 | 🟢 beginner | 2026-07-23 | 🤖 disclose AI use |
-| [API for Hessian](https://github.com/EnzymeAD/Enzyme.jl/issues/1495) 💬 3 | [EnzymeAD/Enzyme.jl](https://github.com/EnzymeAD/Enzyme.jl) | 588 | 🟢 beginner | 2026-07-20 |  |
+| [API for Hessian](https://github.com/EnzymeAD/Enzyme.jl/issues/1495) 💬 3 | [EnzymeAD/Enzyme.jl](https://github.com/EnzymeAD/Enzyme.jl) | 589 | 🟢 beginner | 2026-07-20 |  |
 | [Some Projects that are Available for Future Work](https://github.com/QuantEcon/QuantEcon.jl/issues/83) 💬 16 | [QuantEcon/QuantEcon.jl](https://github.com/QuantEcon/QuantEcon.jl) | 554 | 🟡 help wanted | 2026-07-15 |  |
 | [Provide interpolation function 'f(x, y)' for user-driven postprocessing of results](https://github.com/trixi-framework/Trixi.jl/issues/1291) 💬 4 | [trixi-framework/Trixi.jl](https://github.com/trixi-framework/Trixi.jl) | 733 | 🟢 beginner | 2026-07-13 | 🤖 disclose AI use · 🔏 DCO |
 | [Implement '@formula' support in 'Kriging' model](https://github.com/JuliaEarth/GeoStats.jl/issues/573) 💬 2 | [JuliaEarth/GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) | 591 | 🟡 help wanted | 2026-07-04 |  |

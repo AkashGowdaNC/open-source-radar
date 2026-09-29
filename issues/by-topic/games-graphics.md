@@ -1,8 +1,8 @@
 # Games and graphics issues
 
-**151** open issues (82 labeled for beginners) across **51** projects tagged with topics like `game`, `game-engine`, `gamedev`, `graphics`, `opengl`, `vulkan`.
+**149** open issues (81 labeled for beginners) across **51** projects tagged with topics like `game`, `game-engine`, `gamedev`, `graphics`, `opengl`, `vulkan`.
 
-> Updated automatically on **2026-09-29 12:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-29 22:18 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,10 +10,12 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Sketcher: Carbon copying a non-parallel sketch has incorrect help text on macOS](https://github.com/FreeCAD/FreeCAD/issues/19935) 💬 6 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟢 beginner | 2026-09-29 | ⚠️ AI restricted |
+| [PartDesign: Pad generates a surface artifact if it crosses plane (due to Angular Deflection & Deviation settin](https://github.com/FreeCAD/FreeCAD/issues/16257) 💬 8 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟢 beginner | 2026-09-29 | ⚠️ AI restricted |
 | [STEP: Crash when loading NUC12STEP file (linked)](https://github.com/FreeCAD/FreeCAD/issues/14565) 💬 12 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟡 help wanted | 2026-09-29 | ⚠️ AI restricted |
+| [WC: improve name generation](https://github.com/wesnoth/wesnoth/issues/9127) 💬 5 | [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) | 6.9k | 🟢 beginner | 2026-09-29 |  |
 | [docs: provide a cargo-generate starter template](https://github.com/tracel-ai/burn/issues/282) 💬 8 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟢 beginner | 2026-09-28 |  |
 | [Remove Safari 9 WebGL constants workaround](https://github.com/CesiumGS/cesium/issues/5315) 💬 3 | [CesiumGS/cesium](https://github.com/CesiumGS/cesium) | 15.8k | 🟢 beginner | 2026-09-28 | ✍️ CLA |
-| [WC: improve name generation](https://github.com/wesnoth/wesnoth/issues/9127) 💬 5 | [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) | 6.9k | 🟢 beginner | 2026-09-28 |  |
 | [tests-run: TotalTests ignores all filters (counts entire test tree)](https://github.com/IvanMurzak/Unity-MCP/issues/950) 💬 3 | [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) | 4.4k | 🟡 help wanted | 2026-09-28 |  |
 | [Broken geometry exporting a solid derived from an arc of ellipse to a step file](https://github.com/FreeCAD/FreeCAD/issues/14447) 💬 6 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟡 help wanted | 2026-09-27 | ⚠️ AI restricted |
 | [[p5.js 2.0+ Bug Report]: Floats in strands shaders are always rounded to 4 decimals](https://github.com/processing/p5.js/issues/8884) 💬 16 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-27 | ⚠️ AI restricted |
@@ -55,10 +57,6 @@
 | [Add support for glTF KHR_materials_pbrSpecularGlossiness (Bee.glb not working)](https://github.com/f3d-app/f3d/issues/943) 💬 13 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.7k | 🟡 help wanted | 2026-09-17 | 🤖 disclose AI use |
 | [Is there a way to disable thumbnail generation for specific filetypes?](https://github.com/f3d-app/f3d/issues/2917) 💬 3 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.7k | 🟡 help wanted | 2026-09-17 | 🤖 disclose AI use |
 | [BIM: Arch_Space label cannot be rotated](https://github.com/FreeCAD/FreeCAD/issues/18952) 💬 3 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟢 beginner | 2026-09-16 | ⚠️ AI restricted |
-| [BIM: Auto section/elev marks from section plane](https://github.com/FreeCAD/FreeCAD/issues/5739) 💬 5 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟢 beginner | 2026-09-16 | ⚠️ AI restricted |
-| [BIM: Implement GBXML export](https://github.com/FreeCAD/FreeCAD/issues/5654) 💬 1 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟢 beginner | 2026-09-16 | ⚠️ AI restricted |
-| [BIM: Support material properties in IFC](https://github.com/FreeCAD/FreeCAD/issues/5657) 💬 3 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟡 help wanted | 2026-09-16 | ⚠️ AI restricted |
-| [Stylesheet: UI/UX Cropped Title on popup while checking geometry with threads (Linux)](https://github.com/FreeCAD/FreeCAD/issues/17542) 💬 14 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟢 beginner | 2026-09-16 | ⚠️ AI restricted |
 | [[TRACKER] Potential Development Halting Issues.](https://github.com/FlaxEngine/FlaxEngine/issues/2220) 💬 6 | [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) | 7k | 🟡 help wanted | 2026-09-15 |  |
 | [ARC B580 - Menus are sluggish in the redot editor.](https://github.com/Redot-Engine/redot-engine/issues/921) 💬 9 | [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) | 6.1k | 🟡 help wanted | 2026-09-14 | ⚠️ AI restricted |
 | [Support for .NIF (NetImmerse File)](https://github.com/f3d-app/f3d/issues/3478) 💬 1 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.7k | 🟡 help wanted | 2026-09-14 | 🤖 disclose AI use |
@@ -66,7 +64,7 @@
 | [[BUG]: TOZEROY FILL IS FILLING AREAS OF THE PLOT THAT HAS NO DATA IN IT](https://github.com/plotly/plotly.py/issues/5632) 💬 9 | [plotly/plotly.py](https://github.com/plotly/plotly.py) | 18.8k | 🟢 beginner | 2026-09-12 |  |
 | [all *.json files are interpreted as objects](https://github.com/OpenRCT2/OpenRCT2/issues/16807) 💬 3 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.3k | 🟢 beginner | 2026-09-12 |  |
 | [[2.x] Tracking issue for RID-related binary loading issues on Linux](https://github.com/dotnet/Silk.NET/issues/2610) 💬 2 | [dotnet/Silk.NET](https://github.com/dotnet/Silk.NET) | 5.2k | 🟢 beginner | 2026-09-10 | ✍️ CLA |
-| [[BUG]: Background image is rendered at an incorrect size after box zoom followed by mouse wheel zoom out](https://github.com/plotly/plotly.js/issues/7914) 💬 8 | [plotly/plotly.js](https://github.com/plotly/plotly.js) | 18.3k | 🟢 beginner | 2026-09-09 | ⚠️ AI restricted |
+| [[BUG]: Background image is rendered at an incorrect size after box zoom followed by mouse wheel zoom out](https://github.com/plotly/plotly.js/issues/7914) 💬 8 | [plotly/plotly.js](https://github.com/plotly/plotly.js) | 18.4k | 🟢 beginner | 2026-09-09 | ⚠️ AI restricted |
 | [When you change the objective in a scenario that you have already failed it does not remove the failed objecti](https://github.com/OpenRCT2/OpenRCT2/issues/16510) 💬 4 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.3k | 🟢 beginner | 2026-09-09 |  |
 | [Character component with complex collider throws exception and crashes program](https://github.com/stride3d/stride/issues/1177) 💬 3 | [stride3d/stride](https://github.com/stride3d/stride) | 7.8k | 🟢 beginner | 2026-09-08 |  |
 | [AddReferenceViewModel duplicate key exception when viewing entity](https://github.com/stride3d/stride/issues/2785) 💬 5 | [stride3d/stride](https://github.com/stride3d/stride) | 7.8k | 🟢 beginner | 2026-09-08 |  |
@@ -74,7 +72,7 @@
 | [Add option for voice over language](https://github.com/diasurgical/DevilutionX/issues/5742) 💬 2 | [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) | 9.8k | 🟢 beginner | 2026-09-06 |  |
 | [Do not offer "free entry to park" or "half-price entry to park" if there is no admission fee](https://github.com/OpenRCT2/OpenRCT2/issues/14778) 💬 3 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.3k | 🟢 beginner | 2026-08-30 |  |
 | [Arabic language support](https://github.com/yairm210/Unciv/issues/14955) 💬 4 | [yairm210/Unciv](https://github.com/yairm210/Unciv) | 11.4k | 🟡 help wanted | 2026-08-30 |  |
-| [[Feature Request] Support line styles in Scattermapbox](https://github.com/plotly/plotly.js/issues/6791) 💬 12 | [plotly/plotly.js](https://github.com/plotly/plotly.js) | 18.3k | 🟢 beginner | 2026-08-28 | ⚠️ AI restricted |
+| [[Feature Request] Support line styles in Scattermapbox](https://github.com/plotly/plotly.js/issues/6791) 💬 12 | [plotly/plotly.js](https://github.com/plotly/plotly.js) | 18.4k | 🟢 beginner | 2026-08-28 | ⚠️ AI restricted |
 | [Add prompt for the delete keybinding controller button in the keybindings menu](https://github.com/Revolutionary-Games/Thrive/issues/4049) 💬 17 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.7k | 🟢 beginner | 2026-08-25 |  |
 | [Create a cross platform pty crate](https://github.com/alacritty/alacritty/issues/2079) 💬 10 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 65.9k | 🟡 help wanted | 2026-08-19 |  |
 | [Irrelevant error message from 'PerInstanceColorAppearance'](https://github.com/CesiumGS/cesium/issues/12107) 💬 6 | [CesiumGS/cesium](https://github.com/CesiumGS/cesium) | 15.8k | 🟢 beginner | 2026-08-19 | ✍️ CLA |

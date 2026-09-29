@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/css.xml)
 
-> Updated automatically on **2026-09-29 12:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-29 22:18 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Fork, Commit, Merge - Easy Issue (Next.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8103) 💬 1 | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 510 | 🟢 beginner | 2026-09-29 |  |
 | [Add an OpenType Math version: Source Serif Pro Math](https://github.com/adobe-fonts/source-serif/issues/13) 💬 23 | [adobe-fonts/source-serif](https://github.com/adobe-fonts/source-serif) | 2.4k | 🟡 help wanted | 2026-09-17 |  |
 | [Fork, Commit, Merge - Medium Issue 2 (React.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8091) 💬 1 | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 510 | 🟢 beginner | 2026-09-01 |  |
 | [Fork, Commit, Merge - Medium Issue (Docker)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8112) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 510 | 🟢 beginner | 2026-09-01 |  |
@@ -21,7 +22,6 @@
 | [Fork, Commit, Merge - Easy Issue (Solid.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8108) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 510 | 🟢 beginner | 2026-09-01 |  |
 | [Fork, Commit, Merge - Easy Issue 3 (PHP)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8106) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 510 | 🟢 beginner | 2026-09-01 |  |
 | [Fork, Commit, Merge - Easy Issue 2 (PHP)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8104) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 510 | 🟢 beginner | 2026-09-01 |  |
-| [Fork, Commit, Merge - Easy Issue (Next.js)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8103) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 510 | 🟢 beginner | 2026-09-01 |  |
 | [Fork, Commit, Merge - Easy Issue 3 (Dart)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8101) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 510 | 🟢 beginner | 2026-09-01 |  |
 | [Fork, Commit, Merge - Easy Issue 2 (Dart)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8100) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 510 | 🟢 beginner | 2026-09-01 |  |
 | [Fork, Commit, Merge - Easy Issue 1 (Dart)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8095) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 510 | 🟢 beginner | 2026-09-01 |  |
@@ -31,4 +31,4 @@
 | [Link Checker Report](https://github.com/data-engineering-community/data-engineering-wiki/issues/148) | [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) | 2k | 🟢 beginner | 2026-05-11 | ⚠️ AI restricted |
 | [Possible new sections or chapters](https://github.com/rust-lang/nomicon/issues/269) 💬 1 | [rust-lang/nomicon](https://github.com/rust-lang/nomicon) | 2.3k | 🟡 help wanted | 2026-05-05 |  |
 | [Link Checker Report](https://github.com/data-engineering-community/data-engineering-wiki/issues/147) | [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) | 2k | 🟢 beginner | 2026-05-04 | ⚠️ AI restricted |
-| [Dark mode illustrations could use some work](https://github.com/learnyouahaskell/learnyouahaskell.github.io/issues/152) 💬 1 | [learnyouahaskell/learnyouahaskell.github.io](https://github.com/learnyouahaskell/learnyouahaskell.github.io) | 609 | 🟡 help wanted | 2026-05-03 |  |
+| [Dark mode illustrations could use some work](https://github.com/learnyouahaskell/learnyouahaskell.github.io/issues/152) 💬 1 | [learnyouahaskell/learnyouahaskell.github.io](https://github.com/learnyouahaskell/learnyouahaskell.github.io) | 610 | 🟡 help wanted | 2026-05-03 |  |

@@ -1,8 +1,8 @@
 # Web development issues
 
-**282** open issues (124 labeled for beginners) across **111** projects tagged with topics like `web`, `frontend`, `react`, `vue`, `svelte`, `angular`.
+**286** open issues (124 labeled for beginners) across **110** projects tagged with topics like `web`, `frontend`, `react`, `vue`, `svelte`, `angular`.
 
-> Updated automatically on **2026-09-29 12:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-29 22:18 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,17 +10,20 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [[Bug]: Product media edit continues after a failed upload and hides the server's error](https://github.com/medusajs/medusa/issues/17059) 💬 5 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.5k | 🟢 beginner | 2026-09-29 |  |
+| [[Bug]: Promotion edit form silently swallows server errors (no toast, no message)](https://github.com/medusajs/medusa/issues/17069) 💬 5 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.5k | 🟢 beginner | 2026-09-29 |  |
 | [[🐞]Netlify deployment fails with Bun: 'SyntaxError: Unexpected token ':'' during "Edge Functions bundling"](https://github.com/QwikDev/qwik/issues/8113) 💬 3 | [QwikDev/qwik](https://github.com/QwikDev/qwik) | 22.1k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
 | [[📖] useServerData (in v2)](https://github.com/QwikDev/qwik/issues/7955) 💬 1 | [QwikDev/qwik](https://github.com/QwikDev/qwik) | 22.1k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
 | [[📖] explain uncontrolled vs controlled components](https://github.com/QwikDev/qwik/issues/6336) 💬 5 | [QwikDev/qwik](https://github.com/QwikDev/qwik) | 22.1k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
 | [[📖] How to debug Big js chunks on build](https://github.com/QwikDev/qwik/issues/6836) 💬 2 | [QwikDev/qwik](https://github.com/QwikDev/qwik) | 22.1k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
+| [[Bug]: Dropdown selector shows unexpected border on selected item](https://github.com/carbon-design-system/carbon/issues/20774) 💬 3 | [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) | 9.5k | 🟡 help wanted | 2026-09-29 | 🔏 DCO |
+| [[Feedback]: UI Shell is way too complicated and not really documented](https://github.com/carbon-design-system/carbon/issues/19715) 💬 6 | [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) | 9.5k | 🟡 help wanted | 2026-09-29 | 🔏 DCO |
+| [Prevent ProgressService mutation timeouts from hanging Infection](https://github.com/LibreSign/libresign/issues/8898) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 827 | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · 🔏 DCO |
+| [Integrate StrykerJS with the existing Vitest setup](https://github.com/LibreSign/libresign/issues/8811) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 827 | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · 🔏 DCO |
 | [🚀 Feature Request: CopilotChat support @ context](https://github.com/CopilotKit/CopilotKit/issues/1962) 💬 10 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 37.6k | 🟡 help wanted | 2026-09-28 |  |
-| [A searched build badged "Won't fit" still offers Download and then fails](https://github.com/MODSetter/SurfSense/issues/2012) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [Confirm whether an installed '.deb' auto-updates, and document the answer](https://github.com/MODSetter/SurfSense/issues/2011) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [/sunset omits the deletion date, the refund offer and the MCP change](https://github.com/MODSetter/SurfSense/issues/2009) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [Account export has no size warning and no timeout](https://github.com/MODSetter/SurfSense/issues/2006) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
-| [Test the guards on the hosted account purge script](https://github.com/MODSetter/SurfSense/issues/2004) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
-| [A format added to 'formats.py' is not offered until the frontend lists it](https://github.com/MODSetter/SurfSense/issues/2002) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟢 beginner | 2026-09-28 |  |
 | [A podcast artifact is WAV; the bundled ffmpeg for MP3 is not built](https://github.com/MODSetter/SurfSense/issues/2001) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [Studio truncates a large selection instead of retrieving over it](https://github.com/MODSetter/SurfSense/issues/2000) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [Studio's Office formats run model-written Python unsandboxed in the worker](https://github.com/MODSetter/SurfSense/issues/1999) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
@@ -29,25 +32,29 @@
 | [No test proves a PDF parses with networking disabled](https://github.com/MODSetter/SurfSense/issues/1995) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [Gate 'build-sdcpp.yml' on the staged sd-server generating a real image](https://github.com/MODSetter/SurfSense/issues/1994) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [Subscribe to the workspace event stream instead of polling every 1.5s](https://github.com/MODSetter/SurfSense/issues/1992) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
-| [Give 'LlamaCppProvider' an 'inspect()' so 'from_llamacpp()' is used](https://github.com/MODSetter/SurfSense/issues/1989) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟢 beginner | 2026-09-28 |  |
-| [Key the prompt-tier fallback on a loopback host, not the provider name](https://github.com/MODSetter/SurfSense/issues/1987) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
+| [Release CI checks the packaged 'llama-server' only on Linux](https://github.com/MODSetter/SurfSense/issues/1986) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
+| [The startup model warm is thrown away by the preset watcher's restart](https://github.com/MODSetter/SurfSense/issues/1985) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
+| ['SurfSense.deb' declares no dependency on the Vulkan loader](https://github.com/MODSetter/SurfSense/issues/1984) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
+| [Models are browsed by source, not one list with Source and Capability filters](https://github.com/MODSetter/SurfSense/issues/1983) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
+| [A podcast refuses on a tight machine rather than voicing at a smaller chunk](https://github.com/MODSetter/SurfSense/issues/1982) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
+| [An image row reads In use before sd-server has started on it](https://github.com/MODSetter/SurfSense/issues/1981) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
+| [The model screen never marks the local runtime unavailable](https://github.com/MODSetter/SurfSense/issues/1980) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [Allow content inside MudDivider](https://github.com/MudBlazor/MudBlazor/issues/7212) 💬 4 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-09-28 |  |
 | [reinforce(gspo) training didn't yield any improments](https://github.com/unslothai/unsloth/issues/3485) 💬 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77k | 🟡 help wanted | 2026-09-27 |  |
 | [[p5.js 2.0+ Bug Report]: Floats in strands shaders are always rounded to 4 decimals](https://github.com/processing/p5.js/issues/8884) 💬 16 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-27 | ⚠️ AI restricted |
 | [Multi-Key Deadlocks & Silent Key Leakage on Acquisition Timeout in 'RedisLockingProvider'](https://github.com/medusajs/medusa/issues/16995) 💬 1 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.5k | 🟡 help wanted | 2026-09-25 |  |
 | [[Bug]: '@medusajs/test-utils': database credentials are captured at module load, ignoring runner 'env'](https://github.com/medusajs/medusa/issues/16272) 💬 4 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.5k | 🟡 help wanted | 2026-09-25 |  |
 | [[p5.js 2.0+ Bug Report]: computeNormals(SMOOTH) destroys uv attribute](https://github.com/processing/p5.js/issues/9205) 💬 2 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-25 | ⚠️ AI restricted |
-| [Implement a Queue - Unmentioned/Circular Dependencies Between Tests](https://github.com/freeCodeCamp/freeCodeCamp/issues/70332) 💬 1 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 456.5k | 🟡 help wanted | 2026-09-24 |  |
-| [Register Signature Rejection in Policy Workbench and add flow tests](https://github.com/LibreSign/libresign/issues/8689) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 826 | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
-| [Add the Signature Rejection Policy Workbench module](https://github.com/LibreSign/libresign/issues/8688) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 826 | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
-| [Generate a reproducible report of past LibreSign contributors](https://github.com/LibreSign/libresign/issues/8678) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 826 | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
+| [Register Signature Rejection in Policy Workbench and add flow tests](https://github.com/LibreSign/libresign/issues/8689) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 827 | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
+| [Add the Signature Rejection Policy Workbench module](https://github.com/LibreSign/libresign/issues/8688) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 827 | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
+| [Generate a reproducible report of past LibreSign contributors](https://github.com/LibreSign/libresign/issues/8678) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 827 | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
 | [noiseMode(SIMPLEX) add-on library](https://github.com/processing/p5.js/issues/6152) 💬 20 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-22 | ⚠️ AI restricted |
 | [TS: Statement after top-level 'await' is duplicated with 'typescript' parser](https://github.com/prettier/prettier/issues/20096) 💬 3 | [prettier/prettier](https://github.com/prettier/prettier) | 52.3k | 🟡 help wanted | 2026-09-21 | 📄 AI policy |
 | [Dark mode on the playground](https://github.com/rjsf-team/react-jsonschema-form/issues/4856) 💬 5 | [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) | 15.9k | 🟡 help wanted | 2026-09-21 |  |
-| [List LibreSign in beginner-friendly open source directories](https://github.com/LibreSign/libresign/issues/8284) 💬 5 | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 826 | 🟢 beginner | 2026-09-21 | 🤖 disclose AI use · 🔏 DCO |
+| [List LibreSign in beginner-friendly open source directories](https://github.com/LibreSign/libresign/issues/8284) 💬 5 | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 827 | 🟢 beginner | 2026-09-21 | 🤖 disclose AI use · 🔏 DCO |
 | [Floating Promise Anti-Pattern & Premature Caret in Multi-Block Paste](https://github.com/codex-team/editor.js/issues/3032) 💬 1 | [codex-team/editor.js](https://github.com/codex-team/editor.js) | 32k | 🟢 beginner | 2026-09-20 |  |
 | [Corrupt-delete file](https://github.com/TeamAmaze/AmazeFileManager/issues/4721) 💬 8 | [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) | 6.4k | 🟡 help wanted | 2026-09-20 |  |
-| [Show a SELinux hint when Java execution is blocked](https://github.com/LibreSign/libresign/issues/3227) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 826 | 🟢 beginner | 2026-09-20 | 🤖 disclose AI use · 🔏 DCO |
+| [Show a SELinux hint when Java execution is blocked](https://github.com/LibreSign/libresign/issues/3227) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 827 | 🟢 beginner | 2026-09-20 | 🤖 disclose AI use · 🔏 DCO |
 | [🚀 Feature: Add OneSignal as a Messaging provider](https://github.com/appwrite/appwrite/issues/7726) 💬 9 | [appwrite/appwrite](https://github.com/appwrite/appwrite) | 57.5k | 🟡 help wanted | 2026-09-19 |  |
 | [A false positive FES error on function "loadModel"](https://github.com/processing/p5.js/issues/9176) 💬 8 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟢 beginner | 2026-09-18 | ⚠️ AI restricted |
 | [Feature Request: Implement collapse button for array form items](https://github.com/rjsf-team/react-jsonschema-form/issues/2193) 💬 5 | [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) | 15.9k | 🟡 help wanted | 2026-09-18 |  |
@@ -128,7 +135,7 @@
 | [FR: Add 'popoverProps' property to 'TruncatedFormatProps'](https://github.com/palantir/blueprint/issues/6667) 💬 2 | [palantir/blueprint](https://github.com/palantir/blueprint) | 22.1k | 🟡 help wanted | 2026-08-31 |  |
 | [Document meaning of pemWorkDirectory](https://github.com/jetty/jetty.project/issues/12795) 💬 3 | [jetty/jetty.project](https://github.com/jetty/jetty.project) | 4.1k | 🟡 help wanted | 2026-08-31 |  |
 | [Add the ability to customize the notification on mobile](https://github.com/grimmory-tools/grimmory/issues/836) 💬 1 | [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory) | 4.4k | 🟢 beginner | 2026-08-30 | 🤖 disclose AI use |
-| ["Polls closing soon" gives confusing notification when pressing its refresh button](https://github.com/bonfire-networks/bonfire-app/issues/2243) | [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) | 945 | 🟢 beginner | 2026-08-29 |  |
+| ["Polls closing soon" gives confusing notification when pressing its refresh button](https://github.com/bonfire-networks/bonfire-app/issues/2243) | [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) | 943 | 🟢 beginner | 2026-08-29 |  |
 | [CPU usage of "Mattermost Helper" on Mac Desktop app spikes with animated GIFs in view on Mattermost](https://github.com/mattermost/mattermost/issues/24689) 💬 28 | [mattermost/mattermost](https://github.com/mattermost/mattermost) | 39.2k | 🟡 help wanted | 2026-08-28 |  |
 | [[To Do] Add visual regression (Backstop) tests to Less](https://github.com/less/less.js/issues/3262) 💬 5 | [less/less.js](https://github.com/less/less.js) | 17k | 🟢 beginner | 2026-08-27 |  |
 | [Need support for mutually exclusive / multi-way settings](https://github.com/Automattic/harper/issues/2396) 💬 2 | [Automattic/harper](https://github.com/Automattic/harper) | 16k | 🟡 help wanted | 2026-08-27 | 🤖 disclose AI use |
@@ -161,16 +168,13 @@
 | [Custom SVG Icon Size Limitation in MudNavLink](https://github.com/MudBlazor/MudBlazor/issues/6491) 💬 1 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-08-15 |  |
 | [Filter tls options](https://github.com/nodejs/undici/issues/236) 💬 7 | [nodejs/undici](https://github.com/nodejs/undici) | 7.7k | 🟢 beginner | 2026-08-14 |  |
 | [Extra vertical space in static ColorPicker with small palettes](https://github.com/MudBlazor/MudBlazor/issues/9131) 💬 1 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-08-13 |  |
-| [Replace raw form inputs with shared input components in the dotcom client](https://github.com/tldraw/tldraw/issues/9191) 💬 6 | [tldraw/tldraw](https://github.com/tldraw/tldraw) | 50.6k | 🟢 beginner | 2026-08-11 |  |
+| [Replace raw form inputs with shared input components in the dotcom client](https://github.com/tldraw/tldraw/issues/9191) 💬 6 | [tldraw/tldraw](https://github.com/tldraw/tldraw) | 50.7k | 🟢 beginner | 2026-08-11 |  |
 | [Expand text input field on mobile](https://github.com/karakeep-app/karakeep/issues/2364) 💬 5 | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | 29.3k | 🟢 beginner | 2026-08-11 |  |
 | [Confirgurable default branch prefixes/names](https://github.com/PostHog/posthog/issues/76277) 💬 3 | [PostHog/posthog](https://github.com/PostHog/posthog) | 40k | 🟢 beginner | 2026-08-08 | ⚠️ AI restricted |
 | [MudOverlay: Allow setting custom opacity](https://github.com/MudBlazor/MudBlazor/issues/11991) 💬 5 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-08-08 |  |
 | [Drawer Anchor.End and Anchor.Bottom visible on page when closed](https://github.com/MudBlazor/MudBlazor/issues/10175) 💬 15 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟡 help wanted | 2026-08-08 |  |
 | [MudDatePicker: Text gets deleted after each key stroke with Mask inside MudForm](https://github.com/MudBlazor/MudBlazor/issues/4047) 💬 24 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟡 help wanted | 2026-08-06 |  |
-| [[Bug]: Dropdown selector shows unexpected border on selected item](https://github.com/carbon-design-system/carbon/issues/20774) 💬 1 | [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) | 9.5k | 🟡 help wanted | 2026-08-06 | 🔏 DCO |
-| [[TextArea]: Disallow invalid & warn when readonly or disabled](https://github.com/carbon-design-system/carbon/issues/20726) 💬 1 | [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) | 9.5k | 🟢 beginner | 2026-08-06 | 🔏 DCO |
 | [[PasswordInput]: Disallow invalid & warn when readonly or disabled](https://github.com/carbon-design-system/carbon/issues/20732) 💬 1 | [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) | 9.5k | 🟢 beginner | 2026-08-06 | 🔏 DCO |
-| [[NumberInput]: Disallow invalid & warn when readonly or disabled](https://github.com/carbon-design-system/carbon/issues/20729) 💬 2 | [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) | 9.5k | 🟢 beginner | 2026-08-06 | 🔏 DCO |
 | [[Bug]: Exec in desktop entry for generix linux seems to be buggy](https://github.com/mattermost/mattermost/issues/28446) 💬 20 | [mattermost/mattermost](https://github.com/mattermost/mattermost) | 39.2k | 🟡 help wanted | 2026-08-05 |  |
 | [Cannot grant SAF access (Android 15)](https://github.com/TeamAmaze/AmazeFileManager/issues/4352) 💬 1 | [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) | 6.4k | 🟡 help wanted | 2026-08-05 |  |
 | [Implement case-changing utility methods](https://github.com/oven-sh/bun/issues/15087) 💬 17 | [oven-sh/bun](https://github.com/oven-sh/bun) | 96.1k | 🟢 beginner | 2026-08-04 |  |
@@ -184,6 +188,7 @@
 | [Post image in chatroom](https://github.com/m1k1o/neko/issues/422) 💬 4 | [m1k1o/neko](https://github.com/m1k1o/neko) | 22.4k | 🟢 beginner | 2026-07-31 |  |
 | [Ability to search similar images "from" partner assets](https://github.com/immich-app/immich/issues/21855) 💬 6 | [immich-app/immich](https://github.com/immich-app/immich) | 115.3k | 🟢 beginner | 2026-07-30 |  |
 | [German characters in html notation will not correctly converted](https://github.com/karakeep-app/karakeep/issues/728) 💬 2 | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | 29.3k | 🟢 beginner | 2026-07-29 |  |
+| [How to pass a free-format query string?](https://github.com/microsoft/kiota/issues/3800) 💬 16 | [microsoft/kiota](https://github.com/microsoft/kiota) | 3.8k | 🟡 help wanted | 2026-07-28 | ✍️ CLA |
 | [feat: implement pi-rpc protocol for Pi agent](https://github.com/nexu-io/html-anything/issues/130) 💬 2 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 9k | 🟡 help wanted | 2026-07-27 | ✍️ CLA |
 | [Changing FontSize in MudTheme breaks components](https://github.com/MudBlazor/MudBlazor/issues/10394) 💬 3 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-07-26 |  |
 | [[Feature Request] VDataTable: Selection highlighting the row](https://github.com/vuetifyjs/vuetify/issues/17670) 💬 10 | [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) | 41k | 🟢 beginner | 2026-07-24 |  |
@@ -205,10 +210,5 @@
 | [Navigation Tree View Sets State not in Tree View Pattern](https://github.com/w3c/aria-practices/issues/3371) 💬 2 | [w3c/aria-practices](https://github.com/w3c/aria-practices) | 1.4k | 🟢 beginner | 2026-07-15 |  |
 | [Overleaf Support (LaTeX Editor)](https://github.com/Automattic/harper/issues/3306) 💬 2 | [Automattic/harper](https://github.com/Automattic/harper) | 16k | 🟢 beginner | 2026-07-14 | 🤖 disclose AI use |
 | [Enable javadoc plugin for 11+ Java and Kotlin (dokka?)](https://github.com/AlmasB/FXGL/issues/665) 💬 2 | [AlmasB/FXGL](https://github.com/AlmasB/FXGL) | 4.9k | 🟡 help wanted | 2026-07-14 |  |
-| [Allow favicons in formats other than svg](https://github.com/imfing/hextra/issues/888) 💬 2 | [imfing/hextra](https://github.com/imfing/hextra) | 2.4k | 🟢 beginner | 2026-07-13 |  |
-| [Serialize Uint8Arrays better](https://github.com/puppeteer/puppeteer/issues/2427) 💬 14 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 95.6k | 🟢 beginner | 2026-07-09 |  |
-| [Problem with semaphore and validation layer when using multi viewports.](https://github.com/ocornut/imgui/issues/9349) 💬 3 | [ocornut/imgui](https://github.com/ocornut/imgui) | 76.4k | 🟡 help wanted | 2026-07-09 | ✍️ CLA |
-| [configure bundle-size github action to track install size of a minimal nuxt project](https://github.com/nuxt/nuxt/issues/23487) 💬 3 | [nuxt/nuxt](https://github.com/nuxt/nuxt) | 60.9k | 🟢 beginner | 2026-07-09 | ⚠️ AI restricted |
-| [Неверное склонение городов](https://github.com/wapmorgan/Morphos/issues/142) 💬 4 | [wapmorgan/Morphos](https://github.com/wapmorgan/Morphos) | 830 | 🟡 help wanted | 2026-07-09 |  |
 
-Showing the 200 most recently updated. See all 282 on the website.
+Showing the 200 most recently updated. See all 286 on the website.

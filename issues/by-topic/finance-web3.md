@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**49** open issues (22 labeled for beginners) across **15** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
+**46** open issues (21 labeled for beginners) across **15** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
 
-> Updated automatically on **2026-09-29 12:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-29 22:18 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,10 +10,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [[Bug]: Category data is lost upon QIF file import and not matched to existing category in budget](https://github.com/actualbudget/actual/issues/9016) 💬 2 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.2k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
 | [Frequent test hangs in 4.1 (master) on Nonstop tests](https://github.com/openssl/openssl/issues/32618) 💬 13 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use · ✍️ CLA |
-| [When OPENSSL_armcap is set then OPENSSL_armv8_rsa_neonized cannot be set.](https://github.com/openssl/openssl/issues/32994) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use · ✍️ CLA |
-| [Implement EVP_SKEY_get0_key_len function](https://github.com/openssl/openssl/issues/32998) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use · ✍️ CLA |
 | [openssl cms sign command does not support 'noattr' when 'digest' is used](https://github.com/openssl/openssl/issues/28743) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use · ✍️ CLA |
 | [[robustness] -purpose crlsign\|ocsphelper infers aux-blind X509_TRUST_COMPAT (x509_vfy.c:2621) → anchor REJECT](https://github.com/openssl/openssl/issues/32365) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use · ✍️ CLA |
 | [Let a CMP client require EnvelopedData (reject EncryptedValue) for centrally generated keys](https://github.com/openssl/openssl/issues/32797) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-22 | 🤖 disclose AI use · ✍️ CLA |
@@ -40,11 +37,11 @@
 | [[Bug]: Custom Reports with 'Tag' filters do not calculate values of tagged top level split transactions](https://github.com/actualbudget/actual/issues/5640) 💬 2 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.2k | 🟡 help wanted | 2026-07-21 | 🤖 disclose AI use |
 | [Provide better message for transactionAPI](https://github.com/saleor/saleor/issues/13951) 💬 5 | [saleor/saleor](https://github.com/saleor/saleor) | 23.4k | 🟢 beginner | 2026-07-01 |  |
 | [parseLedgerHashes accepts negative int then throws on asUInt conversion](https://github.com/XRPLF/rippled/issues/6768) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-06-26 | 🔏 DCO |
-| [[WEB - SDK] - Add Payment Method with Dynamic Field Rendering - Alfamart](https://github.com/juspay/hyperswitch/issues/6035) 💬 8 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 45.2k | 🟢 beginner | 2026-06-24 |  |
+| [[WEB - SDK] - Add Payment Method with Dynamic Field Rendering - Alfamart](https://github.com/juspay/hyperswitch/issues/6035) 💬 8 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 45.3k | 🟢 beginner | 2026-06-24 |  |
 | [Bug: Internal Server Error instead of a validation error on too long inputs](https://github.com/saleor/saleor/issues/12696) 💬 8 | [saleor/saleor](https://github.com/saleor/saleor) | 23.4k | 🟢 beginner | 2026-06-24 |  |
 | [Notify user, when response of Hub Authentication takes a long time](https://github.com/cryptomator/cryptomator/issues/3162) 💬 3 | [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) | 16.2k | 🟢 beginner | 2026-06-24 |  |
 | [Moving the header to a new line](https://github.com/PrivateBin/PrivateBin/issues/1788) 💬 5 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | 8.6k | 🟢 beginner | 2026-06-22 | 🤖 disclose AI use |
-| [[FEATURE] : [NOON] Add Integrity Check Support for Authorize, PSync, Refund and RSync Flows](https://github.com/juspay/hyperswitch/issues/9199) 💬 3 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 45.2k | 🟢 beginner | 2026-06-10 |  |
+| [[FEATURE] : [NOON] Add Integrity Check Support for Authorize, PSync, Refund and RSync Flows](https://github.com/juspay/hyperswitch/issues/9199) 💬 3 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 45.3k | 🟢 beginner | 2026-06-10 |  |
 | [[FR] RTL BiDi Support](https://github.com/PrivateBin/PrivateBin/issues/1849) 💬 1 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | 8.6k | 🟡 help wanted | 2026-06-04 | 🤖 disclose AI use |
 | [Cropped button label in "Remove vault" dialog](https://github.com/cryptomator/cryptomator/issues/3338) 💬 5 | [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) | 16.2k | 🟢 beginner | 2026-05-26 |  |
 | [api_version as large unsigned int causes exception instead of clean rejection](https://github.com/XRPLF/rippled/issues/6776) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-05-15 | 🔏 DCO |

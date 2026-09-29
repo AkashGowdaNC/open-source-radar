@@ -1,10 +1,10 @@
 # C issues
 
-**148** open issues (42 labeled for beginners) across **62** active C projects.
+**147** open issues (42 labeled for beginners) across **62** active C projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/c.xml)
 
-> Updated automatically on **2026-09-29 12:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-29 22:18 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,16 +12,14 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [[Bug] RP2040 SIO driver: split link permanently dies after USB replug/bus-reset (fixed upstream in ChibiOS, no](https://github.com/qmk/qmk_firmware/issues/26486) | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-09-29 |  |
 | [[Enhancement] Include xesam:url in MPRIS Metadata](https://github.com/ravachol/kew/issues/592) | [ravachol/kew](https://github.com/ravachol/kew) | 3.1k | 🟢 beginner | 2026-09-29 |  |
 | [Bank MSB shouldn't always be ignored in XG mode](https://github.com/FluidSynth/fluidsynth/issues/1378) 💬 26 | [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) | 2.5k | 🟡 help wanted | 2026-09-29 |  |
 | [Frequent test hangs in 4.1 (master) on Nonstop tests](https://github.com/openssl/openssl/issues/32618) 💬 13 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use · ✍️ CLA |
-| [When OPENSSL_armcap is set then OPENSSL_armv8_rsa_neonized cannot be set.](https://github.com/openssl/openssl/issues/32994) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use · ✍️ CLA |
-| [Implement EVP_SKEY_get0_key_len function](https://github.com/openssl/openssl/issues/32998) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use · ✍️ CLA |
 | [Allow all system tray icons to be displayed on the dock.](https://github.com/microsoft/PowerToys/issues/46232) 💬 9 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.1k | 🟡 help wanted | 2026-09-27 |  |
-| [[Experiment] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 38.3k | 🟡 help wanted | 2026-09-27 |  |
+| [[Experiment] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 38.4k | 🟡 help wanted | 2026-09-27 |  |
 | [openssl cms sign command does not support 'noattr' when 'digest' is used](https://github.com/openssl/openssl/issues/28743) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use · ✍️ CLA |
 | [[robustness] -purpose crlsign\|ocsphelper infers aux-blind X509_TRUST_COMPAT (x509_vfy.c:2621) → anchor REJECT](https://github.com/openssl/openssl/issues/32365) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use · ✍️ CLA |
+| [macOS: intermittent CONNECTION_IDLE during handshake on loopback under sustained connect load](https://github.com/microsoft/msquic/issues/6265) 💬 2 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-09-26 | ✍️ CLA |
 | [Extensions for browser support monitoring](https://github.com/axel-download-accelerator/axel/issues/346) 💬 5 | [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) | 3.4k | 🟡 help wanted | 2026-09-26 |  |
 | [[BUG] Unable to restore the database](https://github.com/mydumper/mydumper/issues/2355) 💬 3 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.2k | 🟡 help wanted | 2026-09-24 |  |
 | [kew roadmap: "Project Joy"](https://github.com/ravachol/kew/issues/575) 💬 71 | [ravachol/kew](https://github.com/ravachol/kew) | 3.1k | 🟡 help wanted | 2026-09-23 |  |
@@ -106,6 +104,7 @@
 | [OSX compatibility](https://github.com/cboxdoerfer/fsearch/issues/7) 💬 14 | [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) | 4.4k | 🟡 help wanted | 2026-07-14 |  |
 | [Tap to change page](https://github.com/pwmt/zathura/issues/938) 💬 4 | [pwmt/zathura](https://github.com/pwmt/zathura) | 3.3k | 🟡 help wanted | 2026-07-10 |  |
 | [Sioyek does not start](https://github.com/ahrm/sioyek/issues/1283) 💬 18 | [ahrm/sioyek](https://github.com/ahrm/sioyek) | 9.9k | 🟡 help wanted | 2026-07-09 |  |
+| [Support Client Migration (Client Side)](https://github.com/microsoft/msquic/issues/1946) 💬 5 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-07-09 | ✍️ CLA |
 | [External datagram I/O for the connection state machine](https://github.com/microsoft/msquic/issues/6132) 💬 2 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-07-07 | ✍️ CLA |
 | [minor security issue: file descriptor leakage](https://github.com/DynamoRIO/dynamorio/issues/2884) 💬 1 | [DynamoRIO/dynamorio](https://github.com/DynamoRIO/dynamorio) | 3.2k | 🟢 beginner | 2026-07-07 | ✍️ CLA |
 | [[YSQL] Investigate point-lookup path for fully-bound hash PK IN queries](https://github.com/yugabyte/yugabyte-db/issues/32026) 💬 1 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.6k | 🟢 beginner | 2026-07-06 |  |
@@ -154,7 +153,7 @@
 | [Support file based DB backend (alternative to mongodb)](https://github.com/open5gs/open5gs/issues/1362) 💬 12 | [open5gs/open5gs](https://github.com/open5gs/open5gs) | 2.7k | 🟡 help wanted | 2026-05-01 |  |
 | [arm64 support on Windows](https://github.com/premake/premake-core/issues/2472) 💬 8 | [premake/premake-core](https://github.com/premake/premake-core) | 3.6k | 🟡 help wanted | 2026-04-25 |  |
 | [[BUG] Error in acos](https://github.com/IoLanguage/io/issues/489) 💬 8 | [IoLanguage/io](https://github.com/IoLanguage/io) | 2.8k | 🟢 beginner | 2026-04-20 |  |
-| [Document information about Screws used](https://github.com/RfidResearchGroup/ChameleonUltra/issues/326) 💬 6 | [RfidResearchGroup/ChameleonUltra](https://github.com/RfidResearchGroup/ChameleonUltra) | 3k | 🟢 beginner | 2026-04-17 |  |
+| [Document information about Screws used](https://github.com/RfidResearchGroup/ChameleonUltra/issues/326) 💬 6 | [RfidResearchGroup/ChameleonUltra](https://github.com/RfidResearchGroup/ChameleonUltra) | 3.1k | 🟢 beginner | 2026-04-17 |  |
 | [Tdengine 3.2.0.0.0 集群环境下同步数据慢慢慢慢](https://github.com/taosdata/TDengine/issues/34802) 💬 3 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.1k | 🟡 help wanted | 2026-04-14 |  |
 | [导入数据集时遇到了性能问题](https://github.com/taosdata/TDengine/issues/34980) 💬 2 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.1k | 🟡 help wanted | 2026-04-14 |  |
 | [[RFC] Run-time dynamic linking support](https://github.com/wasm-micro-runtime/wasm-micro-runtime/issues/495) | [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) | 6.1k | 🟡 help wanted | 2026-04-13 |  |

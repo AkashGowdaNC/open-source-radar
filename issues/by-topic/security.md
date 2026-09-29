@@ -1,8 +1,8 @@
 # Security and privacy issues
 
-**213** open issues (109 labeled for beginners) across **57** projects tagged with topics like `security`, `privacy`, `cryptography`, `encryption`, `authentication`, `oauth`.
+**209** open issues (108 labeled for beginners) across **57** projects tagged with topics like `security`, `privacy`, `cryptography`, `encryption`, `authentication`, `oauth`.
 
-> Updated automatically on **2026-09-29 12:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-29 22:18 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,17 +10,13 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [💡 Support for RTL languages](https://github.com/super-productivity/super-productivity/issues/9529) 💬 3 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.4k | 🟡 help wanted | 2026-09-29 |  |
-| [💡 Ended Working - Export to CSV](https://github.com/super-productivity/super-productivity/issues/6932) 💬 3 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.4k | 🟡 help wanted | 2026-09-29 |  |
+| [Operation request: Protocol Data Unit (PDU) encoder/decoder](https://github.com/gchq/CyberChef/issues/256) 💬 8 | [gchq/CyberChef](https://github.com/gchq/CyberChef) | 36k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA |
+| [💡 Ended Working - Export to CSV](https://github.com/super-productivity/super-productivity/issues/6932) 💬 4 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.4k | 🟡 help wanted | 2026-09-29 |  |
 | [Frequent test hangs in 4.1 (master) on Nonstop tests](https://github.com/openssl/openssl/issues/32618) 💬 13 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use · ✍️ CLA |
-| [When OPENSSL_armcap is set then OPENSSL_armv8_rsa_neonized cannot be set.](https://github.com/openssl/openssl/issues/32994) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use · ✍️ CLA |
-| [Implement EVP_SKEY_get0_key_len function](https://github.com/openssl/openssl/issues/32998) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use · ✍️ CLA |
 | [Update Electron to avoid slow app on MacOS Tahoe](https://github.com/super-productivity/super-productivity/issues/5712) 💬 7 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.4k | 🟡 help wanted | 2026-09-28 |  |
 | [🚨 Add or give option to show both scheduled date and deadline in Kanbanboard and Eisenhauermatrix](https://github.com/super-productivity/super-productivity/issues/10097) 💬 2 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.4k | 🟡 help wanted | 2026-09-28 |  |
 | [Hybrid devices: UI shifts when switching between touch and mouse input (repro needed)](https://github.com/super-productivity/super-productivity/issues/10152) | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.4k | 🟡 help wanted | 2026-09-28 |  |
 | [💡 Sailfish OS native client](https://github.com/super-productivity/super-productivity/issues/10187) 💬 3 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.4k | 🟡 help wanted | 2026-09-28 |  |
-| [modbus: Requests get logged even if request body triggers violation](https://github.com/zeek/zeek/issues/5924) 💬 1 | [zeek/zeek](https://github.com/zeek/zeek) | 8k | 🟢 beginner | 2026-09-28 | 🤖 disclose AI use |
-| [Removing set from itself causes invalid iterator](https://github.com/zeek/zeek/issues/5923) | [zeek/zeek](https://github.com/zeek/zeek) | 8k | 🟢 beginner | 2026-09-28 | 🤖 disclose AI use |
 | [Bypassing Zeek's file extraction processor by twisting Content-Type](https://github.com/zeek/zeek/issues/1799) 💬 4 | [zeek/zeek](https://github.com/zeek/zeek) | 8k | 🟢 beginner | 2026-09-28 | 🤖 disclose AI use |
 | [Replace UTF code](https://github.com/zeek/zeek/issues/1756) 💬 9 | [zeek/zeek](https://github.com/zeek/zeek) | 8k | 🟢 beginner | 2026-09-28 | 🤖 disclose AI use |
 | [openssl cms sign command does not support 'noattr' when 'digest' is used](https://github.com/openssl/openssl/issues/28743) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use · ✍️ CLA |
@@ -210,5 +206,9 @@
 | [CephFS Backend](https://github.com/rclone/rclone/issues/7172) 💬 11 | [rclone/rclone](https://github.com/rclone/rclone) | 60k | 🟡 help wanted | 2026-05-06 |  |
 | [Define a clear threat model for this project](https://github.com/ungoogled-software/ungoogled-chromium/issues/3287) 💬 4 | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.8k | 🟡 help wanted | 2026-05-05 |  |
 | [hide close button("x") on first half(first tab) of "split view"](https://github.com/ungoogled-software/ungoogled-chromium/issues/3771) | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.8k | 🟡 help wanted | 2026-05-05 |  |
+| [Add moderation contact information or button? (report content feature)](https://github.com/PrivateBin/PrivateBin/issues/674) 💬 8 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | 8.6k | 🟢 beginner | 2026-05-03 | 🤖 disclose AI use |
+| [Towards a centralized vulnerability database for Dependency-Track](https://github.com/DependencyTrack/dependency-track/issues/4122) 💬 14 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.2k | 🟡 help wanted | 2026-04-29 | ⚠️ AI restricted · 🔏 DCO |
+| [Add Homebrew cask to have a Sniffnet.app in Applications](https://github.com/GyulyVGC/sniffnet/issues/309) 💬 3 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 41.3k | 🟢 beginner | 2026-04-28 | 🤖 disclose AI use |
+| [FR: Add Ubuntu Change Logs for Updates](https://github.com/tailscale/tailscale/issues/314) 💬 5 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | 37k | 🟢 beginner | 2026-04-28 | 🔏 DCO |
 
-Showing the 200 most recently updated. See all 213 on the website.
+Showing the 200 most recently updated. See all 209 on the website.
