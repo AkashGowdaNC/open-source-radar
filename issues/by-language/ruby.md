@@ -1,10 +1,10 @@
 # Ruby issues
 
-**99** open issues (75 labeled for beginners) across **30** active Ruby projects.
+**96** open issues (73 labeled for beginners) across **29** active Ruby projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-09-28 23:15 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-29 12:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,8 +12,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Add language : Ternet](https://github.com/github-linguist/linguist/issues/8235) | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.7k | 🟢 beginner | 2026-09-28 |  |
-| [Add language : Ternet](https://github.com/github-linguist/linguist/issues/8234) | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.7k | 🟢 beginner | 2026-09-28 |  |
 | [Test link on API Services and Language Models broken](https://github.com/AllYourBot/hostedgpt/issues/810) | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 511 | 🟢 beginner | 2026-09-28 |  |
 | [Make UI translations pluggable as add-on gems](https://github.com/huginn/huginn/issues/3748) 💬 1 | [huginn/huginn](https://github.com/huginn/huginn) | 50k | 🟡 help wanted | 2026-09-27 |  |
 | [Add support for Salam](https://github.com/github-linguist/linguist/issues/8206) 💬 3 | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.7k | 🟢 beginner | 2026-09-25 |  |
@@ -29,7 +27,6 @@
 | [Mod deleting a comment removes the visual indication of upvoted](https://github.com/lobsters/lobsters/issues/2201) | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-09-16 |  |
 | [Unread btn for comments breaks when using pinch to zoom](https://github.com/lobsters/lobsters/issues/2198) | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-09-16 |  |
 | [Suggest quorum can be reached by same user POSTing twice](https://github.com/lobsters/lobsters/issues/2126) 💬 3 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-09-15 |  |
-| ['match init' assumes a default branch of 'master' when using git storage, which is no longer the Github defaul](https://github.com/fastlane/fastlane/issues/21879) 💬 3 | [fastlane/fastlane](https://github.com/fastlane/fastlane) | 42.2k | 🟡 help wanted | 2026-09-14 |  |
 | [Feature: Organize documentation topics in beginner-friendly learning order](https://github.com/freeCodeCamp/devdocs/issues/2611) | [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) | 39.5k | 🟡 help wanted | 2026-09-14 |  |
 | [Soft delete for Initiatives on admin panel](https://github.com/decidim/decidim/issues/6542) 💬 9 | [decidim/decidim](https://github.com/decidim/decidim) | 1.8k | 🟢 beginner | 2026-09-10 |  |
 | [Use the spec-recommended 10000ms default interval for the stdout exporter](https://github.com/open-telemetry/opentelemetry-ruby/issues/2373) 💬 2 | [open-telemetry/opentelemetry-ruby](https://github.com/open-telemetry/opentelemetry-ruby) | 608 | 🟢 beginner | 2026-09-10 | 🤖 disclose AI use · ✍️ CLA |

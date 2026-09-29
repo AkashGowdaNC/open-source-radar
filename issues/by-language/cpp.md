@@ -1,10 +1,10 @@
 # C++ issues
 
-**354** open issues (124 labeled for beginners) across **102** active C++ projects.
+**357** open issues (128 labeled for beginners) across **102** active C++ projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/cpp.xml)
 
-> Updated automatically on **2026-09-28 23:15 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-29 12:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,9 +12,13 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [[BUG] Doxygen does not render JAVADOC_BANNER style comments](https://github.com/TheAlgorithms/C-Plus-Plus/issues/3234) | [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | 34.7k | 🟢 beginner | 2026-09-29 |  |
+| [STEP: Crash when loading NUC12STEP file (linked)](https://github.com/FreeCAD/FreeCAD/issues/14565) 💬 12 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟡 help wanted | 2026-09-29 | ⚠️ AI restricted |
+| [Variant analysis: 1 unfixed sibling safety gap in pcl](https://github.com/PointCloudLibrary/pcl/issues/6483) 💬 1 | [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl) | 11.1k | 🟢 beginner | 2026-09-29 |  |
+| [[Bug]: HA snapshot recovery does not update applied sequence metric](https://github.com/kvcache-ai/Mooncake/issues/4399) 💬 1 | [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) | 6.7k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
+| [Report your benchmark results here!](https://github.com/ProjectPhysX/FluidX3D/issues/8) 💬 278 | [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) | 5.3k | 🟡 help wanted | 2026-09-29 |  |
 | [window of a windows terminal is appending to the end of windows stack](https://github.com/microsoft/terminal/issues/15763) 💬 44 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use |
 | [[L10n][TR] Accesskey collisions in bookmark and tab context menus](https://github.com/zen-browser/desktop/issues/15488) 💬 1 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | 44.6k | 🟢 beginner | 2026-09-28 |  |
-| [STEP: Crash when loading NUC12STEP file (linked)](https://github.com/FreeCAD/FreeCAD/issues/14565) 💬 12 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟡 help wanted | 2026-09-28 | ⚠️ AI restricted |
 | [[BUG] SenseCap Indicator touch in BaseUI](https://github.com/meshtastic/firmware/issues/10099) 💬 5 | [meshtastic/firmware](https://github.com/meshtastic/firmware) | 8.4k | 🟡 help wanted | 2026-09-28 | ✍️ CLA |
 | [modbus: Requests get logged even if request body triggers violation](https://github.com/zeek/zeek/issues/5924) 💬 1 | [zeek/zeek](https://github.com/zeek/zeek) | 8k | 🟢 beginner | 2026-09-28 | 🤖 disclose AI use |
 | [Removing set from itself causes invalid iterator](https://github.com/zeek/zeek/issues/5923) | [zeek/zeek](https://github.com/zeek/zeek) | 8k | 🟢 beginner | 2026-09-28 | 🤖 disclose AI use |
@@ -31,7 +35,7 @@
 | [Launch size, Launch position should each have a "as current window" button](https://github.com/microsoft/terminal/issues/18390) 💬 3 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use |
 | [x:Bind not Binding](https://github.com/microsoft/terminal/issues/11767) 💬 13 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟢 beginner | 2026-09-26 | 🤖 disclose AI use |
 | [TechDraw: Keyboard navigation of the Section Plane is chaotic](https://github.com/FreeCAD/FreeCAD/issues/30833) 💬 3 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟢 beginner | 2026-09-25 | ⚠️ AI restricted |
-| [dyanamic window state should support windows split with aero snap](https://github.com/TranslucentTB/TranslucentTB/issues/116) 💬 12 | [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) | 20.4k | 🟡 help wanted | 2026-09-25 |  |
+| [dyanamic window state should support windows split with aero snap](https://github.com/TranslucentTB/TranslucentTB/issues/116) 💬 12 | [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) | 20.5k | 🟡 help wanted | 2026-09-25 |  |
 | ["New page" settings not remembered](https://github.com/xournalpp/xournalpp/issues/1521) 💬 6 | [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) | 15.4k | 🟢 beginner | 2026-09-25 |  |
 | [RadiusOutlierRemoval&lt;PCLPointCloud2&gt; implementation is slow and confusing](https://github.com/PointCloudLibrary/pcl/issues/2816) 💬 8 | [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl) | 11.1k | 🟢 beginner | 2026-09-25 |  |
 | [TabView: Closing left-most tab throws exception when IsAddTabButtonVisible = false](https://github.com/microsoft/microsoft-ui-xaml/issues/3849) 💬 2 | [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) | 8.5k | 🟡 help wanted | 2026-09-25 | ✍️ CLA |
@@ -135,6 +139,7 @@
 | [Add ability to not automatically copy whitespace-only selections](https://github.com/microsoft/terminal/issues/11751) 💬 6 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-09-07 | 🤖 disclose AI use |
 | [llama cpp server cant open to public](https://github.com/ggml-org/llama.cpp/issues/6268) 💬 8 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 129.8k | 🟢 beginner | 2026-09-06 | ⚠️ AI restricted |
 | [Fallback code paths with "SIMD Everywhere"](https://github.com/simdjson/simdjson/issues/1091) 💬 6 | [simdjson/simdjson](https://github.com/simdjson/simdjson) | 24.3k | 🟢 beginner | 2026-09-06 | 📄 AI policy |
+| [Add option for voice over language](https://github.com/diasurgical/DevilutionX/issues/5742) 💬 2 | [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) | 9.8k | 🟢 beginner | 2026-09-06 |  |
 | [[BUG] Python groupby rolling aggregations return index inconsistent with pandas](https://github.com/NVIDIA/cudf/issues/10249) 💬 7 | [NVIDIA/cudf](https://github.com/NVIDIA/cudf) | 9.8k | 🟢 beginner | 2026-09-06 |  |
 | ['clear(..)' supports a sync mode](https://github.com/bpftrace/bpftrace/issues/3549) 💬 8 | [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) | 10.3k | 🟢 beginner | 2026-09-04 | 🔏 DCO |
 | [[Android][Vanilla] CIA installation fails on Xiaomi Android 16 because /storage/emulated/0 is duplicated in th](https://github.com/azahar-emu/azahar/issues/2418) 💬 2 | [azahar-emu/azahar](https://github.com/azahar-emu/azahar) | 8.2k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use |
@@ -201,16 +206,11 @@
 | [find_package(yaml-cpp) doesn't build on Visual Studio 2022](https://github.com/jbeder/yaml-cpp/issues/1342) | [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | 6.1k | 🟡 help wanted | 2026-08-11 | ⚠️ AI restricted |
 | [Which version is compatible with VS2015 and has a new API?](https://github.com/jbeder/yaml-cpp/issues/1394) | [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | 6.1k | 🟡 help wanted | 2026-08-11 | ⚠️ AI restricted |
 | [YAML::Node::EndMark()](https://github.com/jbeder/yaml-cpp/issues/1217) 💬 2 | [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | 6.1k | 🟡 help wanted | 2026-08-11 | ⚠️ AI restricted |
-| [Disabling focus mode in quake window should persist when persisting window layout](https://github.com/microsoft/terminal/issues/19897) 💬 9 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105k | 🟡 help wanted | 2026-08-10 | 🤖 disclose AI use |
 | [Please enhance context about exceptions handling in yaml-cpp](https://github.com/jbeder/yaml-cpp/issues/1395) | [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | 6.1k | 🟡 help wanted | 2026-08-10 | ⚠️ AI restricted |
 | [[Feature Request] Screen sharing is of somewhat low quality](https://github.com/telegramdesktop/tdesktop/issues/16487) 💬 61 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 33k | 🟡 help wanted | 2026-08-06 |  |
 | [Add softirq processing time into Off-CPU time](https://github.com/KDAB/hotspot/issues/717) 💬 3 | [KDAB/hotspot](https://github.com/KDAB/hotspot) | 5.2k | 🟡 help wanted | 2026-08-06 |  |
 | [forge not launching on 1.13.2](https://github.com/PrismLauncher/PrismLauncher/issues/5793) 💬 5 | [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) | 10.5k | 🟡 help wanted | 2026-08-05 | 🤖 disclose AI use · 🔏 DCO |
 | [saved position slowly drifts down](https://github.com/mumble-voip/mumble/issues/7112) 💬 4 | [mumble-voip/mumble](https://github.com/mumble-voip/mumble) | 8.3k | 🟡 help wanted | 2026-08-05 |  |
 | ["High Resolution" mode on macOS](https://github.com/TigerVNC/tigervnc/issues/878) 💬 23 | [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) | 7.5k | 🟡 help wanted | 2026-08-05 |  |
-| [add support for signed data types for TTL](https://github.com/ydb-platform/ydb/issues/12751) | [ydb-platform/ydb](https://github.com/ydb-platform/ydb) | 4.8k | 🟢 beginner | 2026-08-03 |  |
-| [TMemoryLimitException should be inherited from std::exception](https://github.com/ydb-platform/ydb/issues/2887) | [ydb-platform/ydb](https://github.com/ydb-platform/ydb) | 4.8k | 🟢 beginner | 2026-08-02 |  |
-| [Any chance for Windows binaries (and default files) without .MSI ?](https://github.com/transmission/transmission/issues/1133) 💬 6 | [transmission/transmission](https://github.com/transmission/transmission) | 15.3k | 🟡 help wanted | 2026-08-01 |  |
-| [Decomp upstream list](https://github.com/TwilitRealm/dusklight/issues/51) 💬 4 | [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight) | 5.6k | 🟢 beginner | 2026-07-31 |  |
 
-Showing the 200 most recently updated. See all 354 on the website.
+Showing the 200 most recently updated. See all 357 on the website.

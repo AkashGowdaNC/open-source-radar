@@ -1,10 +1,10 @@
 # JavaScript issues
 
-**161** open issues (77 labeled for beginners) across **63** active JavaScript projects.
+**178** open issues (87 labeled for beginners) across **63** active JavaScript projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/javascript.xml)
 
-> Updated automatically on **2026-09-28 23:15 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-29 12:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,15 +12,34 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [fix(web): the run route dates reports, tracker rows and PDFs with the UTC day, not the local one](https://github.com/career-ops-hq/career-ops/issues/4603) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
+| [fix(cli): tracker.mjs delete runs for real when --dry-run is mistyped: validate each subcommand's flags](https://github.com/career-ops-hq/career-ops/issues/4602) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
+| [fix(cli): validate-portals.mjs has no --help and silently ignores mistyped flags: delegate to lib/cli-flags.mj](https://github.com/career-ops-hq/career-ops/issues/4601) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
+| [fix(cli): rank-pipeline.mjs silently ignores mistyped flags: delegate to lib/cli-flags.mjs](https://github.com/career-ops-hq/career-ops/issues/4600) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
+| [fix(cli): scan-interamt.mjs runs a live scan on --help or a mistyped --dry-run: delegate to lib/cli-flags.mjs](https://github.com/career-ops-hq/career-ops/issues/4599) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
+| [fix(cli): scan-hn.mjs has no --help, so --help runs a live scan: delegate to lib/cli-flags.mjs](https://github.com/career-ops-hq/career-ops/issues/4598) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
+| [docs: ARCHITECTURE.md gives applied-date-local-vs-utc.test.mjs as a naming example, but no such suite exists](https://github.com/career-ops-hq/career-ops/issues/4597) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
+| [docs(i18n): the German and Chinese interview READMEs point to ../interview-prep.md, which does not exist from ](https://github.com/career-ops-hq/career-ops/issues/4596) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
+| [docs(docker): DOCKER.md suggests ./cops npm test, but there is no test script](https://github.com/career-ops-hq/career-ops/issues/4595) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
+| [docs(setup): the prerequisites miss the Node 22.5+ of the tracker index and the 22.6+ of the web UI](https://github.com/career-ops-hq/career-ops/issues/4594) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
+| [docs: the READMEs and SKILL.md advertise an eu-fintech preset that does not exist](https://github.com/career-ops-hq/career-ops/issues/4593) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
+| [Anthropic logo is not visible in dark mode](https://github.com/ToolJet/ToolJet/issues/18152) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-09-29 | 🤖 disclose AI use |
+| [OpenAI logo is not visible in dark mode](https://github.com/ToolJet/ToolJet/issues/18153) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-09-29 | 🤖 disclose AI use |
+| [Icon colour on disabled buttons is incorrect](https://github.com/ToolJet/ToolJet/issues/18151) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-09-29 | 🤖 disclose AI use |
+| [Glitch: Tabs are moving on hover](https://github.com/ToolJet/ToolJet/issues/18149) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-09-29 | 🤖 disclose AI use |
+| [Dark mode: Scroll colours](https://github.com/ToolJet/ToolJet/issues/18148) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-09-29 | 🤖 disclose AI use |
+| [Dark mode: Toggle not visible](https://github.com/ToolJet/ToolJet/issues/18146) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-09-29 | 🤖 disclose AI use |
+| [Dark mode: Workspace login](https://github.com/ToolJet/ToolJet/issues/18145) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-09-29 | 🤖 disclose AI use |
+| [[Bug]: Click causes black screen and unresponsiveness](https://github.com/hovancik/stretchly/issues/1860) 💬 1 | [hovancik/stretchly](https://github.com/hovancik/stretchly) | 6.6k | 🟡 help wanted | 2026-09-29 | 🤖 disclose AI use |
 | [[Bug] Linux 下托盘图标右键菜单无法展开（popUpContextMenu 在 Linux 无效，需改用 setContextMenu）](https://github.com/docmirror/dev-sidecar/issues/716) 💬 1 | [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) | 24.3k | 🟢 beginner | 2026-09-28 |  |
 | [Remove Safari 9 WebGL constants workaround](https://github.com/CesiumGS/cesium/issues/5315) 💬 3 | [CesiumGS/cesium](https://github.com/CesiumGS/cesium) | 15.8k | 🟢 beginner | 2026-09-28 | ✍️ CLA |
-| [[Help] 值是正确的但是一直显示❌ JWT secret mismatch](https://github.com/maillab/cloud-mail/issues/545) 💬 4 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.4k | 🟡 help wanted | 2026-09-28 |  |
+| [[Help] 值是正确的但是一直显示❌ JWT secret mismatch](https://github.com/maillab/cloud-mail/issues/545) 💬 4 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-09-28 |  |
 | [GitHub authentication doesn't set the correct primary email](https://github.com/sandstorm-io/sandstorm/issues/3665) 💬 4 | [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) | 7.1k | 🟢 beginner | 2026-09-28 |  |
 | [[Bug] 动态签发的叶子证书 authorityKeyIdentifier 为空 SEQUENCE，导致 Python 3.13+ X509_STRICT 校验失败](https://github.com/docmirror/dev-sidecar/issues/712) | [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) | 24.3k | 🟢 beginner | 2026-09-27 |  |
 | [[p5.js 2.0+ Bug Report]: Floats in strands shaders are always rounded to 4 decimals](https://github.com/processing/p5.js/issues/8884) 💬 16 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-27 | ⚠️ AI restricted |
 | [Add Reload File button, just call it Reload](https://github.com/Acode-Foundation/Acode/issues/2390) 💬 4 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) | 7.2k | 🟢 beginner | 2026-09-27 |  |
 | [error handler of same domain can be called several times when it throws](https://github.com/nodejs/node/issues/25505) 💬 4 | [nodejs/node](https://github.com/nodejs/node) | 122.2k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use · 🔏 DCO |
-| [UI Lag when using 1Password env file](https://github.com/usebruno/bruno/issues/6057) 💬 13 | [usebruno/bruno](https://github.com/usebruno/bruno) | 47.2k | 🟢 beginner | 2026-09-25 |  |
+| [UI Lag when using 1Password env file](https://github.com/usebruno/bruno/issues/6057) 💬 13 | [usebruno/bruno](https://github.com/usebruno/bruno) | 47.3k | 🟢 beginner | 2026-09-25 |  |
 | [[p5.js 2.0+ Bug Report]: computeNormals(SMOOTH) destroys uv attribute](https://github.com/processing/p5.js/issues/9205) 💬 2 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-25 | ⚠️ AI restricted |
 | [exif orientation is handled incorrectly](https://github.com/parallax/jsPDF/issues/3795) 💬 8 | [parallax/jsPDF](https://github.com/parallax/jsPDF) | 31.3k | 🟡 help wanted | 2026-09-24 |  |
 | [[FEATURE] Add tawk.to actions to Pipedream MCP](https://github.com/PipedreamHQ/pipedream/issues/22017) 💬 1 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-09-24 |  |
@@ -28,10 +47,10 @@
 | [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/22036) 💬 1 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-09-22 |  |
 | [BetterAuth to implement multi-user support, roles, external auth providers](https://github.com/louislam/uptime-kuma/issues/6200) 💬 13 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 91.9k | 🟡 help wanted | 2026-09-21 | ⚠️ AI restricted |
 | [TS: Statement after top-level 'await' is duplicated with 'typescript' parser](https://github.com/prettier/prettier/issues/20096) 💬 3 | [prettier/prettier](https://github.com/prettier/prettier) | 52.3k | 🟡 help wanted | 2026-09-21 | 📄 AI policy |
-| [[Help] 代替send发信的一个网站](https://github.com/maillab/cloud-mail/issues/582) | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.4k | 🟡 help wanted | 2026-09-19 |  |
+| [[Help] 代替send发信的一个网站](https://github.com/maillab/cloud-mail/issues/582) | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-09-19 |  |
 | [A false positive FES error on function "loadModel"](https://github.com/processing/p5.js/issues/9176) 💬 8 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟢 beginner | 2026-09-18 | ⚠️ AI restricted |
 | [[Bug] Opening popup triggers extension mode flip](https://github.com/openstyles/stylus/issues/1810) 💬 6 | [openstyles/stylus](https://github.com/openstyles/stylus) | 6.9k | 🟡 help wanted | 2026-09-18 |  |
-| [[Help] 可以接收邮件，无法发送邮件。](https://github.com/maillab/cloud-mail/issues/581) | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.4k | 🟡 help wanted | 2026-09-17 |  |
+| [[Help] 可以接收邮件，无法发送邮件。](https://github.com/maillab/cloud-mail/issues/581) | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-09-17 |  |
 | [[ACTION] Rewardful — Affiliate & Commission Management](https://github.com/PipedreamHQ/pipedream/issues/21991) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-09-15 |  |
 | [Change the shortcut keys in tooltip titles to show 'cmd' on Mac instead of 'ctrl'](https://github.com/josdejong/jsoneditor/issues/1628) 💬 12 | [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) | 12.3k | 🟡 help wanted | 2026-09-13 |  |
 | [Implement an option to enable/disable date tags](https://github.com/josdejong/jsoneditor/issues/1553) 💬 5 | [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) | 12.3k | 🟡 help wanted | 2026-09-13 |  |
@@ -41,13 +60,12 @@
 | [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21956) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-09-10 |  |
 | [[BUG]: Background image is rendered at an incorrect size after box zoom followed by mouse wheel zoom out](https://github.com/plotly/plotly.js/issues/7914) 💬 8 | [plotly/plotly.js](https://github.com/plotly/plotly.js) | 18.3k | 🟢 beginner | 2026-09-09 | ⚠️ AI restricted |
 | [Decision tree visualization](https://github.com/lutzroeder/netron/issues/180) 💬 1 | [lutzroeder/netron](https://github.com/lutzroeder/netron) | 33.5k | 🟡 help wanted | 2026-09-08 |  |
-| [[Help] catch-all那里现在需要email worker，咋办？](https://github.com/maillab/cloud-mail/issues/564) 💬 2 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.4k | 🟡 help wanted | 2026-09-07 |  |
+| [[Help] catch-all那里现在需要email worker，咋办？](https://github.com/maillab/cloud-mail/issues/564) 💬 2 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-09-07 |  |
 | [Resize to non-proper scaling and checkmark effect](https://github.com/fengyuanchen/compressorjs/issues/182) 💬 3 | [fengyuanchen/compressorjs](https://github.com/fengyuanchen/compressorjs) | 5.8k | 🟡 help wanted | 2026-09-07 |  |
-| [[Help] worker已经设置admin，但是登录后，还是普通用户，不是管理员？](https://github.com/maillab/cloud-mail/issues/532) 💬 3 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.4k | 🟡 help wanted | 2026-09-06 |  |
+| [[Help] worker已经设置admin，但是登录后，还是普通用户，不是管理员？](https://github.com/maillab/cloud-mail/issues/532) 💬 3 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-09-06 |  |
 | [Open new source to check Webhook [TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21912) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-09-06 |  |
-| [[Help] worker配置了admin，但部署登录后，admin是普通用户，没有系统设置！](https://github.com/maillab/cloud-mail/issues/567) | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.4k | 🟡 help wanted | 2026-09-05 |  |
-| [[Help] cloudflare里面的电子邮件路由消失了，咋办？](https://github.com/maillab/cloud-mail/issues/563) 💬 3 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.4k | 🟡 help wanted | 2026-09-05 |  |
-| [i18n: add a Swedish (sv) market mode](https://github.com/career-ops-hq/career-ops/issues/3847) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use |
+| [[Help] worker配置了admin，但部署登录后，admin是普通用户，没有系统设置！](https://github.com/maillab/cloud-mail/issues/567) | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-09-05 |  |
+| [[Help] cloudflare里面的电子邮件路由消失了，咋办？](https://github.com/maillab/cloud-mail/issues/563) 💬 3 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-09-05 |  |
 | [eBay Creating/Publishing Listings](https://github.com/PipedreamHQ/pipedream/issues/21896) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-09-04 |  |
 | [Generate PDF/A compliant document](https://github.com/parallax/jsPDF/issues/2882) 💬 6 | [parallax/jsPDF](https://github.com/parallax/jsPDF) | 31.3k | 🟡 help wanted | 2026-09-03 |  |
 | [Finish DocumenterPluto.jl](https://github.com/JuliaPluto/Pluto.jl/issues/3602) 💬 1 | [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) | 5.4k | 🟢 beginner | 2026-09-03 |  |
@@ -62,14 +80,13 @@
 | [Catch and handle ChunkLoadError](https://github.com/gatsbyjs/gatsby/issues/33844) 💬 11 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) | 55.9k | 🟡 help wanted | 2026-09-01 |  |
 | [SSR: Restricting Access to Specific Pages Based on Authenticated User](https://github.com/gatsbyjs/gatsby/issues/36427) 💬 9 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) | 55.9k | 🟡 help wanted | 2026-09-01 |  |
 | [Add 'defaultOptions' method to main beautifier](https://github.com/beautifier/js-beautify/issues/1584) 💬 4 | [beautifier/js-beautify](https://github.com/beautifier/js-beautify) | 9k | 🟢 beginner | 2026-09-01 |  |
-| [[Help] cf部署完毕，邮箱后台怎么进入](https://github.com/maillab/cloud-mail/issues/553) | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.4k | 🟡 help wanted | 2026-08-30 |  |
+| [[Help] cf部署完毕，邮箱后台怎么进入](https://github.com/maillab/cloud-mail/issues/553) | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-08-30 |  |
 | [[Feature Request] Support line styles in Scattermapbox](https://github.com/plotly/plotly.js/issues/6791) 💬 12 | [plotly/plotly.js](https://github.com/plotly/plotly.js) | 18.3k | 🟢 beginner | 2026-08-28 | ⚠️ AI restricted |
-| [[Help] 按教程创建了 Worker，但是电子邮件 Catch-all 找不到 Worker，提示没有已部署的 Email Worker](https://github.com/maillab/cloud-mail/issues/440) 💬 7 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.4k | 🟡 help wanted | 2026-08-28 |  |
+| [[Help] 按教程创建了 Worker，但是电子邮件 Catch-all 找不到 Worker，提示没有已部署的 Email Worker](https://github.com/maillab/cloud-mail/issues/440) 💬 7 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-08-28 |  |
 | [Add a public DNS resolver from an unrepresented region (Africa / South America / Middle East / Oceania)](https://github.com/jason5ng32/MyIP/issues/394) 💬 1 | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12k | 🟢 beginner | 2026-08-28 |  |
 | [Make tooltips dismissable](https://github.com/WordPress/gutenberg/issues/15145) 💬 5 | [WordPress/gutenberg](https://github.com/WordPress/gutenberg) | 11.8k | 🟢 beginner | 2026-08-28 | 🤖 disclose AI use |
 | [[To Do] Add visual regression (Backstop) tests to Less](https://github.com/less/less.js/issues/3262) 💬 5 | [less/less.js](https://github.com/less/less.js) | 17k | 🟢 beginner | 2026-08-27 |  |
-| [i18n: translate the interview modes (plan/practice/debrief) to Indonesian](https://github.com/career-ops-hq/career-ops/issues/2784) 💬 10 | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73k | 🟢 beginner | 2026-08-26 | 🤖 disclose AI use |
-| [Proxying should support HTTP and HTTPS at the same time](https://github.com/usebruno/bruno/issues/1985) 💬 3 | [usebruno/bruno](https://github.com/usebruno/bruno) | 47.2k | 🟢 beginner | 2026-08-26 |  |
+| [Proxying should support HTTP and HTTPS at the same time](https://github.com/usebruno/bruno/issues/1985) 💬 3 | [usebruno/bruno](https://github.com/usebruno/bruno) | 47.3k | 🟢 beginner | 2026-08-26 |  |
 | [Add a check to test if :hover styles require doubletapping links](https://github.com/GoogleChrome/lighthouse/issues/9474) 💬 9 | [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) | 30.8k | 🟢 beginner | 2026-08-26 | ✍️ CLA |
 | [[Feature request]: add some image examples](https://github.com/hovancik/stretchly/issues/1788) 💬 2 | [hovancik/stretchly](https://github.com/hovancik/stretchly) | 6.6k | 🟡 help wanted | 2026-08-26 | 🤖 disclose AI use |
 | [Cannot deploy Tooljet when database uses a unix socket, likely due to a regression after wait-for-it was intro](https://github.com/ToolJet/ToolJet/issues/4618) 💬 3 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-08-25 | 🤖 disclose AI use |
@@ -97,9 +114,9 @@
 | [Irrelevant error message from 'PerInstanceColorAppearance'](https://github.com/CesiumGS/cesium/issues/12107) 💬 6 | [CesiumGS/cesium](https://github.com/CesiumGS/cesium) | 15.8k | 🟢 beginner | 2026-08-19 | ✍️ CLA |
 | [Wrong Image ColorSpace in PDF for JPEG with ICC](https://github.com/Automattic/node-canvas/issues/1621) | [Automattic/node-canvas](https://github.com/Automattic/node-canvas) | 10.7k | 🟡 help wanted | 2026-08-19 |  |
 | [Websocket connection error](https://github.com/plankanban/planka/issues/754) 💬 16 | [plankanban/planka](https://github.com/plankanban/planka) | 12.6k | 🟡 help wanted | 2026-08-18 |  |
-| [[Help] 关于翻译，有一些不太懂的](https://github.com/maillab/cloud-mail/issues/471) 💬 1 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.4k | 🟡 help wanted | 2026-08-17 |  |
+| [[Help] 关于翻译，有一些不太懂的](https://github.com/maillab/cloud-mail/issues/471) 💬 1 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-08-17 |  |
 | [Can't load svg with base64 image inside](https://github.com/Automattic/node-canvas/issues/1607) 💬 8 | [Automattic/node-canvas](https://github.com/Automattic/node-canvas) | 10.7k | 🟢 beginner | 2026-08-17 |  |
-| [[Help] Your account is blocked from using Workers Builds.](https://github.com/maillab/cloud-mail/issues/524) 💬 2 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.4k | 🟡 help wanted | 2026-08-16 |  |
+| [[Help] Your account is blocked from using Workers Builds.](https://github.com/maillab/cloud-mail/issues/524) 💬 2 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-08-16 |  |
 | [Filter tls options](https://github.com/nodejs/undici/issues/236) 💬 7 | [nodejs/undici](https://github.com/nodejs/undici) | 7.7k | 🟢 beginner | 2026-08-14 |  |
 | [The Future of TWP on Chrome and Edge](https://github.com/FilipePS/Traduzir-paginas-web/issues/904) 💬 33 | [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) | 6k | 🟡 help wanted | 2026-08-13 |  |
 | [Add tools for Yahoo Fantasy Football connector](https://github.com/PipedreamHQ/pipedream/issues/21593) 💬 2 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-08-12 |  |
@@ -152,7 +169,7 @@
 | [Add Gradients for Fill and Strokes](https://github.com/processing/p5.js/issues/7313) 💬 7 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-06-10 | ⚠️ AI restricted |
 | [improvements to programmatic flows API - addflow/removeflow](https://github.com/node-red/node-red/issues/1372) 💬 4 | [node-red/node-red](https://github.com/node-red/node-red) | 23.7k | 🟢 beginner | 2026-06-10 | ✍️ CLA |
 | [difference between inline and inline-block should include discussion about replaced / non-replaced elements](https://github.com/yangshun/front-end-interview-handbook/issues/160) 💬 3 | [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | 44k | 🟡 help wanted | 2026-06-05 |  |
-| [这是什么情况？](https://github.com/maillab/cloud-mail/issues/430) 💬 1 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.4k | 🟡 help wanted | 2026-06-03 |  |
+| [这是什么情况？](https://github.com/maillab/cloud-mail/issues/430) 💬 1 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-06-03 |  |
 | [Runic formatting ?](https://github.com/JuliaPluto/Pluto.jl/issues/3534) 💬 3 | [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) | 5.4k | 🟢 beginner | 2026-06-01 |  |
 | [Add ping graph on the status page](https://github.com/louislam/uptime-kuma/issues/637) 💬 35 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 91.9k | 🟡 help wanted | 2026-05-27 | ⚠️ AI restricted |
 | [Expose Fuse to be used independently](https://github.com/Choices-js/Choices/issues/1370) 💬 1 | [Choices-js/Choices](https://github.com/Choices-js/Choices) | 6.8k | 🟢 beginner | 2026-05-25 |  |

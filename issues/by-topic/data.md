@@ -1,8 +1,8 @@
 # Data and databases issues
 
-**302** open issues (142 labeled for beginners) across **90** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
+**319** open issues (164 labeled for beginners) across **89** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
 
-> Updated automatically on **2026-09-28 23:15 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-29 12:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,17 +10,40 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [KsDataTable.vue: replace explicit 'any' with real types](https://github.com/kestra-io/kestra/issues/19273) 💬 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.4k | 🟢 beginner | 2026-09-28 |  |
-| [BUG: Losing pending changes after closing the app](https://github.com/beekeeper-studio/beekeeper-studio/issues/2201) 💬 8 | [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | 23.7k | 🟢 beginner | 2026-09-28 | ✍️ CLA |
+| [[Bash2.0][Dependencies] Graph re-lays-out and rotates on window resize instead of scaling](https://github.com/kestra-io/kestra/issues/18337) 💬 1 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [[Filters] Execution interval "apply to" selectors do not work](https://github.com/kestra-io/kestra/issues/16429) 💬 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [refactor: remove unused methods of YamlUtils](https://github.com/kestra-io/kestra/issues/15835) 💬 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [Revisions page: Inconsistency in additionLine color across revisions](https://github.com/kestra-io/kestra/issues/11957) 💬 13 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [[Bash2.0] Flow Dependencies tab shows the execution-status bar chart once the flow has run](https://github.com/kestra-io/kestra/issues/18493) 💬 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [[Bash2.0][UI] News tab renders text and hover weird on screen resize](https://github.com/kestra-io/kestra/issues/18439) | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [[UI] Tab name not updated after logout](https://github.com/kestra-io/kestra/issues/17896) 💬 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [Duplicate Bookmarks are getting created](https://github.com/kestra-io/kestra/issues/17889) 💬 1 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [[Executions] By query bulk actions do not provide error feedback](https://github.com/kestra-io/kestra/issues/18797) | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [Task-scoped Copy & Download logs returns execution-scoped logs instead](https://github.com/kestra-io/kestra/issues/18778) 💬 1 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [Revisions tab doesn't refresh after a successful restore, despite the success toast](https://github.com/kestra-io/kestra/issues/18684) 💬 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [Rename every mention of "Periodic refresh" to "Auto Refresh" to unify Filters naming with Settings naming](https://github.com/kestra-io/kestra/issues/18420) 💬 1 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [[Bash 2.0] [Executions] Variables holding an expression are shown unrendered on the Input/Output tab](https://github.com/kestra-io/kestra/issues/18485) 💬 4 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [Timer in topology after restart don't work](https://github.com/kestra-io/kestra/issues/8240) 💬 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [Allow disabling the Docs Tab from the User's Settings](https://github.com/kestra-io/kestra/issues/19446) 💬 4 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [Make Manage lables button clearly visible](https://github.com/kestra-io/kestra/issues/18792) 💬 1 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [Point all docs links to in-app docs rather than to online kestra.io/docs pages](https://github.com/kestra-io/kestra/issues/14127) 💬 4 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [Gantt: parent/child block membership is not visually distinguishable](https://github.com/kestra-io/kestra/issues/18271) | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [[UI] Add a select tab dropdown on the execution page, same as flow](https://github.com/kestra-io/kestra/issues/17964) 💬 7 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [Removing filter in Flow execution page does not work](https://github.com/kestra-io/kestra/issues/14868) 💬 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [Incorrect URL path prefix when "Copy Webhook URL" button is used](https://github.com/kestra-io/kestra/issues/14229) 💬 12 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [Better descriptions for execution kinds in 2.0](https://github.com/kestra-io/kestra/issues/17947) 💬 4 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.5k | 🟢 beginner | 2026-09-29 |  |
+| [Regex tokenizers with different patterns share one analyzer](https://github.com/paradedb/paradedb/issues/6519) 💬 2 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9.3k | 🟢 beginner | 2026-09-29 | ✍️ CLA |
+| [Stopwords are not removed when a stemmer or ascii_folding is also set](https://github.com/paradedb/paradedb/issues/6520) 💬 2 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9.3k | 🟢 beginner | 2026-09-29 | ✍️ CLA |
+| [Support ANSI SQL 'SUBSTRING(expr [FROM start] [FOR len])' syntax](https://github.com/Eventual-Inc/Daft/issues/7555) 💬 1 | [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) | 5.8k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
+| [[Improvement] Update Spark Ranger plugin to 2.7.0](https://github.com/apache/kyuubi/issues/7234) 💬 2 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA |
+| [Search - Use the same words for criteria in "Products search" and in the product page (and edition page)](https://github.com/openfoodfacts/openfoodfacts-server/issues/17) 💬 1 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
 | [BUG: views not adhering to sort order in view definition](https://github.com/beekeeper-studio/beekeeper-studio/issues/1521) 💬 10 | [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | 23.7k | 🟢 beginner | 2026-09-28 | ✍️ CLA |
 | [[DOCS] 8 copy-paste examples crash (doc["text"], normalize_number, format=n-triples, WebIngestor ImportError, ](https://github.com/semantica-agi/semantica/issues/1805) 💬 1 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 13.5k | 🟢 beginner | 2026-09-28 |  |
 | [[BUG] java.lang.OutOfMemoryError: GC overhead limit exceeded](https://github.com/apache/hertzbeat/issues/1714) 💬 14 | [apache/hertzbeat](https://github.com/apache/hertzbeat) | 7.4k | 🟢 beginner | 2026-09-28 |  |
-| [Support ANSI SQL 'SUBSTRING(expr [FROM start] [FOR len])' syntax](https://github.com/Eventual-Inc/Daft/issues/7555) | [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) | 5.8k | 🟢 beginner | 2026-09-28 | 🤖 disclose AI use |
 | [Support / Fix: local import in CUBEJS_SCHEMA_PATH sub directory, avoid throwing not found.](https://github.com/cube-js/cube/issues/7040) 💬 4 | [cube-js/cube](https://github.com/cube-js/cube) | 20.9k | 🟡 help wanted | 2026-09-27 | 🔏 DCO |
 | [Deprecate native ltree support in the ParadeDB index in favor of bitmap intersection](https://github.com/paradedb/paradedb/issues/6093) 💬 2 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9.3k | 🟢 beginner | 2026-09-27 | ✍️ CLA |
 | [[Question] Add monitoring grouping function](https://github.com/apache/hertzbeat/issues/698) 💬 2 | [apache/hertzbeat](https://github.com/apache/hertzbeat) | 7.4k | 🟡 help wanted | 2026-09-27 |  |
 | [Databricks: add SQL endpoint operators](https://github.com/apache/airflow/issues/21377) 💬 13 | [apache/airflow](https://github.com/apache/airflow) | 47k | 🟢 beginner | 2026-09-25 | 🤖 disclose AI use · ✍️ CLA |
-| [client-facade.ts: replace explicit 'any' with real types](https://github.com/kestra-io/kestra/issues/19274) 💬 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.4k | 🟢 beginner | 2026-09-25 |  |
 | [Direct link to an experiment step from the step list](https://github.com/elabftw/elabftw/issues/7483) 💬 1 | [elabftw/elabftw](https://github.com/elabftw/elabftw) | 1.4k | 🟢 beginner | 2026-09-25 |  |
 | [Default to listening on ::](https://github.com/dragonflydb/dragonfly/issues/8266) 💬 4 | [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) | 31.7k | 🟢 beginner | 2026-09-24 | ✍️ CLA · 🔏 DCO |
 | [Subquery support](https://github.com/tursodatabase/turso/issues/34) 💬 2 | [tursodatabase/turso](https://github.com/tursodatabase/turso) | 24.4k | 🟡 help wanted | 2026-09-24 | 🤖 disclose AI use |
@@ -61,7 +84,6 @@
 | [How servicegraph in grafana tempo filters applications](https://github.com/grafana/grafana/issues/105147) 💬 5 | [grafana/grafana](https://github.com/grafana/grafana) | 77k | 🟡 help wanted | 2026-09-20 | ✍️ CLA |
 | [Replace the current continuous benchmarking action with our own.](https://github.com/paradedb/paradedb/issues/5013) 💬 4 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9.3k | 🟢 beginner | 2026-09-19 | ✍️ CLA |
 | [[BUG] rounding doubles floats can result in -0.0 result](https://github.com/NVIDIA/cudf-spark/issues/9349) 💬 1 | [NVIDIA/cudf-spark](https://github.com/NVIDIA/cudf-spark) | 1k | 🟢 beginner | 2026-09-19 | 🤖 disclose AI use · 🔏 DCO |
-| [ArangoDB](https://github.com/googleapis/mcp-toolbox/issues/2290) 💬 16 | [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) | 16.5k | 🟡 help wanted | 2026-09-18 | ✍️ CLA |
 | [Fuzzing for 'diesel_infer_query'](https://github.com/diesel-rs/diesel/issues/5222) | [diesel-rs/diesel](https://github.com/diesel-rs/diesel) | 14.2k | 🟡 help wanted | 2026-09-18 | ⚠️ AI restricted |
 | [Add individual user filter](https://github.com/PostHog/posthog/issues/1289) 💬 11 | [PostHog/posthog](https://github.com/PostHog/posthog) | 40k | 🟢 beginner | 2026-09-17 | ⚠️ AI restricted |
 | [Explicit auth with TEMP tokens](https://github.com/cockroachdb/cockroach/issues/56577) 💬 6 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-09-17 | ✍️ CLA |
@@ -99,7 +121,7 @@
 | [MaterializedPostgreSQL: order of columns in the primary key is not honoured on the Clickhouse Side](https://github.com/ClickHouse/ClickHouse/issues/79375) | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 50.1k | 🟡 help wanted | 2026-09-11 | 🤖 disclose AI use · ✍️ CLA |
 | [Integration: build and upstream an AutoGen integration](https://github.com/semantica-agi/semantica/issues/1519) 💬 1 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 13.5k | 🟢 beginner | 2026-09-11 |  |
 | [[BUG]: Background image is rendered at an incorrect size after box zoom followed by mouse wheel zoom out](https://github.com/plotly/plotly.js/issues/7914) 💬 8 | [plotly/plotly.js](https://github.com/plotly/plotly.js) | 18.3k | 🟢 beginner | 2026-09-09 | ⚠️ AI restricted |
-| [Show when a subscription or alert was skipped because it was empty](https://github.com/metabase/metabase/issues/80736) 💬 4 | [metabase/metabase](https://github.com/metabase/metabase) | 49.4k | 🟢 beginner | 2026-09-08 | ✍️ CLA |
+| [Show when a subscription or alert was skipped because it was empty](https://github.com/metabase/metabase/issues/80736) 💬 4 | [metabase/metabase](https://github.com/metabase/metabase) | 49.5k | 🟢 beginner | 2026-09-08 | ✍️ CLA |
 | [clang-tidy: enable performance-*](https://github.com/alibaba/zvec/issues/291) 💬 3 | [alibaba/zvec](https://github.com/alibaba/zvec) | 16k | 🟡 help wanted | 2026-09-08 |  |
 | [clang-tidy: enable clang-analyzer-*](https://github.com/alibaba/zvec/issues/292) | [alibaba/zvec](https://github.com/alibaba/zvec) | 16k | 🟡 help wanted | 2026-09-08 |  |
 | [Integration: upstream the CrewAI integration to CrewAI's own docs](https://github.com/semantica-agi/semantica/issues/1518) | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 13.5k | 🟢 beginner | 2026-09-07 |  |
@@ -118,7 +140,6 @@
 | ['_some' operator limited to top-level relations prevents complex nested filtering](https://github.com/directus/directus/issues/25403) 💬 7 | [directus/directus](https://github.com/directus/directus) | 38k | 🟡 help wanted | 2026-09-02 |  |
 | [M2A Relation Display Not Showing Properly](https://github.com/directus/directus/issues/25348) 💬 4 | [directus/directus](https://github.com/directus/directus) | 38k | 🟡 help wanted | 2026-09-02 |  |
 | [Postgresql : Can't update row with an empty array](https://github.com/sequelize/sequelize/issues/11748) 💬 6 | [sequelize/sequelize](https://github.com/sequelize/sequelize) | 30.4k | 🟢 beginner | 2026-09-02 |  |
-| [Alternative query result format other than []dict](https://github.com/googleapis/mcp-toolbox/issues/1537) 💬 6 | [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) | 16.5k | 🟡 help wanted | 2026-09-02 | ✍️ CLA |
 | [GCS needs someone with a real bucket to run its test](https://github.com/deeplethe/utopia/issues/214) | [deeplethe/utopia](https://github.com/deeplethe/utopia) | 8k | 🟡 help wanted | 2026-09-02 | ✍️ CLA · 🔏 DCO |
 | [Improve logging for circuit breakers](https://github.com/elastic/elasticsearch/issues/62452) 💬 11 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 78.1k | 🟡 help wanted | 2026-09-01 | ✍️ CLA |
 | [Add resource ID to 404 response body](https://github.com/elastic/elasticsearch/issues/82675) 💬 17 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 78.1k | 🟡 help wanted | 2026-09-01 | ✍️ CLA |
@@ -144,7 +165,6 @@
 | [Support for greek locale](https://github.com/dbeaver/dbeaver/issues/7932) 💬 4 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 51.9k | 🟡 help wanted | 2026-08-21 | 🤖 disclose AI use |
 | [Bug: In Cohorts, the 'set' operator filters in null values for person properties](https://github.com/PostHog/posthog/issues/29916) 💬 4 | [PostHog/posthog](https://github.com/PostHog/posthog) | 40k | 🟢 beginner | 2026-08-21 | ⚠️ AI restricted |
 | [SQL Server CDC: silent data loss when upstream disables CDC on a captured table](https://github.com/risingwavelabs/risingwave/issues/25828) 💬 6 | [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) | 9.4k | 🟢 beginner | 2026-08-21 | ✍️ CLA |
-| [Search - Use the same words for criteria in "Products search" and in the product page (and edition page)](https://github.com/openfoodfacts/openfoodfacts-server/issues/17) | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-08-21 | 🤖 disclose AI use |
 | [Add play store promo](https://github.com/openfoodfacts/openfoodfacts-server/issues/604) 💬 6 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-08-21 | 🤖 disclose AI use |
 | [[feature request] loadUpdateData only insert](https://github.com/liquibase/liquibase/issues/1101) 💬 5 | [liquibase/liquibase](https://github.com/liquibase/liquibase) | 5.6k | 🟡 help wanted | 2026-08-20 |  |
 | [[Feature Request]: Integrate Automated Data Validation Pipeline using 'Great Expectations' for Dataset Integri](https://github.com/Niketkumardheeryan/ML-CaPsule/issues/1504) 💬 26 | [Niketkumardheeryan/ML-CaPsule](https://github.com/Niketkumardheeryan/ML-CaPsule) | 682 | 🟡 help wanted | 2026-08-19 |  |
@@ -190,25 +210,5 @@
 | [Group MCP tools by read and write/ delete](https://github.com/PostHog/posthog/issues/76236) 💬 2 | [PostHog/posthog](https://github.com/PostHog/posthog) | 40k | 🟢 beginner | 2026-08-02 | ⚠️ AI restricted |
 | [TMemoryLimitException should be inherited from std::exception](https://github.com/ydb-platform/ydb/issues/2887) | [ydb-platform/ydb](https://github.com/ydb-platform/ydb) | 4.8k | 🟢 beginner | 2026-08-02 |  |
 | [It is recommended that the GRPC server add a timeout limit.](https://github.com/gogf/gf/issues/3189) 💬 5 | [gogf/gf](https://github.com/gogf/gf) | 13.3k | 🟡 help wanted | 2026-08-01 |  |
-| [Duplicate ids on same page](https://github.com/phpmyadmin/phpmyadmin/issues/19108) 💬 5 | [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 7.9k | 🟢 beginner | 2026-08-01 | 🔏 DCO |
-| [Migrate 'locale' and 'is_qbnewb' columns in 'core_user' table to User-local settings](https://github.com/metabase/metabase/issues/20604) 💬 4 | [metabase/metabase](https://github.com/metabase/metabase) | 49.4k | 🟢 beginner | 2026-07-27 | ✍️ CLA |
-| [mo.ui.slider with very small step value does not work](https://github.com/marimo-team/marimo/issues/2593) 💬 6 | [marimo-team/marimo](https://github.com/marimo-team/marimo) | 22.9k | 🟢 beginner | 2026-07-26 | 🤖 disclose AI use · ✍️ CLA |
-| [Save markdown heading collapsed states](https://github.com/marimo-team/marimo/issues/3825) 💬 3 | [marimo-team/marimo](https://github.com/marimo-team/marimo) | 22.9k | 🟡 help wanted | 2026-07-25 | 🤖 disclose AI use · ✍️ CLA |
-| [Add a Python client library](https://github.com/cube-js/cube/issues/1744) 💬 13 | [cube-js/cube](https://github.com/cube-js/cube) | 20.9k | 🟡 help wanted | 2026-07-23 | 🔏 DCO |
-| [TestLoad* failures: unexpected path expansion](https://github.com/ent/ent/issues/3013) 💬 6 | [ent/ent](https://github.com/ent/ent) | 17.2k | 🟢 beginner | 2026-07-23 | ✍️ CLA |
-| [delete_many() with 'exec_with_returning' with '.filter()' won't return the deleted entry](https://github.com/SeaQL/sea-orm/issues/3046) 💬 3 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | 9.9k | 🟡 help wanted | 2026-07-23 |  |
-| ["Comparison to average values of products in the same category" is unclear](https://github.com/openfoodfacts/openfoodfacts-server/issues/2497) 💬 9 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-07-23 | 🤖 disclose AI use |
-| [Mirror load_datasets api for read_huggingface](https://github.com/Eventual-Inc/Daft/issues/5295) | [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) | 5.8k | 🟡 help wanted | 2026-07-22 | 🤖 disclose AI use |
-| [(Fractional) scaling issues on KDE/Wayland](https://github.com/dbeaver/dbeaver/issues/26846) 💬 17 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 51.9k | 🟡 help wanted | 2026-07-21 | 🤖 disclose AI use |
-| [Embedded tab feedback button survey does not respect the position](https://github.com/PostHog/posthog/issues/31267) 💬 6 | [PostHog/posthog](https://github.com/PostHog/posthog) | 40k | 🟢 beginner | 2026-07-21 | ⚠️ AI restricted |
-| [Getting an Electron crash, not sure how to further debug - help needed!](https://github.com/WiseLibs/better-sqlite3/issues/988) 💬 8 | [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) | 7.5k | 🟡 help wanted | 2026-07-21 |  |
-| [Mouse wheel zoom not working when EnableSwapChainRendering = True](https://github.com/helix-toolkit/helix-toolkit/issues/833) 💬 17 | [helix-toolkit/helix-toolkit](https://github.com/helix-toolkit/helix-toolkit) | 2.3k | 🟡 help wanted | 2026-07-21 |  |
-| [Resurrecting the MySQL backend](https://github.com/haskell-beam/beam/issues/822) 💬 1 | [haskell-beam/beam](https://github.com/haskell-beam/beam) | 637 | 🟡 help wanted | 2026-07-21 |  |
-| [Able to switch off question recommendation](https://github.com/Canner/WrenAI/issues/1202) 💬 5 | [Canner/WrenAI](https://github.com/Canner/WrenAI) | 17.8k | 🟢 beginner | 2026-07-20 |  |
-| [Benchmark build time of user code](https://github.com/haskell-beam/beam/issues/824) | [haskell-beam/beam](https://github.com/haskell-beam/beam) | 637 | 🟡 help wanted | 2026-07-20 |  |
-| [[Feat]: Import/Export Excel (Office Open XML) Files](https://github.com/phpmyadmin/phpmyadmin/issues/19962) 💬 16 | [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 7.9k | 🟢 beginner | 2026-07-18 | 🔏 DCO |
-| [[Feat]: Export data only when export all table](https://github.com/phpmyadmin/phpmyadmin/issues/20018) 💬 1 | [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 7.9k | 🟢 beginner | 2026-07-18 | 🔏 DCO |
-| [最近测试发现TDengine的WAL_LEVEL设置为2时，插入数据后并不会主动进行刷盘](https://github.com/taosdata/TDengine/issues/33659) 💬 4 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.1k | 🟡 help wanted | 2026-07-17 |  |
-| [Support for metdata for both sources and tools in tools.yaml and description for sources](https://github.com/googleapis/mcp-toolbox/issues/1896) 💬 30 | [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) | 16.5k | 🟡 help wanted | 2026-07-16 | ✍️ CLA |
 
-Showing the 200 most recently updated. See all 302 on the website.
+Showing the 200 most recently updated. See all 319 on the website.

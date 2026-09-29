@@ -1,10 +1,10 @@
 # Rust issues
 
-**297** open issues (119 labeled for beginners) across **91** active Rust projects.
+**302** open issues (124 labeled for beginners) across **92** active Rust projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/rust.xml)
 
-> Updated automatically on **2026-09-28 23:15 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-29 12:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,23 +12,24 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [More Linux distros compatible](https://github.com/rustdesk/rustdesk/issues/3565) 💬 9 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 124.7k | 🟡 help wanted | 2026-09-28 | 🔏 DCO |
+| [Regex tokenizers with different patterns share one analyzer](https://github.com/paradedb/paradedb/issues/6519) 💬 2 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9.3k | 🟢 beginner | 2026-09-29 | ✍️ CLA |
+| [Stopwords are not removed when a stemmer or ascii_folding is also set](https://github.com/paradedb/paradedb/issues/6520) 💬 2 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9.3k | 🟢 beginner | 2026-09-29 | ✍️ CLA |
+| [Support ANSI SQL 'SUBSTRING(expr [FROM start] [FOR len])' syntax](https://github.com/Eventual-Inc/Daft/issues/7555) 💬 1 | [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) | 5.8k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
+| [Rhai standard library.](https://github.com/rhaiscript/rhai/issues/451) 💬 16 | [rhaiscript/rhai](https://github.com/rhaiscript/rhai) | 5.7k | 🟡 help wanted | 2026-09-29 |  |
+| [More Linux distros compatible](https://github.com/rustdesk/rustdesk/issues/3565) 💬 9 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 124.8k | 🟡 help wanted | 2026-09-28 | 🔏 DCO |
 | [Missing qualify code action on unqualified imports](https://github.com/gleam-lang/gleam/issues/6267) 💬 2 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | 21.9k | 🟢 beginner | 2026-09-28 | ⚠️ AI restricted |
 | [docs: provide a cargo-generate starter template](https://github.com/tracel-ai/burn/issues/282) 💬 8 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟢 beginner | 2026-09-28 |  |
-| [Support ANSI SQL 'SUBSTRING(expr [FROM start] [FOR len])' syntax](https://github.com/Eventual-Inc/Daft/issues/7555) | [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) | 5.8k | 🟢 beginner | 2026-09-28 | 🤖 disclose AI use |
-| [Rhai standard library.](https://github.com/rhaiscript/rhai/issues/451) 💬 15 | [rhaiscript/rhai](https://github.com/rhaiscript/rhai) | 5.7k | 🟡 help wanted | 2026-09-28 |  |
 | [[Suggestion] Recommended local models for translation, correction and work notes (measured), and why vision is](https://github.com/koharu-rs/koharu/issues/1159) 💬 2 | [koharu-rs/koharu](https://github.com/koharu-rs/koharu) | 5.7k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use |
 | [Text box nudge with arrow key](https://github.com/koharu-rs/koharu/issues/1161) | [koharu-rs/koharu](https://github.com/koharu-rs/koharu) | 5.7k | 🟢 beginner | 2026-09-28 | 🤖 disclose AI use |
 | [Unusable on Fedora KDE + Nvidia since 0.83.1](https://github.com/koharu-rs/koharu/issues/1147) 💬 2 | [koharu-rs/koharu](https://github.com/koharu-rs/koharu) | 5.7k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use |
-| [Feature: Track invoking agent (Claude, Copilot, Codex, etc) in command analytics](https://github.com/rtk-ai/rtk/issues/1314) 💬 2 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 81.9k | 🟡 help wanted | 2026-09-27 | ✍️ CLA |
-| [Honor tracking.enabled and history_days config](https://github.com/rtk-ai/rtk/issues/1788) 💬 2 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 81.9k | 🟡 help wanted | 2026-09-27 | ✍️ CLA |
-| [hook: leaks "no such file" stderr when probing absent dependency manifests (go.sum / package-lock.json / Cargo](https://github.com/rtk-ai/rtk/issues/2942) 💬 4 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 81.9k | 🟢 beginner | 2026-09-27 | ✍️ CLA |
+| [Feature: Track invoking agent (Claude, Copilot, Codex, etc) in command analytics](https://github.com/rtk-ai/rtk/issues/1314) 💬 2 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82k | 🟡 help wanted | 2026-09-27 | ✍️ CLA |
+| [Honor tracking.enabled and history_days config](https://github.com/rtk-ai/rtk/issues/1788) 💬 2 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82k | 🟡 help wanted | 2026-09-27 | ✍️ CLA |
+| [hook: leaks "no such file" stderr when probing absent dependency manifests (go.sum / package-lock.json / Cargo](https://github.com/rtk-ai/rtk/issues/2942) 💬 4 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82k | 🟢 beginner | 2026-09-27 | ✍️ CLA |
 | [Support / Fix: local import in CUBEJS_SCHEMA_PATH sub directory, avoid throwing not found.](https://github.com/cube-js/cube/issues/7040) 💬 4 | [cube-js/cube](https://github.com/cube-js/cube) | 20.9k | 🟡 help wanted | 2026-09-27 | 🔏 DCO |
 | [ci: add WebGPU integration tests (e.g. with Deno)](https://github.com/tracel-ai/burn/issues/810) | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟡 help wanted | 2026-09-27 |  |
-| [bug: managed-workspace E2E tests intermittently fail with SQLite lock contention](https://github.com/NVIDIA/OpenShell/issues/3679) 💬 1 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 9.3k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use · 🔏 DCO |
+| [bug: managed-workspace E2E tests intermittently fail with SQLite lock contention](https://github.com/NVIDIA/OpenShell/issues/3679) 💬 1 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 9.9k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use · 🔏 DCO |
 | [Deprecate native ltree support in the ParadeDB index in favor of bitmap intersection](https://github.com/paradedb/paradedb/issues/6093) 💬 2 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9.3k | 🟢 beginner | 2026-09-27 | ✍️ CLA |
 | [Auto-created tables can miss required columns when insert schemas differ](https://github.com/GreptimeTeam/greptimedb/issues/9185) 💬 4 | [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) | 6.7k | 🟢 beginner | 2026-09-27 | ✍️ CLA · 🔏 DCO |
-| [bug(hook): rewrite path turns ';;' into '; ;', breaking every 'case' statement (bash syntax error)](https://github.com/rtk-ai/rtk/issues/3197) 💬 10 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 81.9k | 🟢 beginner | 2026-09-26 | ✍️ CLA |
 | [Feature request: Trackpad zones for layer switching using thumbs](https://github.com/jtroo/kanata/issues/1401) 💬 3 | [jtroo/kanata](https://github.com/jtroo/kanata) | 7.9k | 🟡 help wanted | 2026-09-26 |  |
 | [Re-Detection is not possible](https://github.com/koharu-rs/koharu/issues/995) 💬 7 | [koharu-rs/koharu](https://github.com/koharu-rs/koharu) | 5.7k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use |
 | [[Call for help] layout principles](https://github.com/koharu-rs/koharu/issues/981) 💬 4 | [koharu-rs/koharu](https://github.com/koharu-rs/koharu) | 5.7k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use |
@@ -66,13 +67,13 @@
 | [nn: add LPPool1d/LPPool2d (power-average pooling)](https://github.com/tracel-ai/burn/issues/1172) 💬 1 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟢 beginner | 2026-09-24 |  |
 | [tensor: add sparse tensor support](https://github.com/tracel-ai/burn/issues/846) 💬 12 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟡 help wanted | 2026-09-24 |  |
 | [You are not allowed to run sudo](https://github.com/microsoft/sudo/issues/95) 💬 17 | [microsoft/sudo](https://github.com/microsoft/sudo) | 5.9k | 🟡 help wanted | 2026-09-24 |  |
-| [Give movement priority to host rather than client + multiple connections mouse move priority issue](https://github.com/rustdesk/rustdesk/issues/40) 💬 22 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 124.7k | 🟡 help wanted | 2026-09-23 | 🔏 DCO |
+| [Give movement priority to host rather than client + multiple connections mouse move priority issue](https://github.com/rustdesk/rustdesk/issues/40) 💬 22 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 124.8k | 🟡 help wanted | 2026-09-23 | 🔏 DCO |
 | [Feature Request: TLS Handshake Completion Callback](https://github.com/cloudflare/pingora/issues/786) 💬 3 | [cloudflare/pingora](https://github.com/cloudflare/pingora) | 27.5k | 🟡 help wanted | 2026-09-23 |  |
 | [Make MAX_RETRIES configurable](https://github.com/cloudflare/pingora/issues/466) 💬 7 | [cloudflare/pingora](https://github.com/cloudflare/pingora) | 27.5k | 🟡 help wanted | 2026-09-23 |  |
 | [ls: completions for attributes](https://github.com/gleam-lang/gleam/issues/6333) 💬 1 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | 21.9k | 🟢 beginner | 2026-09-22 | ⚠️ AI restricted |
 | ['@deprecated' attribute can be attached to 'import' item](https://github.com/gleam-lang/gleam/issues/6331) 💬 1 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | 21.9k | 🟢 beginner | 2026-09-22 | ⚠️ AI restricted |
 | ["Pattern match on variable" is offered on discards / could generate better code?](https://github.com/gleam-lang/gleam/issues/6285) 💬 1 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | 21.9k | 🟡 help wanted | 2026-09-22 | ⚠️ AI restricted |
-| [Audio no sound （Add asio support)](https://github.com/rustdesk/rustdesk/issues/3762) 💬 56 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 124.7k | 🟡 help wanted | 2026-09-21 | 🔏 DCO |
+| [Audio no sound （Add asio support)](https://github.com/rustdesk/rustdesk/issues/3762) 💬 56 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 124.8k | 🟡 help wanted | 2026-09-21 | 🔏 DCO |
 | [[Bug]: emergency stop is a CLI-only state file that no runtime path reads](https://github.com/zeroclaw-labs/zeroclaw/issues/9390) 💬 3 | [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | 32.9k | 🟡 help wanted | 2026-09-21 | 🤖 disclose AI use · ✍️ CLA |
 | [Duplicate module when creating variant with LS action](https://github.com/gleam-lang/gleam/issues/6321) 💬 1 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | 21.9k | 🟡 help wanted | 2026-09-21 | ⚠️ AI restricted |
 | [Inpainting crashes with HIPFFT_PARSE_ERROR](https://github.com/koharu-rs/koharu/issues/1082) 💬 4 | [koharu-rs/koharu](https://github.com/koharu-rs/koharu) | 5.7k | 🟡 help wanted | 2026-09-21 | 🤖 disclose AI use |
@@ -86,7 +87,7 @@
 | [macbook use Touch ID instead password](https://github.com/GyulyVGC/sniffnet/issues/1300) 💬 3 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 41.3k | 🟢 beginner | 2026-09-17 | 🤖 disclose AI use |
 | [Matching on '&lt;&lt;_:utf8&gt;&gt;' takes wrong branch on JavaScript target](https://github.com/gleam-lang/gleam/issues/6181) 💬 14 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | 21.9k | 🟡 help wanted | 2026-09-17 | ⚠️ AI restricted |
 | [Tracking issue for bit arrays on javascript target](https://github.com/gleam-lang/gleam/issues/3842) 💬 5 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | 21.9k | 🟡 help wanted | 2026-09-17 | ⚠️ AI restricted |
-| [feat(api)!: split UpdateConfig into typed policy and settings mutations](https://github.com/NVIDIA/OpenShell/issues/3049) 💬 3 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 9.3k | 🟡 help wanted | 2026-09-17 | 🤖 disclose AI use · 🔏 DCO |
+| [feat(api)!: split UpdateConfig into typed policy and settings mutations](https://github.com/NVIDIA/OpenShell/issues/3049) 💬 3 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 9.9k | 🟡 help wanted | 2026-09-17 | 🤖 disclose AI use · 🔏 DCO |
 | [ROCm accelerator init broken on Linux since 0.78.0 (hipErrorNoDevice)](https://github.com/koharu-rs/koharu/issues/1052) 💬 3 | [koharu-rs/koharu](https://github.com/koharu-rs/koharu) | 5.7k | 🟡 help wanted | 2026-09-17 | 🤖 disclose AI use |
 | [drag to reorder](https://github.com/koharu-rs/koharu/issues/1100) 💬 3 | [koharu-rs/koharu](https://github.com/koharu-rs/koharu) | 5.7k | 🟢 beginner | 2026-09-17 | 🤖 disclose AI use |
 | [panic first launch when document dir are inside onedrive.](https://github.com/koharu-rs/koharu/issues/1027) 💬 5 | [koharu-rs/koharu](https://github.com/koharu-rs/koharu) | 5.7k | 🟡 help wanted | 2026-09-17 | 🤖 disclose AI use |
@@ -96,6 +97,7 @@
 | [Feature: Support more formats for latitude and longitude](https://github.com/surrealdb/surrealdb/issues/98) 💬 10 | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | 33.1k | 🟢 beginner | 2026-09-16 |  |
 | [Feature: Encryption at transit TiKV](https://github.com/surrealdb/surrealdb/issues/2167) 💬 13 | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | 33.1k | 🟢 beginner | 2026-09-16 |  |
 | [docs: how-to for ignoring files ('.loreignore') and view filters](https://github.com/EpicGames/lore/issues/118) 💬 1 | [EpicGames/lore](https://github.com/EpicGames/lore) | 8.8k | 🟢 beginner | 2026-09-16 | ⚠️ AI restricted · 🔏 DCO |
+| [The replace arithmetic assist should be offered on negation and '.pow()'](https://github.com/rust-lang/rust-analyzer/issues/23153) 💬 1 | [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) | 16.9k | 🟢 beginner | 2026-09-15 | 🤖 disclose AI use |
 | [Remove V1 API](https://github.com/paradedb/paradedb/issues/4391) 💬 14 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9.3k | 🟢 beginner | 2026-09-15 | ✍️ CLA |
 | [Generate field code action](https://github.com/gleam-lang/gleam/issues/5916) 💬 13 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | 21.9k | 🟡 help wanted | 2026-09-14 | ⚠️ AI restricted |
 | [docs: surface repository examples and templates in the Recipes tab](https://github.com/ai-dynamo/dynamo/issues/13497) 💬 1 | [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | 8.2k | 🟢 beginner | 2026-09-14 | 📄 AI policy · 🔏 DCO |
@@ -135,9 +137,10 @@
 | [REPL](https://github.com/gleam-lang/gleam/issues/25) 💬 17 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | 21.9k | 🟡 help wanted | 2026-09-06 | ⚠️ AI restricted |
 | [ls: explain what each bit array segment option is in their hovers](https://github.com/gleam-lang/gleam/issues/6270) 💬 1 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | 21.9k | 🟡 help wanted | 2026-09-06 | ⚠️ AI restricted |
 | [ls: show documentation on hover of constants in bit array's 'size'](https://github.com/gleam-lang/gleam/issues/6264) 💬 2 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | 21.9k | 🟢 beginner | 2026-09-06 | ⚠️ AI restricted |
-| [[feat] p2p建立多个连接并负载均衡](https://github.com/EasyTier/EasyTier/issues/961) 💬 2 | [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) | 13.8k | 🟡 help wanted | 2026-09-06 |  |
+| [[feat] p2p建立多个连接并负载均衡](https://github.com/EasyTier/EasyTier/issues/961) 💬 2 | [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) | 13.9k | 🟡 help wanted | 2026-09-06 |  |
 | [regression: can't build broot for Android using cargo cross anymore](https://github.com/Canop/broot/issues/565) 💬 6 | [Canop/broot](https://github.com/Canop/broot) | 13k | 🟡 help wanted | 2026-09-06 | ⚠️ AI restricted |
 | [[EntityLoader] 'EntityLoader::load()::with()' does not work for 'self_ref' self references.](https://github.com/SeaQL/sea-orm/issues/3189) 💬 2 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | 9.9k | 🟡 help wanted | 2026-09-06 |  |
+| [FP 'Syntax Error: expected an item'](https://github.com/rust-lang/rust-analyzer/issues/23144) 💬 9 | [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) | 16.9k | 🟢 beginner | 2026-09-05 | 🤖 disclose AI use |
 | [Webhook source: support HTTP GET verification handshake for providers like Meta/Facebook, WhatsApp, Instagram](https://github.com/risingwavelabs/risingwave/issues/26236) 💬 2 | [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) | 9.4k | 🟢 beginner | 2026-09-05 | ✍️ CLA |
 | [Recipes for Nx, Turborepo, moon and a danger-js plugin](https://github.com/kucherenko/jscpd/issues/1014) 💬 1 | [kucherenko/jscpd](https://github.com/kucherenko/jscpd) | 6.3k | 🟡 help wanted | 2026-09-05 |  |
 | [Support for PowerPC 'ppc64le' architecture](https://github.com/qdrant/qdrant/issues/3940) 💬 2 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 34.9k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use |
@@ -153,7 +156,7 @@
 | [Support header sso (Forward Auth)](https://github.com/lldap/lldap/issues/352) 💬 15 | [lldap/lldap](https://github.com/lldap/lldap) | 6.5k | 🟢 beginner | 2026-08-31 |  |
 | [Feature request: add action to set movemouse-accel-xx acceleration to max value](https://github.com/jtroo/kanata/issues/1377) 💬 2 | [jtroo/kanata](https://github.com/jtroo/kanata) | 7.9k | 🟡 help wanted | 2026-08-29 |  |
 | [Docs: add a Wikipedia page about Sniffnet](https://github.com/GyulyVGC/sniffnet/issues/975) 💬 2 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 41.3k | 🟢 beginner | 2026-08-28 | 🤖 disclose AI use |
-| [Windows ARM epic](https://github.com/espanso/espanso/issues/2306) 💬 3 | [espanso/espanso](https://github.com/espanso/espanso) | 14.5k | 🟡 help wanted | 2026-08-28 |  |
+| [Windows ARM epic](https://github.com/espanso/espanso/issues/2306) 💬 3 | [espanso/espanso](https://github.com/espanso/espanso) | 14.6k | 🟡 help wanted | 2026-08-28 |  |
 | [Add config option to disable optional checks](https://github.com/facebook/pyrefly/issues/4594) 💬 4 | [facebook/pyrefly](https://github.com/facebook/pyrefly) | 7k | 🟡 help wanted | 2026-08-28 | 🤖 disclose AI use · ✍️ CLA |
 | [removes comment after import](https://github.com/rust-lang/rustfmt/issues/7051) 💬 4 | [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) | 7k | 🟢 beginner | 2026-08-28 | 📄 AI policy |
 | [Make Kali Linux Pack](https://github.com/bee-san/RustScan/issues/686) 💬 7 | [bee-san/RustScan](https://github.com/bee-san/RustScan) | 20.5k | 🟢 beginner | 2026-08-27 |  |
@@ -165,13 +168,14 @@
 | [window bun process.env.HOME is undefined](https://github.com/oven-sh/bun/issues/10502) 💬 5 | [oven-sh/bun](https://github.com/oven-sh/bun) | 96.1k | 🟢 beginner | 2026-08-24 |  |
 | [Export uv benchmarks to pubgrub](https://github.com/astral-sh/uv/issues/9119) | [astral-sh/uv](https://github.com/astral-sh/uv) | 90.3k | 🟡 help wanted | 2026-08-24 | 📄 AI policy |
 | [[Ideas Wanted] Generically accepting a &Pool or &mut Connection and allowing the argument to be used more than](https://github.com/transact-rs/sqlx/issues/419) 💬 21 | [transact-rs/sqlx](https://github.com/transact-rs/sqlx) | 17.5k | 🟡 help wanted | 2026-08-24 |  |
+| [Address FIXMEs for adding diagnostics](https://github.com/rust-lang/rust-analyzer/issues/22140) 💬 38 | [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) | 16.9k | 🟢 beginner | 2026-08-24 | 🤖 disclose AI use |
 | [Don't materialize any data on 'count_rows' if the filter can be satisfied by a scalar index](https://github.com/lance-format/lance/issues/2682) 💬 3 | [lance-format/lance](https://github.com/lance-format/lance) | 7.1k | 🟢 beginner | 2026-08-24 |  |
 | [GPU-enabled index training](https://github.com/lance-format/lance/issues/1080) 💬 2 | [lance-format/lance](https://github.com/lance-format/lance) | 7.1k | 🟢 beginner | 2026-08-24 |  |
 | [Support dependencies between optional components/extensions](https://github.com/rust-lang/rustup/issues/1111) 💬 4 | [rust-lang/rustup](https://github.com/rust-lang/rustup) | 7.1k | 🟡 help wanted | 2026-08-24 | 📄 AI policy |
 | [IPv6 LL addresses with link suffix (%eth0) don't work](https://github.com/nushell/nushell/issues/9065) 💬 6 | [nushell/nushell](https://github.com/nushell/nushell) | 40.6k | 🟢 beginner | 2026-08-22 | ⚠️ AI restricted |
 | [GitLab Integration not returning username](https://github.com/orhun/git-cliff/issues/1492) 💬 5 | [orhun/git-cliff](https://github.com/orhun/git-cliff) | 12.3k | 🟡 help wanted | 2026-08-22 |  |
 | [SQL Server CDC: silent data loss when upstream disables CDC on a captured table](https://github.com/risingwavelabs/risingwave/issues/25828) 💬 6 | [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) | 9.4k | 🟢 beginner | 2026-08-21 | ✍️ CLA |
-| [Create a cross platform pty crate](https://github.com/alacritty/alacritty/issues/2079) 💬 10 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 65.8k | 🟡 help wanted | 2026-08-19 |  |
+| [Create a cross platform pty crate](https://github.com/alacritty/alacritty/issues/2079) 💬 10 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 65.9k | 🟡 help wanted | 2026-08-19 |  |
 | [[Performance] Use 'tree-sitter' to provide syntax highlighting ?](https://github.com/sharkdp/bat/issues/3366) 💬 15 | [sharkdp/bat](https://github.com/sharkdp/bat) | 60.6k | 🟡 help wanted | 2026-08-18 |  |
 | [Improve the geosearch](https://github.com/meilisearch/meilisearch/issues/3377) 💬 4 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 59.4k | 🟡 help wanted | 2026-08-18 | 🤖 disclose AI use |
 | [Mutable segment snapshot assertion fails after crash recovery: ctid_set.len() != expected_ctids](https://github.com/paradedb/paradedb/issues/5937) 💬 6 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9.3k | 🟢 beginner | 2026-08-17 | ✍️ CLA |
@@ -187,7 +191,7 @@
 | [Simplify SecretInjection: drop basic_auth and query_params flags](https://github.com/superradcompany/microsandbox/issues/703) 💬 2 | [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 8.5k | 🟢 beginner | 2026-08-11 | 🔏 DCO |
 | [Support deepagents(langchain) backend](https://github.com/superradcompany/microsandbox/issues/1084) 💬 4 | [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 8.5k | 🟡 help wanted | 2026-08-11 | 🔏 DCO |
 | [Samba integration](https://github.com/lldap/lldap/issues/599) 💬 32 | [lldap/lldap](https://github.com/lldap/lldap) | 6.5k | 🟡 help wanted | 2026-08-11 |  |
-| [Introducing espansoED](https://github.com/espanso/espanso/issues/2715) 💬 11 | [espanso/espanso](https://github.com/espanso/espanso) | 14.5k | 🟡 help wanted | 2026-08-10 |  |
+| [Introducing espansoED](https://github.com/espanso/espanso/issues/2715) 💬 11 | [espanso/espanso](https://github.com/espanso/espanso) | 14.6k | 🟡 help wanted | 2026-08-10 |  |
 | [Feature request: device name based logic on 'switch' func](https://github.com/jtroo/kanata/issues/1777) 💬 1 | [jtroo/kanata](https://github.com/jtroo/kanata) | 7.9k | 🟡 help wanted | 2026-08-10 |  |
 | [Improve Titan blob cache](https://github.com/tikv/tikv/issues/5742) 💬 8 | [tikv/tikv](https://github.com/tikv/tikv) | 16.9k | 🟡 help wanted | 2026-08-09 | 🔏 DCO |
 | [seaorm-cli codegen maps col(big_unsigned(..)) to i64](https://github.com/SeaQL/sea-orm/issues/2494) 💬 3 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | 9.9k | 🟡 help wanted | 2026-08-09 |  |
@@ -208,9 +212,5 @@
 | [Can I write nodes or relationships to the graph in parallel](https://github.com/FalkorDB/FalkorDB/issues/130) 💬 3 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.3k | 🟡 help wanted | 2026-08-03 |  |
 | [Document execution plan operations](https://github.com/FalkorDB/FalkorDB/issues/82) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.3k | 🟡 help wanted | 2026-08-03 |  |
 | [Redis Graph doesn't allow single quote to be escaped when creating a vertex/edge](https://github.com/FalkorDB/FalkorDB/issues/71) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.3k | 🟡 help wanted | 2026-08-03 |  |
-| [zellij should launch the shell as a login shell](https://github.com/zellij-org/zellij/issues/1434) 💬 24 | [zellij-org/zellij](https://github.com/zellij-org/zellij) | 35.6k | 🟡 help wanted | 2026-08-02 |  |
-| [rc_buffer lint is dangerous as it changes runtime behaviour](https://github.com/rust-lang/rust-clippy/issues/6170) 💬 11 | [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) | 13.5k | 🟢 beginner | 2026-07-29 | 🤖 disclose AI use |
-| [CapsuleRegistry duplicate capsule/uplink registration uses UnsupportedEntryPoint and docs cite nonexistent var](https://github.com/astrid-runtime/astrid/issues/476) 💬 2 | [astrid-runtime/astrid](https://github.com/astrid-runtime/astrid) | 10.3k | 🟢 beginner | 2026-07-26 | ⚠️ AI restricted · 🔏 DCO |
-| [Remove dead AgentHandler stub from astrid-hooks](https://github.com/astrid-runtime/astrid/issues/497) 💬 2 | [astrid-runtime/astrid](https://github.com/astrid-runtime/astrid) | 10.3k | 🟢 beginner | 2026-07-26 | ⚠️ AI restricted · 🔏 DCO |
 
-Showing the 200 most recently updated. See all 297 on the website.
+Showing the 200 most recently updated. See all 302 on the website.

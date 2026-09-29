@@ -1,8 +1,8 @@
 # Games and graphics issues
 
-**150** open issues (81 labeled for beginners) across **51** projects tagged with topics like `game`, `game-engine`, `gamedev`, `graphics`, `opengl`, `vulkan`.
+**151** open issues (82 labeled for beginners) across **51** projects tagged with topics like `game`, `game-engine`, `gamedev`, `graphics`, `opengl`, `vulkan`.
 
-> Updated automatically on **2026-09-28 23:15 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-29 12:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,10 +10,11 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [STEP: Crash when loading NUC12STEP file (linked)](https://github.com/FreeCAD/FreeCAD/issues/14565) 💬 12 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟡 help wanted | 2026-09-28 | ⚠️ AI restricted |
+| [STEP: Crash when loading NUC12STEP file (linked)](https://github.com/FreeCAD/FreeCAD/issues/14565) 💬 12 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟡 help wanted | 2026-09-29 | ⚠️ AI restricted |
 | [docs: provide a cargo-generate starter template](https://github.com/tracel-ai/burn/issues/282) 💬 8 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟢 beginner | 2026-09-28 |  |
 | [Remove Safari 9 WebGL constants workaround](https://github.com/CesiumGS/cesium/issues/5315) 💬 3 | [CesiumGS/cesium](https://github.com/CesiumGS/cesium) | 15.8k | 🟢 beginner | 2026-09-28 | ✍️ CLA |
 | [WC: improve name generation](https://github.com/wesnoth/wesnoth/issues/9127) 💬 5 | [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) | 6.9k | 🟢 beginner | 2026-09-28 |  |
+| [tests-run: TotalTests ignores all filters (counts entire test tree)](https://github.com/IvanMurzak/Unity-MCP/issues/950) 💬 3 | [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) | 4.4k | 🟡 help wanted | 2026-09-28 |  |
 | [Broken geometry exporting a solid derived from an arc of ellipse to a step file](https://github.com/FreeCAD/FreeCAD/issues/14447) 💬 6 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟡 help wanted | 2026-09-27 | ⚠️ AI restricted |
 | [[p5.js 2.0+ Bug Report]: Floats in strands shaders are always rounded to 4 decimals](https://github.com/processing/p5.js/issues/8884) 💬 16 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-27 | ⚠️ AI restricted |
 | [ci: add WebGPU integration tests (e.g. with Deno)](https://github.com/tracel-ai/burn/issues/810) | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟡 help wanted | 2026-09-27 |  |
@@ -30,7 +31,7 @@
 | [tensor: add sparse tensor support](https://github.com/tracel-ai/burn/issues/846) 💬 12 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟡 help wanted | 2026-09-24 |  |
 | [PartDesign: Copy/Paste Sketches when Body is active should place them inside the Body](https://github.com/FreeCAD/FreeCAD/issues/23832) 💬 3 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟢 beginner | 2026-09-23 | ⚠️ AI restricted |
 | [Core: Add incremental save option](https://github.com/FreeCAD/FreeCAD/issues/27318) 💬 6 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟢 beginner | 2026-09-23 | ⚠️ AI restricted |
-| [Ship the npx installer (bin/cli.mjs) so users can install the img2threejs skill with one command](https://github.com/img2threejs/img2threejs/issues/145) | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 17.1k | 🟡 help wanted | 2026-09-23 |  |
+| [Ship the npx installer (bin/cli.mjs) so users can install the img2threejs skill with one command](https://github.com/img2threejs/img2threejs/issues/145) | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 17.2k | 🟡 help wanted | 2026-09-23 |  |
 | [BIM: External reference will ignore multiple coordinate systems](https://github.com/FreeCAD/FreeCAD/issues/23323) 💬 4 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟡 help wanted | 2026-09-22 | ⚠️ AI restricted |
 | [BIM: Room finish marks](https://github.com/FreeCAD/FreeCAD/issues/5740) | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟢 beginner | 2026-09-22 | ⚠️ AI restricted |
 | [BIM: Door/Window marks](https://github.com/FreeCAD/FreeCAD/issues/5741) | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.8k | 🟢 beginner | 2026-09-22 | ⚠️ AI restricted |
@@ -70,12 +71,12 @@
 | [Character component with complex collider throws exception and crashes program](https://github.com/stride3d/stride/issues/1177) 💬 3 | [stride3d/stride](https://github.com/stride3d/stride) | 7.8k | 🟢 beginner | 2026-09-08 |  |
 | [AddReferenceViewModel duplicate key exception when viewing entity](https://github.com/stride3d/stride/issues/2785) 💬 5 | [stride3d/stride](https://github.com/stride3d/stride) | 7.8k | 🟢 beginner | 2026-09-08 |  |
 | [GLTF Unsupported extensions](https://github.com/f3d-app/f3d/issues/608) 💬 9 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.7k | 🟡 help wanted | 2026-09-08 | 🤖 disclose AI use |
+| [Add option for voice over language](https://github.com/diasurgical/DevilutionX/issues/5742) 💬 2 | [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) | 9.8k | 🟢 beginner | 2026-09-06 |  |
 | [Do not offer "free entry to park" or "half-price entry to park" if there is no admission fee](https://github.com/OpenRCT2/OpenRCT2/issues/14778) 💬 3 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.3k | 🟢 beginner | 2026-08-30 |  |
 | [Arabic language support](https://github.com/yairm210/Unciv/issues/14955) 💬 4 | [yairm210/Unciv](https://github.com/yairm210/Unciv) | 11.4k | 🟡 help wanted | 2026-08-30 |  |
 | [[Feature Request] Support line styles in Scattermapbox](https://github.com/plotly/plotly.js/issues/6791) 💬 12 | [plotly/plotly.js](https://github.com/plotly/plotly.js) | 18.3k | 🟢 beginner | 2026-08-28 | ⚠️ AI restricted |
-| [tests-run: TotalTests ignores all filters (counts entire test tree)](https://github.com/IvanMurzak/Unity-MCP/issues/950) 💬 2 | [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) | 4.3k | 🟡 help wanted | 2026-08-27 |  |
 | [Add prompt for the delete keybinding controller button in the keybindings menu](https://github.com/Revolutionary-Games/Thrive/issues/4049) 💬 17 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.7k | 🟢 beginner | 2026-08-25 |  |
-| [Create a cross platform pty crate](https://github.com/alacritty/alacritty/issues/2079) 💬 10 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 65.8k | 🟡 help wanted | 2026-08-19 |  |
+| [Create a cross platform pty crate](https://github.com/alacritty/alacritty/issues/2079) 💬 10 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 65.9k | 🟡 help wanted | 2026-08-19 |  |
 | [Irrelevant error message from 'PerInstanceColorAppearance'](https://github.com/CesiumGS/cesium/issues/12107) 💬 6 | [CesiumGS/cesium](https://github.com/CesiumGS/cesium) | 15.8k | 🟢 beginner | 2026-08-19 | ✍️ CLA |
 | [Board editor: possibly disable 960 Castling in standard](https://github.com/lichess-org/lila/issues/12926) 💬 9 | [lichess-org/lila](https://github.com/lichess-org/lila) | 18.8k | 🟢 beginner | 2026-08-15 | 🤖 disclose AI use |
 | [Retain screen position / target screen in xemu.toml and restore when starting the program](https://github.com/xemu-project/xemu/issues/1268) 💬 1 | [xemu-project/xemu](https://github.com/xemu-project/xemu) | 4.1k | 🟢 beginner | 2026-08-13 |  |
@@ -93,14 +94,14 @@
 | [Add notification of excluded WWTT objects](https://github.com/OpenRCT2/OpenRCT2/issues/8031) 💬 2 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.3k | 🟢 beginner | 2026-07-20 |  |
 | [Dark Summit - can't enter cheat codes due to Start + Select combo](https://github.com/xemu-project/xemu/issues/2822) 💬 5 | [xemu-project/xemu](https://github.com/xemu-project/xemu) | 4.1k | 🟢 beginner | 2026-07-20 |  |
 | [textAscent() and textDescent() broken if textSize &gt; 200](https://github.com/processing/p5.js/issues/8771) 💬 15 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-07-18 | ⚠️ AI restricted |
-| [Measured token-cost benchmark to replace the estimates](https://github.com/img2threejs/img2threejs/issues/4) | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 17.1k | 🟢 beginner | 2026-07-17 |  |
+| [Measured token-cost benchmark to replace the estimates](https://github.com/img2threejs/img2threejs/issues/4) | [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) | 17.2k | 🟢 beginner | 2026-07-17 |  |
 | [Society center can be built above the ground](https://github.com/Revolutionary-Games/Thrive/issues/7073) 💬 2 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.7k | 🟢 beginner | 2026-07-15 |  |
-| [WSL + ConPTY + vim -&gt; paste with blanks lines](https://github.com/alacritty/alacritty/issues/2324) 💬 68 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 65.8k | 🟡 help wanted | 2026-07-14 |  |
+| [WSL + ConPTY + vim -&gt; paste with blanks lines](https://github.com/alacritty/alacritty/issues/2324) 💬 68 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 65.9k | 🟡 help wanted | 2026-07-14 |  |
 | [Enable javadoc plugin for 11+ Java and Kotlin (dokka?)](https://github.com/AlmasB/FXGL/issues/665) 💬 2 | [AlmasB/FXGL](https://github.com/AlmasB/FXGL) | 4.9k | 🟡 help wanted | 2026-07-14 |  |
 | [Wine via homebrew on MacOS is being removed on 2026-09-01](https://github.com/MonoGame/MonoGame/issues/9424) 💬 4 | [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) | 14.5k | 🟡 help wanted | 2026-07-13 | ⚠️ AI restricted |
 | [Ability to disable HDR rendering](https://github.com/FyroxEngine/Fyrox/issues/703) 💬 1 | [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) | 9.6k | 🟢 beginner | 2026-07-10 |  |
 | [Problem with semaphore and validation layer when using multi viewports.](https://github.com/ocornut/imgui/issues/9349) 💬 3 | [ocornut/imgui](https://github.com/ocornut/imgui) | 76.4k | 🟡 help wanted | 2026-07-09 | ✍️ CLA |
-| [How to get the current directory from a session](https://github.com/alacritty/alacritty/issues/8885) 💬 5 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 65.8k | 🟢 beginner | 2026-07-08 |  |
+| [How to get the current directory from a session](https://github.com/alacritty/alacritty/issues/8885) 💬 5 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 65.9k | 🟢 beginner | 2026-07-08 |  |
 | [[PAID BOUNTY][LOCKED] MonoGame 2D advanced series - Networking](https://github.com/MonoGame/MonoGame/issues/8821) 💬 2 | [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) | 14.5k | 🟡 help wanted | 2026-07-08 | ⚠️ AI restricted |
 | [Custom fins don't have a crafting recipe](https://github.com/CleverRaven/Cataclysm-DDA/issues/69652) 💬 3 | [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) | 13.3k | 🟢 beginner | 2026-07-06 |  |
 | [CSM command help GUI shows wrong per-command help guide](https://github.com/luanti-org/luanti/issues/17191) 💬 2 | [luanti-org/luanti](https://github.com/luanti-org/luanti) | 13.7k | 🟢 beginner | 2026-07-05 | 🤖 disclose AI use |
@@ -150,11 +151,11 @@
 | [Use lmdb for shader cache](https://github.com/xemu-project/xemu/issues/2746) 💬 1 | [xemu-project/xemu](https://github.com/xemu-project/xemu) | 4.1k | 🟢 beginner | 2026-05-05 |  |
 | [Large File downloads do not fail if curl error](https://github.com/GameServerManagers/LinuxGSM/issues/2421) 💬 5 | [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) | 4.9k | 🟢 beginner | 2026-05-03 |  |
 | [Improved Workshop support](https://github.com/GameServerManagers/LinuxGSM/issues/2092) 💬 3 | [GameServerManagers/LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) | 4.9k | 🟡 help wanted | 2026-05-03 |  |
-| [Add CI for Unity 6.5](https://github.com/IvanMurzak/Unity-MCP/issues/708) | [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) | 4.3k | 🟡 help wanted | 2026-05-01 |  |
+| [Add CI for Unity 6.5](https://github.com/IvanMurzak/Unity-MCP/issues/708) | [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) | 4.4k | 🟡 help wanted | 2026-05-01 |  |
 | [Port shell scripts to PowerShell, merging w/ Batch scripts where possible](https://github.com/TASEmulators/BizHawk/issues/3013) 💬 3 | [TASEmulators/BizHawk](https://github.com/TASEmulators/BizHawk) | 2.8k | 🟡 help wanted | 2026-04-21 | 📄 AI policy |
-| [Add authorization to MCP server if auth is requried](https://github.com/IvanMurzak/Unity-MCP/issues/657) | [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) | 4.3k | 🟡 help wanted | 2026-04-17 |  |
+| [Add authorization to MCP server if auth is requried](https://github.com/IvanMurzak/Unity-MCP/issues/657) | [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) | 4.4k | 🟡 help wanted | 2026-04-17 |  |
 | [Support font-stretch](https://github.com/xtermjs/xterm.js/issues/2946) 💬 4 | [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) | 21.2k | 🟡 help wanted | 2026-04-13 |  |
-| [Keybinding "/" not starting search in "Vi" mode for Spanish keyboard](https://github.com/alacritty/alacritty/issues/8846) 💬 15 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 65.8k | 🟢 beginner | 2026-04-12 |  |
+| [Keybinding "/" not starting search in "Vi" mode for Spanish keyboard](https://github.com/alacritty/alacritty/issues/8846) 💬 15 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 65.9k | 🟢 beginner | 2026-04-12 |  |
 | [AI models for graphics editing](https://github.com/GraphiteEditor/Graphite/issues/1694) 💬 10 | [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 27.4k | 🟡 help wanted | 2026-04-12 | 📄 AI policy |
 | [Current search index changing when new lines are written](https://github.com/xtermjs/xterm.js/issues/3886) 💬 7 | [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) | 21.2k | 🟡 help wanted | 2026-04-12 |  |
 | [Infinite loop when drawing large ligatures to char atlas](https://github.com/xtermjs/xterm.js/issues/4362) 💬 1 | [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) | 21.2k | 🟡 help wanted | 2026-04-12 |  |
