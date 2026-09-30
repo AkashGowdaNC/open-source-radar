@@ -1,10 +1,10 @@
 # Ruby issues
 
-**95** open issues (73 labeled for beginners) across **29** active Ruby projects.
+**96** open issues (73 labeled for beginners) across **29** active Ruby projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-09-30 12:01 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-30 22:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Helm: images inside lists in values files are never detected (find_images_in_hash never calls handle_array_val](https://github.com/dependabot/dependabot-core/issues/16425) | [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) | 5.8k | 🟡 help wanted | 2026-09-30 |  |
+| [Inbox link is bolder than other header menu items](https://github.com/lobsters/lobsters/issues/2230) | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-09-30 |  |
+| [Isolated reply comment form allows for two different reply forms.](https://github.com/lobsters/lobsters/issues/2098) 💬 2 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-09-30 |  |
 | [Test link on API Services and Language Models broken](https://github.com/AllYourBot/hostedgpt/issues/810) 💬 2 | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 511 | 🟢 beginner | 2026-09-30 |  |
 | [Add support for Salam](https://github.com/github-linguist/linguist/issues/8206) 💬 3 | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.7k | 🟢 beginner | 2026-09-25 |  |
 | [Configure default questions by Assistant](https://github.com/AllYourBot/hostedgpt/issues/805) | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 511 | 🟢 beginner | 2026-09-25 |  |
@@ -20,7 +23,6 @@
 | [Python: implement full-unlock so security updates can bump a parent to fix a vulnerable transitive dependency](https://github.com/dependabot/dependabot-core/issues/16337) | [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) | 5.8k | 🟡 help wanted | 2026-09-18 |  |
 | [Normalize and provide automatic metadata for arXiv links](https://github.com/lobsters/lobsters/issues/1165) 💬 5 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-09-18 |  |
 | [raise exception on full table scans](https://github.com/lobsters/lobsters/issues/2150) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-09-17 |  |
-| [Manifest.json for web app installation](https://github.com/lobsters/lobsters/issues/1287) 💬 10 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-09-16 |  |
 | [Canceling comment edit triggers a JS exception and doesn't cancel](https://github.com/lobsters/lobsters/issues/2215) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-09-16 |  |
 | [When hovering a link, any punctuation immediately following the link is hidden](https://github.com/lobsters/lobsters/issues/2203) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-09-16 |  |
 | [Mod deleting a comment removes the visual indication of upvoted](https://github.com/lobsters/lobsters/issues/2201) | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-09-16 |  |
@@ -50,7 +52,6 @@
 | [Can't edit S3 bucket settings after creating library](https://github.com/manyfold3d/manyfold/issues/4826) 💬 4 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-07-25 | 📄 AI policy · ✍️ CLA |
 | [Detect corrupted files](https://github.com/manyfold3d/manyfold/issues/4797) 💬 2 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-07-25 | 📄 AI policy · ✍️ CLA |
 | [Normalize data-store backend dispatch](https://github.com/bolshakov/stoplight/issues/813) | [bolshakov/stoplight](https://github.com/bolshakov/stoplight) | 630 | 🟢 beginner | 2026-07-24 |  |
-| [Isolated reply comment form allows for two different reply forms.](https://github.com/lobsters/lobsters/issues/2098) 💬 2 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-07-23 |  |
 | [Require description for public models](https://github.com/manyfold3d/manyfold/issues/4430) 💬 2 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-07-23 | 📄 AI policy · ✍️ CLA |
 | [Add admin contact email to site settings](https://github.com/manyfold3d/manyfold/issues/4383) 💬 2 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-07-23 | 📄 AI policy · ✍️ CLA |
 | [Print via Repetier API](https://github.com/manyfold3d/manyfold/issues/6440) 💬 4 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-07-22 | 📄 AI policy · ✍️ CLA |
@@ -84,6 +85,7 @@
 | [Share Button](https://github.com/manyfold3d/manyfold/issues/3856) 💬 4 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-05-21 | 📄 AI policy · ✍️ CLA |
 | [Ractor incompatibility: contracts, schemas, types, and results cannot be used from non-main Ractors on Ruby 4.](https://github.com/dry-rb/dry-validation/issues/749) 💬 1 | [dry-rb/dry-validation](https://github.com/dry-rb/dry-validation) | 1.4k | 🟡 help wanted | 2026-05-12 |  |
 | [Comment form visible for moderators in deleted stories](https://github.com/lobsters/lobsters/issues/1981) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-05-07 |  |
+| [multiple favicon versions, some ugly](https://github.com/lobsters/lobsters/issues/1921) 💬 3 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-05-07 |  |
 | [Add SNOBOL](https://github.com/github-linguist/linguist/issues/7950) | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.7k | 🟢 beginner | 2026-05-06 |  |
 | [Add Uiua](https://github.com/github-linguist/linguist/issues/7949) | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.7k | 🟢 beginner | 2026-05-06 |  |
 | [[Tooling] Support VSCode breakpoints for Ruby (standard running)](https://github.com/e621ng/e621ng/issues/1940) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 569 | 🟡 help wanted | 2026-04-29 |  |
@@ -106,4 +108,3 @@
 | [Alias metatag names](https://github.com/e621ng/e621ng/issues/1758) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 569 | 🟢 beginner | 2026-04-06 |  |
 | [Prevent artist pages from being made if the corresponding tag is not in the artist category.](https://github.com/e621ng/e621ng/issues/1755) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 569 | 🟢 beginner | 2026-04-06 |  |
 | [Tracing updates for Ruby 2.6](https://github.com/jruby/jruby/issues/6149) 💬 4 | [jruby/jruby](https://github.com/jruby/jruby) | 3.9k | 🟡 help wanted | 2026-04-05 |  |
-| ['source:' metatag is case sensitive / DText search links convert search to lowercase](https://github.com/e621ng/e621ng/issues/553) 💬 1 | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 569 | 🟢 beginner | 2026-04-03 |  |

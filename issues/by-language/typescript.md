@@ -1,10 +1,10 @@
 # TypeScript issues
 
-**284** open issues (74 labeled for beginners) across **89** active TypeScript projects.
+**277** open issues (74 labeled for beginners) across **89** active TypeScript projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/typescript.xml)
 
-> Updated automatically on **2026-09-30 12:01 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-30 22:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,15 +12,23 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [fix: five tests/unit/db tests hard-import better-sqlite3 and fail when the native addon cannot load](https://github.com/diegosouzapw/OmniRoute/issues/15107) 💬 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 71.6k | 🟢 beginner | 2026-09-30 | 📄 AI policy |
+| [feat(providers): add CodeBuddy international (codebuddy.ai) — only the China-region codebuddy-cn exists, alias](https://github.com/diegosouzapw/OmniRoute/issues/15173) | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 71.8k | 🟡 help wanted | 2026-09-30 | 📄 AI policy |
+| [fix: five tests/unit/db tests hard-import better-sqlite3 and fail when the native addon cannot load](https://github.com/diegosouzapw/OmniRoute/issues/15107) 💬 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 71.8k | 🟢 beginner | 2026-09-30 | 📄 AI policy |
 | [[Discussion]: Claude Sonnet 5 called via OpenRouter lacks vision capability and cannot access the internet, bu](https://github.com/CherryHQ/cherry-studio/issues/19340) 💬 1 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 52.3k | 🟡 help wanted | 2026-09-30 | 🔏 DCO |
+| [🚀 Feature Request: CopilotChat support @ context](https://github.com/CopilotKit/CopilotKit/issues/1962) 💬 12 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 37.6k | 🟡 help wanted | 2026-09-30 |  |
+| [[Bug]: Promotion edit form silently swallows server errors (no toast, no message)](https://github.com/medusajs/medusa/issues/17069) 💬 6 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.5k | 🟢 beginner | 2026-09-30 |  |
+| [Snyk vulnerability [SNYK-JS-MARKDOWNIT-20335431]](https://github.com/backstage/backstage/issues/35945) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-30 | 📄 AI policy · 🔏 DCO |
+| [Snyk vulnerability [SNYK-JS-ADMZIP-20335421]](https://github.com/backstage/backstage/issues/35944) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-30 | 📄 AI policy · 🔏 DCO |
+| [Snyk vulnerability [SNYK-JS-ADMZIP-20335412]](https://github.com/backstage/backstage/issues/35943) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-30 | 📄 AI policy · 🔏 DCO |
+| [Snyk vulnerability [SNYK-JS-ADMZIP-20335417]](https://github.com/backstage/backstage/issues/35942) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-30 | 📄 AI policy · 🔏 DCO |
+| [Snyk vulnerability [SNYK-JS-ADMZIP-20335419]](https://github.com/backstage/backstage/issues/35941) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-30 | 📄 AI policy · 🔏 DCO |
 | [Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244950]](https://github.com/backstage/backstage/issues/35918) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-30 | 📄 AI policy · 🔏 DCO |
 | [Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244952]](https://github.com/backstage/backstage/issues/35917) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-30 | 📄 AI policy · 🔏 DCO |
 | [Snyk vulnerability [SNYK-JS-BRACEEXPANSION-20244948]](https://github.com/backstage/backstage/issues/35916) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-30 | 📄 AI policy · 🔏 DCO |
-| [[Feature]: Plan the Flue framework integration](https://github.com/ag-ui-protocol/ag-ui/issues/2793) 💬 2 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 16.1k | 🟡 help wanted | 2026-09-30 |  |
+| [[Bug]:](https://github.com/actualbudget/actual/issues/9047) | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.2k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use |
+| [💡 Sailfish OS native client](https://github.com/super-productivity/super-productivity/issues/10187) 💬 4 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.4k | 🟡 help wanted | 2026-09-30 |  |
 | [[Discussion]: Computer broke causing previous data loss, but the original file directory exported from Time Ma](https://github.com/CherryHQ/cherry-studio/issues/21177) | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 52.3k | 🟡 help wanted | 2026-09-29 | 🔏 DCO |
 | [[Bug]: Product media edit continues after a failed upload and hides the server's error](https://github.com/medusajs/medusa/issues/17059) 💬 7 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.5k | 🟢 beginner | 2026-09-29 |  |
-| [[Bug]: Promotion edit form silently swallows server errors (no toast, no message)](https://github.com/medusajs/medusa/issues/17069) 💬 5 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.5k | 🟢 beginner | 2026-09-29 |  |
 | [Snyk vulnerability [SNYK-JS-PBKDF2-20251013]](https://github.com/backstage/backstage/issues/35926) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-29 | 📄 AI policy · 🔏 DCO |
 | [Snyk vulnerability [SNYK-JS-GRPCGRPCJS-20251007]](https://github.com/backstage/backstage/issues/35929) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-29 | 📄 AI policy · 🔏 DCO |
 | [Snyk vulnerability [SNYK-JS-GRPCGRPCJS-20251010]](https://github.com/backstage/backstage/issues/35928) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-29 | 📄 AI policy · 🔏 DCO |
@@ -33,13 +41,11 @@
 | [[📖] How to debug Big js chunks on build](https://github.com/QwikDev/qwik/issues/6836) 💬 2 | [QwikDev/qwik](https://github.com/QwikDev/qwik) | 22.1k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
 | [[VS Code] Support Deno HTTP imports in config files](https://github.com/unocss/unocss/issues/3014) 💬 12 | [unocss/unocss](https://github.com/unocss/unocss) | 19k | 🟡 help wanted | 2026-09-29 |  |
 | [🧹 Help us clean up duplicate (or unnecessary) libraries in Context7](https://github.com/upstash/context7/issues/339) 💬 98 | [upstash/context7](https://github.com/upstash/context7) | 62.6k | 🟢 beginner | 2026-09-28 |  |
-| [🚀 Feature Request: CopilotChat support @ context](https://github.com/CopilotKit/CopilotKit/issues/1962) 💬 10 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 37.6k | 🟡 help wanted | 2026-09-28 |  |
 | [[Feature Request]: Better custom theme handling](https://github.com/pear-devs/pear-desktop/issues/4085) 💬 1 | [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) | 33.6k | 🟢 beginner | 2026-09-28 |  |
 | [BUG: views not adhering to sort order in view definition](https://github.com/beekeeper-studio/beekeeper-studio/issues/1521) 💬 10 | [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | 23.7k | 🟢 beginner | 2026-09-28 | ✍️ CLA |
 | [Update Electron to avoid slow app on MacOS Tahoe](https://github.com/super-productivity/super-productivity/issues/5712) 💬 7 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.4k | 🟡 help wanted | 2026-09-28 |  |
 | [🚨 Add or give option to show both scheduled date and deadline in Kanbanboard and Eisenhauermatrix](https://github.com/super-productivity/super-productivity/issues/10097) 💬 2 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.4k | 🟡 help wanted | 2026-09-28 |  |
 | [Hybrid devices: UI shifts when switching between touch and mouse input (repro needed)](https://github.com/super-productivity/super-productivity/issues/10152) | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.4k | 🟡 help wanted | 2026-09-28 |  |
-| [💡 Sailfish OS native client](https://github.com/super-productivity/super-productivity/issues/10187) 💬 3 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.4k | 🟡 help wanted | 2026-09-28 |  |
 | [Files with uppercased letter can't be parsed on case-insensitive filesystem in folder with case-sensitivity su](https://github.com/typescript-eslint/typescript-eslint/issues/4680) 💬 4 | [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) | 16.4k | 🟡 help wanted | 2026-09-28 | 📄 AI policy |
 | [💡 Add a folder option to the board project filter](https://github.com/super-productivity/super-productivity/issues/8615) 💬 2 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.4k | 🟡 help wanted | 2026-09-26 |  |
 | [🚨 positioning of ON plugins {ui/ux improvement for phone: 9/100}](https://github.com/super-productivity/super-productivity/issues/10175) 💬 1 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.4k | 🟡 help wanted | 2026-09-26 |  |
@@ -52,7 +58,6 @@
 | [💡 android widget habit tracker](https://github.com/super-productivity/super-productivity/issues/9662) 💬 5 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.4k | 🟡 help wanted | 2026-09-26 |  |
 | [Use workspace file when opening repository in VS Code](https://github.com/desktop/desktop/issues/7007) 💬 11 | [desktop/desktop](https://github.com/desktop/desktop) | 21.9k | 🟡 help wanted | 2026-09-26 |  |
 | [[Enhancement] Add "Open a Repository" option for Local backend mode](https://github.com/OpenHands/OpenHands/issues/15758) 💬 7 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 89.6k | 🟢 beginner | 2026-09-25 |  |
-| [Multi-Key Deadlocks & Silent Key Leakage on Acquisition Timeout in 'RedisLockingProvider'](https://github.com/medusajs/medusa/issues/16995) 💬 1 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.5k | 🟡 help wanted | 2026-09-25 |  |
 | [[Bug]: '@medusajs/test-utils': database credentials are captured at module load, ignoring runner 'env'](https://github.com/medusajs/medusa/issues/16272) 💬 4 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.5k | 🟡 help wanted | 2026-09-25 |  |
 | [Treeshaking does not work when excluding components](https://github.com/fingerprintjs/fingerprintjs/issues/718) 💬 7 | [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) | 28.5k | 🟡 help wanted | 2026-09-25 |  |
 | [💡 Make "Overdue" optional](https://github.com/super-productivity/super-productivity/issues/4405) 💬 12 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.4k | 🟡 help wanted | 2026-09-25 |  |
@@ -71,7 +76,6 @@
 | [Snyk vulnerability [SNYK-JS-AJV-15274295]](https://github.com/backstage/backstage/issues/35410) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-22 | 📄 AI policy · 🔏 DCO |
 | [Snyk vulnerability [SNYK-JS-DEEPMERGE-19964053]](https://github.com/backstage/backstage/issues/35824) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-22 | 📄 AI policy · 🔏 DCO |
 | [Snyk vulnerability [SNYK-JS-BRACES-19963945]](https://github.com/backstage/backstage/issues/35821) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-21 | 📄 AI policy · 🔏 DCO |
-| [Dark mode on the playground](https://github.com/rjsf-team/react-jsonschema-form/issues/4856) 💬 5 | [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) | 15.9k | 🟡 help wanted | 2026-09-21 |  |
 | [How servicegraph in grafana tempo filters applications](https://github.com/grafana/grafana/issues/105147) 💬 5 | [grafana/grafana](https://github.com/grafana/grafana) | 77k | 🟡 help wanted | 2026-09-20 | ✍️ CLA |
 | [[Discussion]: When using SearXNG, the content received by the LLM is incorrect and fixed](https://github.com/CherryHQ/cherry-studio/issues/12954) 💬 3 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 52.3k | 🟡 help wanted | 2026-09-20 | 🔏 DCO |
 | [[讨论]: WebDAV最大备份数设置无效](https://github.com/CherryHQ/cherry-studio/issues/9389) 💬 5 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 52.3k | 🟡 help wanted | 2026-09-20 | 🔏 DCO |
@@ -82,19 +86,9 @@
 | [Snyk vulnerability [SNYK-JS-ADMZIP-19963965]](https://github.com/backstage/backstage/issues/35823) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-20 | 📄 AI policy · 🔏 DCO |
 | [Floating Promise Anti-Pattern & Premature Caret in Multi-Block Paste](https://github.com/codex-team/editor.js/issues/3032) 💬 1 | [codex-team/editor.js](https://github.com/codex-team/editor.js) | 32k | 🟢 beginner | 2026-09-20 |  |
 | [No update if hidden feature for 'UseSignal'](https://github.com/jupyterlab/jupyterlab/issues/14180) 💬 1 | [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) | 15.3k | 🟡 help wanted | 2026-09-20 |  |
-| [ASR provider: Google Gemini 3.5 Transcribe](https://github.com/THU-MAIC/OpenMAIC/issues/1546) | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 39.6k | 🟡 help wanted | 2026-09-19 |  |
+| [ASR provider: Google Gemini 3.5 Transcribe](https://github.com/THU-MAIC/OpenMAIC/issues/1546) | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 39.7k | 🟡 help wanted | 2026-09-19 |  |
 | [Snyk vulnerability [SNYK-JS-UNDICI-19635226]](https://github.com/backstage/backstage/issues/35553) 💬 1 | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-19 | 📄 AI policy · 🔏 DCO |
-| [Snyk vulnerability [SNYK-JS-UNDICI-19635222]](https://github.com/backstage/backstage/issues/35552) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-19 | 📄 AI policy · 🔏 DCO |
-| [Snyk vulnerability [SNYK-JS-UNDICI-19635220]](https://github.com/backstage/backstage/issues/35551) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-19 | 📄 AI policy · 🔏 DCO |
-| [Snyk vulnerability [SNYK-JS-UNDICI-19635218]](https://github.com/backstage/backstage/issues/35550) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-19 | 📄 AI policy · 🔏 DCO |
-| [Snyk vulnerability [SNYK-JS-UNDICI-19635216]](https://github.com/backstage/backstage/issues/35549) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-19 | 📄 AI policy · 🔏 DCO |
-| [Snyk vulnerability [SNYK-JS-UNDICI-19635214]](https://github.com/backstage/backstage/issues/35548) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-19 | 📄 AI policy · 🔏 DCO |
 | [[Discussion]: The new version 2.0.7 is completely unusable, all configurations are showing errors, it's so har](https://github.com/CherryHQ/cherry-studio/issues/18857) 💬 3 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 52.3k | 🟡 help wanted | 2026-09-18 | 🔏 DCO |
-| [[Feature]: Python SDK — frontend tool calling in the client demo](https://github.com/ag-ui-protocol/ag-ui/issues/2801) | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 16.1k | 🟡 help wanted | 2026-09-18 |  |
-| [[Feature]: Flue integration — shared state, interrupts and reasoning events](https://github.com/ag-ui-protocol/ag-ui/issues/2798) | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 16.1k | 🟡 help wanted | 2026-09-18 |  |
-| [[Feature]: Flue integration — handle frontend-defined tools](https://github.com/ag-ui-protocol/ag-ui/issues/2797) | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 16.1k | 🟡 help wanted | 2026-09-18 |  |
-| [[Feature]: Flue integration — stream tool calls to the frontend](https://github.com/ag-ui-protocol/ag-ui/issues/2796) | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 16.1k | 🟡 help wanted | 2026-09-18 |  |
-| [[Feature]: Flue integration — multimodal user input (images)](https://github.com/ag-ui-protocol/ag-ui/issues/2795) | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 16.1k | 🟡 help wanted | 2026-09-18 |  |
 | [Feature Request: Implement collapse button for array form items](https://github.com/rjsf-team/react-jsonschema-form/issues/2193) 💬 5 | [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) | 15.9k | 🟡 help wanted | 2026-09-18 |  |
 | [Support custom WebSocket clients](https://github.com/mswjs/msw/issues/2435) 💬 6 | [mswjs/msw](https://github.com/mswjs/msw) | 18.2k | 🟡 help wanted | 2026-09-17 |  |
 | [[Feature Request] Blueprint skeleton app or app generator?](https://github.com/umijs/qiankun/issues/281) 💬 3 | [umijs/qiankun](https://github.com/umijs/qiankun) | 16.7k | 🟡 help wanted | 2026-09-17 | 🤖 disclose AI use · 🔏 DCO |
@@ -212,5 +206,11 @@
 | [Expand text input field on mobile](https://github.com/karakeep-app/karakeep/issues/2364) 💬 5 | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | 29.4k | 🟢 beginner | 2026-08-11 |  |
 | [@tracked: lazy evaluation](https://github.com/emberjs/ember.js/issues/18118) 💬 5 | [emberjs/ember.js](https://github.com/emberjs/ember.js) | 22.6k | 🟢 beginner | 2026-08-08 |  |
 | [Document the order of Splattributes, {{on}} modifier and component event handlers](https://github.com/emberjs/ember.js/issues/17877) 💬 8 | [emberjs/ember.js](https://github.com/emberjs/ember.js) | 22.6k | 🟢 beginner | 2026-08-07 |  |
+| [Prometheus: PromLink component tests are flaky](https://github.com/grafana/grafana/issues/74382) 💬 8 | [grafana/grafana](https://github.com/grafana/grafana) | 77k | 🟢 beginner | 2026-08-06 | ✍️ CLA |
+| [Update to Golden-Layout v2](https://github.com/compiler-explorer/compiler-explorer/issues/4175) 💬 2 | [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) | 19.1k | 🟡 help wanted | 2026-08-06 |  |
+| [[Bug]: Exec in desktop entry for generix linux seems to be buggy](https://github.com/mattermost/mattermost/issues/28446) 💬 20 | [mattermost/mattermost](https://github.com/mattermost/mattermost) | 39.2k | 🟡 help wanted | 2026-08-05 |  |
+| [Don't forward queries that can't be answered by public DNS servers](https://github.com/AdguardTeam/AdGuardHome/issues/1705) 💬 14 | [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | 37.1k | 🟡 help wanted | 2026-08-05 |  |
+| [Feature Request: 3D Pipeline/Water Pipe Drawing Tool](https://github.com/pascalorg/editor/issues/227) 💬 4 | [pascalorg/editor](https://github.com/pascalorg/editor) | 24.4k | 🟡 help wanted | 2026-08-04 |  |
+| [Update stats on Dashboard in real-time](https://github.com/AdguardTeam/AdGuardHome/issues/1739) 💬 10 | [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | 37.1k | 🟡 help wanted | 2026-08-03 |  |
 
-Showing the 200 most recently updated. See all 284 on the website.
+Showing the 200 most recently updated. See all 277 on the website.

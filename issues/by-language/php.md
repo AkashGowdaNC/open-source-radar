@@ -1,10 +1,10 @@
 # PHP issues
 
-**161** open issues (80 labeled for beginners) across **56** active PHP projects.
+**162** open issues (83 labeled for beginners) across **56** active PHP projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-09-30 12:01 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-30 22:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,11 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-09-29 |  |
+| [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-09-30 |  |
+| [Feature Request: Add a user pref to control opening messages in new windows](https://github.com/freescout-help-desk/freescout/issues/5086) 💬 7 | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4.6k | 🟡 help wanted | 2026-09-30 |  |
+| [Add cross-engine regression tests for LibreSign certificate profiles](https://github.com/LibreSign/libresign/issues/8941) 💬 1 | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 828 | 🟢 beginner | 2026-09-30 | 🤖 disclose AI use · 🔏 DCO |
+| [Upgrade the managed CFSSL dependency to 1.7.0](https://github.com/LibreSign/libresign/issues/8940) 💬 1 | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 828 | 🟢 beginner | 2026-09-30 | 🤖 disclose AI use · 🔏 DCO |
+| [Add usage statistics administration UI](https://github.com/LibreSign/libresign/issues/8936) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 828 | 🟢 beginner | 2026-09-30 | 🤖 disclose AI use · 🔏 DCO |
 | [Prevent ProgressService mutation timeouts from hanging Infection](https://github.com/LibreSign/libresign/issues/8898) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 828 | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · 🔏 DCO |
 | [Integrate StrykerJS with the existing Vitest setup](https://github.com/LibreSign/libresign/issues/8811) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 828 | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · 🔏 DCO |
 | [[Messenger] Sanitize message when the receiver is another app](https://github.com/symfony/symfony/issues/49081) 💬 9 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟡 help wanted | 2026-09-28 |  |
@@ -106,7 +110,6 @@
 | [Email address InlineEdit not working (Contact, Account, ...) in SuiteCRM 7.x](https://github.com/SuiteCRM/SuiteCRM/issues/9762) 💬 10 | [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM) | 5.8k | 🟡 help wanted | 2026-08-04 |  |
 | [🚀 \| Support displays on future3](https://github.com/MiczFlor/RPi-Jukebox-RFID/issues/2364) 💬 9 | [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) | 1.8k | 🟡 help wanted | 2026-08-03 |  |
 | [🚀 \| Version Upgrades](https://github.com/MiczFlor/RPi-Jukebox-RFID/issues/2304) 💬 2 | [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) | 1.8k | 🟡 help wanted | 2026-08-03 |  |
-| [Feature Request: Add a user pref to control opening messages in new windows](https://github.com/freescout-help-desk/freescout/issues/5086) 💬 5 | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4.6k | 🟡 help wanted | 2026-08-02 |  |
 | [Duplicate ids on same page](https://github.com/phpmyadmin/phpmyadmin/issues/19108) 💬 5 | [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 7.9k | 🟢 beginner | 2026-08-01 | 🔏 DCO |
 | [Bad usability of "file is locked" message in upload](https://github.com/nextcloud/server/issues/20223) 💬 4 | [nextcloud/server](https://github.com/nextcloud/server) | 37k | 🟢 beginner | 2026-07-23 | 🤖 disclose AI use · 🔏 DCO |
 | [Problem "CODE" formatting](https://github.com/freescout-help-desk/freescout/issues/5167) 💬 2 | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4.6k | 🟡 help wanted | 2026-07-23 |  |
@@ -150,9 +153,7 @@
 | [Upgrade authentication POST redirects without respecting YOURLS_SITE](https://github.com/YOURLS/YOURLS/issues/3781) 💬 2 | [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) | 12.2k | 🟡 help wanted | 2026-05-31 |  |
 | [Discrepancies in last 24 hours hit count](https://github.com/YOURLS/YOURLS/issues/3845) 💬 2 | [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) | 12.2k | 🟡 help wanted | 2026-05-31 |  |
 | [HAL links of embedded resources not consistent with standard representation](https://github.com/api-platform/core/issues/1291) 💬 18 | [api-platform/core](https://github.com/api-platform/core) | 2.6k | 🟢 beginner | 2026-05-29 |  |
-| [[GraphQL] Compliance with OpenCRUD](https://github.com/api-platform/core/issues/2957) | [api-platform/core](https://github.com/api-platform/core) | 2.6k | 🟡 help wanted | 2026-05-29 |  |
 | [Add support for W3C’s Tabular Data Model](https://github.com/api-platform/core/issues/3174) 💬 1 | [api-platform/core](https://github.com/api-platform/core) | 2.6k | 🟡 help wanted | 2026-05-29 |  |
-| [[OpenAPI/Hydra] Validation error schema should be generated](https://github.com/api-platform/core/issues/4480) 💬 1 | [api-platform/core](https://github.com/api-platform/core) | 2.6k | 🟡 help wanted | 2026-05-29 |  |
 | [[JSON-LD] [OpenAPI] Introduce violations OpenAPI schema](https://github.com/api-platform/core/issues/6811) | [api-platform/core](https://github.com/api-platform/core) | 2.6k | 🟡 help wanted | 2026-05-29 |  |
 | [Commands with list of output items should allow multiple formats](https://github.com/EasyEngine/easyengine/issues/1387) 💬 1 | [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) | 2.2k | 🟢 beginner | 2026-05-27 |  |
 | [ActiveRecord form with two submit buttons doesn't post name of submit button](https://github.com/yiisoft/yii2/issues/17808) 💬 11 | [yiisoft/yii2](https://github.com/yiisoft/yii2) | 14.3k | 🟡 help wanted | 2026-05-19 |  |

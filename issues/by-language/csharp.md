@@ -1,10 +1,10 @@
 # C# issues
 
-**293** open issues (82 labeled for beginners) across **82** active C# projects.
+**294** open issues (82 labeled for beginners) across **83** active C# projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/csharp.xml)
 
-> Updated automatically on **2026-09-30 12:01 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-30 22:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,20 +13,21 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Address race in PerformanceCounterLib](https://github.com/dotnet/runtime/issues/90803) 💬 20 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
+| [Use disjoint-set-union for 'ClassLayout::AreCompatible'.](https://github.com/dotnet/runtime/issues/42801) 💬 7 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟢 beginner | 2026-09-30 | ✍️ CLA |
 | [Support TypeConverterAttribute on bound properties](https://github.com/dotnet/runtime/issues/36545) 💬 10 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
+| [All DataFrame Elementwise methods uncorrectly work with NULL values](https://github.com/dotnet/machinelearning/issues/6820) 💬 2 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
 | [Microsoft.Data.Analysis.DataFrame Join should produce a result with a single joined column](https://github.com/dotnet/machinelearning/issues/6133) 💬 5 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
 | [[DataFrame] Info method display should be the same for DataFrame and DataFrameColumn](https://github.com/dotnet/machinelearning/issues/6274) 💬 1 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟢 beginner | 2026-09-30 | ✍️ CLA |
 | [DataFrame.OrderBy(string columnName) does not perform stable sorting!](https://github.com/dotnet/machinelearning/issues/6443) 💬 2 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
+| [[Bug]: Nullable object property generates enum: [null] in OpenAPI 3.0 output with Microsoft.OpenApi 2.12.0](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/issues/4181) | [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) | 5.5k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use |
 | [Investigate whether we can improve DAG lowering of 'is' patterns](https://github.com/dotnet/roslyn/issues/85025) 💬 4 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-09-29 | ✍️ CLA |
 | [[API Proposal]: Read an environment variable without expansion](https://github.com/dotnet/runtime/issues/132366) 💬 6 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-29 | ✍️ CLA |
 | [DataFrame GetMutableBuffer method and ReadOnlyBuffer issues](https://github.com/dotnet/machinelearning/issues/6715) 💬 1 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-29 | ✍️ CLA |
-| [All DataFrame Elementwise methods uncorrectly work with NULL values](https://github.com/dotnet/machinelearning/issues/6820) 💬 1 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-29 | ✍️ CLA |
 | [[Proposal] DataFrame Arithmetic and Computation API](https://github.com/dotnet/machinelearning/issues/6905) 💬 3 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-29 | ✍️ CLA |
 | [EditorBrowsable(EditorBrowsableState.Never) in VS 2015 does not work as well as it does in VS 2013](https://github.com/dotnet/roslyn/issues/4434) 💬 47 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-09-28 | ✍️ CLA |
 | [Roslyn fails to report nullability issues with spread access in collection expressions](https://github.com/dotnet/roslyn/issues/85698) 💬 13 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-09-28 | ✍️ CLA |
-| [Linux port](https://github.com/rocksdanister/lively/issues/220) 💬 41 | [rocksdanister/lively](https://github.com/rocksdanister/lively) | 19.7k | 🟡 help wanted | 2026-09-28 |  |
+| [Linux port](https://github.com/lively-community/lively/issues/220) 💬 41 | [lively-community/lively](https://github.com/lively-community/lively) | 19.7k | 🟡 help wanted | 2026-09-28 |  |
 | [Issue with custom progress columns not displaying properly when running from Docker](https://github.com/spectreconsole/spectre.console/issues/1292) 💬 8 | [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) | 11.6k | 🟢 beginner | 2026-09-28 | 🤖 disclose AI use |
-| [Allow content inside MudDivider](https://github.com/MudBlazor/MudBlazor/issues/7212) 💬 4 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-09-28 |  |
 | [tests-run: TotalTests ignores all filters (counts entire test tree)](https://github.com/IvanMurzak/Unity-MCP/issues/950) 💬 3 | [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) | 4.4k | 🟡 help wanted | 2026-09-28 |  |
 | [Add support for linux-musl-arm64](https://github.com/dlemstra/Magick.NET/issues/1688) 💬 2 | [dlemstra/Magick.NET](https://github.com/dlemstra/Magick.NET) | 4k | 🟡 help wanted | 2026-09-28 |  |
 | [Add OnBindingContextChanging](https://github.com/dotnet/maui/issues/24804) 💬 6 | [dotnet/maui](https://github.com/dotnet/maui) | 23.3k | 🟢 beginner | 2026-09-27 | ✍️ CLA |
@@ -34,7 +35,6 @@
 | ['SemanticModel.GetSymbolInfo' doesn't return a symbol for 'FunctionPointerUnmanagedCallingConventionSyntax'](https://github.com/dotnet/roslyn/issues/59060) 💬 7 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-09-26 | ✍️ CLA |
 | [Resize the window on startup](https://github.com/microsoft/WinUI-Gallery/issues/1606) 💬 17 | [microsoft/WinUI-Gallery](https://github.com/microsoft/WinUI-Gallery) | 3.7k | 🟡 help wanted | 2026-09-26 | ✍️ CLA |
 | [Pasting generic type names in doc comments should escape '&lt;' and '&gt;'](https://github.com/dotnet/roslyn/issues/19197) 💬 3 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-09-25 | ✍️ CLA |
-| [Use disjoint-set-union for 'ClassLayout::AreCompatible'.](https://github.com/dotnet/runtime/issues/42801) 💬 7 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟢 beginner | 2026-09-25 | ✍️ CLA |
 | [DependencyPropertyDetailsCollection wastes most of its DependencyPropertyDetails[] bucket per stored property](https://github.com/unoplatform/uno/issues/24754) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-09-25 |  |
 | ['TextBlock' with 'LineStackingStrategy.BlockLineHeight' puts the baseline at 'LineHeight - descent' instead of](https://github.com/unoplatform/uno/issues/24746) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-09-25 |  |
 | [Selectable TextBlock drops the drag selection when the mouse is released over a Hyperlink or capture is lost](https://github.com/unoplatform/uno/issues/24744) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-09-25 |  |
@@ -108,7 +108,6 @@
 | [[Launcher] Check for disabledPackageSources (in NuGet.config)](https://github.com/stride3d/stride/issues/287) 💬 3 | [stride3d/stride](https://github.com/stride3d/stride) | 7.8k | 🟢 beginner | 2026-09-09 |  |
 | [Incorrect toolbar location when restored via 'ToolStripManager.LoadSettings'](https://github.com/dotnet/winforms/issues/4449) 💬 4 | [dotnet/winforms](https://github.com/dotnet/winforms) | 4.9k | 🟡 help wanted | 2026-09-09 |  |
 | [Character component with complex collider throws exception and crashes program](https://github.com/stride3d/stride/issues/1177) 💬 3 | [stride3d/stride](https://github.com/stride3d/stride) | 7.8k | 🟢 beginner | 2026-09-08 |  |
-| [AddReferenceViewModel duplicate key exception when viewing entity](https://github.com/stride3d/stride/issues/2785) 💬 5 | [stride3d/stride](https://github.com/stride3d/stride) | 7.8k | 🟢 beginner | 2026-09-08 |  |
 | [ContextMenuStrip has erroneous behavior if ToolStripMenuItem item Available=false](https://github.com/dotnet/winforms/issues/7635) 💬 3 | [dotnet/winforms](https://github.com/dotnet/winforms) | 4.9k | 🟡 help wanted | 2026-09-08 |  |
 | [Any plans on adding WASM as a target?](https://github.com/picoe/Eto/issues/1403) 💬 8 | [picoe/Eto](https://github.com/picoe/Eto) | 4k | 🟡 help wanted | 2026-09-08 |  |
 | [Bug: Files stops responding while loading network share content](https://github.com/files-community/Files/issues/14777) 💬 10 | [files-community/Files](https://github.com/files-community/Files) | 45.8k | 🟢 beginner | 2026-09-07 |  |
@@ -212,5 +211,6 @@
 | [MQ: Enable Azure MCP Server to Query Recent Service Updates (e.g., Key Vault changes in last X days)](https://github.com/microsoft/mcp/issues/1073) 💬 2 | [microsoft/mcp](https://github.com/microsoft/mcp) | 3.7k | 🟡 help wanted | 2026-07-28 |  |
 | [Github copilot not setting bearer token on acces to tools.](https://github.com/modelcontextprotocol/csharp-sdk/issues/1166) 💬 2 | [modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) | 4.6k | 🟡 help wanted | 2026-07-27 |  |
 | [Add tab completion for CLI switches and task names](https://github.com/cake-build/cake/issues/2974) 💬 1 | [cake-build/cake](https://github.com/cake-build/cake) | 4.2k | 🟡 help wanted | 2026-07-27 |  |
+| [Changing FontSize in MudTheme breaks components](https://github.com/MudBlazor/MudBlazor/issues/10394) 💬 3 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-07-26 |  |
 
-Showing the 200 most recently updated. See all 293 on the website.
+Showing the 200 most recently updated. See all 294 on the website.

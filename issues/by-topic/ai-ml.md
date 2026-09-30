@@ -1,8 +1,8 @@
 # AI and machine learning issues
 
-**424** open issues (182 labeled for beginners) across **132** projects tagged with topics like `machine-learning`, `deep-learning`, `ai`, `llm`, `artificial-intelligence`, `nlp`.
+**421** open issues (176 labeled for beginners) across **129** projects tagged with topics like `machine-learning`, `deep-learning`, `ai`, `llm`, `artificial-intelligence`, `nlp`.
 
-> Updated automatically on **2026-09-30 12:01 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-30 22:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,33 +10,33 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Add support for launchctl (macOS service management, no equivalent request yet)](https://github.com/rtk-ai/rtk/issues/4365) 💬 1 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82.1k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
 | [openclaw plugin: packaging fixes for OpenClaw 2026.9.6 compatibility (openclaw.extensions + activation.onStart](https://github.com/rtk-ai/rtk/issues/4357) 💬 1 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82.1k | 🟢 beginner | 2026-09-30 | ✍️ CLA |
 | [openclaw plugin: reads legacy api.config; verbose setting has no effect](https://github.com/rtk-ai/rtk/issues/4358) 💬 1 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82.1k | 🟢 beginner | 2026-09-30 | ✍️ CLA |
-| [fix: five tests/unit/db tests hard-import better-sqlite3 and fail when the native addon cannot load](https://github.com/diegosouzapw/OmniRoute/issues/15107) 💬 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 71.6k | 🟢 beginner | 2026-09-30 | 📄 AI policy |
+| [feat(providers): add CodeBuddy international (codebuddy.ai) — only the China-region codebuddy-cn exists, alias](https://github.com/diegosouzapw/OmniRoute/issues/15173) | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 71.8k | 🟡 help wanted | 2026-09-30 | 📄 AI policy |
+| [fix: five tests/unit/db tests hard-import better-sqlite3 and fail when the native addon cannot load](https://github.com/diegosouzapw/OmniRoute/issues/15107) 💬 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 71.8k | 🟢 beginner | 2026-09-30 | 📄 AI policy |
+| [🚀 Feature Request: CopilotChat support @ context](https://github.com/CopilotKit/CopilotKit/issues/1962) 💬 12 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 37.6k | 🟡 help wanted | 2026-09-30 |  |
 | [Documentation: writing custom samplers compatible with multi GPU training](https://github.com/Lightning-AI/pytorch-lightning/issues/19964) 💬 2 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | 31.4k | 🟡 help wanted | 2026-09-30 | 📄 AI policy |
 | ['self.log' raised error when number of dataloader is not consistent](https://github.com/Lightning-AI/pytorch-lightning/issues/16431) 💬 3 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | 31.4k | 🟡 help wanted | 2026-09-30 | 📄 AI policy |
+| [[FR] Event & Stage Logging with Timeline Annotations](https://github.com/mlflow/mlflow/issues/16892) 💬 8 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28.2k | 🟡 help wanted | 2026-09-30 | 🔏 DCO |
 | [A dead pinned file and a checksum mismatch give the same install error](https://github.com/MODSetter/SurfSense/issues/1979) 💬 1 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟢 beginner | 2026-09-30 |  |
-| [[Bug] [enigne] Caused by: java.lang.OutOfMemoryError: Metaspace](https://github.com/apache/seatunnel/issues/12456) 💬 13 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.7k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
+| [[Bug] [enigne] Caused by: java.lang.OutOfMemoryError: Metaspace](https://github.com/apache/seatunnel/issues/12456) 💬 14 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.7k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
+| [All DataFrame Elementwise methods uncorrectly work with NULL values](https://github.com/dotnet/machinelearning/issues/6820) 💬 2 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
 | [Microsoft.Data.Analysis.DataFrame Join should produce a result with a single joined column](https://github.com/dotnet/machinelearning/issues/6133) 💬 5 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
 | [[DataFrame] Info method display should be the same for DataFrame and DataFrameColumn](https://github.com/dotnet/machinelearning/issues/6274) 💬 1 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟢 beginner | 2026-09-30 | ✍️ CLA |
 | [DataFrame.OrderBy(string columnName) does not perform stable sorting!](https://github.com/dotnet/machinelearning/issues/6443) 💬 2 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
-| [benchmarks: code-intelligence result inaccessible; BENCHMARKS.md is a 404; headline metrics test conversation ](https://github.com/Graphify-Labs/graphify/issues/3690) | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 122.6k | 🟡 help wanted | 2026-09-29 | 🤖 disclose AI use |
-| [New Feature: Support AsciiDoc files (*.adoc)](https://github.com/Graphify-Labs/graphify/issues/3238) 💬 1 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 122.6k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
+| [EMBA does not detect all components / SBOM is incomplete](https://github.com/e-m-b-a/emba/issues/2132) 💬 3 | [e-m-b-a/emba](https://github.com/e-m-b-a/emba) | 3.7k | 🟢 beginner | 2026-09-30 |  |
+| [benchmarks: code-intelligence result inaccessible; BENCHMARKS.md is a 404; headline metrics test conversation ](https://github.com/Graphify-Labs/graphify/issues/3690) | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 122.8k | 🟡 help wanted | 2026-09-29 | 🤖 disclose AI use |
 | [rtk rewrite emits multi-line stdout for a single command, violating the one-command stdout contract](https://github.com/rtk-ai/rtk/issues/4351) 💬 4 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82.1k | 🟡 help wanted | 2026-09-29 | ✍️ CLA |
-| [Does a hosted endpoint with nothing to store belong on the OpenAI like page?](https://github.com/run-llama/llama_index/issues/23236) 💬 1 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 52.4k | 🟢 beginner | 2026-09-29 | 📄 AI policy |
 | [[Feature]: [Stanford F01] Bulk-import a fixed Lance snapshot through Parquet](https://github.com/milvus-io/milvus/issues/53864) 💬 3 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46.3k | 🟢 beginner | 2026-09-29 | 🔏 DCO |
 | [[BUG] Doxygen does not render JAVADOC_BANNER style comments](https://github.com/TheAlgorithms/C-Plus-Plus/issues/3234) | [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | 34.7k | 🟢 beginner | 2026-09-29 |  |
 | [Step when validation happens drifts for 'val_check_interval' when gradient accumulation turned on](https://github.com/Lightning-AI/pytorch-lightning/issues/17207) 💬 6 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | 31.4k | 🟡 help wanted | 2026-09-29 | 📄 AI policy |
-| [[FR] Event & Stage Logging with Timeline Annotations](https://github.com/mlflow/mlflow/issues/16892) 💬 7 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28.2k | 🟡 help wanted | 2026-09-29 | 🔏 DCO |
 | [Variant analysis: 1 unfixed sibling safety gap in pcl](https://github.com/PointCloudLibrary/pcl/issues/6483) 💬 1 | [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl) | 11.1k | 🟢 beginner | 2026-09-29 |  |
 | [DataFrame GetMutableBuffer method and ReadOnlyBuffer issues](https://github.com/dotnet/machinelearning/issues/6715) 💬 1 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-29 | ✍️ CLA |
-| [All DataFrame Elementwise methods uncorrectly work with NULL values](https://github.com/dotnet/machinelearning/issues/6820) 💬 1 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-29 | ✍️ CLA |
 | [[Proposal] DataFrame Arithmetic and Computation API](https://github.com/dotnet/machinelearning/issues/6905) 💬 3 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-29 | ✍️ CLA |
-| [Support ANSI SQL 'SUBSTRING(expr [FROM start] [FOR len])' syntax](https://github.com/Eventual-Inc/Daft/issues/7555) 💬 1 | [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) | 5.8k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
 | [🧹 Help us clean up duplicate (or unnecessary) libraries in Context7](https://github.com/upstash/context7/issues/339) 💬 98 | [upstash/context7](https://github.com/upstash/context7) | 62.6k | 🟢 beginner | 2026-09-28 |  |
 | [积木报表横向分组一级标题无法设置分组合计](https://github.com/jeecgboot/JeecgBoot/issues/9898) | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 48k | 🟡 help wanted | 2026-09-28 |  |
 | [[core] Adopt 'absl::InlinedVector' for small, frequently-allocated collections](https://github.com/ray-project/ray/issues/59884) 💬 8 | [ray-project/ray](https://github.com/ray-project/ray) | 44k | 🟢 beginner | 2026-09-28 | 🔏 DCO |
-| [🚀 Feature Request: CopilotChat support @ context](https://github.com/CopilotKit/CopilotKit/issues/1962) 💬 10 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 37.6k | 🟡 help wanted | 2026-09-28 |  |
 | [[Bug]: v1.38.7 - "Cannot open session" persists across restarts: transcript display projection fails with a du](https://github.com/esengine/DeepSeek-Reasonix/issues/10456) 💬 5 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 35.7k | 🟡 help wanted | 2026-09-28 |  |
 | [智能体流程编排问题](https://github.com/agentscope-ai/agentscope/issues/1073) 💬 2 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 32.6k | 🟡 help wanted | 2026-09-28 | 📄 AI policy |
 | [feat(webui): improve chat page UX and message navigation](https://github.com/agentscope-ai/agentscope/issues/2094) 💬 3 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 32.6k | 🟡 help wanted | 2026-09-28 | 📄 AI policy |
@@ -44,16 +44,19 @@
 | [/sunset omits the deletion date, the refund offer and the MCP change](https://github.com/MODSetter/SurfSense/issues/2009) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [Account export has no size warning and no timeout](https://github.com/MODSetter/SurfSense/issues/2006) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [A podcast artifact is WAV; the bundled ffmpeg for MP3 is not built](https://github.com/MODSetter/SurfSense/issues/2001) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
-| [Studio truncates a large selection instead of retrieving over it](https://github.com/MODSetter/SurfSense/issues/2000) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [Studio's Office formats run model-written Python unsandboxed in the worker](https://github.com/MODSetter/SurfSense/issues/1999) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
-| [The keyword leg finds nothing in Japanese or Chinese](https://github.com/MODSetter/SurfSense/issues/1997) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [The bundled embedding model is FP16, not the int8 ADR 0007 specifies](https://github.com/MODSetter/SurfSense/issues/1996) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [No test proves a PDF parses with networking disabled](https://github.com/MODSetter/SurfSense/issues/1995) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [Gate 'build-sdcpp.yml' on the staged sd-server generating a real image](https://github.com/MODSetter/SurfSense/issues/1994) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [Subscribe to the workspace event stream instead of polling every 1.5s](https://github.com/MODSetter/SurfSense/issues/1992) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [Release CI checks the packaged 'llama-server' only on Linux](https://github.com/MODSetter/SurfSense/issues/1986) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
-| ['SurfSense.deb' declares no dependency on the Vulkan loader](https://github.com/MODSetter/SurfSense/issues/1984) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [Models are browsed by source, not one list with Source and Capability filters](https://github.com/MODSetter/SurfSense/issues/1983) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
+| [A podcast refuses on a tight machine rather than voicing at a smaller chunk](https://github.com/MODSetter/SurfSense/issues/1982) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
+| [An image row reads In use before sd-server has started on it](https://github.com/MODSetter/SurfSense/issues/1981) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
+| [Deleting the image or audio model in use fails while its server holds the file](https://github.com/MODSetter/SurfSense/issues/1971) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
+| [Give the backend's English prose a code the frontend can translate](https://github.com/MODSetter/SurfSense/issues/1967) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
+| [License routes, rate limits and the Keygen client have no tests](https://github.com/MODSetter/SurfSense/issues/1964) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
+| [Chromium's spellchecker may fetch Hunspell dictionaries without consent](https://github.com/MODSetter/SurfSense/issues/1955) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [docs: provide a cargo-generate starter template](https://github.com/tracel-ai/burn/issues/282) 💬 8 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟢 beginner | 2026-09-28 |  |
 | [🚀 功能建议：支持自定义扩展](https://github.com/tisfeng/Easydict/issues/136) 💬 6 | [tisfeng/Easydict](https://github.com/tisfeng/Easydict) | 14.8k | 🟡 help wanted | 2026-09-28 |  |
 | [[BUG] java.lang.OutOfMemoryError: GC overhead limit exceeded](https://github.com/apache/hertzbeat/issues/1714) 💬 14 | [apache/hertzbeat](https://github.com/apache/hertzbeat) | 7.4k | 🟢 beginner | 2026-09-28 |  |
@@ -84,12 +87,10 @@
 | [[Enhancement] Add "Open a Repository" option for Local backend mode](https://github.com/OpenHands/OpenHands/issues/15758) 💬 7 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 89.6k | 🟢 beginner | 2026-09-25 |  |
 | [train: hot reloading for faster prototyping](https://github.com/tracel-ai/burn/issues/3571) 💬 2 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟡 help wanted | 2026-09-25 |  |
 | [RadiusOutlierRemoval&lt;PCLPointCloud2&gt; implementation is slow and confusing](https://github.com/PointCloudLibrary/pcl/issues/2816) 💬 8 | [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl) | 11.1k | 🟢 beginner | 2026-09-25 |  |
-| [EMBA does not detect all components / SBOM is incomplete](https://github.com/e-m-b-a/emba/issues/2132) 💬 1 | [e-m-b-a/emba](https://github.com/e-m-b-a/emba) | 3.7k | 🟢 beginner | 2026-09-25 |  |
 | [[Enhancement]: [Stanford G02] Integrate a ready SGLang reranking endpoint](https://github.com/milvus-io/milvus/issues/53843) | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46.3k | 🟢 beginner | 2026-09-24 | 🔏 DCO |
 | [[Enhancement]: [Stanford G01] Integrate a ready SGLang embedding endpoint](https://github.com/milvus-io/milvus/issues/53842) | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46.3k | 🟢 beginner | 2026-09-24 | 🔏 DCO |
 | [[Enhancement]: [Stanford E02] Expose static Explain through a CLI and API](https://github.com/milvus-io/milvus/issues/53830) | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46.3k | 🟢 beginner | 2026-09-24 | 🔏 DCO |
 | [Gitlab Duo Support](https://github.com/steipete/CodexBar/issues/1769) 💬 4 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | 22.1k | 🟡 help wanted | 2026-09-24 |  |
-| [data: add drop_last to DataLoader](https://github.com/tracel-ai/burn/issues/3316) 💬 4 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟢 beginner | 2026-09-24 |  |
 | [autodiff: Gradients::get panics on type mismatch instead of returning an error](https://github.com/tracel-ai/burn/issues/2924) 💬 9 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟢 beginner | 2026-09-24 |  |
 | [docs: add source links to the API docs hosted on burn.dev](https://github.com/tracel-ai/burn/issues/1244) 💬 8 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟢 beginner | 2026-09-24 |  |
 | [nn: add LPPool1d/LPPool2d (power-average pooling)](https://github.com/tracel-ai/burn/issues/1172) 💬 1 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟢 beginner | 2026-09-24 |  |
@@ -124,17 +125,17 @@
 | [ROCm accelerator init broken on Linux since 0.78.0 (hipErrorNoDevice)](https://github.com/koharu-rs/koharu/issues/1052) 💬 3 | [koharu-rs/koharu](https://github.com/koharu-rs/koharu) | 5.7k | 🟡 help wanted | 2026-09-17 | 🤖 disclose AI use |
 | [drag to reorder](https://github.com/koharu-rs/koharu/issues/1100) 💬 3 | [koharu-rs/koharu](https://github.com/koharu-rs/koharu) | 5.7k | 🟢 beginner | 2026-09-17 | 🤖 disclose AI use |
 | [panic first launch when document dir are inside onedrive.](https://github.com/koharu-rs/koharu/issues/1027) 💬 5 | [koharu-rs/koharu](https://github.com/koharu-rs/koharu) | 5.7k | 🟡 help wanted | 2026-09-17 | 🤖 disclose AI use |
-| [alias to generate tensor with random uniform distribution.](https://github.com/pytorch/pytorch/issues/67321) 💬 15 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | 103.5k | 🟢 beginner | 2026-09-16 | 🤖 disclose AI use · ✍️ CLA |
+| [alias to generate tensor with random uniform distribution.](https://github.com/pytorch/pytorch/issues/67321) 💬 15 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | 103.6k | 🟢 beginner | 2026-09-16 | 🤖 disclose AI use · ✍️ CLA |
 | [Document need some custom attributes,eg:metadata](https://github.com/LLPhant/LLPhant/issues/313) | [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) | 1.7k | 🟡 help wanted | 2026-09-16 |  |
 | [Ollama cloud and webSearch](https://github.com/LLPhant/LLPhant/issues/421) | [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) | 1.7k | 🟡 help wanted | 2026-09-16 |  |
 | [Meilisearch Vector Database Support](https://github.com/LLPhant/LLPhant/issues/425) | [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) | 1.7k | 🟡 help wanted | 2026-09-16 |  |
 | [[Feature Request] 支持 CodeWhale（DeepSeek V4 终端编程智能体）](https://github.com/erha19/ping-island/issues/238) 💬 2 | [erha19/ping-island](https://github.com/erha19/ping-island) | 1.1k | 🟢 beginner | 2026-09-16 |  |
-| [【推荐内容】合集](https://github.com/jingyaogong/minimind/issues/504) 💬 3 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 62.9k | 🟢 beginner | 2026-09-15 |  |
+| [【推荐内容】合集](https://github.com/jingyaogong/minimind/issues/504) 💬 3 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 63k | 🟢 beginner | 2026-09-15 |  |
 | [Web Search Tool](https://github.com/editor-code-assistant/eca/issues/70) 💬 8 | [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) | 1k | 🟢 beginner | 2026-09-15 |  |
 | ['COMMIT AND CHAIN' is not compatible with MySQL](https://github.com/pingcap/tidb/issues/71059) 💬 4 | [pingcap/tidb](https://github.com/pingcap/tidb) | 40.6k | 🟢 beginner | 2026-09-14 |  |
 | [Privacy controls for chat-history avatar training](https://github.com/xming521/WeClone/issues/231) | [xming521/WeClone](https://github.com/xming521/WeClone) | 18.3k | 🟢 beginner | 2026-09-14 |  |
-| [feat(nodes): add tool_gjalla — architecture observability / agent-oversight tool](https://github.com/rocketride-org/rocketride-server/issues/2277) 💬 1 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 17.8k | 🟡 help wanted | 2026-09-14 |  |
-| [feat(nodes): add tool_coderabbit — CodeRabbit review reports as an agent tool](https://github.com/rocketride-org/rocketride-server/issues/2276) 💬 1 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 17.8k | 🟡 help wanted | 2026-09-14 |  |
+| [feat(nodes): add tool_gjalla — architecture observability / agent-oversight tool](https://github.com/rocketride-org/rocketride-server/issues/2277) 💬 1 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 18k | 🟡 help wanted | 2026-09-14 |  |
+| [feat(nodes): add tool_coderabbit — CodeRabbit review reports as an agent tool](https://github.com/rocketride-org/rocketride-server/issues/2276) 💬 1 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 18k | 🟡 help wanted | 2026-09-14 |  |
 | [Missing Rmath derivatives](https://github.com/EnzymeAD/Enzyme.jl/issues/1620) 💬 2 | [EnzymeAD/Enzyme.jl](https://github.com/EnzymeAD/Enzyme.jl) | 589 | 🟡 help wanted | 2026-09-14 |  |
 | [postgres/sqlalchemy display of timestamptz loses my local timezone](https://github.com/marimo-team/marimo/issues/6250) 💬 10 | [marimo-team/marimo](https://github.com/marimo-team/marimo) | 23k | 🟡 help wanted | 2026-09-13 | 🤖 disclose AI use · ✍️ CLA |
 | [[data_editor] Checkbox and dropdown elements in data_editor columns](https://github.com/marimo-team/marimo/issues/6694) 💬 8 | [marimo-team/marimo](https://github.com/marimo-team/marimo) | 23k | 🟡 help wanted | 2026-09-13 | 🤖 disclose AI use · ✍️ CLA |
@@ -168,8 +169,7 @@
 | [🚨 CRITICAL: Verification & Truth Enforcement System Failure in Multi-Agent Architecture](https://github.com/ruvnet/ruflo/issues/640) 💬 12 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 73.6k | 🟡 help wanted | 2026-09-08 | 🤖 disclose AI use |
 | [Remove dr_wav.h](https://github.com/ggml-org/whisper.cpp/issues/165) 💬 2 | [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) | 54k | 🟢 beginner | 2026-09-08 | ⚠️ AI restricted |
 | [Decision tree visualization](https://github.com/lutzroeder/netron/issues/180) 💬 1 | [lutzroeder/netron](https://github.com/lutzroeder/netron) | 33.5k | 🟡 help wanted | 2026-09-08 |  |
-| [27 tests fail](https://github.com/pyg-team/pytorch_geometric/issues/9660) 💬 2 | [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric) | 24.1k | 🟢 beginner | 2026-09-08 |  |
-| [🌐 国际化 (i18n) — 英文翻译](https://github.com/cft0808/edict/issues/226) 💬 1 | [cft0808/edict](https://github.com/cft0808/edict) | 16.9k | 🟢 beginner | 2026-09-08 |  |
+| [🌐 国际化 (i18n) — 英文翻译](https://github.com/cft0808/edict/issues/226) 💬 1 | [cft0808/edict](https://github.com/cft0808/edict) | 17k | 🟢 beginner | 2026-09-08 |  |
 | [clang-tidy: enable performance-*](https://github.com/alibaba/zvec/issues/291) 💬 3 | [alibaba/zvec](https://github.com/alibaba/zvec) | 16k | 🟡 help wanted | 2026-09-08 |  |
 | [clang-tidy: enable clang-analyzer-*](https://github.com/alibaba/zvec/issues/292) | [alibaba/zvec](https://github.com/alibaba/zvec) | 16k | 🟡 help wanted | 2026-09-08 |  |
 | [Small text boxes can't be moved easily](https://github.com/koharu-rs/koharu/issues/1064) | [koharu-rs/koharu](https://github.com/koharu-rs/koharu) | 5.7k | 🟡 help wanted | 2026-09-08 | 🤖 disclose AI use |
@@ -197,7 +197,7 @@
 | [[BUG] Python groupby rolling aggregations return index inconsistent with pandas](https://github.com/NVIDIA/cudf/issues/10249) 💬 7 | [NVIDIA/cudf](https://github.com/NVIDIA/cudf) | 9.8k | 🟢 beginner | 2026-09-06 |  |
 | [[Umbrella][Performance] Track benchmark-driven optimizations and propose evidence guidelines](https://github.com/apache/seatunnel/issues/12086) 💬 2 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.7k | 🟡 help wanted | 2026-09-06 | ✍️ CLA |
 | [v4.0 post-release polish: event-count arithmetic + test cleanup trap](https://github.com/sangrokjung/claude-forge/issues/81) 💬 1 | [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) | 844 | 🟢 beginner | 2026-09-06 |  |
-| [Autonomous Agents, Unite!](https://github.com/microsoft/markitdown/issues/2386) 💬 4 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 187.7k | 🟢 beginner | 2026-09-05 |  |
+| [Autonomous Agents, Unite!](https://github.com/microsoft/markitdown/issues/2386) 💬 4 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 187.8k | 🟢 beginner | 2026-09-05 |  |
 | [control state of individual taskflow in mapped task-group](https://github.com/apache/airflow/issues/40543) 💬 12 | [apache/airflow](https://github.com/apache/airflow) | 47k | 🟢 beginner | 2026-09-05 | 🤖 disclose AI use · ✍️ CLA |
 | [Recipes for Nx, Turborepo, moon and a danger-js plugin](https://github.com/kucherenko/jscpd/issues/1014) 💬 1 | [kucherenko/jscpd](https://github.com/kucherenko/jscpd) | 6.3k | 🟡 help wanted | 2026-09-05 |  |
 | [Support for PowerPC 'ppc64le' architecture](https://github.com/qdrant/qdrant/issues/3940) 💬 2 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 34.9k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use |
@@ -211,4 +211,4 @@
 | [Hackathon [Feature]: Add arXiv data-source connector](https://github.com/topoteretes/cognee/issues/4806) 💬 2 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 31.2k | 🟢 beginner | 2026-09-04 | 🔏 DCO |
 | [How to evaluate the trained model?](https://github.com/microsoft/agent-lightning/issues/69) 💬 3 | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 18.5k | 🟡 help wanted | 2026-09-04 |  |
 
-Showing the 200 most recently updated. See all 424 on the website.
+Showing the 200 most recently updated. See all 421 on the website.

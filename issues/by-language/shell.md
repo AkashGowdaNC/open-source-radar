@@ -1,10 +1,10 @@
 # Shell issues
 
-**130** open issues (65 labeled for beginners) across **55** active Shell projects.
+**130** open issues (65 labeled for beginners) across **54** active Shell projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/shell.xml)
 
-> Updated automatically on **2026-09-30 12:01 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-09-30 22:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,12 +13,13 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [boot-*.cmd: one failing DT overlay discards every selected overlay for that boot](https://github.com/armbian/build/issues/10862) 💬 1 | [armbian/build](https://github.com/armbian/build) | 5.5k | 🟢 beginner | 2026-09-30 |  |
+| [EMBA does not detect all components / SBOM is incomplete](https://github.com/e-m-b-a/emba/issues/2132) 💬 3 | [e-m-b-a/emba](https://github.com/e-m-b-a/emba) | 3.7k | 🟢 beginner | 2026-09-30 |  |
 | [CAPTCHA Issues (Mismatched Desktop UA)](https://github.com/jqssun/android-titanium-browser/issues/50) 💬 12 | [jqssun/android-titanium-browser](https://github.com/jqssun/android-titanium-browser) | 2.8k | 🟡 help wanted | 2026-09-30 |  |
-| [Super basic question about manually setting scaling](https://github.com/shibco/ableton-linux/issues/325) 💬 3 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 608 | 🟡 help wanted | 2026-09-30 |  |
+| [Super basic question about manually setting scaling](https://github.com/shibco/ableton-linux/issues/325) 💬 6 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 608 | 🟡 help wanted | 2026-09-30 |  |
 | [[Installer] Add CHANGE-ME](https://github.com/webinstall/webi-installers/issues/1150) | [webinstall/webi-installers](https://github.com/webinstall/webi-installers) | 3k | 🟢 beginner | 2026-09-29 |  |
 | [[Installer] Add CHANGE-ME](https://github.com/webinstall/webi-installers/issues/1149) | [webinstall/webi-installers](https://github.com/webinstall/webi-installers) | 3k | 🟢 beginner | 2026-09-29 |  |
 | [[Installer] Add CHANGE-ME](https://github.com/webinstall/webi-installers/issues/1148) | [webinstall/webi-installers](https://github.com/webinstall/webi-installers) | 3k | 🟢 beginner | 2026-09-29 |  |
-| [PCIe Gen 3/4 support](https://github.com/amoghmunikote/cmpunlocker/issues/9) 💬 13 | [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) | 691 | 🟡 help wanted | 2026-09-29 |  |
+| [PCIe Gen 3/4 support](https://github.com/amoghmunikote/cmpunlocker/issues/9) 💬 13 | [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) | 692 | 🟡 help wanted | 2026-09-29 |  |
 | [[FEATURE] Node Affinity support for longhorn component deployment](https://github.com/longhorn/longhorn/issues/6035) 💬 2 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟢 beginner | 2026-09-28 | 🔏 DCO |
 | [[BUG] v2 volumes get stuck in unknown loading state if all nodes are labeled with 'disable-v2-data-engine=true](https://github.com/longhorn/longhorn/issues/11831) 💬 9 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟢 beginner | 2026-09-28 | 🔏 DCO |
 | [[IMPROVEMENT] Implementing CLI Checks for Critical Resource Labels and Fields](https://github.com/longhorn/longhorn/issues/9458) 💬 2 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟢 beginner | 2026-09-28 | 🔏 DCO |
@@ -30,8 +31,8 @@
 | [Server will not not respond on UDPv4, even when using ENABLE_BDS_V6BIND_FIX](https://github.com/itzg/docker-minecraft-bedrock-server/issues/684) 💬 7 | [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) | 1.9k | 🟡 help wanted | 2026-09-27 |  |
 | [Curseforge pack containing Cleanroom relauncher](https://github.com/itzg/docker-minecraft-server/issues/4282) 💬 9 | [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) | 14.4k | 🟡 help wanted | 2026-09-26 |  |
 | [[arm64/box64] BDS 1.26.51.1 NetherNet TLS handshake fails with InitialConnection-13](https://github.com/itzg/docker-minecraft-bedrock-server/issues/680) 💬 7 | [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) | 1.9k | 🟡 help wanted | 2026-09-26 |  |
-| [EMBA does not detect all components / SBOM is incomplete](https://github.com/e-m-b-a/emba/issues/2132) 💬 1 | [e-m-b-a/emba](https://github.com/e-m-b-a/emba) | 3.7k | 🟢 beginner | 2026-09-25 |  |
 | [updated from ableton 11 to ableton 12 by ising script uninstaller, now ableton doesn't open at all](https://github.com/shibco/ableton-linux/issues/316) 💬 12 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 608 | 🟡 help wanted | 2026-09-25 |  |
+| [App Request: Komi-Store](https://github.com/wimpysworld/deb-get/issues/2029) | [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) | 1.8k | 🟢 beginner | 2026-09-24 |  |
 | [cannot read Ableton Live 12 Suite Installer.exe well enough to verify its Live version](https://github.com/shibco/ableton-linux/issues/319) 💬 12 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 608 | 🟡 help wanted | 2026-09-24 |  |
 | [Change the LineageOS Updater app to link to our download server](https://github.com/lineageos4microg/docker-lineage-cicd/issues/935) 💬 2 | [lineageos4microg/docker-lineage-cicd](https://github.com/lineageos4microg/docker-lineage-cicd) | 558 | 🟡 help wanted | 2026-09-22 |  |
 | [For PLUGINS and MODS list support GitHub and Jenkins resolving](https://github.com/itzg/docker-minecraft-server/issues/2944) 💬 4 | [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) | 14.4k | 🟡 help wanted | 2026-09-18 |  |
@@ -45,7 +46,6 @@
 | [Aydio crackle while changing UI](https://github.com/shibco/ableton-linux/issues/290) 💬 30 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 608 | 🟡 help wanted | 2026-09-18 |  |
 | [App Request: word-sys's PDF Editor](https://github.com/wimpysworld/deb-get/issues/1897) 💬 1 | [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) | 1.8k | 🟢 beginner | 2026-09-17 |  |
 | [trying to upgrade from ableton 11 to 12, how to change payload from 11 to 12](https://github.com/shibco/ableton-linux/issues/315) 💬 3 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 608 | 🟡 help wanted | 2026-09-17 |  |
-| [feat: --exact flag to only match if exact full string is found (for wrapper scripts)](https://github.com/pystardust/ani-cli/issues/1851) 💬 1 | [pystardust/ani-cli](https://github.com/pystardust/ani-cli) | 13.9k | 🟢 beginner | 2026-09-16 |  |
 | [Tweak OverridePureVirtuals does not append the correct namespaces](https://github.com/clangd/clangd/issues/2706) 💬 1 | [clangd/clangd](https://github.com/clangd/clangd) | 2.3k | 🟢 beginner | 2026-09-16 |  |
 | [Classic: Remplace dummy cdrom repo with a real one](https://github.com/elementary/os/issues/844) | [elementary/os](https://github.com/elementary/os) | 1.2k | 🟡 help wanted | 2026-09-16 |  |
 | [[BUG] Deleting backups causes lots of errors if s3 path cleanup is slow](https://github.com/longhorn/longhorn/issues/13646) 💬 6 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟢 beginner | 2026-09-15 | 🔏 DCO |
@@ -63,7 +63,7 @@
 | [App Request: Biopass](https://github.com/wimpysworld/deb-get/issues/2005) | [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) | 1.8k | 🟢 beginner | 2026-09-07 |  |
 | [Ableton-Linux Update resulted in Regressions on SteamOS](https://github.com/shibco/ableton-linux/issues/297) 💬 52 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 608 | 🟡 help wanted | 2026-09-07 |  |
 | [v4.0 post-release polish: event-count arithmetic + test cleanup trap](https://github.com/sangrokjung/claude-forge/issues/81) 💬 1 | [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) | 844 | 🟢 beginner | 2026-09-06 |  |
-| [NVLink](https://github.com/amoghmunikote/cmpunlocker/issues/13) 💬 6 | [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) | 691 | 🟡 help wanted | 2026-09-04 |  |
+| [NVLink](https://github.com/amoghmunikote/cmpunlocker/issues/13) 💬 6 | [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) | 692 | 🟡 help wanted | 2026-09-04 |  |
 | [Refresh CHYT benchmark results](https://github.com/ClickHouse/ClickBench/issues/1459) | [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) | 1.1k | 🟡 help wanted | 2026-09-03 |  |
 | [Leaks user passwords via parameter expansion of variables in command arguments and command substitution](https://github.com/Macjutsu/super/issues/301) 💬 4 | [Macjutsu/super](https://github.com/Macjutsu/super) | 897 | 🟡 help wanted | 2026-09-03 |  |
 | [Switching Go version when process.env["GOROOT"] is set is unsupported.](https://github.com/go-nv/goenv/issues/367) 💬 5 | [go-nv/goenv](https://github.com/go-nv/goenv) | 2.5k | 🟡 help wanted | 2026-08-31 |  |
