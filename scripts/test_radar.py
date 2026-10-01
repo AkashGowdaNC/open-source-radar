@@ -307,6 +307,7 @@ class LanguageFeedTests(unittest.TestCase):
                 repositories = {
                     "owner/repo": {"language": "Python"},
                     "owner/js-repo": {"language": "JavaScript"},
+                    "owner/erlang-repo": {"language": "Erlang"},
                 }
                 issues = [
                     {
@@ -329,6 +330,7 @@ class LanguageFeedTests(unittest.TestCase):
                     {
                         "Python": "python",
                         "JavaScript": "javascript",
+                        "Erlang": "erlang",
                     },
                     repositories,
                     issues,
@@ -371,15 +373,18 @@ class LanguageFeedTests(unittest.TestCase):
                     index_html,
                 )
                 self.assertIn('localStorage.getItem("radar-theme")', index_html)
+                                # Languages with beginner issues get a link with a count.
+                self.assertIn('<li><a href="python.xml">Python (1)</a></li>', index_html)
+                self.assertIn('<li><a href="javascript.xml">JavaScript (1)</a></li>', index_html)
 
-                for language, slug in {
-                    "Python": "python",
-                    "JavaScript": "javascript",
-                }.items():
-                    self.assertIn(
-                        f'<li><a href="{slug}.xml">{language}</a></li>',
-                        index_html,
-                    )
+                # Erlang has no beginner issues, so it must not appear in the index...
+                self.assertNotIn('erlang.xml', index_html)
+
+                # ...but its RSS feed is still written so existing subscribers don't 404.
+                erlang_feed = Path(tmp) / "site" / "feeds" / "erlang.xml"
+                self.assertTrue(erlang_feed.exists())
+
+                
 
             finally:
                 radar.ROOT = original_root
