@@ -1,10 +1,10 @@
 # Ruby issues
 
-**96** open issues (73 labeled for beginners) across **29** active Ruby projects.
+**97** open issues (74 labeled for beginners) across **29** active Ruby projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-10-01 12:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-01 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Regenerate only shows some of the Assistants](https://github.com/AllYourBot/hostedgpt/issues/815) | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 511 | 🟢 beginner | 2026-10-01 |  |
 | [Helm: images inside lists in values files are never detected (find_images_in_hash never calls handle_array_val](https://github.com/dependabot/dependabot-core/issues/16425) | [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) | 5.8k | 🟡 help wanted | 2026-09-30 |  |
 | [Inbox link is bolder than other header menu items](https://github.com/lobsters/lobsters/issues/2230) | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-09-30 |  |
 | [Isolated reply comment form allows for two different reply forms.](https://github.com/lobsters/lobsters/issues/2098) 💬 2 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-09-30 |  |

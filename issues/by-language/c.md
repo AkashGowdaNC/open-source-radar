@@ -1,10 +1,10 @@
 # C issues
 
-**147** open issues (41 labeled for beginners) across **62** active C projects.
+**152** open issues (40 labeled for beginners) across **61** active C projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/c.xml)
 
-> Updated automatically on **2026-10-01 12:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-01 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,23 +12,28 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Maintain Previously Set Volume Level for Powertoys Peek after Every Reboot](https://github.com/microsoft/PowerToys/issues/31810) 💬 1 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.1k | 🟡 help wanted | 2026-10-01 |  |
+| [get_crl callback: revocation reasons accumulation broken for multiple CDPs, causes X509_V_ERR_UNABLE_TO_GET_CR](https://github.com/openssl/openssl/issues/33055) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
+| [Cleanup in EVP_SKEY from PKCS#12 files processing](https://github.com/openssl/openssl/issues/33041) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
+| [SSL_load_client_CA_file ignores TRUSTED CERTIFICATE PEM blocks](https://github.com/openssl/openssl/issues/33020) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
+| [PEM_read_bio_X509 does not read TRUSTED CERTIFICATE PEM blocks despite documentation](https://github.com/openssl/openssl/issues/33019) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
+| [Variant analysis: 1 unfixed sibling safety gap in openssl](https://github.com/openssl/openssl/issues/33015) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [Implement RFC 10032](https://github.com/openssl/openssl/issues/33064) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
-| [mbset: 'RemoveID' returns early and leaks the followChildren ID (duplicate value, small programs)](https://github.com/cilium/tetragon/issues/5744) 💬 1 | [cilium/tetragon](https://github.com/cilium/tetragon) | 5k | 🟢 beginner | 2026-10-01 | 📄 AI policy |
-| [Adding FAEST](https://github.com/open-quantum-safe/liboqs/issues/2101) 💬 12 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-01 |  |
+| [Adding FAEST](https://github.com/open-quantum-safe/liboqs/issues/2101) 💬 14 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-01 |  |
 | [command palette can't find portable apps](https://github.com/microsoft/PowerToys/issues/40508) 💬 4 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.1k | 🟡 help wanted | 2026-09-30 |  |
-| [RFC 9919: OCSP with SHA-256](https://github.com/openssl/openssl/issues/32813) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use · ✍️ CLA |
 | [Large test input file distributed with latest 3.0/3.5 releases](https://github.com/openssl/openssl/issues/32603) 💬 5 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use · ✍️ CLA |
 | [[Bug] GMMK Pro rev1 ANSI: LEDs on first AW20216S driver stay dark on master; fixed by lowering SPI speed](https://github.com/qmk/qmk_firmware/issues/26492) | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-09-30 |  |
 | [Make Wycheproof CI (network) failure resistant](https://github.com/open-quantum-safe/liboqs/issues/2495) 💬 3 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-09-30 |  |
 | [Bank MSB shouldn't always be ignored in XG mode](https://github.com/FluidSynth/fluidsynth/issues/1378) 💬 26 | [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) | 2.5k | 🟡 help wanted | 2026-09-29 |  |
+| [When OPENSSL_armcap is set then OPENSSL_armv8_rsa_neonized cannot be set.](https://github.com/openssl/openssl/issues/32994) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use · ✍️ CLA |
 | [Allow all system tray icons to be displayed on the dock.](https://github.com/microsoft/PowerToys/issues/46232) 💬 9 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.1k | 🟡 help wanted | 2026-09-27 |  |
-| [[Experiment] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 38.7k | 🟡 help wanted | 2026-09-27 |  |
+| [[Experiment] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 38.9k | 🟡 help wanted | 2026-09-27 |  |
 | [openssl cms sign command does not support 'noattr' when 'digest' is used](https://github.com/openssl/openssl/issues/28743) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use · ✍️ CLA |
 | [[robustness] -purpose crlsign\|ocsphelper infers aux-blind X509_TRUST_COMPAT (x509_vfy.c:2621) → anchor REJECT](https://github.com/openssl/openssl/issues/32365) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use · ✍️ CLA |
+| [macOS: intermittent CONNECTION_IDLE during handshake on loopback under sustained connect load](https://github.com/microsoft/msquic/issues/6265) 💬 2 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-09-26 | ✍️ CLA |
 | [Extensions for browser support monitoring](https://github.com/axel-download-accelerator/axel/issues/346) 💬 5 | [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) | 3.4k | 🟡 help wanted | 2026-09-26 |  |
 | [[BUG] Unable to restore the database](https://github.com/mydumper/mydumper/issues/2355) 💬 3 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.2k | 🟡 help wanted | 2026-09-24 |  |
 | [kew roadmap: "Project Joy"](https://github.com/ravachol/kew/issues/575) 💬 71 | [ravachol/kew](https://github.com/ravachol/kew) | 3.1k | 🟡 help wanted | 2026-09-23 |  |
-| [Let a CMP client require EnvelopedData (reject EncryptedValue) for centrally generated keys](https://github.com/openssl/openssl/issues/32797) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-22 | 🤖 disclose AI use · ✍️ CLA |
 | [Investigate AddressSanitizer-like diagnostics for ThreadX](https://github.com/eclipse-threadx/threadx/issues/764) | [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) | 3.5k | 🟡 help wanted | 2026-09-22 | 🔏 DCO |
 | [With external engine, getting DHE copy parameter's failure.](https://github.com/openssl/openssl/issues/23137) 💬 12 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-21 | 🤖 disclose AI use · ✍️ CLA |
 | [[Bug] last_input_activity_elapsed() gives unexpected results for combo-buffered keys](https://github.com/qmk/qmk_firmware/issues/26464) 💬 3 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-09-21 |  |
@@ -37,6 +42,7 @@
 | [Building libqasan for musl](https://github.com/AFLplusplus/AFLplusplus/issues/2832) 💬 6 | [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) | 6.8k | 🟢 beginner | 2026-09-21 |  |
 | [[Bug] PC not waking up from sleep](https://github.com/qmk/qmk_firmware/issues/26429) 💬 7 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-09-20 |  |
 | [Appeal Request - royalkludge Account Ban](https://github.com/qmk/qmk_firmware/issues/26285) 💬 1 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-09-20 |  |
+| [Two maps created with 'om', seem to share the same underlying buffer](https://github.com/rizinorg/rizin/issues/6771) 💬 1 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟡 help wanted | 2026-09-20 | 🤖 disclose AI use |
 | [[Feature Request] Support for Microchip AVR DU (modern AVR with native USB)](https://github.com/qmk/qmk_firmware/issues/26459) 💬 2 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-09-19 |  |
 | [Suppress Warnings From libpng](https://github.com/php/php-src/issues/23674) 💬 2 | [php/php-src](https://github.com/php/php-src) | 40.4k | 🟢 beginner | 2026-09-17 | 🤖 disclose AI use |
 | [Update speed tests to measure GPU performance for cuPQC code](https://github.com/open-quantum-safe/liboqs/issues/2160) 💬 42 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-09-16 |  |
@@ -107,6 +113,7 @@
 | [OSX compatibility](https://github.com/cboxdoerfer/fsearch/issues/7) 💬 14 | [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) | 4.4k | 🟡 help wanted | 2026-07-14 |  |
 | [Tap to change page](https://github.com/pwmt/zathura/issues/938) 💬 4 | [pwmt/zathura](https://github.com/pwmt/zathura) | 3.3k | 🟡 help wanted | 2026-07-10 |  |
 | [Sioyek does not start](https://github.com/ahrm/sioyek/issues/1283) 💬 18 | [ahrm/sioyek](https://github.com/ahrm/sioyek) | 9.9k | 🟡 help wanted | 2026-07-09 |  |
+| [Support Client Migration (Client Side)](https://github.com/microsoft/msquic/issues/1946) 💬 5 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-07-09 | ✍️ CLA |
 | [External datagram I/O for the connection state machine](https://github.com/microsoft/msquic/issues/6132) 💬 2 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-07-07 | ✍️ CLA |
 | [minor security issue: file descriptor leakage](https://github.com/DynamoRIO/dynamorio/issues/2884) 💬 1 | [DynamoRIO/dynamorio](https://github.com/DynamoRIO/dynamorio) | 3.2k | 🟢 beginner | 2026-07-07 | ✍️ CLA |
 | [[YSQL] Investigate point-lookup path for fully-bound hash PK IN queries](https://github.com/yugabyte/yugabyte-db/issues/32026) 💬 1 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.6k | 🟢 beginner | 2026-07-06 |  |
@@ -116,14 +123,12 @@
 | [New Folder with Selection](https://github.com/microsoft/PowerToys/issues/3569) 💬 23 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.1k | 🟡 help wanted | 2026-06-30 |  |
 | [咨询是否存在文件句柄超限问题](https://github.com/taosdata/TDengine/issues/35377) 💬 1 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-06-30 |  |
 | [.opus support for Peek](https://github.com/microsoft/PowerToys/issues/42576) 💬 4 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.1k | 🟢 beginner | 2026-06-28 |  |
-| [Perf monitor: add a setting for "graph" icons for the bands](https://github.com/microsoft/PowerToys/issues/47009) 💬 2 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.1k | 🟡 help wanted | 2026-06-27 |  |
 | [[BUG] ERROR 1064 .......'MASTER STATUS'](https://github.com/mydumper/mydumper/issues/2288) 💬 6 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.2k | 🟡 help wanted | 2026-06-26 |  |
 | [asymmetric key encryption in pkcs11 module does not work](https://github.com/OpenSC/OpenSC/issues/3144) 💬 2 | [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) | 3.1k | 🟢 beginner | 2026-06-26 | 🤖 disclose AI use |
 | [Update Build Documentation for Windows](https://github.com/GBALATRO/balatro-gba/issues/423) | [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) | 2.4k | 🟢 beginner | 2026-06-26 |  |
 | [no way to define "no option forwardfor"](https://github.com/haproxy/haproxy/issues/130) 💬 8 | [haproxy/haproxy](https://github.com/haproxy/haproxy) | 6.9k | 🟢 beginner | 2026-06-24 |  |
 | [Unified Issue ticket for Rule Engine](https://github.com/nanomq/nanomq/issues/2288) 💬 2 | [nanomq/nanomq](https://github.com/nanomq/nanomq) | 2.6k | 🟡 help wanted | 2026-06-23 | 🔏 DCO |
 | [[Recursive lookup] Dunst doesn't search for some icons](https://github.com/dunst-project/dunst/issues/1557) 💬 3 | [dunst-project/dunst](https://github.com/dunst-project/dunst) | 5.6k | 🟡 help wanted | 2026-06-20 | 🤖 disclose AI use |
-| [Allow X in place of * for calculator](https://github.com/microsoft/PowerToys/issues/38007) 💬 6 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.1k | 🟡 help wanted | 2026-06-18 |  |
 | [[BUG] myloader appears to hang indefinitely during initialization when restoring a massive number of files (&g](https://github.com/mydumper/mydumper/issues/2289) 💬 1 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.2k | 🟡 help wanted | 2026-06-17 |  |
 | [SDL 3 support](https://github.com/chocolate-doom/chocolate-doom/issues/1736) 💬 5 | [chocolate-doom/chocolate-doom](https://github.com/chocolate-doom/chocolate-doom) | 2.4k | 🟢 beginner | 2026-06-17 |  |
 | [EXPORT/IMPORTERS](https://github.com/pawelsalawa/letos/issues/2794) 💬 2 | [pawelsalawa/letos](https://github.com/pawelsalawa/letos) | 6.8k | 🟢 beginner | 2026-06-16 |  |

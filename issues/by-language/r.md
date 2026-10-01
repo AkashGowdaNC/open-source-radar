@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/r.xml)
 
-> Updated automatically on **2026-10-01 12:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-01 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,4 +12,4 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Do not use the 'use-custom-error' feature of savvy](https://github.com/pola-rs/r-polars/issues/1436) 💬 2 | [pola-rs/r-polars](https://github.com/pola-rs/r-polars) | 568 | 🟢 beginner | 2026-08-30 |  |
+| [Do not use the 'use-custom-error' feature of savvy](https://github.com/pola-rs/r-polars/issues/1436) 💬 2 | [pola-rs/r-polars](https://github.com/pola-rs/r-polars) | 569 | 🟢 beginner | 2026-08-30 |  |

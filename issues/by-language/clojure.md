@@ -1,10 +1,10 @@
 # Clojure issues
 
-**14** open issues (11 labeled for beginners) across **9** active Clojure projects.
+**15** open issues (12 labeled for beginners) across **9** active Clojure projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/clojure.xml)
 
-> Updated automatically on **2026-10-01 12:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-01 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [@penpot/plugin-styles loads Work Sans from a third-party CDN](https://github.com/penpot/penpot/issues/12023) | [penpot/penpot](https://github.com/penpot/penpot) | 60.6k | 🟢 beginner | 2026-10-01 | 🤖 disclose AI use · 🔏 DCO |
 | [Page is duplicated in favorites after renaming](https://github.com/logseq/logseq/issues/8596) 💬 4 | [logseq/logseq](https://github.com/logseq/logseq) | 45.1k | 🟢 beginner | 2026-10-01 | ✍️ CLA |
 | [Web Search Tool](https://github.com/editor-code-assistant/eca/issues/70) 💬 8 | [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) | 1k | 🟢 beginner | 2026-09-15 |  |
 | [Zombie chrome-headless processes created on element export](https://github.com/penpot/penpot/issues/10339) 💬 1 | [penpot/penpot](https://github.com/penpot/penpot) | 60.6k | 🟢 beginner | 2026-09-08 | 🤖 disclose AI use · 🔏 DCO |

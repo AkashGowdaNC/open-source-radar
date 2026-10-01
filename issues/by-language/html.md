@@ -1,10 +1,10 @@
 # HTML issues
 
-**82** open issues (27 labeled for beginners) across **34** active HTML projects.
+**86** open issues (28 labeled for beginners) across **36** active HTML projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/html.xml)
 
-> Updated automatically on **2026-10-01 12:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-01 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,10 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [java.util.ImmutableCollections$ListN can contain null values](https://github.com/EsotericSoftware/kryo/issues/1239) 💬 4 | [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) | 6.5k | 🟡 help wanted | 2026-09-30 |  |
+| [xhs 图片无法保存完整](https://github.com/nexu-io/html-anything/issues/160) 💬 2 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 9k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
+| [java.util.ImmutableCollections$ListN can contain null values](https://github.com/EsotericSoftware/kryo/issues/1239) 💬 5 | [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) | 6.5k | 🟡 help wanted | 2026-10-01 |  |
+| [Ship real ESM output across the packages](https://github.com/britecharts/britecharts/issues/1044) 💬 1 | [britecharts/britecharts](https://github.com/britecharts/britecharts) | 3.7k | 🟡 help wanted | 2026-10-01 |  |
+| [Accounts created via API bypass the Onboarding Wizard on first login](https://github.com/stefanpejcic/OpenPanel/issues/1159) 💬 4 | [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel) | 749 | 🟢 beginner | 2026-10-01 |  |
 | [[Initiative]: Cloud Native Business Continuity: whitepaper and best practices](https://github.com/cncf/toc/issues/1779) 💬 12 | [cncf/toc](https://github.com/cncf/toc) | 1.9k | 🟡 help wanted | 2026-09-30 |  |
 | [Service Worker Offline](https://github.com/TandoorRecipes/recipes/issues/621) 💬 7 | [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) | 8.6k | 🟢 beginner | 2026-09-29 |  |
 | [Search - Use the same words for criteria in "Products search" and in the product page (and edition page)](https://github.com/openfoodfacts/openfoodfacts-server/issues/17) 💬 1 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
@@ -29,6 +32,7 @@
 | [[🚀 Feature]: Fixing Accessibility Issues On Selenium Website](https://github.com/SeleniumHQ/seleniumhq.github.io/issues/2486) 💬 6 | [SeleniumHQ/seleniumhq.github.io](https://github.com/SeleniumHQ/seleniumhq.github.io) | 1.4k | 🟡 help wanted | 2026-09-11 |  |
 | [switch cutout for back body plate doesn't fit switch](https://github.com/nasa-jpl/open-source-rover/issues/499) 💬 2 | [nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover) | 9.7k | 🟡 help wanted | 2026-09-10 |  |
 | [Headscale with reverse proxy Zoraxy not working because allegedly WebSockets are not passing through](https://github.com/tobychui/zoraxy/issues/1012) 💬 9 | [tobychui/zoraxy](https://github.com/tobychui/zoraxy) | 5.5k | 🟡 help wanted | 2026-09-09 |  |
+| [(1.37) Move resource managers page to new section](https://github.com/kubernetes/website/issues/56615) 💬 4 | [kubernetes/website](https://github.com/kubernetes/website) | 5.4k | 🟡 help wanted | 2026-09-09 |  |
 | [Check for obsoletes](https://github.com/mgaudet/CompilerJobs/issues/83) 💬 5 | [mgaudet/CompilerJobs](https://github.com/mgaudet/CompilerJobs) | 782 | 🟢 beginner | 2026-09-08 |  |
 | [Translation needed for existing languages](https://github.com/sumn2u/learn-javascript/issues/346) 💬 2 | [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript) | 1k | 🟢 beginner | 2026-08-29 |  |
 | [Add play store promo](https://github.com/openfoodfacts/openfoodfacts-server/issues/604) 💬 6 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-08-21 | 🤖 disclose AI use |
@@ -37,7 +41,7 @@
 | [NuGet.VisualStudio.Client throws NullReferenceException for projects without an assets file, preventing other ](https://github.com/NuGet/Home/issues/14758) 💬 3 | [NuGet/Home](https://github.com/NuGet/Home) | 1.6k | 🟡 help wanted | 2026-08-14 |  |
 | [[Initiative]: Reference framework for the levels of Service Reliability Automation](https://github.com/cncf/toc/issues/1984) 💬 31 | [cncf/toc](https://github.com/cncf/toc) | 1.9k | 🟡 help wanted | 2026-08-11 |  |
 | [Better "No product" experience](https://github.com/openfoodfacts/openfoodfacts-server/issues/1505) | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟡 help wanted | 2026-08-11 | 🤖 disclose AI use |
-| [Request for two enhancements: prev/next post, & list of all posts](https://github.com/chipzoller/hugo-clarity/issues/126) 💬 5 | [chipzoller/hugo-clarity](https://github.com/chipzoller/hugo-clarity) | 652 | 🟡 help wanted | 2026-08-10 | 🔏 DCO |
+| [Request for two enhancements: prev/next post, & list of all posts](https://github.com/chipzoller/hugo-clarity/issues/126) 💬 5 | [chipzoller/hugo-clarity](https://github.com/chipzoller/hugo-clarity) | 653 | 🟡 help wanted | 2026-08-10 | 🔏 DCO |
 | [[ja] Translate docs/concepts/services-networking/windows-networking.md into Japanese](https://github.com/kubernetes/website/issues/56047) 💬 4 | [kubernetes/website](https://github.com/kubernetes/website) | 5.4k | 🟡 help wanted | 2026-08-08 |  |
 | [Create a Sitemap for ProductOpener](https://github.com/openfoodfacts/openfoodfacts-server/issues/442) 💬 2 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟡 help wanted | 2026-08-08 | 🤖 disclose AI use |
 | [[FEATURE]Allow a custom download directory instead of the browser's default Downloads folder](https://github.com/EltonChou/TwitterMediaHarvest/issues/344) 💬 3 | [EltonChou/TwitterMediaHarvest](https://github.com/EltonChou/TwitterMediaHarvest) | 1.2k | 🟡 help wanted | 2026-08-06 |  |

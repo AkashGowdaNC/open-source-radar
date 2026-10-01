@@ -1,10 +1,10 @@
 # JavaScript issues
 
-**158** open issues (73 labeled for beginners) across **62** active JavaScript projects.
+**156** open issues (73 labeled for beginners) across **61** active JavaScript projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/javascript.xml)
 
-> Updated automatically on **2026-10-01 12:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-01 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -16,7 +16,6 @@
 | [[Marketplace] Add Linear plugin](https://github.com/ToolJet/ToolJet/issues/18168) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use |
 | [Make tooltips dismissable](https://github.com/WordPress/gutenberg/issues/15145) 💬 6 | [WordPress/gutenberg](https://github.com/WordPress/gutenberg) | 11.8k | 🟢 beginner | 2026-09-30 | 🤖 disclose AI use |
 | [Operation request: Protocol Data Unit (PDU) encoder/decoder](https://github.com/gchq/CyberChef/issues/256) 💬 8 | [gchq/CyberChef](https://github.com/gchq/CyberChef) | 36k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA |
-| [[Bug]: Dropdown selector shows unexpected border on selected item](https://github.com/carbon-design-system/carbon/issues/20774) 💬 3 | [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) | 9.5k | 🟡 help wanted | 2026-09-29 | 🔏 DCO |
 | [[Feedback]: UI Shell is way too complicated and not really documented](https://github.com/carbon-design-system/carbon/issues/19715) 💬 6 | [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) | 9.5k | 🟡 help wanted | 2026-09-29 | 🔏 DCO |
 | [[Bug]: Click causes black screen and unresponsiveness](https://github.com/hovancik/stretchly/issues/1860) 💬 1 | [hovancik/stretchly](https://github.com/hovancik/stretchly) | 6.6k | 🟡 help wanted | 2026-09-29 | 🤖 disclose AI use |
 | [[Bug] Linux 下托盘图标右键菜单无法展开（popUpContextMenu 在 Linux 无效，需改用 setContextMenu）](https://github.com/docmirror/dev-sidecar/issues/716) 💬 1 | [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) | 24.3k | 🟢 beginner | 2026-09-28 |  |
@@ -39,7 +38,6 @@
 | [Implement an option to enable/disable date tags](https://github.com/josdejong/jsoneditor/issues/1553) 💬 5 | [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) | 12.3k | 🟡 help wanted | 2026-09-13 |  |
 | [enum dropdown in anyOf \\ oneOf](https://github.com/josdejong/jsoneditor/issues/1653) 💬 2 | [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) | 12.3k | 🟡 help wanted | 2026-09-13 |  |
 | [Add tools to Yahoo Sports](https://github.com/PipedreamHQ/pipedream/issues/21979) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-09-13 |  |
-| [Customizeable Axis Title Rendering](https://github.com/chartjs/Chart.js/issues/3214) 💬 5 | [chartjs/Chart.js](https://github.com/chartjs/Chart.js) | 67.7k | 🟡 help wanted | 2026-09-11 |  |
 | [[Bug] Instructions for integrating with Vite don't work](https://github.com/microsoft/monaco-editor/issues/4045) 💬 8 | [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) | 46.8k | 🟡 help wanted | 2026-09-11 |  |
 | [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21956) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-09-10 |  |
 | [[BUG]: Background image is rendered at an incorrect size after box zoom followed by mouse wheel zoom out](https://github.com/plotly/plotly.js/issues/7914) 💬 8 | [plotly/plotly.js](https://github.com/plotly/plotly.js) | 18.4k | 🟢 beginner | 2026-09-09 | ⚠️ AI restricted |

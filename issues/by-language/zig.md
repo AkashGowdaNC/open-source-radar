@@ -1,10 +1,10 @@
 # Zig issues
 
-**10** open issues (8 labeled for beginners) across **6** active Zig projects.
+**9** open issues (7 labeled for beginners) across **6** active Zig projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/zig.xml)
 
-> Updated automatically on **2026-10-01 12:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-01 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Report an error for exposing a type module's own name](https://github.com/roc-lang/roc/issues/11270) 💬 5 | [roc-lang/roc](https://github.com/roc-lang/roc) | 6.1k | 🟢 beginner | 2026-09-25 |  |
 | [Logarithm builtins for F32, F64, Dec](https://github.com/roc-lang/roc/issues/5107) 💬 2 | [roc-lang/roc](https://github.com/roc-lang/roc) | 6.1k | 🟢 beginner | 2026-09-25 |  |
 | [H3: is there a supported way to chain windows with REF2VA references? (chained windows + ref_images are mutual](https://github.com/ddalcu/mlx-serve/issues/316) 💬 4 | [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) | 1.7k | 🟡 help wanted | 2026-09-13 |  |
 | [Support all of WASI preview1 functions](https://github.com/mewz-project/mewz/issues/1) | [mewz-project/mewz](https://github.com/mewz-project/mewz) | 688 | 🟢 beginner | 2026-09-05 |  |

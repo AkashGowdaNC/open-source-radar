@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/dart.xml)
 
-> Updated automatically on **2026-10-01 12:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-01 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -29,7 +29,7 @@
 | [Create integration test for 'appFlavor'](https://github.com/getsentry/sentry-dart/issues/1802) | [getsentry/sentry-dart](https://github.com/getsentry/sentry-dart) | 873 | 🟢 beginner | 2026-09-01 |  |
 | [Add option maxCacheSize](https://github.com/getsentry/sentry-dart/issues/1830) 💬 1 | [getsentry/sentry-dart](https://github.com/getsentry/sentry-dart) | 873 | 🟢 beginner | 2026-09-01 |  |
 | [MIssing file referred to in "Running DevTools Tests" section of TESTING.md](https://github.com/flutter/devtools/issues/8293) 💬 2 | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟢 beginner | 2026-08-30 | 📄 AI policy · ✍️ CLA |
-| [[Bug] When drag and dropping contact to Bcc, the field isn't highlighted](https://github.com/linagora/tmail-flutter/issues/3074) 💬 1 | [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) | 656 | 🟢 beginner | 2026-08-29 |  |
+| [[Bug] When drag and dropping contact to Bcc, the field isn't highlighted](https://github.com/linagora/tmail-flutter/issues/3074) 💬 1 | [linagora/tmail-flutter](https://github.com/linagora/tmail-flutter) | 657 | 🟢 beginner | 2026-08-29 |  |
 | [Joplin integration](https://github.com/LinwoodDev/Butterfly/issues/253) 💬 3 | [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly) | 2k | 🟢 beginner | 2026-08-23 |  |
 | [适配鸿蒙5（需要帮助）](https://github.com/lollipopkit/flutter_server_box/issues/869) 💬 4 | [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) | 8.8k | 🟡 help wanted | 2026-08-22 | ✍️ CLA |
 | [Refresh button for manage application page](https://github.com/ubuntu/app-center/issues/2027) | [ubuntu/app-center](https://github.com/ubuntu/app-center) | 927 | 🟢 beginner | 2026-08-17 | ✍️ CLA |
@@ -45,18 +45,18 @@
 | [[content] Add more flexible mechanism for 'FilesystemLoader' to ignore paths](https://github.com/schultek/jaspr/issues/789) | [schultek/jaspr](https://github.com/schultek/jaspr) | 2.5k | 🟢 beginner | 2026-07-16 |  |
 | [UnsupportedError: Cannot add to a fixed-length list when selecting or rendering large text in QuillEditor](https://github.com/singerdmx/flutter-quill/issues/2487) 💬 4 | [singerdmx/flutter-quill](https://github.com/singerdmx/flutter-quill) | 2.9k | 🟡 help wanted | 2026-07-03 |  |
 | [[Inspector V2] Widget properties tab highlight extends past its rounded edge](https://github.com/flutter/devtools/issues/8936) 💬 3 | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-07-03 | 📄 AI policy · ✍️ CLA |
-| [Text alignment issue in mobile app – A1 Professional Spanish Certification](https://github.com/freeCodeCamp/mobile/issues/1731) 💬 4 | [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile) | 581 | 🟢 beginner | 2026-07-01 |  |
+| [Text alignment issue in mobile app – A1 Professional Spanish Certification](https://github.com/freeCodeCamp/mobile/issues/1731) 💬 4 | [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile) | 582 | 🟢 beginner | 2026-07-01 |  |
 | [Can you added TV Version armv7 + 64](https://github.com/ImranR98/Obtainium/issues/2924) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.1k | 🟡 help wanted | 2026-06-23 | 📄 AI policy |
 | [App Crashes while Scrolling Broadcast Carousel](https://github.com/lichess-org/mobile/issues/1769) 💬 2 | [lichess-org/mobile](https://github.com/lichess-org/mobile) | 2.6k | 🟡 help wanted | 2026-06-14 | 🤖 disclose AI use |
-| [[typed_sql] MariaDB and MySQL support](https://github.com/google/dart-neats/issues/330) | [google/dart-neats](https://github.com/google/dart-neats) | 508 | 🟡 help wanted | 2026-06-09 | ✍️ CLA |
+| [[typed_sql] MariaDB and MySQL support](https://github.com/google/dart-neats/issues/330) | [google/dart-neats](https://github.com/google/dart-neats) | 509 | 🟡 help wanted | 2026-06-09 | ✍️ CLA |
 | [[Feature Request] implement a flickering method to introduce grayscale](https://github.com/fossasia/badgemagic-app/issues/1671) 💬 4 | [fossasia/badgemagic-app](https://github.com/fossasia/badgemagic-app) | 2k | 🟡 help wanted | 2026-06-04 |  |
 | [Browers plugin? (eg. Firefox)](https://github.com/authpass/authpass/issues/41) 💬 13 | [authpass/authpass](https://github.com/authpass/authpass) | 2.8k | 🟡 help wanted | 2026-05-29 | ✍️ CLA |
 | [阅黑色背景右和下边会有一个白边](https://github.com/Anxcye/anx-reader/issues/93) 💬 4 | [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) | 8.9k | 🟡 help wanted | 2026-05-24 |  |
 | [feat: implement podcast sync api](https://github.com/ubuntu-flutter-community/musicpod/issues/36) 💬 6 | [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod) | 672 | 🟡 help wanted | 2026-05-20 |  |
-| [Add advanced repeater settings controls in app UI](https://github.com/zjs81/meshcore-open/issues/237) 💬 1 | [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) | 623 | 🟢 beginner | 2026-05-10 |  |
+| [Add advanced repeater settings controls in app UI](https://github.com/zjs81/meshcore-open/issues/237) 💬 1 | [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) | 625 | 🟢 beginner | 2026-05-10 |  |
 | [[HDR] Linux - Native HDR Rendering Support](https://github.com/AimesSoft/NipaPlay-Reload/issues/423) | [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload) | 1.8k | 🟡 help wanted | 2026-05-05 |  |
 | [[HDR] Android - Native HDR Rendering Support](https://github.com/AimesSoft/NipaPlay-Reload/issues/421) | [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload) | 1.8k | 🟡 help wanted | 2026-05-05 |  |
-| [[UI/UX] Improve channel arragement](https://github.com/zjs81/meshcore-open/issues/70) | [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) | 623 | 🟢 beginner | 2026-05-05 |  |
+| [[UI/UX] Improve channel arragement](https://github.com/zjs81/meshcore-open/issues/70) | [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) | 625 | 🟢 beginner | 2026-05-05 |  |
 | [fix: 'shorebird preview' should detect/warn when targeting x86 devices](https://github.com/shorebirdtech/shorebird/issues/1173) 💬 11 | [shorebirdtech/shorebird](https://github.com/shorebirdtech/shorebird) | 3k | 🟢 beginner | 2026-05-03 |  |
 | [feat: Would like better usage information for 'aar' missing option](https://github.com/shorebirdtech/shorebird/issues/982) 💬 1 | [shorebirdtech/shorebird](https://github.com/shorebirdtech/shorebird) | 3k | 🟢 beginner | 2026-05-03 |  |
 | [Memory profile tables should scroll together](https://github.com/flutter/devtools/issues/9483) 💬 1 | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-05-03 | 📄 AI policy · ✍️ CLA |

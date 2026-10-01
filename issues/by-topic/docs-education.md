@@ -1,8 +1,8 @@
 # Documentation and education issues
 
-**72** open issues (38 labeled for beginners) across **24** projects tagged with topics like `documentation`, `education`, `learning`, `tutorial`, `awesome`, `awesome-list`.
+**77** open issues (42 labeled for beginners) across **24** projects tagged with topics like `documentation`, `education`, `learning`, `tutorial`, `awesome`, `awesome-list`.
 
-> Updated automatically on **2026-10-01 12:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-01 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,8 +12,11 @@
 | --- | --- | ---: | --- | --- | --- |
 | [[Bug]: automigrate fails on EXDEV error](https://github.com/storybookjs/storybook/issues/30184) 💬 7 | [storybookjs/storybook](https://github.com/storybookjs/storybook) | 91.2k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use |
 | [Server-side meta tags](https://github.com/suitenumerique/docs/issues/739) 💬 1 | [suitenumerique/docs](https://github.com/suitenumerique/docs) | 16.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · 🔏 DCO |
+| [Change Image Annotation View Width With Panel Width](https://github.com/Submitty/Submitty/issues/13171) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-10-01 |  |
+| [[Feature:InstructorUI] Improve error / success feedback on course creation](https://github.com/Submitty/Submitty/issues/13178) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-10-01 |  |
+| [peer graders get error when they click 'who got this mark' icon](https://github.com/Submitty/Submitty/issues/13411) | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-10-01 |  |
 | [Peer graders should never see grade inquiries](https://github.com/Submitty/Submitty/issues/13355) 💬 1 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-10-01 |  |
-| [[BUG] Doxygen does not render JAVADOC_BANNER style comments](https://github.com/TheAlgorithms/C-Plus-Plus/issues/3234) | [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | 34.7k | 🟢 beginner | 2026-09-29 |  |
+| [TA Grading Image Annotator zoom is broken](https://github.com/Submitty/Submitty/issues/13401) | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-09-30 |  |
 | [Translation needed for existing languages](https://github.com/sumn2u/learn-javascript/issues/337) 💬 2 | [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript) | 1k | 🟢 beginner | 2026-09-29 |  |
 | [Ability to buffer the output of the RGB Video component](https://github.com/logisim-evolution/logisim-evolution/issues/2523) 💬 4 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.7k | 🟡 help wanted | 2026-09-28 |  |
 | [Delay component](https://github.com/logisim-evolution/logisim-evolution/issues/1840) 💬 27 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.7k | 🟡 help wanted | 2026-09-28 |  |
@@ -24,8 +27,11 @@
 | [I am not able to export simulation as text file.](https://github.com/logisim-evolution/logisim-evolution/issues/1655) 💬 6 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.7k | 🟡 help wanted | 2026-09-24 |  |
 | [macOS app fails Gatekeeper; Homebrew cask deprecated and scheduled for disablement](https://github.com/logisim-evolution/logisim-evolution/issues/2699) 💬 1 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.7k | 🟡 help wanted | 2026-09-24 |  |
 | [noiseMode(SIMPLEX) add-on library](https://github.com/processing/p5.js/issues/6152) 💬 20 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-22 | ⚠️ AI restricted |
+| [include name of original author & editor in notification of edited post](https://github.com/Submitty/Submitty/issues/13365) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-09-18 |  |
+| [editing forum thread to update category](https://github.com/Submitty/Submitty/issues/13366) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-09-17 |  |
 | [confusions with "my late days/extensions page"](https://github.com/Submitty/Submitty/issues/6068) 💬 1 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-09-17 |  |
 | [Allow disable generating full mobile navigation tree](https://github.com/imfing/hextra/issues/275) 💬 1 | [imfing/hextra](https://github.com/imfing/hextra) | 2.4k | 🟢 beginner | 2026-09-15 |  |
+| [grade inquiry notifications need an icon to match indentation](https://github.com/Submitty/Submitty/issues/13356) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-09-15 |  |
 | [Feature: Organize documentation topics in beginner-friendly learning order](https://github.com/freeCodeCamp/devdocs/issues/2611) | [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) | 39.5k | 🟡 help wanted | 2026-09-14 |  |
 | [Cleanup edge to edge deprecations](https://github.com/ankidroid/Anki-Android/issues/21780) 💬 3 | [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) | 11.9k | 🟢 beginner | 2026-09-08 | 🤖 disclose AI use |
 | [Checkpoint gradeables does not display graders & show dates graded](https://github.com/Submitty/Submitty/issues/13305) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-09-08 |  |
@@ -39,12 +45,10 @@
 | [[Bug]: Failed to run on sveltekit monorepo(pnpm workspace)](https://github.com/storybookjs/storybook/issues/23777) 💬 9 | [storybookjs/storybook](https://github.com/storybookjs/storybook) | 91.2k | 🟡 help wanted | 2026-09-02 | 🤖 disclose AI use |
 | [[Bug]: Constructor of lit-component called twice](https://github.com/storybookjs/storybook/issues/25116) 💬 4 | [storybookjs/storybook](https://github.com/storybookjs/storybook) | 91.2k | 🟡 help wanted | 2026-09-02 | 🤖 disclose AI use |
 | [Inconsistency in link settings terminology](https://github.com/suitenumerique/docs/issues/2612) 💬 2 | [suitenumerique/docs](https://github.com/suitenumerique/docs) | 16.9k | 🟢 beginner | 2026-09-02 | 🤖 disclose AI use · 🔏 DCO |
-| [line return](https://github.com/suitenumerique/docs/issues/2239) 💬 1 | [suitenumerique/docs](https://github.com/suitenumerique/docs) | 16.9k | 🟢 beginner | 2026-09-01 | 🤖 disclose AI use · 🔏 DCO |
 | [Translation needed for existing languages](https://github.com/sumn2u/learn-javascript/issues/346) 💬 2 | [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript) | 1k | 🟢 beginner | 2026-08-29 |  |
-| [Add diagrams and animations to course website (inspired by makingsoftware.com)](https://github.com/rohitg00/ai-engineering-from-scratch/issues/243) 💬 12 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 62.3k | 🟢 beginner | 2026-08-28 |  |
+| [Add diagrams and animations to course website (inspired by makingsoftware.com)](https://github.com/rohitg00/ai-engineering-from-scratch/issues/243) 💬 12 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 62.4k | 🟢 beginner | 2026-08-28 |  |
 | [Add a public DNS resolver from an unrepresented region (Africa / South America / Middle East / Oceania)](https://github.com/jason5ng32/MyIP/issues/394) 💬 1 | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12k | 🟢 beginner | 2026-08-28 |  |
 | [TalkBack conflicts with TTS](https://github.com/ankidroid/Anki-Android/issues/6369) 💬 4 | [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) | 11.9k | 🟡 help wanted | 2026-08-27 | 🤖 disclose AI use |
-| [Clean up dead or outdated tutorials](https://github.com/practical-tutorials/project-based-learning/issues/344) 💬 12 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 285.5k | 🟢 beginner | 2026-08-25 |  |
 | [Connectivity test: add a Vietnam country list](https://github.com/jason5ng32/MyIP/issues/406) 💬 2 | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12k | 🟢 beginner | 2026-08-22 |  |
 | [🇯🇵 Japanese (ja) UI translation](https://github.com/jason5ng32/MyIP/issues/421) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12k | 🟢 beginner | 2026-08-22 |  |
 | [🇪🇸 Spanish (es) UI translation](https://github.com/jason5ng32/MyIP/issues/420) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12k | 🟢 beginner | 2026-08-22 |  |
@@ -55,13 +59,13 @@
 | [Translate the README into German (README_DE.md)](https://github.com/jason5ng32/MyIP/issues/412) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12k | 🟢 beginner | 2026-08-22 |  |
 | [Translate the README into Spanish (README_ES.md)](https://github.com/jason5ng32/MyIP/issues/410) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12k | 🟢 beginner | 2026-08-22 |  |
 | [Native speakers: review the French / Russian UI translations](https://github.com/jason5ng32/MyIP/issues/401) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12k | 🟢 beginner | 2026-08-22 |  |
-| [Thai translation](https://github.com/donnemartin/system-design-primer/issues/187) 💬 6 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 372.7k | 🟡 help wanted | 2026-08-21 |  |
+| [Thai translation](https://github.com/donnemartin/system-design-primer/issues/187) 💬 6 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 372.8k | 🟡 help wanted | 2026-08-21 |  |
 | [TTY: allow configuring the display font consistently](https://github.com/logisim-evolution/logisim-evolution/issues/2878) 💬 1 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.7k | 🟡 help wanted | 2026-08-21 |  |
 | [Consider requiring circuitChanged actions be generated by the gui thread.](https://github.com/logisim-evolution/logisim-evolution/issues/2875) 💬 2 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.7k | 🟡 help wanted | 2026-08-20 |  |
 | [Provide invert feature for component inputs](https://github.com/logisim-evolution/logisim-evolution/issues/1510) 💬 10 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.7k | 🟡 help wanted | 2026-08-20 |  |
 | [Docs installed as an application : Error 400](https://github.com/suitenumerique/docs/issues/2477) | [suitenumerique/docs](https://github.com/suitenumerique/docs) | 16.9k | 🟢 beginner | 2026-08-19 | 🤖 disclose AI use · 🔏 DCO |
-| [Greek Translation](https://github.com/donnemartin/system-design-primer/issues/130) 💬 5 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 372.7k | 🟡 help wanted | 2026-08-18 |  |
-| [Outdated/partial translations 'zh' since latest text review #3462](https://github.com/EbookFoundation/free-programming-books/issues/6782) 💬 39 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 398.2k | 🟢 beginner | 2026-08-07 | ✍️ CLA |
+| [Greek Translation](https://github.com/donnemartin/system-design-primer/issues/130) 💬 5 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 372.8k | 🟡 help wanted | 2026-08-18 |  |
+| [Outdated/partial translations 'zh' since latest text review #3462](https://github.com/EbookFoundation/free-programming-books/issues/6782) 💬 39 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 398.3k | 🟢 beginner | 2026-08-07 | ✍️ CLA |
 | [Improve Privacy Policy to explain Google Play Data Sharing](https://github.com/ankidroid/Anki-Android/issues/18413) 💬 23 | [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) | 11.9k | 🟡 help wanted | 2026-07-26 | 🤖 disclose AI use |
 | [[BUG] sockops port error](https://github.com/eunomia-bpf/bpf-developer-tutorial/issues/115) 💬 1 | [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) | 4.3k | 🟡 help wanted | 2026-07-26 |  |
 | [Microsoft emojis black outline makes it hard to see which emoji is selected](https://github.com/suitenumerique/docs/issues/1220) 💬 5 | [suitenumerique/docs](https://github.com/suitenumerique/docs) | 16.9k | 🟢 beginner | 2026-07-24 | 🤖 disclose AI use · 🔏 DCO |
@@ -79,6 +83,7 @@
 | [difference between inline and inline-block should include discussion about replaced / non-replaced elements](https://github.com/yangshun/front-end-interview-handbook/issues/160) 💬 3 | [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | 44k | 🟡 help wanted | 2026-06-05 |  |
 | [Runic formatting ?](https://github.com/JuliaPluto/Pluto.jl/issues/3534) 💬 3 | [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) | 5.4k | 🟢 beginner | 2026-06-01 |  |
 | [Feature Request: Integrate Crowdin for community translations](https://github.com/jaywcjlove/awesome-mac/issues/2119) 💬 1 | [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 115.2k | 🟡 help wanted | 2026-05-30 | 📄 AI policy |
+| [Queue UI requests from page fragments while app in background](https://github.com/ankidroid/Anki-Android/issues/15706) 💬 3 | [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) | 11.9k | 🟡 help wanted | 2026-05-20 | 🤖 disclose AI use |
 | [cant connect robot app to python controller](https://github.com/ob-f/OpenBot/issues/486) 💬 2 | [ob-f/OpenBot](https://github.com/ob-f/OpenBot) | 3.5k | 🟡 help wanted | 2026-05-09 |  |
 | [Selecting AI TYPE for instance Point Goal using remote (PC/desktop) controller aka PYTHON/NPM PACKAGES....](https://github.com/ob-f/OpenBot/issues/489) 💬 2 | [ob-f/OpenBot](https://github.com/ob-f/OpenBot) | 3.5k | 🟡 help wanted | 2026-05-09 |  |
-| [broken link in java tutorial](https://github.com/practical-tutorials/project-based-learning/issues/347) 💬 9 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 285.5k | 🟢 beginner | 2026-05-07 |  |
+| [broken link in java tutorial](https://github.com/practical-tutorials/project-based-learning/issues/347) 💬 9 | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 285.6k | 🟢 beginner | 2026-05-07 |  |

@@ -1,10 +1,10 @@
 # Java issues
 
-**252** open issues (100 labeled for beginners) across **78** active Java projects.
+**251** open issues (99 labeled for beginners) across **78** active Java projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/java.xml)
 
-> Updated automatically on **2026-10-01 12:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-01 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,13 +12,16 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Google SAML IDP initiated login does not work](https://github.com/keycloak/keycloak/issues/42993) 💬 7 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.1k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · 🔏 DCO |
 | [Add support for selecting OpenTracing propagators](https://github.com/keycloak/keycloak/issues/33624) 💬 9 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.1k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · 🔏 DCO |
 | [Provide Content Security Policy to prevent embedding of iframes on unauhorized origins](https://github.com/keycloak/keycloak/issues/29782) 💬 7 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.1k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · 🔏 DCO |
-| [Add unit tests for getUid and ensureUid](https://github.com/kestra-io/kestra/issues/19962) 💬 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.6k | 🟢 beginner | 2026-10-01 |  |
-| [Add unit tests for the service state to execution status mapping](https://github.com/kestra-io/kestra/issues/19964) 💬 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.6k | 🟢 beginner | 2026-10-01 |  |
-| [Add unit tests for useEditorHeaderWidth](https://github.com/kestra-io/kestra/issues/19975) 💬 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.6k | 🟢 beginner | 2026-10-01 |  |
+| [Timer in topology after restart don't work](https://github.com/kestra-io/kestra/issues/8240) 💬 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.7k | 🟢 beginner | 2026-10-01 |  |
+| [Secret is not populated as a header value in module io.kestra.plugin.core.http.Request](https://github.com/kestra-io/kestra/issues/3988) 💬 5 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.7k | 🟢 beginner | 2026-10-01 |  |
+| [[Editor] Multi-line string content is highlighted as YAML when a line is indented more than the first one](https://github.com/kestra-io/kestra/issues/19927) 💬 4 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.7k | 🟢 beginner | 2026-10-01 |  |
+| [Duplicate --config=foo produces a seemingly pointless warning](https://github.com/bazelbuild/bazel/issues/11592) 💬 8 | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 25.9k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
 | [broker.conf documentation : wrong tokenSecretKey base64 inline description](https://github.com/apache/pulsar/issues/10584) 💬 3 | [apache/pulsar](https://github.com/apache/pulsar) | 15.3k | 🟡 help wanted | 2026-10-01 | ⚠️ AI restricted · ✍️ CLA |
 | [[Bug] [enigne] Caused by: java.lang.OutOfMemoryError: Metaspace](https://github.com/apache/seatunnel/issues/12456) 💬 15 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.7k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
+| [Remove operate legacy templates from SaaS to eliminate log noise](https://github.com/camunda/camunda/issues/39542) 💬 2 | [camunda/camunda](https://github.com/camunda/camunda) | 4.3k | 🟢 beginner | 2026-10-01 | ✍️ CLA |
 | [[1.8.0] Release TODOs and cross-repository integration checklist](https://github.com/apache/hugegraph/issues/3242) 💬 1 | [apache/hugegraph](https://github.com/apache/hugegraph) | 3.2k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
 | [Unable to enable multiple metric anomaly finders at the same time](https://github.com/cruise-control-for-kafka/cruise-control/issues/1101) 💬 4 | [cruise-control-for-kafka/cruise-control](https://github.com/cruise-control-for-kafka/cruise-control) | 3k | 🟢 beginner | 2026-10-01 | 🔏 DCO |
 | [SCIM: displayName is accepted and echoed on write but never persisted](https://github.com/keycloak/keycloak/issues/53352) 💬 6 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.1k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use · 🔏 DCO |
@@ -36,7 +39,6 @@
 | [Replace 'scanMonitorLookupCaches()' loop with memset](https://github.com/eclipse-openj9/openj9/issues/24803) | [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) | 3.5k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA · 🔏 DCO |
 | [积木报表横向分组一级标题无法设置分组合计](https://github.com/jeecgboot/JeecgBoot/issues/9898) | [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) | 48k | 🟡 help wanted | 2026-09-28 |  |
 | [App Crash on mark video as watched](https://github.com/TeamNewPipe/NewPipe/issues/10939) 💬 9 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 39.8k | 🟢 beginner | 2026-09-28 | 📄 AI policy |
-| [IdP account linking stuck with no error when the existing local account is disabled](https://github.com/keycloak/keycloak/issues/51106) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.1k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use · 🔏 DCO |
 | [Duplicates in unmanaged attributes](https://github.com/keycloak/keycloak/issues/40929) 💬 15 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.1k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use · 🔏 DCO |
 | [Ability to buffer the output of the RGB Video component](https://github.com/logisim-evolution/logisim-evolution/issues/2523) 💬 4 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.7k | 🟡 help wanted | 2026-09-28 |  |
 | [Delay component](https://github.com/logisim-evolution/logisim-evolution/issues/1840) 💬 27 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.7k | 🟡 help wanted | 2026-09-28 |  |
@@ -88,13 +90,12 @@
 | [AppImage](https://github.com/logisim-evolution/logisim-evolution/issues/1970) 💬 5 | [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) | 7.7k | 🟢 beginner | 2026-09-07 |  |
 | [Support import of OpenVEX statements](https://github.com/DependencyTrack/dependency-track/issues/7094) 💬 8 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟢 beginner | 2026-09-07 | ⚠️ AI restricted · 🔏 DCO |
 | [[Umbrella][Performance] Track benchmark-driven optimizations and propose evidence guidelines](https://github.com/apache/seatunnel/issues/12086) 💬 2 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.7k | 🟡 help wanted | 2026-09-06 | ✍️ CLA |
-| [include git commit id in status information and artifact README](https://github.com/yacy/yacy_search_server/issues/466) 💬 1 | [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) | 4k | 🟢 beginner | 2026-09-06 |  |
+| [include git commit id in status information and artifact README](https://github.com/yacy/yacy_search_server/issues/466) 💬 1 | [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) | 4.1k | 🟢 beginner | 2026-09-06 |  |
 | [Create Alerts for Distributed Commands Queue backlogs.](https://github.com/camunda/camunda/issues/49809) 💬 3 | [camunda/camunda](https://github.com/camunda/camunda) | 4.3k | 🟢 beginner | 2026-09-05 | ✍️ CLA |
 | [jetty-unixsocket: No ability to set permissions on unix domain socket - other services cannot connect](https://github.com/jetty/jetty.project/issues/10860) 💬 17 | [jetty/jetty.project](https://github.com/jetty/jetty.project) | 4.1k | 🟡 help wanted | 2026-09-04 |  |
 | [Support cancellation](https://github.com/modelcontextprotocol/java-sdk/issues/130) 💬 8 | [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 3.7k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use |
 | [[Feature]: 升级 A2A SDK 至 v1.0 以支持稳定的AgentCard 和A2A协议](https://github.com/agentscope-ai/agentscope-java/issues/1388) 💬 11 | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5.9k | 🟡 help wanted | 2026-09-03 |  |
 | [Improve logging for circuit breakers](https://github.com/elastic/elasticsearch/issues/62452) 💬 11 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 78.2k | 🟡 help wanted | 2026-09-01 | ✍️ CLA |
-| [Add resource ID to 404 response body](https://github.com/elastic/elasticsearch/issues/82675) 💬 17 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 78.2k | 🟡 help wanted | 2026-09-01 | ✍️ CLA |
 | [[Bug] Dubbo 3.3.2: FORCE_APPLICATION may leave one of multiple same-interface different-group consumer referen](https://github.com/apache/dubbo/issues/16269) 💬 4 | [apache/dubbo](https://github.com/apache/dubbo) | 41.6k | 🟡 help wanted | 2026-09-01 | ✍️ CLA |
 | [[Bug] When running a Dubbo 3.3.6 application on JDK 25, application startup fails with 'NoClassDefFoundError: ](https://github.com/apache/dubbo/issues/16295) 💬 6 | [apache/dubbo](https://github.com/apache/dubbo) | 41.6k | 🟡 help wanted | 2026-09-01 | ✍️ CLA |
 | [[DSIP-64] Add more workflow Integration test cases in master.](https://github.com/apache/dolphinscheduler/issues/16479) 💬 7 | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14.5k | 🟢 beginner | 2026-09-01 |  |
@@ -142,7 +143,6 @@
 | [Optimize jdk.internal.misc.Unsafe.storeStoreFence() into no-op on x86 platforms](https://github.com/eclipse-openj9/openj9/issues/19042) 💬 3 | [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) | 3.5k | 🟢 beginner | 2026-08-12 | 🤖 disclose AI use · ✍️ CLA · 🔏 DCO |
 | ['--test_output=streamed' does not stream the logs when executing remotely](https://github.com/bazelbuild/bazel/issues/30651) | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 25.9k | 🟡 help wanted | 2026-08-11 | ✍️ CLA |
 | [Custom Entity API non-vanilla entities](https://github.com/GeyserMC/Geyser/issues/6598) 💬 3 | [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) | 5.8k | 🟡 help wanted | 2026-08-10 | 📄 AI policy |
-| [Remove operate legacy templates from SaaS to eliminate log noise](https://github.com/camunda/camunda/issues/39542) 💬 2 | [camunda/camunda](https://github.com/camunda/camunda) | 4.3k | 🟢 beginner | 2026-08-10 | ✍️ CLA |
 | [pytorch issue ，SequentialImpl can not push back DroupoutImpl](https://github.com/bytedeco/javacpp-presets/issues/1782) 💬 4 | [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) | 2.9k | 🟡 help wanted | 2026-08-10 |  |
 | [Should we use the new 'expectedVisitedNodes' estimator to speed up filtered vector search?](https://github.com/apache/lucene/issues/14845) 💬 8 | [apache/lucene](https://github.com/apache/lucene) | 3.6k | 🟢 beginner | 2026-08-09 | 🤖 disclose AI use · ✍️ CLA |
 | [Write unit tests for cut, copy, paste, duplicate component actions](https://github.com/openrocket/openrocket/issues/1692) 💬 2 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | 3.1k | 🟢 beginner | 2026-08-09 | 📄 AI policy |
@@ -201,16 +201,16 @@
 | [Memory consumption with tesseract](https://github.com/bytedeco/javacpp-presets/issues/1375) 💬 6 | [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) | 2.9k | 🟡 help wanted | 2026-06-20 |  |
 | [Error Message Could be Improved for 'http_file'](https://github.com/bazelbuild/bazel/issues/16375) 💬 8 | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 25.9k | 🟢 beginner | 2026-06-16 | ✍️ CLA |
 | [[Feature Request] Analyzers on non-text sub fields](https://github.com/opensearch-project/OpenSearch/issues/11882) 💬 3 | [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13.8k | 🟡 help wanted | 2026-06-15 | 🔏 DCO |
-| [Help translate the Astron Agent docs (i18n translators wanted)](https://github.com/iflytek/astron-agent/issues/1409) | [iflytek/astron-agent](https://github.com/iflytek/astron-agent) | 9.1k | 🟡 help wanted | 2026-06-15 |  |
+| [Help translate the Astron Agent docs (i18n translators wanted)](https://github.com/iflytek/astron-agent/issues/1409) | [iflytek/astron-agent](https://github.com/iflytek/astron-agent) | 8.9k | 🟡 help wanted | 2026-06-15 |  |
 | [Set SameSite attribute on session cookie created by the frontend](https://github.com/DependencyTrack/dependency-track/issues/2985) 💬 1 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟢 beginner | 2026-06-15 | ⚠️ AI restricted · 🔏 DCO |
 | [pytorch issue ，ModuleDictImpl need mapping void insert(const std::string& key, std::shared_ptr&lt;Module&gt; m](https://github.com/bytedeco/javacpp-presets/issues/1781) 💬 1 | [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) | 2.9k | 🟡 help wanted | 2026-06-15 |  |
 | [Specifying only Group Name and Version will not match VulnerableSoftware using the Internal Analyzer.](https://github.com/DependencyTrack/dependency-track/issues/2984) 💬 2 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟢 beginner | 2026-06-13 | ⚠️ AI restricted · 🔏 DCO |
 | [Add a multi-page flags reference](https://github.com/bazelbuild/bazel/issues/29049) 💬 5 | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 25.9k | 🟡 help wanted | 2026-06-12 | ✍️ CLA |
-| [[Improvement] Fix client-python codes to conform Pylint Rules](https://github.com/apache/gravitino/issues/3560) 💬 2 | [apache/gravitino](https://github.com/apache/gravitino) | 3.2k | 🟢 beginner | 2026-06-10 | 🤖 disclose AI use · ✍️ CLA |
 | [include support for opencv 5](https://github.com/bytedeco/javacv/issues/2388) | [bytedeco/javacv](https://github.com/bytedeco/javacv) | 8.3k | 🟡 help wanted | 2026-06-09 |  |
 | [[BUG] Auto split not working in dual recording more](https://github.com/anonfaded/FadCam/issues/303) | [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | 2.8k | 🟢 beginner | 2026-06-09 |  |
 | [Show all queries by default in Web UI](https://github.com/trinodb/trino/issues/4350) 💬 4 | [trinodb/trino](https://github.com/trinodb/trino) | 13.3k | 🟢 beginner | 2026-06-08 | ✍️ CLA |
 | [Using WebClient with Mono.zip stuck in half-open state.](https://github.com/resilience4j/resilience4j/issues/1681) 💬 4 | [resilience4j/resilience4j](https://github.com/resilience4j/resilience4j) | 10.8k | 🟡 help wanted | 2026-06-07 |  |
 | [On window minimize Screen.resize(0,0) called on Windows but not on Linux](https://github.com/libgdx/libgdx/issues/7072) 💬 8 | [libgdx/libgdx](https://github.com/libgdx/libgdx) | 25.4k | 🟢 beginner | 2026-06-04 | ✍️ CLA |
+| [[openvino] [hugectr][apex][FasterTransformer][horovod][NCNN][ggml][llm][faiss][USearch]these deeplearning tool](https://github.com/bytedeco/javacpp-presets/issues/1404) 💬 3 | [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) | 2.9k | 🟡 help wanted | 2026-06-04 |  |
 
-Showing the 200 most recently updated. See all 252 on the website.
+Showing the 200 most recently updated. See all 251 on the website.

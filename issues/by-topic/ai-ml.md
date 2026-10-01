@@ -1,8 +1,8 @@
 # AI and machine learning issues
 
-**409** open issues (169 labeled for beginners) across **129** projects tagged with topics like `machine-learning`, `deep-learning`, `ai`, `llm`, `artificial-intelligence`, `nlp`.
+**408** open issues (160 labeled for beginners) across **129** projects tagged with topics like `machine-learning`, `deep-learning`, `ai`, `llm`, `artificial-intelligence`, `nlp`.
 
-> Updated automatically on **2026-10-01 12:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-01 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,6 +10,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Add Devin CLI integration (PreToolUse hook via .devin/hooks.v1.json)](https://github.com/rtk-ai/rtk/issues/4097) 💬 2 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82.2k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
+| [rtk grep: invalid UTF-8 in a searched file corrupts file-count/attribution for other matches in the same file ](https://github.com/rtk-ai/rtk/issues/4113) 💬 2 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82.2k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
+| [feat(backend): scaling guide with example configs for 8 and 32 concurrent coding agents](https://github.com/diegosouzapw/OmniRoute/issues/15243) 💬 1 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 72.1k | 🟡 help wanted | 2026-10-01 | 📄 AI policy |
 | [Hackathon [Feature]: Add Amplitude data-source connector](https://github.com/topoteretes/cognee/issues/4776) 💬 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 31.3k | 🟢 beginner | 2026-10-01 | 🔏 DCO |
 | [[idea] Docker 14/14: Compiled CUDA builds: -cuda on arm64, -cuda126, sd.cpp with CUDA](https://github.com/MODSetter/SurfSense/issues/2114) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-10-01 |  |
 | [[idea] Docker 13/14: Refuse a CUDA image with no GPU](https://github.com/MODSetter/SurfSense/issues/2113) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-10-01 |  |
@@ -22,32 +25,25 @@
 | [[idea] Docker 06/14: CI for the Docker image](https://github.com/MODSetter/SurfSense/issues/2106) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-10-01 |  |
 | [[idea] Docker 05/14: First CPU image and compose, without local model runtimes](https://github.com/MODSetter/SurfSense/issues/2105) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-10-01 |  |
 | [[idea] Docker 04/14: Headless entry for the sidecars](https://github.com/MODSetter/SurfSense/issues/2104) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-10-01 |  |
-| [[idea] Docker 03/14: Move sidecar boot and its watchers out of index.ts](https://github.com/MODSetter/SurfSense/issues/2103) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-10-01 |  |
-| [[idea] Docker 02/14: VITE_API_BASE fallback in the frontend](https://github.com/MODSetter/SurfSense/issues/2102) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟢 beginner | 2026-10-01 |  |
 | ["Learn from my corrections" doesn't work in terminal apps](https://github.com/altic-dev/FluidVoice/issues/1032) | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 11.9k | 🟡 help wanted | 2026-10-01 |  |
 | [Accidental cancel recovery](https://github.com/altic-dev/FluidVoice/issues/1038) 💬 1 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 11.9k | 🟡 help wanted | 2026-10-01 |  |
 | [[Bug] [enigne] Caused by: java.lang.OutOfMemoryError: Metaspace](https://github.com/apache/seatunnel/issues/12456) 💬 15 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.7k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
 | [DataFrame.Clone should have an overload that takes an IEnumerable&lt;int&gt;](https://github.com/dotnet/machinelearning/issues/5703) 💬 2 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
 | [Add support for launchctl (macOS service management, no equivalent request yet)](https://github.com/rtk-ai/rtk/issues/4365) 💬 1 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82.2k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
-| [openclaw plugin: packaging fixes for OpenClaw 2026.9.6 compatibility (openclaw.extensions + activation.onStart](https://github.com/rtk-ai/rtk/issues/4357) 💬 1 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82.2k | 🟢 beginner | 2026-09-30 | ✍️ CLA |
-| [openclaw plugin: reads legacy api.config; verbose setting has no effect](https://github.com/rtk-ai/rtk/issues/4358) 💬 1 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82.2k | 🟢 beginner | 2026-09-30 | ✍️ CLA |
-| [feat(providers): add CodeBuddy international (codebuddy.ai) — only the China-region codebuddy-cn exists, alias](https://github.com/diegosouzapw/OmniRoute/issues/15173) | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 71.9k | 🟡 help wanted | 2026-09-30 | 📄 AI policy |
-| [🚀 Feature Request: CopilotChat support @ context](https://github.com/CopilotKit/CopilotKit/issues/1962) 💬 12 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 37.6k | 🟡 help wanted | 2026-09-30 |  |
+| [feat(providers): add CodeBuddy international (codebuddy.ai) — only the China-region codebuddy-cn exists, alias](https://github.com/diegosouzapw/OmniRoute/issues/15173) | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 72.1k | 🟡 help wanted | 2026-09-30 | 📄 AI policy |
+| [🚀 Feature Request: CopilotChat support @ context](https://github.com/CopilotKit/CopilotKit/issues/1962) 💬 12 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 37.7k | 🟡 help wanted | 2026-09-30 |  |
 | [Documentation: writing custom samplers compatible with multi GPU training](https://github.com/Lightning-AI/pytorch-lightning/issues/19964) 💬 2 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | 31.4k | 🟡 help wanted | 2026-09-30 | 📄 AI policy |
 | ['self.log' raised error when number of dataloader is not consistent](https://github.com/Lightning-AI/pytorch-lightning/issues/16431) 💬 3 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | 31.4k | 🟡 help wanted | 2026-09-30 | 📄 AI policy |
 | [[FR] Event & Stage Logging with Timeline Annotations](https://github.com/mlflow/mlflow/issues/16892) 💬 8 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28.2k | 🟡 help wanted | 2026-09-30 | 🔏 DCO |
 | [[feature] decouple capture/OCR resolution from stored resolution (MP4 or JPG)](https://github.com/screenpipe/screenpipe/issues/7393) | [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) | 21.8k | 🟢 beginner | 2026-09-30 | 🤖 disclose AI use |
-| [[idea] Preview PDF sources in a panel beside the sidebar](https://github.com/MODSetter/SurfSense/issues/2089) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟢 beginner | 2026-09-30 |  |
-| [A dead pinned file and a checksum mismatch give the same install error](https://github.com/MODSetter/SurfSense/issues/1979) 💬 1 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟢 beginner | 2026-09-30 |  |
 | [All DataFrame Elementwise methods uncorrectly work with NULL values](https://github.com/dotnet/machinelearning/issues/6820) 💬 2 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
 | [Microsoft.Data.Analysis.DataFrame Join should produce a result with a single joined column](https://github.com/dotnet/machinelearning/issues/6133) 💬 5 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
 | [[DataFrame] Info method display should be the same for DataFrame and DataFrameColumn](https://github.com/dotnet/machinelearning/issues/6274) 💬 1 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟢 beginner | 2026-09-30 | ✍️ CLA |
 | [DataFrame.OrderBy(string columnName) does not perform stable sorting!](https://github.com/dotnet/machinelearning/issues/6443) 💬 2 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
 | [ROCm accelerator init broken on Linux since 0.78.0 (hipErrorNoDevice)](https://github.com/koharu-rs/koharu/issues/1052) 💬 4 | [koharu-rs/koharu](https://github.com/koharu-rs/koharu) | 5.7k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use |
-| [benchmarks: code-intelligence result inaccessible; BENCHMARKS.md is a 404; headline metrics test conversation ](https://github.com/Graphify-Labs/graphify/issues/3690) | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 122.9k | 🟡 help wanted | 2026-09-29 | 🤖 disclose AI use |
+| [benchmarks: code-intelligence result inaccessible; BENCHMARKS.md is a 404; headline metrics test conversation ](https://github.com/Graphify-Labs/graphify/issues/3690) | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 123.1k | 🟡 help wanted | 2026-09-29 | 🤖 disclose AI use |
 | [rtk rewrite emits multi-line stdout for a single command, violating the one-command stdout contract](https://github.com/rtk-ai/rtk/issues/4351) 💬 4 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82.2k | 🟡 help wanted | 2026-09-29 | ✍️ CLA |
 | [[Feature]: [Stanford F01] Bulk-import a fixed Lance snapshot through Parquet](https://github.com/milvus-io/milvus/issues/53864) 💬 3 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46.3k | 🟢 beginner | 2026-09-29 | 🔏 DCO |
-| [[BUG] Doxygen does not render JAVADOC_BANNER style comments](https://github.com/TheAlgorithms/C-Plus-Plus/issues/3234) | [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | 34.7k | 🟢 beginner | 2026-09-29 |  |
 | [Step when validation happens drifts for 'val_check_interval' when gradient accumulation turned on](https://github.com/Lightning-AI/pytorch-lightning/issues/17207) 💬 6 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | 31.4k | 🟡 help wanted | 2026-09-29 | 📄 AI policy |
 | [Variant analysis: 1 unfixed sibling safety gap in pcl](https://github.com/PointCloudLibrary/pcl/issues/6483) 💬 1 | [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl) | 11.1k | 🟢 beginner | 2026-09-29 |  |
 | [DataFrame GetMutableBuffer method and ReadOnlyBuffer issues](https://github.com/dotnet/machinelearning/issues/6715) 💬 1 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-29 | ✍️ CLA |
@@ -59,7 +55,9 @@
 | [智能体流程编排问题](https://github.com/agentscope-ai/agentscope/issues/1073) 💬 2 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 32.6k | 🟡 help wanted | 2026-09-28 | 📄 AI policy |
 | [feat(webui): improve chat page UX and message navigation](https://github.com/agentscope-ai/agentscope/issues/2094) 💬 3 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 32.6k | 🟡 help wanted | 2026-09-28 | 📄 AI policy |
 | [Confirm whether an installed '.deb' auto-updates, and document the answer](https://github.com/MODSetter/SurfSense/issues/2011) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
-| [/sunset omits the deletion date, the refund offer and the MCP change](https://github.com/MODSetter/SurfSense/issues/2009) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
+| [Account export has no size warning and no timeout](https://github.com/MODSetter/SurfSense/issues/2006) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
+| [A podcast artifact is WAV; the bundled ffmpeg for MP3 is not built](https://github.com/MODSetter/SurfSense/issues/2001) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
+| [Studio's Office formats run model-written Python unsandboxed in the worker](https://github.com/MODSetter/SurfSense/issues/1999) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [docs: provide a cargo-generate starter template](https://github.com/tracel-ai/burn/issues/282) 💬 8 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟢 beginner | 2026-09-28 |  |
 | [🚀 功能建议：支持自定义扩展](https://github.com/tisfeng/Easydict/issues/136) 💬 6 | [tisfeng/Easydict](https://github.com/tisfeng/Easydict) | 14.8k | 🟡 help wanted | 2026-09-28 |  |
 | [[BUG] java.lang.OutOfMemoryError: GC overhead limit exceeded](https://github.com/apache/hertzbeat/issues/1714) 💬 14 | [apache/hertzbeat](https://github.com/apache/hertzbeat) | 7.4k | 🟢 beginner | 2026-09-28 |  |
@@ -70,7 +68,6 @@
 | [bug: v2 service discovery misses Nix-packaged OpenCode (writes service-prod.json, plugin reads service.json)](https://github.com/nickjvandyke/opencode.nvim/issues/336) | [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) | 3.9k | 🟢 beginner | 2026-09-28 |  |
 | [Feature: Track invoking agent (Claude, Copilot, Codex, etc) in command analytics](https://github.com/rtk-ai/rtk/issues/1314) 💬 2 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82.2k | 🟡 help wanted | 2026-09-27 | ✍️ CLA |
 | [Honor tracking.enabled and history_days config](https://github.com/rtk-ai/rtk/issues/1788) 💬 2 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82.2k | 🟡 help wanted | 2026-09-27 | ✍️ CLA |
-| [hook: leaks "no such file" stderr when probing absent dependency manifests (go.sum / package-lock.json / Cargo](https://github.com/rtk-ai/rtk/issues/2942) 💬 4 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82.2k | 🟢 beginner | 2026-09-27 | ✍️ CLA |
 | [reinforce(gspo) training didn't yield any improments](https://github.com/unslothai/unsloth/issues/3485) 💬 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.1k | 🟡 help wanted | 2026-09-27 |  |
 | [Support / Fix: local import in CUBEJS_SCHEMA_PATH sub directory, avoid throwing not found.](https://github.com/cube-js/cube/issues/7040) 💬 4 | [cube-js/cube](https://github.com/cube-js/cube) | 20.9k | 🟡 help wanted | 2026-09-27 | 🔏 DCO |
 | [ci: add WebGPU integration tests (e.g. with Deno)](https://github.com/tracel-ai/burn/issues/810) | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟡 help wanted | 2026-09-27 |  |
@@ -102,6 +99,10 @@
 | [AdvancedProfiler: ValueError: Attempting to stop recording an action (run_test_evaluation) which was never sta](https://github.com/Lightning-AI/pytorch-lightning/issues/9136) 💬 17 | [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) | 31.4k | 🟢 beginner | 2026-09-21 | 📄 AI policy |
 | [Cannot combine OneVersusAll with FieldAwareFactorizationMachine](https://github.com/dotnet/machinelearning/issues/590) 💬 9 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-21 | ✍️ CLA |
 | [CpuMath Enhancement: Preamble for hardware intrinsics implementation](https://github.com/dotnet/machinelearning/issues/830) | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-21 | ✍️ CLA |
+| [CpuMath Enhancement: Double-compute input elements in hardware intrinsics](https://github.com/dotnet/machinelearning/issues/836) | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-21 | ✍️ CLA |
+| [CpuMath Enhancement: Make bound checking of loops in hardware intrinsics more efficient](https://github.com/dotnet/machinelearning/issues/835) 💬 3 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-21 | ✍️ CLA |
+| [Remove the 'AddScaleSU' performance regression for AVX](https://github.com/dotnet/machinelearning/issues/1195) 💬 8 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-21 | ✍️ CLA |
+| [Normalizers multicolumn samples](https://github.com/dotnet/machinelearning/issues/3436) 💬 2 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-21 | ✍️ CLA |
 | [Verify word embedding model downloader](https://github.com/dotnet/machinelearning/issues/5532) 💬 3 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟢 beginner | 2026-09-21 | ✍️ CLA |
 | [Improve SamplingKeyColumn documentation and usability](https://github.com/dotnet/machinelearning/issues/5567) | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-21 | ✍️ CLA |
 | [KMeans cluster analysis is non-deterministic when using KMeansYinyang initialization, even with fixed MLContex](https://github.com/dotnet/machinelearning/issues/6375) 💬 4 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-21 | ✍️ CLA |
@@ -127,6 +128,7 @@
 | [Privacy controls for chat-history avatar training](https://github.com/xming521/WeClone/issues/231) | [xming521/WeClone](https://github.com/xming521/WeClone) | 18.3k | 🟢 beginner | 2026-09-14 |  |
 | [feat(nodes): add tool_gjalla — architecture observability / agent-oversight tool](https://github.com/rocketride-org/rocketride-server/issues/2277) 💬 1 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 18k | 🟡 help wanted | 2026-09-14 |  |
 | [feat(nodes): add tool_coderabbit — CodeRabbit review reports as an agent tool](https://github.com/rocketride-org/rocketride-server/issues/2276) 💬 1 | [rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server) | 18k | 🟡 help wanted | 2026-09-14 |  |
+| [Upstream: move Super Linter and MegaLinter off threshold 0 to --baseline-from-ref; fix the parallel report-pat](https://github.com/kucherenko/jscpd/issues/1015) 💬 3 | [kucherenko/jscpd](https://github.com/kucherenko/jscpd) | 6.3k | 🟡 help wanted | 2026-09-14 |  |
 | [Missing Rmath derivatives](https://github.com/EnzymeAD/Enzyme.jl/issues/1620) 💬 2 | [EnzymeAD/Enzyme.jl](https://github.com/EnzymeAD/Enzyme.jl) | 589 | 🟡 help wanted | 2026-09-14 |  |
 | [postgres/sqlalchemy display of timestamptz loses my local timezone](https://github.com/marimo-team/marimo/issues/6250) 💬 10 | [marimo-team/marimo](https://github.com/marimo-team/marimo) | 23k | 🟡 help wanted | 2026-09-13 | 🤖 disclose AI use · ✍️ CLA |
 | [[data_editor] Checkbox and dropdown elements in data_editor columns](https://github.com/marimo-team/marimo/issues/6694) 💬 8 | [marimo-team/marimo](https://github.com/marimo-team/marimo) | 23k | 🟡 help wanted | 2026-09-13 | 🤖 disclose AI use · ✍️ CLA |
@@ -158,7 +160,7 @@
 | [Consensus Index for Clustering Model Selection](https://github.com/scikit-learn/scikit-learn/issues/11778) 💬 7 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 67.4k | 🟡 help wanted | 2026-09-10 | 🤖 disclose AI use |
 | [Hackathon [Feature]: Add Rollbar data-source connector](https://github.com/topoteretes/cognee/issues/4778) 💬 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 31.3k | 🟢 beginner | 2026-09-10 | 🔏 DCO |
 | [delay字段添加随机延迟功能，如pre_delay[100,5000],在100到5000ms之间随机延迟](https://github.com/MaaXYZ/MaaFramework/issues/1470) 💬 1 | [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework) | 4.9k | 🟡 help wanted | 2026-09-09 |  |
-| [🚨 CRITICAL: Verification & Truth Enforcement System Failure in Multi-Agent Architecture](https://github.com/ruvnet/ruflo/issues/640) 💬 12 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 73.6k | 🟡 help wanted | 2026-09-08 | 🤖 disclose AI use |
+| [🚨 CRITICAL: Verification & Truth Enforcement System Failure in Multi-Agent Architecture](https://github.com/ruvnet/ruflo/issues/640) 💬 12 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 73.7k | 🟡 help wanted | 2026-09-08 | 🤖 disclose AI use |
 | [Remove dr_wav.h](https://github.com/ggml-org/whisper.cpp/issues/165) 💬 2 | [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) | 54.1k | 🟢 beginner | 2026-09-08 | ⚠️ AI restricted |
 | [Decision tree visualization](https://github.com/lutzroeder/netron/issues/180) 💬 1 | [lutzroeder/netron](https://github.com/lutzroeder/netron) | 33.5k | 🟡 help wanted | 2026-09-08 |  |
 | [🌐 国际化 (i18n) — 英文翻译](https://github.com/cft0808/edict/issues/226) 💬 1 | [cft0808/edict](https://github.com/cft0808/edict) | 17k | 🟢 beginner | 2026-09-08 |  |
@@ -189,7 +191,7 @@
 | [[BUG] Python groupby rolling aggregations return index inconsistent with pandas](https://github.com/NVIDIA/cudf/issues/10249) 💬 7 | [NVIDIA/cudf](https://github.com/NVIDIA/cudf) | 9.8k | 🟢 beginner | 2026-09-06 |  |
 | [[Umbrella][Performance] Track benchmark-driven optimizations and propose evidence guidelines](https://github.com/apache/seatunnel/issues/12086) 💬 2 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.7k | 🟡 help wanted | 2026-09-06 | ✍️ CLA |
 | [v4.0 post-release polish: event-count arithmetic + test cleanup trap](https://github.com/sangrokjung/claude-forge/issues/81) 💬 1 | [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) | 845 | 🟢 beginner | 2026-09-06 |  |
-| [Autonomous Agents, Unite!](https://github.com/microsoft/markitdown/issues/2386) 💬 4 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 187.8k | 🟢 beginner | 2026-09-05 |  |
+| [Autonomous Agents, Unite!](https://github.com/microsoft/markitdown/issues/2386) 💬 4 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | 187.9k | 🟢 beginner | 2026-09-05 |  |
 | [control state of individual taskflow in mapped task-group](https://github.com/apache/airflow/issues/40543) 💬 12 | [apache/airflow](https://github.com/apache/airflow) | 47k | 🟢 beginner | 2026-09-05 | 🤖 disclose AI use · ✍️ CLA |
 | [Recipes for Nx, Turborepo, moon and a danger-js plugin](https://github.com/kucherenko/jscpd/issues/1014) 💬 1 | [kucherenko/jscpd](https://github.com/kucherenko/jscpd) | 6.3k | 🟡 help wanted | 2026-09-05 |  |
 | [Support for PowerPC 'ppc64le' architecture](https://github.com/qdrant/qdrant/issues/3940) 💬 2 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 34.9k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use |
@@ -208,7 +210,5 @@
 | [关于发送聊天记录的问题](https://github.com/AAswordman/Operit/issues/635) 💬 3 | [AAswordman/Operit](https://github.com/AAswordman/Operit) | 8.3k | 🟡 help wanted | 2026-09-04 |  |
 | [Hackathon [Feature]: Add WordPress data-source connector](https://github.com/topoteretes/cognee/issues/4789) 💬 2 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 31.3k | 🟢 beginner | 2026-09-03 | 🔏 DCO |
 | [[Feature]: 升级 A2A SDK 至 v1.0 以支持稳定的AgentCard 和A2A协议](https://github.com/agentscope-ai/agentscope-java/issues/1388) 💬 11 | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5.9k | 🟡 help wanted | 2026-09-03 |  |
-| [train_test_split with stratify causing integer overflow (32bit version)](https://github.com/scikit-learn/scikit-learn/issues/13794) 💬 5 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 67.4k | 🟡 help wanted | 2026-09-02 | 🤖 disclose AI use |
-| [Hackathon [Feature]: Add Raindrop.io data-source connector](https://github.com/topoteretes/cognee/issues/4813) 💬 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 31.3k | 🟢 beginner | 2026-09-02 | 🔏 DCO |
 
-Showing the 200 most recently updated. See all 409 on the website.
+Showing the 200 most recently updated. See all 408 on the website.

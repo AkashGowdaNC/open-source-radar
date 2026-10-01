@@ -1,8 +1,8 @@
 # Games and graphics issues
 
-**148** open issues (78 labeled for beginners) across **52** projects tagged with topics like `game`, `game-engine`, `gamedev`, `graphics`, `opengl`, `vulkan`.
+**149** open issues (79 labeled for beginners) across **52** projects tagged with topics like `game`, `game-engine`, `gamedev`, `graphics`, `opengl`, `vulkan`.
 
-> Updated automatically on **2026-10-01 12:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-01 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,7 +10,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [TechDraw: Keyboard navigation of the Section Plane is chaotic](https://github.com/FreeCAD/FreeCAD/issues/30833) 💬 5 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-10-01 | ⚠️ AI restricted |
+| [Measurement: Length measured with 'Std_Measure' is attached to geometric center, not midpoint](https://github.com/FreeCAD/FreeCAD/issues/28930) 💬 2 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-10-01 | ⚠️ AI restricted |
+| [Material: When editing material properties, the lower third of the line is not visible](https://github.com/FreeCAD/FreeCAD/issues/33126) 💬 3 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-10-01 | ⚠️ AI restricted |
+| [TechDraw: Keyboard navigation of the Section Plane is chaotic](https://github.com/FreeCAD/FreeCAD/issues/30833) 💬 6 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-10-01 | ⚠️ AI restricted |
 | [TechDraw: Broken view leaves gaps between the geometry and the break lines](https://github.com/FreeCAD/FreeCAD/issues/13406) 💬 9 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟡 help wanted | 2026-10-01 | ⚠️ AI restricted |
 | [Link: Lighting is not working well when the choice is "Two Side"](https://github.com/FreeCAD/FreeCAD/issues/22170) 💬 17 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟡 help wanted | 2026-10-01 | ⚠️ AI restricted |
 | [Sketcher: Carbon copying a non-parallel sketch has incorrect help text on macOS](https://github.com/FreeCAD/FreeCAD/issues/19935) 💬 6 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-09-29 | ⚠️ AI restricted |
@@ -48,7 +50,6 @@
 | [OpenGL error with grid reflection and volume option](https://github.com/f3d-app/f3d/issues/3488) | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.7k | 🟡 help wanted | 2026-09-18 | 🤖 disclose AI use |
 | [USD: GPU sparse blend shapes support](https://github.com/f3d-app/f3d/issues/3218) 💬 9 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.7k | 🟡 help wanted | 2026-09-18 | 🤖 disclose AI use |
 | [Crash just after loading screen due to 'ERROR: Parameter "tex" is null'](https://github.com/Revolutionary-Games/Thrive/issues/6981) 💬 8 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.7k | 🟡 help wanted | 2026-09-18 |  |
-| [Core: Transform context menu option of datums does not work](https://github.com/FreeCAD/FreeCAD/issues/32385) 💬 3 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-09-17 | ⚠️ AI restricted |
 | [Improve Windows Thumbnailer](https://github.com/f3d-app/f3d/issues/797) 💬 5 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.7k | 🟡 help wanted | 2026-09-17 | 🤖 disclose AI use |
 | [Implement light configuration](https://github.com/f3d-app/f3d/issues/6) 💬 15 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.7k | 🟡 help wanted | 2026-09-17 | 🤖 disclose AI use |
 | [Add a CLI option to generate an animated camera orbit](https://github.com/f3d-app/f3d/issues/1743) 💬 15 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.7k | 🟡 help wanted | 2026-09-17 | 🤖 disclose AI use |

@@ -1,8 +1,8 @@
 # Data and databases issues
 
-**304** open issues (144 labeled for beginners) across **94** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
+**307** open issues (144 labeled for beginners) across **95** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
 
-> Updated automatically on **2026-10-01 12:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-01 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,16 +10,22 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Add unit tests for getUid and ensureUid](https://github.com/kestra-io/kestra/issues/19962) 💬 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.6k | 🟢 beginner | 2026-10-01 |  |
-| [Add unit tests for the service state to execution status mapping](https://github.com/kestra-io/kestra/issues/19964) 💬 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.6k | 🟢 beginner | 2026-10-01 |  |
-| [Add unit tests for useEditorHeaderWidth](https://github.com/kestra-io/kestra/issues/19975) 💬 2 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.6k | 🟢 beginner | 2026-10-01 |  |
+| [Timer in topology after restart don't work](https://github.com/kestra-io/kestra/issues/8240) 💬 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.7k | 🟢 beginner | 2026-10-01 |  |
+| [Secret is not populated as a header value in module io.kestra.plugin.core.http.Request](https://github.com/kestra-io/kestra/issues/3988) 💬 5 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.7k | 🟢 beginner | 2026-10-01 |  |
+| [[Editor] Multi-line string content is highlighted as YAML when a line is indented more than the first one](https://github.com/kestra-io/kestra/issues/19927) 💬 4 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.7k | 🟢 beginner | 2026-10-01 |  |
 | [User country map: allow to zoom in countries when no clickable area](https://github.com/matomo-org/matomo/issues/11319) 💬 5 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 21.9k | 🟡 help wanted | 2026-10-01 |  |
 | [Installation with DB connection over TLS not possible](https://github.com/matomo-org/matomo/issues/16404) 💬 4 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 21.9k | 🟡 help wanted | 2026-10-01 |  |
+| [In form, label have the for attribute](https://github.com/Leantime/leantime/issues/202) 💬 1 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.7k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
+| [Flexible Timesheet Entries](https://github.com/Leantime/leantime/issues/230) 💬 1 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.7k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
+| [[BUG] improve Accessibility](https://github.com/Leantime/leantime/issues/299) 💬 4 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.7k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
+| [[BUG] RTL needs further improvements](https://github.com/Leantime/leantime/issues/456) 💬 2 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.7k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
+| [Move all repo calls from controllers to services](https://github.com/Leantime/leantime/issues/1532) 💬 1 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.7k | 🟢 beginner | 2026-10-01 | ✍️ CLA |
+| [Write documentation](https://github.com/Leantime/leantime/issues/1950) 💬 7 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.7k | 🟢 beginner | 2026-10-01 | ✍️ CLA |
+| [Ship real ESM output across the packages](https://github.com/britecharts/britecharts/issues/1044) 💬 1 | [britecharts/britecharts](https://github.com/britecharts/britecharts) | 3.7k | 🟡 help wanted | 2026-10-01 |  |
 | [[1.8.0] Release TODOs and cross-repository integration checklist](https://github.com/apache/hugegraph/issues/3242) 💬 1 | [apache/hugegraph](https://github.com/apache/hugegraph) | 3.2k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
 | [Convert 'Past 5m...' dropdowns to duration selector](https://github.com/influxdata/influxdb/issues/18119) 💬 5 | [influxdata/influxdb](https://github.com/influxdata/influxdb) | 31.8k | 🟢 beginner | 2026-09-30 | ✍️ CLA |
 | [Expose incremental reindexing in python and node](https://github.com/lancedb/lancedb/issues/685) 💬 2 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11.6k | 🟢 beginner | 2026-09-30 |  |
 | [end-to-end tests for ioredis and dragonfly](https://github.com/dragonflydb/dragonfly/issues/383) 💬 7 | [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) | 31.7k | 🟢 beginner | 2026-09-29 | ✍️ CLA · 🔏 DCO |
-| [Stopwords are not removed when a stemmer or ascii_folding is also set](https://github.com/paradedb/paradedb/issues/6520) 💬 2 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9.3k | 🟢 beginner | 2026-09-29 | ✍️ CLA |
 | [Long unknown keys are truncated to known keys in some request decoders](https://github.com/tarantool/tarantool/issues/13284) 💬 1 | [tarantool/tarantool](https://github.com/tarantool/tarantool) | 3.7k | 🟢 beginner | 2026-09-29 |  |
 | [Unknown keys are wrongfully rejected by most xrow decoders](https://github.com/tarantool/tarantool/issues/13282) | [tarantool/tarantool](https://github.com/tarantool/tarantool) | 3.7k | 🟢 beginner | 2026-09-29 |  |
 | [[Improvement] Update Spark Ranger plugin to 2.7.0](https://github.com/apache/kyuubi/issues/7234) 💬 2 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA |
@@ -112,7 +118,7 @@
 | [Integration: upstream the CrewAI integration to CrewAI's own docs](https://github.com/semantica-agi/semantica/issues/1518) | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 13.6k | 🟢 beginner | 2026-09-07 |  |
 | [[EntityLoader] 'EntityLoader::load()::with()' does not work for 'self_ref' self references.](https://github.com/SeaQL/sea-orm/issues/3189) 💬 2 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | 9.9k | 🟡 help wanted | 2026-09-06 |  |
 | [[BUG] Python groupby rolling aggregations return index inconsistent with pandas](https://github.com/NVIDIA/cudf/issues/10249) 💬 7 | [NVIDIA/cudf](https://github.com/NVIDIA/cudf) | 9.8k | 🟢 beginner | 2026-09-06 |  |
-| [include git commit id in status information and artifact README](https://github.com/yacy/yacy_search_server/issues/466) 💬 1 | [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) | 4k | 🟢 beginner | 2026-09-06 |  |
+| [include git commit id in status information and artifact README](https://github.com/yacy/yacy_search_server/issues/466) 💬 1 | [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) | 4.1k | 🟢 beginner | 2026-09-06 |  |
 | [control state of individual taskflow in mapped task-group](https://github.com/apache/airflow/issues/40543) 💬 12 | [apache/airflow](https://github.com/apache/airflow) | 47k | 🟢 beginner | 2026-09-05 | 🤖 disclose AI use · ✍️ CLA |
 | [Improve discovery for F# explicit fields](https://github.com/dotnet/efcore/issues/12923) 💬 3 | [dotnet/efcore](https://github.com/dotnet/efcore) | 14.8k | 🟡 help wanted | 2026-09-05 | ✍️ CLA |
 | [Webhook source: support HTTP GET verification handshake for providers like Meta/Facebook, WhatsApp, Instagram](https://github.com/risingwavelabs/risingwave/issues/26236) 💬 2 | [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) | 9.4k | 🟢 beginner | 2026-09-05 | ✍️ CLA |
@@ -128,7 +134,6 @@
 | [Alternative query result format other than []dict](https://github.com/googleapis/mcp-toolbox/issues/1537) 💬 6 | [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) | 16.5k | 🟡 help wanted | 2026-09-02 | ✍️ CLA |
 | [GCS needs someone with a real bucket to run its test](https://github.com/deeplethe/utopia/issues/214) | [deeplethe/utopia](https://github.com/deeplethe/utopia) | 8k | 🟡 help wanted | 2026-09-02 | ✍️ CLA · 🔏 DCO |
 | [Improve logging for circuit breakers](https://github.com/elastic/elasticsearch/issues/62452) 💬 11 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 78.2k | 🟡 help wanted | 2026-09-01 | ✍️ CLA |
-| [Add resource ID to 404 response body](https://github.com/elastic/elasticsearch/issues/82675) 💬 17 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 78.2k | 🟡 help wanted | 2026-09-01 | ✍️ CLA |
 | [Firebase Support](https://github.com/typeorm/typeorm/issues/2769) 💬 9 | [typeorm/typeorm](https://github.com/typeorm/typeorm) | 36.7k | 🟢 beginner | 2026-09-01 |  |
 | [[BUG] String(s) terminate after 2000 chars](https://github.com/opensearch-project/OpenSearch/issues/6323) 💬 11 | [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13.8k | 🟢 beginner | 2026-09-01 | 🔏 DCO |
 | [[FEA] Add support to str.normalize_spaces and str.normalize_characters in dask_cudf](https://github.com/NVIDIA/cudf/issues/10908) 💬 1 | [NVIDIA/cudf](https://github.com/NVIDIA/cudf) | 9.8k | 🟢 beginner | 2026-09-01 |  |
@@ -184,12 +189,12 @@
 | [REST test against clusters with dedicated master nodes](https://github.com/elastic/elasticsearch/issues/34563) 💬 15 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 78.2k | 🟡 help wanted | 2026-08-05 | ✍️ CLA |
 | [在Dbeaver中，不能下载、使用最新驱动](https://github.com/taosdata/TDengine/issues/35396) 💬 2 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-08-04 |  |
 | [MessagePack codec (or VRL functions)](https://github.com/vectordotdev/vector/issues/8675) 💬 4 | [vectordotdev/vector](https://github.com/vectordotdev/vector) | 22.7k | 🟢 beginner | 2026-08-03 | 📄 AI policy · ✍️ CLA |
-| [Multi-label updates](https://github.com/FalkorDB/FalkorDB/issues/284) 💬 8 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.4k | 🟡 help wanted | 2026-08-03 |  |
-| [Consider RDF/SPARQL support](https://github.com/FalkorDB/FalkorDB/issues/173) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.4k | 🟡 help wanted | 2026-08-03 |  |
-| ["WHERE NOT (node)-[]-&gt;()" much slower than "OUTDEGREE(node)=0"](https://github.com/FalkorDB/FalkorDB/issues/146) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.4k | 🟡 help wanted | 2026-08-03 |  |
-| [Can I write nodes or relationships to the graph in parallel](https://github.com/FalkorDB/FalkorDB/issues/130) 💬 3 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.4k | 🟡 help wanted | 2026-08-03 |  |
-| [Document execution plan operations](https://github.com/FalkorDB/FalkorDB/issues/82) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.4k | 🟡 help wanted | 2026-08-03 |  |
-| [Redis Graph doesn't allow single quote to be escaped when creating a vertex/edge](https://github.com/FalkorDB/FalkorDB/issues/71) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.4k | 🟡 help wanted | 2026-08-03 |  |
+| [Multi-label updates](https://github.com/FalkorDB/FalkorDB/issues/284) 💬 8 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.5k | 🟡 help wanted | 2026-08-03 |  |
+| [Consider RDF/SPARQL support](https://github.com/FalkorDB/FalkorDB/issues/173) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.5k | 🟡 help wanted | 2026-08-03 |  |
+| ["WHERE NOT (node)-[]-&gt;()" much slower than "OUTDEGREE(node)=0"](https://github.com/FalkorDB/FalkorDB/issues/146) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.5k | 🟡 help wanted | 2026-08-03 |  |
+| [Can I write nodes or relationships to the graph in parallel](https://github.com/FalkorDB/FalkorDB/issues/130) 💬 3 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.5k | 🟡 help wanted | 2026-08-03 |  |
+| [Document execution plan operations](https://github.com/FalkorDB/FalkorDB/issues/82) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.5k | 🟡 help wanted | 2026-08-03 |  |
+| [Redis Graph doesn't allow single quote to be escaped when creating a vertex/edge](https://github.com/FalkorDB/FalkorDB/issues/71) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.5k | 🟡 help wanted | 2026-08-03 |  |
 | [add support for signed data types for TTL](https://github.com/ydb-platform/ydb/issues/12751) | [ydb-platform/ydb](https://github.com/ydb-platform/ydb) | 4.8k | 🟢 beginner | 2026-08-03 |  |
 | [Group MCP tools by read and write/ delete](https://github.com/PostHog/posthog/issues/76236) 💬 2 | [PostHog/posthog](https://github.com/PostHog/posthog) | 40.1k | 🟢 beginner | 2026-08-02 | ⚠️ AI restricted |
 | [TMemoryLimitException should be inherited from std::exception](https://github.com/ydb-platform/ydb/issues/2887) | [ydb-platform/ydb](https://github.com/ydb-platform/ydb) | 4.8k | 🟢 beginner | 2026-08-02 |  |
@@ -205,10 +210,5 @@
 | [Mirror load_datasets api for read_huggingface](https://github.com/Eventual-Inc/Daft/issues/5295) | [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) | 5.8k | 🟡 help wanted | 2026-07-22 | 🤖 disclose AI use |
 | [Provide an optional value comparer for JsonDocument/JsonElement](https://github.com/npgsql/efcore.pg/issues/1393) 💬 5 | [npgsql/efcore.pg](https://github.com/npgsql/efcore.pg) | 1.8k | 🟢 beginner | 2026-07-22 |  |
 | [(Fractional) scaling issues on KDE/Wayland](https://github.com/dbeaver/dbeaver/issues/26846) 💬 17 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 51.9k | 🟡 help wanted | 2026-07-21 | 🤖 disclose AI use |
-| [Embedded tab feedback button survey does not respect the position](https://github.com/PostHog/posthog/issues/31267) 💬 6 | [PostHog/posthog](https://github.com/PostHog/posthog) | 40.1k | 🟢 beginner | 2026-07-21 | ⚠️ AI restricted |
-| [Getting an Electron crash, not sure how to further debug - help needed!](https://github.com/WiseLibs/better-sqlite3/issues/988) 💬 8 | [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) | 7.5k | 🟡 help wanted | 2026-07-21 |  |
-| [Mouse wheel zoom not working when EnableSwapChainRendering = True](https://github.com/helix-toolkit/helix-toolkit/issues/833) 💬 17 | [helix-toolkit/helix-toolkit](https://github.com/helix-toolkit/helix-toolkit) | 2.3k | 🟡 help wanted | 2026-07-21 |  |
-| [Resurrecting the MySQL backend](https://github.com/haskell-beam/beam/issues/822) 💬 1 | [haskell-beam/beam](https://github.com/haskell-beam/beam) | 637 | 🟡 help wanted | 2026-07-21 |  |
-| [Able to switch off question recommendation](https://github.com/Canner/WrenAI/issues/1202) 💬 5 | [Canner/WrenAI](https://github.com/Canner/WrenAI) | 17.8k | 🟢 beginner | 2026-07-20 |  |
 
-Showing the 200 most recently updated. See all 304 on the website.
+Showing the 200 most recently updated. See all 307 on the website.
