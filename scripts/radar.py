@@ -626,8 +626,9 @@ def render_language_feeds(
             if issue["level"] == "beginner" and repositories[issue["repo"]]["language"] == language
         ]
         beginner_issues.sort(key=lambda issue: issue["created"], reverse=True)
-
-        feed_index.append(f'        <li><a href="{slug}.xml">{language}</a></li>')
+        if beginner_issues:
+            # Empty feeds stay on disk for existing subscribers but are not listed.
+            feed_index.append(f'        <li><a href="{slug}.xml">{language} ({len(beginner_issues)})</a></li>')
 
         rss = ET.Element(
             "rss",
