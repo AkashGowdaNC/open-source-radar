@@ -1,8 +1,8 @@
 # Games and graphics issues
 
-**147** open issues (78 labeled for beginners) across **51** projects tagged with topics like `game`, `game-engine`, `gamedev`, `graphics`, `opengl`, `vulkan`.
+**148** open issues (78 labeled for beginners) across **52** projects tagged with topics like `game`, `game-engine`, `gamedev`, `graphics`, `opengl`, `vulkan`.
 
-> Updated automatically on **2026-09-30 22:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-01 12:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,11 +10,12 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Link: Lighting is not working well when the choice is "Two Side"](https://github.com/FreeCAD/FreeCAD/issues/22170) 💬 17 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟡 help wanted | 2026-09-30 | ⚠️ AI restricted |
+| [TechDraw: Keyboard navigation of the Section Plane is chaotic](https://github.com/FreeCAD/FreeCAD/issues/30833) 💬 5 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-10-01 | ⚠️ AI restricted |
+| [TechDraw: Broken view leaves gaps between the geometry and the break lines](https://github.com/FreeCAD/FreeCAD/issues/13406) 💬 9 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟡 help wanted | 2026-10-01 | ⚠️ AI restricted |
+| [Link: Lighting is not working well when the choice is "Two Side"](https://github.com/FreeCAD/FreeCAD/issues/22170) 💬 17 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟡 help wanted | 2026-10-01 | ⚠️ AI restricted |
 | [Sketcher: Carbon copying a non-parallel sketch has incorrect help text on macOS](https://github.com/FreeCAD/FreeCAD/issues/19935) 💬 6 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-09-29 | ⚠️ AI restricted |
 | [PartDesign: Pad generates a surface artifact if it crosses plane (due to Angular Deflection & Deviation settin](https://github.com/FreeCAD/FreeCAD/issues/16257) 💬 8 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-09-29 | ⚠️ AI restricted |
 | [STEP: Crash when loading NUC12STEP file (linked)](https://github.com/FreeCAD/FreeCAD/issues/14565) 💬 12 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟡 help wanted | 2026-09-29 | ⚠️ AI restricted |
-| [Roadmap: Builder pattern for Civilopedia text](https://github.com/yairm210/Unciv/issues/15674) | [yairm210/Unciv](https://github.com/yairm210/Unciv) | 11.4k | 🟡 help wanted | 2026-09-29 |  |
 | [WC: improve name generation](https://github.com/wesnoth/wesnoth/issues/9127) 💬 5 | [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) | 6.9k | 🟢 beginner | 2026-09-29 |  |
 | [docs: provide a cargo-generate starter template](https://github.com/tracel-ai/burn/issues/282) 💬 8 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟢 beginner | 2026-09-28 |  |
 | [Remove Safari 9 WebGL constants workaround](https://github.com/CesiumGS/cesium/issues/5315) 💬 3 | [CesiumGS/cesium](https://github.com/CesiumGS/cesium) | 15.8k | 🟢 beginner | 2026-09-28 | ✍️ CLA |
@@ -23,7 +24,6 @@
 | [[p5.js 2.0+ Bug Report]: Floats in strands shaders are always rounded to 4 decimals](https://github.com/processing/p5.js/issues/8884) 💬 16 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-27 | ⚠️ AI restricted |
 | [ci: add WebGPU integration tests (e.g. with Deno)](https://github.com/tracel-ai/burn/issues/810) | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟡 help wanted | 2026-09-27 |  |
 | [Smarter window positioning for multi-screen setups](https://github.com/f3d-app/f3d/issues/3192) 💬 5 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.7k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use |
-| [TechDraw: Keyboard navigation of the Section Plane is chaotic](https://github.com/FreeCAD/FreeCAD/issues/30833) 💬 3 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-09-25 | ⚠️ AI restricted |
 | [train: hot reloading for faster prototyping](https://github.com/tracel-ai/burn/issues/3571) 💬 2 | [tracel-ai/burn](https://github.com/tracel-ai/burn) | 16k | 🟡 help wanted | 2026-09-25 |  |
 | [[Godot] SDFGI broken with Intel Arc GPUs](https://github.com/Redot-Engine/redot-engine/issues/156) 💬 9 | [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) | 6.1k | 🟡 help wanted | 2026-09-25 | ⚠️ AI restricted |
 | [Digitally sign Windows releases 1.3](https://github.com/Shrey113/Android-Dex/issues/187) 💬 1 | [Shrey113/Android-Dex](https://github.com/Shrey113/Android-Dex) | 2.8k | 🟢 beginner | 2026-09-25 |  |
@@ -58,7 +58,7 @@
 | [[TRACKER] Potential Development Halting Issues.](https://github.com/FlaxEngine/FlaxEngine/issues/2220) 💬 6 | [FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine) | 7k | 🟡 help wanted | 2026-09-15 |  |
 | [ARC B580 - Menus are sluggish in the redot editor.](https://github.com/Redot-Engine/redot-engine/issues/921) 💬 9 | [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) | 6.1k | 🟡 help wanted | 2026-09-14 | ⚠️ AI restricted |
 | [Support for .NIF (NetImmerse File)](https://github.com/f3d-app/f3d/issues/3478) 💬 1 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.7k | 🟡 help wanted | 2026-09-14 | 🤖 disclose AI use |
-| [Map support](https://github.com/pascalorg/editor/issues/154) 💬 7 | [pascalorg/editor](https://github.com/pascalorg/editor) | 24.4k | 🟡 help wanted | 2026-09-12 |  |
+| [Map support](https://github.com/pascalorg/editor/issues/154) 💬 7 | [pascalorg/editor](https://github.com/pascalorg/editor) | 24.5k | 🟡 help wanted | 2026-09-12 |  |
 | [[BUG]: TOZEROY FILL IS FILLING AREAS OF THE PLOT THAT HAS NO DATA IN IT](https://github.com/plotly/plotly.py/issues/5632) 💬 9 | [plotly/plotly.py](https://github.com/plotly/plotly.py) | 18.8k | 🟢 beginner | 2026-09-12 |  |
 | [all *.json files are interpreted as objects](https://github.com/OpenRCT2/OpenRCT2/issues/16807) 💬 3 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.3k | 🟢 beginner | 2026-09-12 |  |
 | [[2.x] Tracking issue for RID-related binary loading issues on Linux](https://github.com/dotnet/Silk.NET/issues/2610) 💬 2 | [dotnet/Silk.NET](https://github.com/dotnet/Silk.NET) | 5.2k | 🟢 beginner | 2026-09-10 | ✍️ CLA |
@@ -78,7 +78,7 @@
 | [Retain screen position / target screen in xemu.toml and restore when starting the program](https://github.com/xemu-project/xemu/issues/1268) 💬 1 | [xemu-project/xemu](https://github.com/xemu-project/xemu) | 4.1k | 🟢 beginner | 2026-08-13 |  |
 | [Disable VK on unsupported systems](https://github.com/xemu-project/xemu/issues/2307) 💬 3 | [xemu-project/xemu](https://github.com/xemu-project/xemu) | 4.1k | 🟢 beginner | 2026-08-12 |  |
 | [Toast widget](https://github.com/iced-rs/iced/issues/485) 💬 4 | [iced-rs/iced](https://github.com/iced-rs/iced) | 31.6k | 🟢 beginner | 2026-08-06 |  |
-| [Feature Request: 3D Pipeline/Water Pipe Drawing Tool](https://github.com/pascalorg/editor/issues/227) 💬 4 | [pascalorg/editor](https://github.com/pascalorg/editor) | 24.4k | 🟡 help wanted | 2026-08-04 |  |
+| [Feature Request: 3D Pipeline/Water Pipe Drawing Tool](https://github.com/pascalorg/editor/issues/227) 💬 4 | [pascalorg/editor](https://github.com/pascalorg/editor) | 24.5k | 🟡 help wanted | 2026-08-04 |  |
 | [Give reason for damage done by tnt](https://github.com/luanti-org/minetest_game/issues/3263) | [luanti-org/minetest_game](https://github.com/luanti-org/minetest_game) | 1.6k | 🟢 beginner | 2026-08-02 |  |
 | [(Locale): Missing Spanish text for Mountaineer Stormpike.](https://github.com/azerothcore/azerothcore-wotlk/issues/16313) 💬 3 | [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) | 9k | 🟢 beginner | 2026-07-27 |  |
 | [Support DECBKM to remap backspace &lt;-&gt; delete](https://github.com/xtermjs/xterm.js/issues/3041) 💬 7 | [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) | 21.2k | 🟢 beginner | 2026-07-26 |  |
@@ -96,10 +96,11 @@
 | [Enable javadoc plugin for 11+ Java and Kotlin (dokka?)](https://github.com/AlmasB/FXGL/issues/665) 💬 2 | [AlmasB/FXGL](https://github.com/AlmasB/FXGL) | 4.9k | 🟡 help wanted | 2026-07-14 |  |
 | [Wine via homebrew on MacOS is being removed on 2026-09-01](https://github.com/MonoGame/MonoGame/issues/9424) 💬 4 | [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) | 14.5k | 🟡 help wanted | 2026-07-13 | ⚠️ AI restricted |
 | [Ability to disable HDR rendering](https://github.com/FyroxEngine/Fyrox/issues/703) 💬 1 | [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) | 9.6k | 🟢 beginner | 2026-07-10 |  |
-| [Problem with semaphore and validation layer when using multi viewports.](https://github.com/ocornut/imgui/issues/9349) 💬 3 | [ocornut/imgui](https://github.com/ocornut/imgui) | 76.4k | 🟡 help wanted | 2026-07-09 | ✍️ CLA |
+| [Problem with semaphore and validation layer when using multi viewports.](https://github.com/ocornut/imgui/issues/9349) 💬 3 | [ocornut/imgui](https://github.com/ocornut/imgui) | 76.5k | 🟡 help wanted | 2026-07-09 | ✍️ CLA |
 | [How to get the current directory from a session](https://github.com/alacritty/alacritty/issues/8885) 💬 5 | [alacritty/alacritty](https://github.com/alacritty/alacritty) | 65.9k | 🟢 beginner | 2026-07-08 |  |
 | [[PAID BOUNTY][LOCKED] MonoGame 2D advanced series - Networking](https://github.com/MonoGame/MonoGame/issues/8821) 💬 2 | [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) | 14.5k | 🟡 help wanted | 2026-07-08 | ⚠️ AI restricted |
 | [Custom fins don't have a crafting recipe](https://github.com/CleverRaven/Cataclysm-DDA/issues/69652) 💬 3 | [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) | 13.3k | 🟢 beginner | 2026-07-06 |  |
+| [Investigate Windows 10 1607-1703 subpar d3d9 performance](https://github.com/elishacloud/dxwrapper/issues/164) 💬 6 | [elishacloud/dxwrapper](https://github.com/elishacloud/dxwrapper) | 2k | 🟡 help wanted | 2026-07-06 |  |
 | [CSM command help GUI shows wrong per-command help guide](https://github.com/luanti-org/luanti/issues/17191) 💬 2 | [luanti-org/luanti](https://github.com/luanti-org/luanti) | 13.7k | 🟢 beginner | 2026-07-05 | 🤖 disclose AI use |
 | [Libresprite Crashes on Launch (Apple Silicon)](https://github.com/LibreSprite/LibreSprite/issues/230) 💬 23 | [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) | 8.5k | 🟡 help wanted | 2026-07-05 |  |
 | [Update files in the Cemu-Language repository](https://github.com/cemu-project/Cemu/issues/1215) 💬 5 | [cemu-project/Cemu](https://github.com/cemu-project/Cemu) | 9.9k | 🟢 beginner | 2026-07-03 |  |
@@ -110,7 +111,7 @@
 | [Add Unit Tests for Effect Classes](https://github.com/MonoGame/MonoGame/issues/4698) 💬 12 | [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) | 14.5k | 🟡 help wanted | 2026-06-29 | ⚠️ AI restricted |
 | [Convex Hull node](https://github.com/GraphiteEditor/Graphite/issues/1673) 💬 10 | [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 27.4k | 🟢 beginner | 2026-06-27 | 📄 AI policy |
 | [Allow UI setting to control max frame-rate](https://github.com/wesnoth/wesnoth/issues/2210) 💬 7 | [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) | 6.9k | 🟢 beginner | 2026-06-24 |  |
-| [Converging toward a principal Unreal Engine backend/binding for Dear ImGui?](https://github.com/ocornut/imgui/issues/9122) 💬 48 | [ocornut/imgui](https://github.com/ocornut/imgui) | 76.4k | 🟡 help wanted | 2026-06-21 | ✍️ CLA |
+| [Converging toward a principal Unreal Engine backend/binding for Dear ImGui?](https://github.com/ocornut/imgui/issues/9122) 💬 48 | [ocornut/imgui](https://github.com/ocornut/imgui) | 76.5k | 🟡 help wanted | 2026-06-21 | ✍️ CLA |
 | [Dying in Winterfall Village Cave takes you to Alterac graveyard](https://github.com/azerothcore/azerothcore-wotlk/issues/7014) 💬 7 | [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) | 9k | 🟢 beginner | 2026-06-21 |  |
 | [Projects cannot be removed from the project list.](https://github.com/Redot-Engine/redot-engine/issues/1240) 💬 3 | [Redot-Engine/redot-engine](https://github.com/Redot-Engine/redot-engine) | 6.1k | 🟡 help wanted | 2026-06-21 | ⚠️ AI restricted |
 | [setAttributes() invalidates references to earlier canvases](https://github.com/processing/p5.js/issues/5902) 💬 8 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-06-20 | ⚠️ AI restricted |

@@ -1,10 +1,10 @@
 # JavaScript issues
 
-**163** open issues (76 labeled for beginners) across **62** active JavaScript projects.
+**158** open issues (73 labeled for beginners) across **62** active JavaScript projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/javascript.xml)
 
-> Updated automatically on **2026-09-30 22:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-01 12:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,15 +12,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [[Marketplace] Add GitLab plugin](https://github.com/ToolJet/ToolJet/issues/18169) 💬 2 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use |
+| [Dark mode: Workspace login](https://github.com/ToolJet/ToolJet/issues/18145) 💬 4 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟢 beginner | 2026-10-01 | 🤖 disclose AI use |
 | [[Marketplace] Add Linear plugin](https://github.com/ToolJet/ToolJet/issues/18168) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use |
-| [[Marketplace] Add Smartsheet plugin](https://github.com/ToolJet/ToolJet/issues/18170) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use |
-| [Marketplace plugin: CPF.CNPJ data source for Brazilian CPF and CNPJ lookups](https://github.com/ToolJet/ToolJet/issues/17901) 💬 3 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use |
-| [OpenAI logo is not visible in dark mode](https://github.com/ToolJet/ToolJet/issues/18153) 💬 2 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟢 beginner | 2026-09-30 | 🤖 disclose AI use |
-| [Glitch: Tabs are moving on hover](https://github.com/ToolJet/ToolJet/issues/18149) 💬 3 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟢 beginner | 2026-09-30 | 🤖 disclose AI use |
 | [Make tooltips dismissable](https://github.com/WordPress/gutenberg/issues/15145) 💬 6 | [WordPress/gutenberg](https://github.com/WordPress/gutenberg) | 11.8k | 🟢 beginner | 2026-09-30 | 🤖 disclose AI use |
-| [docs(setup): the prerequisites miss the Node 22.5+ of the tracker index and the 22.6+ of the web UI](https://github.com/career-ops-hq/career-ops/issues/4594) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73.1k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
-| [docs: the READMEs and SKILL.md advertise an eu-fintech preset that does not exist](https://github.com/career-ops-hq/career-ops/issues/4593) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73.1k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
 | [Operation request: Protocol Data Unit (PDU) encoder/decoder](https://github.com/gchq/CyberChef/issues/256) 💬 8 | [gchq/CyberChef](https://github.com/gchq/CyberChef) | 36k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA |
 | [[Bug]: Dropdown selector shows unexpected border on selected item](https://github.com/carbon-design-system/carbon/issues/20774) 💬 3 | [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) | 9.5k | 🟡 help wanted | 2026-09-29 | 🔏 DCO |
 | [[Feedback]: UI Shell is way too complicated and not really documented](https://github.com/carbon-design-system/carbon/issues/19715) 💬 6 | [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) | 9.5k | 🟡 help wanted | 2026-09-29 | 🔏 DCO |
@@ -46,6 +40,7 @@
 | [enum dropdown in anyOf \\ oneOf](https://github.com/josdejong/jsoneditor/issues/1653) 💬 2 | [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) | 12.3k | 🟡 help wanted | 2026-09-13 |  |
 | [Add tools to Yahoo Sports](https://github.com/PipedreamHQ/pipedream/issues/21979) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-09-13 |  |
 | [Customizeable Axis Title Rendering](https://github.com/chartjs/Chart.js/issues/3214) 💬 5 | [chartjs/Chart.js](https://github.com/chartjs/Chart.js) | 67.7k | 🟡 help wanted | 2026-09-11 |  |
+| [[Bug] Instructions for integrating with Vite don't work](https://github.com/microsoft/monaco-editor/issues/4045) 💬 8 | [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) | 46.8k | 🟡 help wanted | 2026-09-11 |  |
 | [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21956) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-09-10 |  |
 | [[BUG]: Background image is rendered at an incorrect size after box zoom followed by mouse wheel zoom out](https://github.com/plotly/plotly.js/issues/7914) 💬 8 | [plotly/plotly.js](https://github.com/plotly/plotly.js) | 18.4k | 🟢 beginner | 2026-09-09 | ⚠️ AI restricted |
 | [Decision tree visualization](https://github.com/lutzroeder/netron/issues/180) 💬 1 | [lutzroeder/netron](https://github.com/lutzroeder/netron) | 33.5k | 🟡 help wanted | 2026-09-08 |  |
@@ -55,11 +50,11 @@
 | [Open new source to check Webhook [TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21912) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-09-06 |  |
 | [[Help] worker配置了admin，但部署登录后，admin是普通用户，没有系统设置！](https://github.com/maillab/cloud-mail/issues/567) | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-09-05 |  |
 | [[Help] cloudflare里面的电子邮件路由消失了，咋办？](https://github.com/maillab/cloud-mail/issues/563) 💬 3 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-09-05 |  |
-| [i18n: add a Swedish (sv) market mode](https://github.com/career-ops-hq/career-ops/issues/3847) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73.1k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use |
+| [i18n: add a Swedish (sv) market mode](https://github.com/career-ops-hq/career-ops/issues/3847) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73.2k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use |
 | [eBay Creating/Publishing Listings](https://github.com/PipedreamHQ/pipedream/issues/21896) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-09-04 |  |
 | [Generate PDF/A compliant document](https://github.com/parallax/jsPDF/issues/2882) 💬 6 | [parallax/jsPDF](https://github.com/parallax/jsPDF) | 31.3k | 🟡 help wanted | 2026-09-03 |  |
 | [Finish DocumenterPluto.jl](https://github.com/JuliaPluto/Pluto.jl/issues/3602) 💬 1 | [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) | 5.4k | 🟢 beginner | 2026-09-03 |  |
-| ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/react/react/issues/17355) 💬 154 | [react/react](https://github.com/react/react) | 250.8k | 🟢 beginner | 2026-09-02 | ✍️ CLA |
+| ["Should not already be working" in Firefox after a breakpoint/alert](https://github.com/react/react/issues/17355) 💬 154 | [react/react](https://github.com/react/react) | 250.9k | 🟢 beginner | 2026-09-02 | ✍️ CLA |
 | [Backmerging Module Federation v2](https://github.com/webpack/webpack/issues/18809) 💬 20 | [webpack/webpack](https://github.com/webpack/webpack) | 66k | 🟡 help wanted | 2026-09-02 | 🤖 disclose AI use · ✍️ CLA |
 | [Module Federation Share should support layers/issuerLayer](https://github.com/webpack/webpack/issues/18988) 💬 9 | [webpack/webpack](https://github.com/webpack/webpack) | 66k | 🟡 help wanted | 2026-09-02 | 🤖 disclose AI use · ✍️ CLA |
 | [📝 Docs: Give props to non-OpenCollective sponsors, services](https://github.com/mochajs/mocha/issues/3627) 💬 7 | [mochajs/mocha](https://github.com/mochajs/mocha) | 22.9k | 🟢 beginner | 2026-09-02 | ✍️ CLA |
@@ -156,6 +151,7 @@
 | [improvements to programmatic flows API - addflow/removeflow](https://github.com/node-red/node-red/issues/1372) 💬 4 | [node-red/node-red](https://github.com/node-red/node-red) | 23.7k | 🟢 beginner | 2026-06-10 | ✍️ CLA |
 | [difference between inline and inline-block should include discussion about replaced / non-replaced elements](https://github.com/yangshun/front-end-interview-handbook/issues/160) 💬 3 | [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | 44k | 🟡 help wanted | 2026-06-05 |  |
 | [这是什么情况？](https://github.com/maillab/cloud-mail/issues/430) 💬 1 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-06-03 |  |
+| [[Bug] Incorrect Raw String Literals formatting](https://github.com/microsoft/monaco-editor/issues/5085) | [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) | 46.8k | 🟡 help wanted | 2026-06-02 |  |
 | [Runic formatting ?](https://github.com/JuliaPluto/Pluto.jl/issues/3534) 💬 3 | [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) | 5.4k | 🟢 beginner | 2026-06-01 |  |
 | [Add ping graph on the status page](https://github.com/louislam/uptime-kuma/issues/637) 💬 35 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92k | 🟡 help wanted | 2026-05-27 | ⚠️ AI restricted |
 | [Expose Fuse to be used independently](https://github.com/Choices-js/Choices/issues/1370) 💬 1 | [Choices-js/Choices](https://github.com/Choices-js/Choices) | 6.8k | 🟢 beginner | 2026-05-25 |  |
@@ -174,4 +170,3 @@
 | [Documentation Translation (we first need committed translators)](https://github.com/highlightjs/highlight.js/issues/2777) 💬 22 | [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) | 25k | 🟢 beginner | 2026-04-16 | 🤖 disclose AI use |
 | [Better SEARCH documentation](https://github.com/AlaSQL/alasql/issues/838) 💬 10 | [AlaSQL/alasql](https://github.com/AlaSQL/alasql) | 7.3k | 🟡 help wanted | 2026-04-09 |  |
 | [Exposing menu opening delay as an option](https://github.com/jquery/jquery-ui/issues/2395) 💬 4 | [jquery/jquery-ui](https://github.com/jquery/jquery-ui) | 11.3k | 🟡 help wanted | 2026-04-07 | ✍️ CLA |
-| [[Help] better uninstallation support](https://github.com/viarotel-org/escrcpy/issues/565) 💬 2 | [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) | 11.9k | 🟡 help wanted | 2026-04-04 |  |

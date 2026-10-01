@@ -1,10 +1,10 @@
 # C# issues
 
-**294** open issues (82 labeled for beginners) across **83** active C# projects.
+**280** open issues (80 labeled for beginners) across **83** active C# projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/csharp.xml)
 
-> Updated automatically on **2026-09-30 22:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-01 12:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,14 +12,17 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Address race in PerformanceCounterLib](https://github.com/dotnet/runtime/issues/90803) 💬 20 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
+| [Address race in PerformanceCounterLib](https://github.com/dotnet/runtime/issues/90803) 💬 20 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
+| [Skia startup allocates ~14 MB for font bytes before first frame (FontDetailsCache.LoadFontBytesAsync), +69% vs](https://github.com/unoplatform/uno/issues/24861) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-10-01 |  |
+| [DataFrame.Clone should have an overload that takes an IEnumerable&lt;int&gt;](https://github.com/dotnet/machinelearning/issues/5703) 💬 2 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
+| [MQ: Enable Azure MCP Server to Query Recent Service Updates (e.g., Key Vault changes in last X days)](https://github.com/microsoft/mcp/issues/1073) 💬 3 | [microsoft/mcp](https://github.com/microsoft/mcp) | 3.7k | 🟡 help wanted | 2026-10-01 |  |
 | [Use disjoint-set-union for 'ClassLayout::AreCompatible'.](https://github.com/dotnet/runtime/issues/42801) 💬 7 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟢 beginner | 2026-09-30 | ✍️ CLA |
 | [Support TypeConverterAttribute on bound properties](https://github.com/dotnet/runtime/issues/36545) 💬 10 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
 | [All DataFrame Elementwise methods uncorrectly work with NULL values](https://github.com/dotnet/machinelearning/issues/6820) 💬 2 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
 | [Microsoft.Data.Analysis.DataFrame Join should produce a result with a single joined column](https://github.com/dotnet/machinelearning/issues/6133) 💬 5 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
 | [[DataFrame] Info method display should be the same for DataFrame and DataFrameColumn](https://github.com/dotnet/machinelearning/issues/6274) 💬 1 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟢 beginner | 2026-09-30 | ✍️ CLA |
 | [DataFrame.OrderBy(string columnName) does not perform stable sorting!](https://github.com/dotnet/machinelearning/issues/6443) 💬 2 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-30 | ✍️ CLA |
-| [[Bug]: Nullable object property generates enum: [null] in OpenAPI 3.0 output with Microsoft.OpenApi 2.12.0](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/issues/4181) | [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) | 5.5k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use |
+| [RCS1233 - Code fix changes logic in mixed logical and short circuit operators](https://github.com/dotnet/roslynator/issues/1690) 💬 1 | [dotnet/roslynator](https://github.com/dotnet/roslynator) | 3.5k | 🟡 help wanted | 2026-09-30 |  |
 | [Investigate whether we can improve DAG lowering of 'is' patterns](https://github.com/dotnet/roslyn/issues/85025) 💬 4 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-09-29 | ✍️ CLA |
 | [[API Proposal]: Read an environment variable without expansion](https://github.com/dotnet/runtime/issues/132366) 💬 6 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-29 | ✍️ CLA |
 | [DataFrame GetMutableBuffer method and ReadOnlyBuffer issues](https://github.com/dotnet/machinelearning/issues/6715) 💬 1 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-29 | ✍️ CLA |
@@ -31,6 +34,7 @@
 | [tests-run: TotalTests ignores all filters (counts entire test tree)](https://github.com/IvanMurzak/Unity-MCP/issues/950) 💬 3 | [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) | 4.4k | 🟡 help wanted | 2026-09-28 |  |
 | [Add support for linux-musl-arm64](https://github.com/dlemstra/Magick.NET/issues/1688) 💬 2 | [dlemstra/Magick.NET](https://github.com/dlemstra/Magick.NET) | 4k | 🟡 help wanted | 2026-09-28 |  |
 | [Add OnBindingContextChanging](https://github.com/dotnet/maui/issues/24804) 💬 6 | [dotnet/maui](https://github.com/dotnet/maui) | 23.3k | 🟢 beginner | 2026-09-27 | ✍️ CLA |
+| [Unexpected diagnostic in 'with' expression with indexer on a struct](https://github.com/dotnet/roslyn/issues/81666) 💬 2 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-09-27 | ✍️ CLA |
 | [Unnecessary sign-extension for some never-negative expressions](https://github.com/dotnet/runtime/issues/119680) 💬 5 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-27 | ✍️ CLA |
 | ['SemanticModel.GetSymbolInfo' doesn't return a symbol for 'FunctionPointerUnmanagedCallingConventionSyntax'](https://github.com/dotnet/roslyn/issues/59060) 💬 7 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-09-26 | ✍️ CLA |
 | [Resize the window on startup](https://github.com/microsoft/WinUI-Gallery/issues/1606) 💬 17 | [microsoft/WinUI-Gallery](https://github.com/microsoft/WinUI-Gallery) | 3.7k | 🟡 help wanted | 2026-09-26 | ✍️ CLA |
@@ -51,10 +55,10 @@
 | [[Java Client] No proguard file declaring that we need to keep class members](https://github.com/dotnet/aspnetcore/issues/53238) 💬 4 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38.5k | 🟡 help wanted | 2026-09-24 | ✍️ CLA |
 | ['DropCompletedEventArgs.DropResult' is never used](https://github.com/dotnet/maui/issues/2839) 💬 1 | [dotnet/maui](https://github.com/dotnet/maui) | 23.3k | 🟢 beginner | 2026-09-24 | ✍️ CLA |
 | [RISC-V support](https://github.com/dotnet/runtime/issues/36748) 💬 103 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-24 | ✍️ CLA |
+| [[mono] Implement pinvoke-detach-1.cs tests on Windows](https://github.com/dotnet/runtime/issues/43093) 💬 2 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟢 beginner | 2026-09-24 | ✍️ CLA |
 | [[System.Text.Json] : More accurate error messages when failing to map fields or parameters](https://github.com/dotnet/runtime/issues/88048) 💬 12 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-24 | ✍️ CLA |
 | [XamlBindingHelper not returning right values](https://github.com/unoplatform/uno/issues/18855) 💬 3 | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-09-24 |  |
 | [AzureProvisioner output saves connection strings to user secrets even if it did nothing](https://github.com/microsoft/aspire/issues/3298) 💬 5 | [microsoft/aspire](https://github.com/microsoft/aspire) | 6.3k | 🟢 beginner | 2026-09-24 |  |
-| [Add deserialization unit tests to CodeDomComponentSerializationService](https://github.com/dotnet/winforms/issues/10135) 💬 1 | [dotnet/winforms](https://github.com/dotnet/winforms) | 4.9k | 🟡 help wanted | 2026-09-24 |  |
 | [Add unrestricted panning](https://github.com/Ruben2776/PicView/issues/381) | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.6k | 🟡 help wanted | 2026-09-24 |  |
 | [After changing the language, some menu item names will not update.](https://github.com/Ruben2776/PicView/issues/387) 💬 1 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.6k | 🟡 help wanted | 2026-09-24 |  |
 | [Define and add 'FileSystemError' enum and matching property to IOException](https://github.com/dotnet/runtime/issues/926) 💬 67 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-23 | ✍️ CLA |
@@ -67,17 +71,12 @@
 | [Affinitize benchmark process to performance cores by default](https://github.com/dotnet/BenchmarkDotNet/issues/3266) 💬 3 | [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | 11.5k | 🟡 help wanted | 2026-09-21 |  |
 | [Cannot combine OneVersusAll with FieldAwareFactorizationMachine](https://github.com/dotnet/machinelearning/issues/590) 💬 9 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-21 | ✍️ CLA |
 | [CpuMath Enhancement: Preamble for hardware intrinsics implementation](https://github.com/dotnet/machinelearning/issues/830) | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-21 | ✍️ CLA |
-| [CpuMath Enhancement: Double-compute input elements in hardware intrinsics](https://github.com/dotnet/machinelearning/issues/836) | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-21 | ✍️ CLA |
-| [CpuMath Enhancement: Make bound checking of loops in hardware intrinsics more efficient](https://github.com/dotnet/machinelearning/issues/835) 💬 3 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-21 | ✍️ CLA |
-| [Remove the 'AddScaleSU' performance regression for AVX](https://github.com/dotnet/machinelearning/issues/1195) 💬 8 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-21 | ✍️ CLA |
-| [Normalizers multicolumn samples](https://github.com/dotnet/machinelearning/issues/3436) 💬 2 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-21 | ✍️ CLA |
 | [Verify word embedding model downloader](https://github.com/dotnet/machinelearning/issues/5532) 💬 3 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟢 beginner | 2026-09-21 | ✍️ CLA |
 | [Improve SamplingKeyColumn documentation and usability](https://github.com/dotnet/machinelearning/issues/5567) | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-21 | ✍️ CLA |
 | [KMeans cluster analysis is non-deterministic when using KMeansYinyang initialization, even with fixed MLContex](https://github.com/dotnet/machinelearning/issues/6375) 💬 4 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-21 | ✍️ CLA |
 | [ML.NET Anomaly detection of missing values or gaps in data. ex. missing montly invoices](https://github.com/dotnet/machinelearning/issues/6543) 💬 3 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-21 | ✍️ CLA |
 | [Add docs (tutorial) about transfer image from RAM to pipeline (model)](https://github.com/dotnet/machinelearning/issues/7449) 💬 2 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-09-21 | ✍️ CLA |
 | [[Bug] Kafka: message committed without executing subscriber during shutdown, then replayed out of order after ](https://github.com/dotnetcore/CAP/issues/1815) 💬 1 | [dotnetcore/CAP](https://github.com/dotnetcore/CAP) | 7.1k | 🟡 help wanted | 2026-09-21 |  |
-| [ContextMenuStrip show on wrong monitor](https://github.com/dotnet/winforms/issues/11289) 💬 9 | [dotnet/winforms](https://github.com/dotnet/winforms) | 4.9k | 🟡 help wanted | 2026-09-20 |  |
 | [Add support for raycast / Alfred / spotlight / ... on Mac](https://github.com/DevToys-app/DevToys/issues/919) 💬 4 | [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) | 32k | 🟡 help wanted | 2026-09-19 |  |
 | [System.Text.Json default DateTimeZoneHandling](https://github.com/dotnet/runtime/issues/1566) 💬 31 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-19 | ✍️ CLA |
 | [[API Proposal]: Introduce an intrinsic for more efficient lambda generation](https://github.com/dotnet/runtime/issues/85014) 💬 42 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-19 | ✍️ CLA |
@@ -92,6 +91,7 @@
 | ['GetUserNameFromPasswd' errors instead of returning empty string if '/etc/passwd' is missing](https://github.com/dotnet/runtime/issues/119216) 💬 3 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-15 | ✍️ CLA |
 | [MemoryExtensions: multi-value IndexOfAny/IndexOfAnyExcept/LastIndexOfAny/LastIndexOfAnyExcept missing int/long](https://github.com/dotnet/runtime/issues/131367) 💬 8 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-14 | ✍️ CLA |
 | [Some System.Reflection.Emit implementations of 'Type.IsByRefLike' still throw 'NotSupportedException': "Derive](https://github.com/dotnet/runtime/issues/91532) 💬 7 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-14 | ✍️ CLA |
+| [TensorPrimitives.MinNumber(ReadOnlySpan&lt;T&gt;) incorrectly propagates NaN](https://github.com/dotnet/runtime/issues/133346) 💬 2 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-13 | ✍️ CLA |
 | [dotnet build /v:q is not as quiet as msbuild /v:q](https://github.com/dotnet/sdk/issues/10032) 💬 20 | [dotnet/sdk](https://github.com/dotnet/sdk) | 3.2k | 🟢 beginner | 2026-09-13 |  |
 | [There is an inconsistency in behavior between 'string.Format(IFormatProvider?, string, *)' and 'string.Format(](https://github.com/dotnet/runtime/issues/119756) 💬 3 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-12 | ✍️ CLA |
 | [The Hebrew translation is a complete mess.](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/issues/1219) 💬 3 | [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) | 9.7k | 🟡 help wanted | 2026-09-12 |  |
@@ -106,9 +106,7 @@
 | [[API Proposal]: AVX10.2 saturating floating point to integer conversions](https://github.com/dotnet/runtime/issues/117573) 💬 4 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-09 | ✍️ CLA |
 | [[Codespaces] Trying to debug tests in codespaces fails to build](https://github.com/dotnet/runtime/issues/119604) 💬 3 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-09 | ✍️ CLA |
 | [[Launcher] Check for disabledPackageSources (in NuGet.config)](https://github.com/stride3d/stride/issues/287) 💬 3 | [stride3d/stride](https://github.com/stride3d/stride) | 7.8k | 🟢 beginner | 2026-09-09 |  |
-| [Incorrect toolbar location when restored via 'ToolStripManager.LoadSettings'](https://github.com/dotnet/winforms/issues/4449) 💬 4 | [dotnet/winforms](https://github.com/dotnet/winforms) | 4.9k | 🟡 help wanted | 2026-09-09 |  |
 | [Character component with complex collider throws exception and crashes program](https://github.com/stride3d/stride/issues/1177) 💬 3 | [stride3d/stride](https://github.com/stride3d/stride) | 7.8k | 🟢 beginner | 2026-09-08 |  |
-| [ContextMenuStrip has erroneous behavior if ToolStripMenuItem item Available=false](https://github.com/dotnet/winforms/issues/7635) 💬 3 | [dotnet/winforms](https://github.com/dotnet/winforms) | 4.9k | 🟡 help wanted | 2026-09-08 |  |
 | [Any plans on adding WASM as a target?](https://github.com/picoe/Eto/issues/1403) 💬 8 | [picoe/Eto](https://github.com/picoe/Eto) | 4k | 🟡 help wanted | 2026-09-08 |  |
 | [Bug: Files stops responding while loading network share content](https://github.com/files-community/Files/issues/14777) 💬 10 | [files-community/Files](https://github.com/files-community/Files) | 45.8k | 🟢 beginner | 2026-09-07 |  |
 | [MudDataGrid: Add row number or index to the row context](https://github.com/MudBlazor/MudBlazor/issues/11167) 💬 1 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-09-06 |  |
@@ -121,8 +119,7 @@
 | [Task: update the "Postpone" part](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/issues/980) 💬 3 | [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) | 9.7k | 🟡 help wanted | 2026-09-03 |  |
 | [Unify the WebSocket and HTTP pipelines](https://github.com/ThreeMammals/Ocelot/issues/2422) | [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot) | 8.7k | 🟡 help wanted | 2026-09-03 |  |
 | [Single calc instance and window vs. Multiple calc windows](https://github.com/microsoft/calculator/issues/215) 💬 42 | [microsoft/calculator](https://github.com/microsoft/calculator) | 31.1k | 🟡 help wanted | 2026-09-01 | ✍️ CLA |
-| [Provide Name property for all framework components](https://github.com/QuantConnect/Lean/issues/3839) 💬 3 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 21.8k | 🟢 beginner | 2026-09-01 |  |
-| [Possibly too aggressive cleaning](https://github.com/builtbybel/FluentCleaner/issues/51) 💬 11 | [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner) | 6.2k | 🟡 help wanted | 2026-09-01 |  |
+| [Possibly too aggressive cleaning](https://github.com/builtbybel/FluentCleaner/issues/51) 💬 11 | [builtbybel/FluentCleaner](https://github.com/builtbybel/FluentCleaner) | 6.3k | 🟡 help wanted | 2026-09-01 |  |
 | [No presentation mode when reading PDF on ipad](https://github.com/Kareadita/Kavita/issues/3289) 💬 4 | [Kareadita/Kavita](https://github.com/Kareadita/Kavita) | 11.8k | 🟡 help wanted | 2026-08-31 |  |
 | [Don't copy additional files when ReferenceOutputAssembly=false for exe references](https://github.com/dotnet/sdk/issues/23420) 💬 4 | [dotnet/sdk](https://github.com/dotnet/sdk) | 3.2k | 🟢 beginner | 2026-08-31 |  |
 | [Improve format of self-diagnostic log file names](https://github.com/open-telemetry/opentelemetry-dotnet/issues/4478) 💬 5 | [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) | 3.8k | 🟡 help wanted | 2026-08-30 | ✍️ CLA |
@@ -134,7 +131,6 @@
 | [Specify what encodings of source files are recognized by Roslyn and add corresponding tests](https://github.com/dotnet/roslyn/issues/410) 💬 2 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-08-26 | ✍️ CLA |
 | [Improve Exception Message for Missing Project Metadata Annotation in ResourceContainerImageBuilder.cs](https://github.com/microsoft/aspire/issues/11299) 💬 13 | [microsoft/aspire](https://github.com/microsoft/aspire) | 6.3k | 🟢 beginner | 2026-08-26 |  |
 | [Clarification about System.Drawing.Font and Dispose](https://github.com/dotnet/winforms/issues/8823) 💬 13 | [dotnet/winforms](https://github.com/dotnet/winforms) | 4.9k | 🟡 help wanted | 2026-08-26 |  |
-| [Setting 'ListView.CheckBoxes' after 'ListView.StateImageList' destroys imagelist](https://github.com/dotnet/winforms/issues/3531) 💬 2 | [dotnet/winforms](https://github.com/dotnet/winforms) | 4.9k | 🟡 help wanted | 2026-08-26 |  |
 | [[ONBOARD] Azure Arc Developer Scenarios](https://github.com/microsoft/mcp/issues/163) 💬 1 | [microsoft/mcp](https://github.com/microsoft/mcp) | 3.7k | 🟡 help wanted | 2026-08-26 |  |
 | [feat: Add Azure Synapse Analytics tools to Azure MCP Server](https://github.com/microsoft/mcp/issues/2122) 💬 3 | [microsoft/mcp](https://github.com/microsoft/mcp) | 3.7k | 🟡 help wanted | 2026-08-26 |  |
 | [[Bug]: Inconsistent examples/schemas generated for types](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/issues/3006) 💬 4 | [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) | 5.5k | 🟡 help wanted | 2026-08-25 | 🤖 disclose AI use |
@@ -173,14 +169,11 @@
 | [GraphicsView renders content outside of view](https://github.com/dotnet/maui/issues/9183) 💬 6 | [dotnet/maui](https://github.com/dotnet/maui) | 23.3k | 🟡 help wanted | 2026-08-14 | ✍️ CLA |
 | [[Android] Talkback reports incorrect number of list items](https://github.com/dotnet/maui/issues/3995) 💬 5 | [dotnet/maui](https://github.com/dotnet/maui) | 23.3k | 🟢 beginner | 2026-08-14 | ✍️ CLA |
 | [[iOS] Map pin InfoWindowClicked event is never fired](https://github.com/dotnet/maui/issues/13123) 💬 14 | [dotnet/maui](https://github.com/dotnet/maui) | 23.3k | 🟢 beginner | 2026-08-14 | ✍️ CLA |
-| [The ""cell error" icon can't be seen after selected the "CheckBox" cell of the DataGridView control](https://github.com/dotnet/winforms/issues/1929) | [dotnet/winforms](https://github.com/dotnet/winforms) | 4.9k | 🟡 help wanted | 2026-08-14 |  |
 | [Extra vertical space in static ColorPicker with small palettes](https://github.com/MudBlazor/MudBlazor/issues/9131) 💬 1 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-08-13 |  |
 | [[FEATURE REQUEST] Update 'About &gt; Open Source Licenses' section in settings](https://github.com/unchihugo/FluentFlyout/issues/1021) | [unchihugo/FluentFlyout](https://github.com/unchihugo/FluentFlyout) | 4.6k | 🟢 beginner | 2026-08-13 |  |
 | [Implement cache tagging (RemoveByTagAsync + tagged writes)](https://github.com/FoundatioFx/Foundatio/issues/8) 💬 6 | [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio) | 2.1k | 🟡 help wanted | 2026-08-13 |  |
 | [Thin horizontal line appears between images during reading in the webtoon reader](https://github.com/Kareadita/Kavita/issues/4132) 💬 6 | [Kareadita/Kavita](https://github.com/Kareadita/Kavita) | 11.8k | 🟡 help wanted | 2026-08-12 |  |
 | [【可视化】GUI/WebUI 收集](https://github.com/nilaoda/N_m3u8DL-RE/issues/239) 💬 34 | [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) | 8.8k | 🟢 beginner | 2026-08-12 |  |
-| [Setting SplitContainer.Panel2MinSize incorrectly changes SplitterDistance](https://github.com/dotnet/winforms/issues/3568) | [dotnet/winforms](https://github.com/dotnet/winforms) | 4.9k | 🟡 help wanted | 2026-08-12 |  |
-| [Capitalization of build folders names in case sensitive OS's](https://github.com/dotnet/sdk/issues/375) 💬 16 | [dotnet/sdk](https://github.com/dotnet/sdk) | 3.2k | 🟡 help wanted | 2026-08-11 |  |
 | [Improve parser error recovery for misplaced 'ref' modifier of a struct declaration](https://github.com/dotnet/roslyn/issues/84734) 💬 5 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-08-10 | ✍️ CLA |
 | ["Playlist not available" for public playlist](https://github.com/Tyrrrz/YoutubeDownloader/issues/732) 💬 2 | [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | 16.3k | 🟡 help wanted | 2026-08-10 |  |
 | [macOS: Cannot open image by double-click when path contains special characters like []&lt;&gt;](https://github.com/Ruben2776/PicView/issues/336) 💬 1 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.6k | 🟡 help wanted | 2026-08-10 |  |
@@ -205,12 +198,19 @@
 | [Reading Mode: Keep subtitles stable while captions are being updated](https://github.com/SakiRinn/LiveCaptions-Translator/issues/278) | [SakiRinn/LiveCaptions-Translator](https://github.com/SakiRinn/LiveCaptions-Translator) | 3.8k | 🟡 help wanted | 2026-08-02 |  |
 | [ToCSharpString outputs floats without a type suffix](https://github.com/dotnet/roslyn/issues/76061) 💬 9 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-07-30 | ✍️ CLA |
 | [Pasting multiline text into XML comments should make it comments](https://github.com/dotnet/roslyn/issues/17383) 💬 3 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-07-30 | ✍️ CLA |
-| ['FrameworkElement_Sizes' crashes on WinUI](https://github.com/unoplatform/uno/issues/19198) 💬 5 | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-07-29 |  |
 | [Telemetry - use the request path for name of trace](https://github.com/dotnet/yarp/issues/2667) 💬 10 | [dotnet/yarp](https://github.com/dotnet/yarp) | 9.6k | 🟡 help wanted | 2026-07-29 | ✍️ CLA |
 | [React SPA Template Jest Unit Tests Should Work](https://github.com/dotnet/aspnetcore/issues/30388) 💬 3 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38.5k | 🟢 beginner | 2026-07-28 | ✍️ CLA |
-| [MQ: Enable Azure MCP Server to Query Recent Service Updates (e.g., Key Vault changes in last X days)](https://github.com/microsoft/mcp/issues/1073) 💬 2 | [microsoft/mcp](https://github.com/microsoft/mcp) | 3.7k | 🟡 help wanted | 2026-07-28 |  |
+| [How to pass a free-format query string?](https://github.com/microsoft/kiota/issues/3800) 💬 16 | [microsoft/kiota](https://github.com/microsoft/kiota) | 3.8k | 🟡 help wanted | 2026-07-28 | ✍️ CLA |
 | [Github copilot not setting bearer token on acces to tools.](https://github.com/modelcontextprotocol/csharp-sdk/issues/1166) 💬 2 | [modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) | 4.6k | 🟡 help wanted | 2026-07-27 |  |
 | [Add tab completion for CLI switches and task names](https://github.com/cake-build/cake/issues/2974) 💬 1 | [cake-build/cake](https://github.com/cake-build/cake) | 4.2k | 🟡 help wanted | 2026-07-27 |  |
 | [Changing FontSize in MudTheme breaks components](https://github.com/MudBlazor/MudBlazor/issues/10394) 💬 3 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-07-26 |  |
+| [Bring back history editing](https://github.com/microsoft/calculator/issues/163) 💬 10 | [microsoft/calculator](https://github.com/microsoft/calculator) | 31.1k | 🟡 help wanted | 2026-07-24 | ✍️ CLA |
+| [Color Management Support](https://github.com/Ruben2776/PicView/issues/201) 💬 1 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.6k | 🟡 help wanted | 2026-07-22 |  |
+| [Provide an optional value comparer for JsonDocument/JsonElement](https://github.com/npgsql/efcore.pg/issues/1393) 💬 5 | [npgsql/efcore.pg](https://github.com/npgsql/efcore.pg) | 1.8k | 🟢 beginner | 2026-07-22 |  |
+| [Unused frameworks linked into a fully managed linked macOS app](https://github.com/dotnet/macios/issues/6542) 💬 1 | [dotnet/macios](https://github.com/dotnet/macios) | 2.9k | 🟢 beginner | 2026-07-21 |  |
+| [Optimize generated code](https://github.com/dotnet/macios/issues/16675) | [dotnet/macios](https://github.com/dotnet/macios) | 2.9k | 🟢 beginner | 2026-07-21 |  |
+| [Mouse wheel zoom not working when EnableSwapChainRendering = True](https://github.com/helix-toolkit/helix-toolkit/issues/833) 💬 17 | [helix-toolkit/helix-toolkit](https://github.com/helix-toolkit/helix-toolkit) | 2.3k | 🟡 help wanted | 2026-07-21 |  |
+| [Binlog reading - grace checking of GZip signature](https://github.com/dotnet/msbuild/issues/9567) 💬 1 | [dotnet/msbuild](https://github.com/dotnet/msbuild) | 5.6k | 🟡 help wanted | 2026-07-19 |  |
+| [Society center can be built above the ground](https://github.com/Revolutionary-Games/Thrive/issues/7073) 💬 2 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.7k | 🟢 beginner | 2026-07-15 |  |
 
-Showing the 200 most recently updated. See all 294 on the website.
+Showing the 200 most recently updated. See all 280 on the website.

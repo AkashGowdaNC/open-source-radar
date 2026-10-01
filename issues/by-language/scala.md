@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/scala.xml)
 
-> Updated automatically on **2026-09-30 22:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-01 12:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -24,10 +24,10 @@
 | [OrganizeImports: regex alternation (\|) in groups config doesn't match imports correctly](https://github.com/scalacenter/scalafix/issues/2477) 💬 4 | [scalacenter/scalafix](https://github.com/scalacenter/scalafix) | 875 | 🟢 beginner | 2026-08-27 |  |
 | [Board editor: possibly disable 960 Castling in standard](https://github.com/lichess-org/lila/issues/12926) 💬 9 | [lichess-org/lila](https://github.com/lichess-org/lila) | 18.8k | 🟢 beginner | 2026-08-15 | 🤖 disclose AI use |
 | [Clean constructor parameters for 'Indexer' and 'ScalaCli'](https://github.com/scalameta/metals/issues/4788) 💬 6 | [scalameta/metals](https://github.com/scalameta/metals) | 2.3k | 🟢 beginner | 2026-08-12 |  |
-| [Add chicken-bit support to BOOM](https://github.com/riscv-boom/riscv-boom/issues/36) 💬 5 | [riscv-boom/riscv-boom](https://github.com/riscv-boom/riscv-boom) | 2.2k | 🟢 beginner | 2026-08-03 |  |
+| [Add chicken-bit support to BOOM](https://github.com/riscv-boom/riscv-boom/issues/36) 💬 5 | [riscv-boom/riscv-boom](https://github.com/riscv-boom/riscv-boom) | 2.3k | 🟢 beginner | 2026-08-03 |  |
 | [[EPIC] Replace hand-rolled native code with existing arrow-rs kernels](https://github.com/apache/datafusion-comet/issues/5104) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-08-03 | ✍️ CLA |
-| [[FEATURE] Interval analysis to improve a..b](https://github.com/apalache-mc/apalache/issues/446) | [apalache-mc/apalache](https://github.com/apalache-mc/apalache) | 605 | 🟡 help wanted | 2026-08-02 | 🤖 disclose AI use · 🔏 DCO |
-| [[FEATURE] Detect uninitialized 'CONSTANT's in the 'ConfigurationPass'](https://github.com/apalache-mc/apalache/issues/1274) | [apalache-mc/apalache](https://github.com/apalache-mc/apalache) | 605 | 🟢 beginner | 2026-08-02 | 🤖 disclose AI use · 🔏 DCO |
+| [[FEATURE] Interval analysis to improve a..b](https://github.com/apalache-mc/apalache/issues/446) | [apalache-mc/apalache](https://github.com/apalache-mc/apalache) | 606 | 🟡 help wanted | 2026-08-02 | 🤖 disclose AI use · 🔏 DCO |
+| [[FEATURE] Detect uninitialized 'CONSTANT's in the 'ConfigurationPass'](https://github.com/apalache-mc/apalache/issues/1274) | [apalache-mc/apalache](https://github.com/apalache-mc/apalache) | 606 | 🟢 beginner | 2026-08-02 | 🤖 disclose AI use · 🔏 DCO |
 | [ScalaSQL support](https://github.com/Iltotore/iron/issues/375) | [Iltotore/iron](https://github.com/Iltotore/iron) | 558 | 🟢 beginner | 2026-07-06 |  |
 | [Cask support](https://github.com/Iltotore/iron/issues/374) | [Iltotore/iron](https://github.com/Iltotore/iron) | 558 | 🟢 beginner | 2026-07-02 |  |
 | [SFTP and SSH resolvers are not correctly used to download dependencies since 0.13.1](https://github.com/sbt/sbt/issues/1810) 💬 16 | [sbt/sbt](https://github.com/sbt/sbt) | 5k | 🟡 help wanted | 2026-06-27 | ✍️ CLA |

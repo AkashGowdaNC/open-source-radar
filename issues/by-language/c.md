@@ -1,10 +1,10 @@
 # C issues
 
-**147** open issues (41 labeled for beginners) across **61** active C projects.
+**147** open issues (41 labeled for beginners) across **62** active C projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/c.xml)
 
-> Updated automatically on **2026-09-30 22:19 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-01 12:28 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,16 +12,17 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Implement RFC 10032](https://github.com/openssl/openssl/issues/33064) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
+| [mbset: 'RemoveID' returns early and leaks the followChildren ID (duplicate value, small programs)](https://github.com/cilium/tetragon/issues/5744) 💬 1 | [cilium/tetragon](https://github.com/cilium/tetragon) | 5k | 🟢 beginner | 2026-10-01 | 📄 AI policy |
+| [Adding FAEST](https://github.com/open-quantum-safe/liboqs/issues/2101) 💬 12 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-01 |  |
 | [command palette can't find portable apps](https://github.com/microsoft/PowerToys/issues/40508) 💬 4 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.1k | 🟡 help wanted | 2026-09-30 |  |
 | [RFC 9919: OCSP with SHA-256](https://github.com/openssl/openssl/issues/32813) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use · ✍️ CLA |
 | [Large test input file distributed with latest 3.0/3.5 releases](https://github.com/openssl/openssl/issues/32603) 💬 5 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use · ✍️ CLA |
 | [[Bug] GMMK Pro rev1 ANSI: LEDs on first AW20216S driver stay dark on master; fixed by lowering SPI speed](https://github.com/qmk/qmk_firmware/issues/26492) | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-09-30 |  |
 | [Make Wycheproof CI (network) failure resistant](https://github.com/open-quantum-safe/liboqs/issues/2495) 💬 3 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-09-30 |  |
-| [Feature Request: Support SBc-AP](https://github.com/open5gs/open5gs/issues/824) 💬 49 | [open5gs/open5gs](https://github.com/open5gs/open5gs) | 2.7k | 🟡 help wanted | 2026-09-30 |  |
-| [[Enhancement] Include xesam:url in MPRIS Metadata](https://github.com/ravachol/kew/issues/592) | [ravachol/kew](https://github.com/ravachol/kew) | 3.1k | 🟢 beginner | 2026-09-29 |  |
 | [Bank MSB shouldn't always be ignored in XG mode](https://github.com/FluidSynth/fluidsynth/issues/1378) 💬 26 | [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) | 2.5k | 🟡 help wanted | 2026-09-29 |  |
 | [Allow all system tray icons to be displayed on the dock.](https://github.com/microsoft/PowerToys/issues/46232) 💬 9 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.1k | 🟡 help wanted | 2026-09-27 |  |
-| [[Experiment] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 38.6k | 🟡 help wanted | 2026-09-27 |  |
+| [[Experiment] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 38.7k | 🟡 help wanted | 2026-09-27 |  |
 | [openssl cms sign command does not support 'noattr' when 'digest' is used](https://github.com/openssl/openssl/issues/28743) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use · ✍️ CLA |
 | [[robustness] -purpose crlsign\|ocsphelper infers aux-blind X509_TRUST_COMPAT (x509_vfy.c:2621) → anchor REJECT](https://github.com/openssl/openssl/issues/32365) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use · ✍️ CLA |
 | [Extensions for browser support monitoring](https://github.com/axel-download-accelerator/axel/issues/346) 💬 5 | [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) | 3.4k | 🟡 help wanted | 2026-09-26 |  |
@@ -40,9 +41,8 @@
 | [Suppress Warnings From libpng](https://github.com/php/php-src/issues/23674) 💬 2 | [php/php-src](https://github.com/php/php-src) | 40.4k | 🟢 beginner | 2026-09-17 | 🤖 disclose AI use |
 | [Update speed tests to measure GPU performance for cuPQC code](https://github.com/open-quantum-safe/liboqs/issues/2160) 💬 42 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-09-16 |  |
 | [Add support for '_NET_WM_FRAME_DRAWN'](https://github.com/yshui/picom/issues/910) 💬 2 | [yshui/picom](https://github.com/yshui/picom) | 4.8k | 🟡 help wanted | 2026-09-11 |  |
-| [分享一下我解决进不去里站的方法](https://github.com/xiaojieonly/Ehviewer_CN_SXJ/issues/96) 💬 55 | [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | 27.2k | 🟡 help wanted | 2026-09-10 |  |
+| [分享一下我解决进不去里站的方法](https://github.com/xiaojieonly/Ehviewer_CN_SXJ/issues/96) 💬 55 | [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | 27.3k | 🟡 help wanted | 2026-09-10 |  |
 | [Add SMP support for Armv8-R (Cortex-R52 / Cortex-R82)](https://github.com/eclipse-threadx/threadx/issues/710) | [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) | 3.5k | 🟡 help wanted | 2026-09-09 | 🔏 DCO |
-| [Adding FAEST](https://github.com/open-quantum-safe/liboqs/issues/2101) 💬 11 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-09-09 |  |
 | [Change Audio Output with Hotkey](https://github.com/microsoft/PowerToys/issues/4964) 💬 73 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.1k | 🟡 help wanted | 2026-09-08 |  |
 | [Request for Guidance on GPL Compliance and Source Code Release – YUNZII Tri-Mode Boards](https://github.com/qmk/qmk_firmware/issues/25737) 💬 24 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-09-08 |  |
 | [Document the SPSel = 0 / SP_EL0 requirement of the ARMv8-A ports](https://github.com/eclipse-threadx/threadx/issues/703) | [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) | 3.5k | 🟡 help wanted | 2026-09-08 | 🔏 DCO |
@@ -51,7 +51,7 @@
 | [[Feature Request] Support configurable additional HID interfaces](https://github.com/qmk/qmk_firmware/issues/26363) 💬 2 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-09-06 |  |
 | [Will open5gs team produce NEF(Network Exposure Function ) to meet MEC(edge computing) use case ？](https://github.com/open5gs/open5gs/issues/1663) 💬 2 | [open5gs/open5gs](https://github.com/open5gs/open5gs) | 2.7k | 🟡 help wanted | 2026-09-03 |  |
 | [Filesystem time on stat from 'nftw' not faked](https://github.com/wolfcw/libfaketime/issues/476) 💬 2 | [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) | 3.1k | 🟡 help wanted | 2026-09-02 |  |
-| [DOSBox-X translations 💬🌍](https://github.com/joncampbell123/dosbox-x/issues/2820) 💬 22 | [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) | 3.7k | 🟡 help wanted | 2026-09-01 |  |
+| [DOSBox-X translations 💬🌍](https://github.com/joncampbell123/dosbox-x/issues/2820) 💬 22 | [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) | 3.8k | 🟡 help wanted | 2026-09-01 |  |
 | [CmdPal: Bookmarks extension needs icon cache](https://github.com/microsoft/PowerToys/issues/41783) 💬 6 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.1k | 🟡 help wanted | 2026-08-31 |  |
 | [Implement connect redirect and bind redirect.](https://github.com/microsoft/ebpf-for-windows/issues/848) 💬 1 | [microsoft/ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) | 3.6k | 🟡 help wanted | 2026-08-31 | ✍️ CLA |
 | [Firewall rules for Windows 10 hotspot](https://github.com/henrypp/simplewall/issues/425) 💬 59 | [henrypp/simplewall](https://github.com/henrypp/simplewall) | 9.1k | 🟡 help wanted | 2026-08-30 |  |
@@ -110,7 +110,7 @@
 | [External datagram I/O for the connection state machine](https://github.com/microsoft/msquic/issues/6132) 💬 2 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-07-07 | ✍️ CLA |
 | [minor security issue: file descriptor leakage](https://github.com/DynamoRIO/dynamorio/issues/2884) 💬 1 | [DynamoRIO/dynamorio](https://github.com/DynamoRIO/dynamorio) | 3.2k | 🟢 beginner | 2026-07-07 | ✍️ CLA |
 | [[YSQL] Investigate point-lookup path for fully-bound hash PK IN queries](https://github.com/yugabyte/yugabyte-db/issues/32026) 💬 1 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.6k | 🟢 beginner | 2026-07-06 |  |
-| [[FEATURE REQUEST] Support for accessing the DSpico SD card](https://github.com/d0k3/GodMode9/issues/968) 💬 1 | [d0k3/GodMode9](https://github.com/d0k3/GodMode9) | 2.6k | 🟡 help wanted | 2026-07-05 |  |
+| [Investigate Windows 10 1607-1703 subpar d3d9 performance](https://github.com/elishacloud/dxwrapper/issues/164) 💬 6 | [elishacloud/dxwrapper](https://github.com/elishacloud/dxwrapper) | 2k | 🟡 help wanted | 2026-07-06 |  |
 | [Disabling columnstore does not pause columnstore policies](https://github.com/timescale/timescaledb/issues/8960) 💬 3 | [timescale/timescaledb](https://github.com/timescale/timescaledb) | 23.6k | 🟢 beginner | 2026-07-04 | ✍️ CLA |
 | [[PT Run] [Time and Date plugin] Add friendly date/time format](https://github.com/microsoft/PowerToys/issues/16809) 💬 3 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.1k | 🟢 beginner | 2026-07-03 |  |
 | [New Folder with Selection](https://github.com/microsoft/PowerToys/issues/3569) 💬 23 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.1k | 🟡 help wanted | 2026-06-30 |  |
@@ -129,7 +129,7 @@
 | [EXPORT/IMPORTERS](https://github.com/pawelsalawa/letos/issues/2794) 💬 2 | [pawelsalawa/letos](https://github.com/pawelsalawa/letos) | 6.8k | 🟢 beginner | 2026-06-16 |  |
 | [Find functions that perform temporary seek from the API and refactor to use the offset argument if possible](https://github.com/rizinorg/rizin/issues/2906) 💬 3 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-14 | 🤖 disclose AI use |
 | [Blank screen on previous window when opening a new one](https://github.com/ahrm/sioyek/issues/1155) 💬 35 | [ahrm/sioyek](https://github.com/ahrm/sioyek) | 9.9k | 🟡 help wanted | 2026-06-12 |  |
-| [Android (APK) build target](https://github.com/joncampbell123/dosbox-x/issues/959) 💬 61 | [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) | 3.7k | 🟡 help wanted | 2026-06-10 |  |
+| [Android (APK) build target](https://github.com/joncampbell123/dosbox-x/issues/959) 💬 61 | [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) | 3.8k | 🟡 help wanted | 2026-06-10 |  |
 | [Core files not being created on SIGSEGV in ASAN/TSAN mode](https://github.com/yugabyte/yugabyte-db/issues/228) 💬 1 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.6k | 🟢 beginner | 2026-06-08 |  |
 | ['rz-asm' assembly results may be not correct](https://github.com/rizinorg/rizin/issues/1834) 💬 8 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-07 | 🤖 disclose AI use |
 | [XAP: add missing opcodes](https://github.com/rizinorg/rizin/issues/4661) 💬 5 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-07 | 🤖 disclose AI use |
@@ -142,7 +142,7 @@
 | [[YSQL] [Buffering] AbortSubTransaction flushes buffered operations instead of dropping them](https://github.com/yugabyte/yugabyte-db/issues/31655) 💬 1 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.6k | 🟢 beginner | 2026-05-21 |  |
 | [[Bug] Idobao ID75 V3 (Drop) Issue with RGB Matrix](https://github.com/qmk/qmk_firmware/issues/23619) 💬 4 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-05-20 |  |
 | [[Bug] KC_GESC does not play nicely with Firefox](https://github.com/qmk/qmk_firmware/issues/18648) 💬 5 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-05-18 |  |
-| [[NEW] Cross cluster replication support](https://github.com/valkey-io/valkey/issues/3066) 💬 10 | [valkey-io/valkey](https://github.com/valkey-io/valkey) | 27.3k | 🟡 help wanted | 2026-05-13 | 🔏 DCO |
+| [[NEW] Cross cluster replication support](https://github.com/valkey-io/valkey/issues/3066) 💬 10 | [valkey-io/valkey](https://github.com/valkey-io/valkey) | 27.4k | 🟡 help wanted | 2026-05-13 | 🔏 DCO |
 | [[BUG] [24.10.5] ShadoWRT有时会导致主系统卡死，无法进入web管理页面](https://github.com/istoreos/istoreos/issues/2950) 💬 4 | [istoreos/istoreos](https://github.com/istoreos/istoreos) | 8.1k | 🟢 beginner | 2026-05-13 |  |
 | [When execution time of fork run is much longer than one persistent iteration, all fork execuions will timeout.](https://github.com/AFLplusplus/AFLplusplus/issues/1545) 💬 6 | [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) | 6.8k | 🟢 beginner | 2026-05-13 |  |
 | [Benchmark Mode: Recording FPS and MSPF values and providing Averages](https://github.com/xemu-project/xemu/issues/465) 💬 2 | [xemu-project/xemu](https://github.com/xemu-project/xemu) | 4.1k | 🟢 beginner | 2026-05-09 |  |
