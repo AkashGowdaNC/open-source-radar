@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/lua.xml)
 
-> Updated automatically on **2026-10-01 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-02 11:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,11 +12,11 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Long unknown keys are truncated to known keys in some request decoders](https://github.com/tarantool/tarantool/issues/13284) 💬 1 | [tarantool/tarantool](https://github.com/tarantool/tarantool) | 3.7k | 🟢 beginner | 2026-09-29 |  |
+| [Long unknown keys are truncated to known keys in some request decoders](https://github.com/tarantool/tarantool/issues/13284) 💬 1 | [tarantool/tarantool](https://github.com/tarantool/tarantool) | 3.7k | 🟢 beginner | 2026-10-02 |  |
 | [Unknown keys are wrongfully rejected by most xrow decoders](https://github.com/tarantool/tarantool/issues/13282) | [tarantool/tarantool](https://github.com/tarantool/tarantool) | 3.7k | 🟢 beginner | 2026-09-29 |  |
 | [bug: v2 service discovery misses Nix-packaged OpenCode (writes service-prod.json, plugin reads service.json)](https://github.com/nickjvandyke/opencode.nvim/issues/336) | [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) | 3.9k | 🟢 beginner | 2026-09-28 |  |
 | [Locations with known existing but non-public feeds](https://github.com/public-transport/transitous/issues/585) 💬 10 | [public-transport/transitous](https://github.com/public-transport/transitous) | 723 | 🟢 beginner | 2026-09-11 |  |
-| [[Feature] 可否将标注的想法同步到微信读书功能](https://github.com/finlater/weread.koplugin/issues/126) 💬 7 | [finlater/weread.koplugin](https://github.com/finlater/weread.koplugin) | 839 | 🟡 help wanted | 2026-09-05 |  |
+| [[Feature] 可否将标注的想法同步到微信读书功能](https://github.com/finlater/weread.koplugin/issues/126) 💬 7 | [finlater/weread.koplugin](https://github.com/finlater/weread.koplugin) | 843 | 🟡 help wanted | 2026-09-05 |  |
 | [Integrate Swedish realtime feeds](https://github.com/public-transport/transitous/issues/125) 💬 7 | [public-transport/transitous](https://github.com/public-transport/transitous) | 723 | 🟢 beginner | 2026-08-06 |  |
 | [Give reason for damage done by tnt](https://github.com/luanti-org/minetest_game/issues/3263) | [luanti-org/minetest_game](https://github.com/luanti-org/minetest_game) | 1.6k | 🟢 beginner | 2026-08-02 |  |
 | ['util.trim_string_to_width("asdf", 2)' causes maiden to crash](https://github.com/monome/norns/issues/1636) 💬 1 | [monome/norns](https://github.com/monome/norns) | 732 | 🟢 beginner | 2026-07-30 |  |

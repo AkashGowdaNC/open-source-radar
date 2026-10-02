@@ -1,10 +1,10 @@
 # OCaml issues
 
-**24** open issues (15 labeled for beginners) across **6** active OCaml projects.
+**23** open issues (14 labeled for beginners) across **6** active OCaml projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ocaml.xml)
 
-> Updated automatically on **2026-10-01 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-02 11:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,13 +12,13 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Named targets](https://github.com/ocaml/dune/issues/3309) 💬 5 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟢 beginner | 2026-10-02 | 🔏 DCO |
+| [dune fmt should be able to format single files](https://github.com/ocaml/dune/issues/7287) 💬 8 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟢 beginner | 2026-10-02 | 🔏 DCO |
+| [Incorrect value when installing a relocatable binary with dune-site](https://github.com/ocaml/dune/issues/5749) 💬 3 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟢 beginner | 2026-10-02 | 🔏 DCO |
 | [Cannot easily change warnings in type declaration](https://github.com/ocaml/ocaml/issues/12301) 💬 15 | [ocaml/ocaml](https://github.com/ocaml/ocaml) | 6.6k | 🟢 beginner | 2026-09-30 | ✍️ CLA |
 | [Support for early returns inside loops that can be replaced with breaks](https://github.com/AeneasVerif/aeneas/issues/822) 💬 2 | [AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas) | 1k | 🟢 beginner | 2026-09-26 |  |
 | [Improve '--experimental' output](https://github.com/opengrep/opengrep/issues/134) 💬 1 | [opengrep/opengrep](https://github.com/opengrep/opengrep) | 3.1k | 🟢 beginner | 2026-09-17 |  |
 | [Declare axiom compatibility and axiom classification](https://github.com/rocq-prover/rocq/issues/10617) 💬 8 | [rocq-prover/rocq](https://github.com/rocq-prover/rocq) | 5.6k | 🟢 beginner | 2026-09-14 |  |
-| [dune fmt should be able to format single files](https://github.com/ocaml/dune/issues/7287) 💬 7 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟢 beginner | 2026-08-25 | 🔏 DCO |
-| [Installation of different LICENSE files (per opam package in a multi-opam repository/project)](https://github.com/ocaml/dune/issues/4842) 💬 11 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟢 beginner | 2026-08-07 | 🔏 DCO |
-| [Named targets](https://github.com/ocaml/dune/issues/3309) 💬 4 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟢 beginner | 2026-06-17 | 🔏 DCO |
 | [Preprocess using both cppo and PPXs](https://github.com/ocaml/dune/issues/171) 💬 14 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟡 help wanted | 2026-06-05 | 🔏 DCO |
 | [Support for compiling and linking non-C objects (such as Fortran)](https://github.com/ocaml/dune/issues/803) 💬 5 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟡 help wanted | 2026-06-05 | 🔏 DCO |
 | [How are compiled C++ stubs?](https://github.com/ocaml/dune/issues/949) 💬 6 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟡 help wanted | 2026-06-05 | 🔏 DCO |
@@ -34,5 +34,4 @@
 | [disable auto formatting for specific dune files](https://github.com/ocaml/dune/issues/10862) 💬 1 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟡 help wanted | 2026-06-05 | 🔏 DCO |
 | [Option to disable documentation (at least for generated opam files)](https://github.com/ocaml/dune/issues/5519) 💬 3 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟡 help wanted | 2026-06-05 | 🔏 DCO |
 | [[dune-configurator] PKG_CONFIG_PATH is ignored on macos](https://github.com/ocaml/dune/issues/10805) 💬 3 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟡 help wanted | 2026-06-05 | 🔏 DCO |
-| [Detect common typos in metadata and attempt to guess user's intention (or at least print a hint)](https://github.com/ocaml/dune/issues/11561) 💬 12 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟢 beginner | 2026-06-05 | 🔏 DCO |
 | [Merlin-lib: return the description of a warning based on its identifier](https://github.com/ocaml/merlin/issues/1775) 💬 4 | [ocaml/merlin](https://github.com/ocaml/merlin) | 1.7k | 🟢 beginner | 2026-05-19 |  |

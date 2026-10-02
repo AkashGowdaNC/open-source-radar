@@ -1,10 +1,10 @@
 # PHP issues
 
-**177** open issues (91 labeled for beginners) across **57** active PHP projects.
+**168** open issues (84 labeled for beginners) across **55** active PHP projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-10-01 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-02 11:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Support for NoDiscard Attribute?](https://github.com/briannesbitt/Carbon/issues/3377) 💬 2 | [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) | 16.6k | 🟢 beginner | 2026-10-02 |  |
+| [buttons to flip between pages in image annotator mode of scanned exam](https://github.com/Submitty/Submitty/issues/13402) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-10-02 |  |
+| [peer graders get error when they click 'who got this mark' icon](https://github.com/Submitty/Submitty/issues/13411) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-10-02 |  |
 | [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-01 |  |
 | [Write or document a replacement for parseAddresses](https://github.com/PHPMailer/PHPMailer/issues/3359) 💬 1 | [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) | 22.3k | 🟢 beginner | 2026-10-01 |  |
 | [User country map: allow to zoom in countries when no clickable area](https://github.com/matomo-org/matomo/issues/11319) 💬 5 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 21.9k | 🟡 help wanted | 2026-10-01 |  |
@@ -25,11 +28,10 @@
 | [Feature Request: Add a user pref to control opening messages in new windows](https://github.com/freescout-help-desk/freescout/issues/5086) 💬 9 | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4.6k | 🟡 help wanted | 2026-10-01 |  |
 | [Change Image Annotation View Width With Panel Width](https://github.com/Submitty/Submitty/issues/13171) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-10-01 |  |
 | [[Feature:InstructorUI] Improve error / success feedback on course creation](https://github.com/Submitty/Submitty/issues/13178) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-10-01 |  |
-| [peer graders get error when they click 'who got this mark' icon](https://github.com/Submitty/Submitty/issues/13411) | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-10-01 |  |
 | [Peer graders should never see grade inquiries](https://github.com/Submitty/Submitty/issues/13355) 💬 1 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-10-01 |  |
 | [Failed locked jobs never clear.](https://github.com/laravel/horizon/issues/1678) 💬 6 | [laravel/horizon](https://github.com/laravel/horizon) | 4.2k | 🟡 help wanted | 2026-09-30 |  |
+| [Current State of Maintenance and Future Direction for Sonata](https://github.com/sonata-project/SonataAdminBundle/issues/8361) 💬 17 | [sonata-project/SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) | 2.1k | 🟡 help wanted | 2026-09-30 |  |
 | [Add usage statistics administration UI](https://github.com/LibreSign/libresign/issues/8936) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 828 | 🟢 beginner | 2026-09-30 | 🤖 disclose AI use · 🔏 DCO |
-| [TA Grading Image Annotator zoom is broken](https://github.com/Submitty/Submitty/issues/13401) | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-09-30 |  |
 | [[Messenger] Sanitize message when the receiver is another app](https://github.com/symfony/symfony/issues/49081) 💬 9 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟡 help wanted | 2026-09-28 |  |
 | [Limited Access Grader Grading Access](https://github.com/Submitty/Submitty/issues/13379) 💬 8 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-09-28 |  |
 | [Conversations list: Customer column too narrow (thread counter cut off), Assigned To column takes too much spa](https://github.com/freescout-help-desk/freescout/issues/5632) 💬 1 | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4.6k | 🟡 help wanted | 2026-09-27 |  |
@@ -37,15 +39,12 @@
 | [[Feed problem] Titles are not parsed properly.](https://github.com/FreshRSS/FreshRSS/issues/8162) 💬 5 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.2k | 🟡 help wanted | 2026-09-25 |  |
 | [Direct link to an experiment step from the step list](https://github.com/elabftw/elabftw/issues/7483) 💬 1 | [elabftw/elabftw](https://github.com/elabftw/elabftw) | 1.4k | 🟢 beginner | 2026-09-25 |  |
 | [Feature Request: merge tickets by toggle buttons on ticket list](https://github.com/freescout-help-desk/freescout/issues/5662) 💬 1 | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4.6k | 🟡 help wanted | 2026-09-24 |  |
-| [Register Signature Rejection in Policy Workbench and add flow tests](https://github.com/LibreSign/libresign/issues/8689) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 828 | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
-| [Add the Signature Rejection Policy Workbench module](https://github.com/LibreSign/libresign/issues/8688) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 828 | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
 | [Generate a reproducible report of past LibreSign contributors](https://github.com/LibreSign/libresign/issues/8678) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 828 | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · 🔏 DCO |
 | [Opcache Optimization triggering Segmentation Faults when using OpenTelemetry hooks](https://github.com/open-telemetry/opentelemetry-php/issues/1512) 💬 3 | [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) | 913 | 🟡 help wanted | 2026-09-23 |  |
 | [Inconsistent console exporter behavior/documentation](https://github.com/open-telemetry/opentelemetry-php/issues/1645) 💬 2 | [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) | 913 | 🟡 help wanted | 2026-09-23 |  |
 | [Allow dependency for google/protobuf v^5.34](https://github.com/open-telemetry/opentelemetry-php/issues/1902) 💬 1 | [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) | 913 | 🟡 help wanted | 2026-09-23 |  |
 | [[opentelemetry-php-contrib] auto PDO - add support for trace propagation through user variables](https://github.com/open-telemetry/opentelemetry-php/issues/2001) 💬 1 | [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) | 913 | 🟡 help wanted | 2026-09-23 |  |
 | [unnecessary folder in mobile app feed list](https://github.com/FreshRSS/FreshRSS/issues/2742) 💬 8 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.2k | 🟢 beginner | 2026-09-22 |  |
-| [Add SPDX license headers to all files](https://github.com/nextcloud/all-in-one/issues/7439) | [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) | 10.5k | 🟡 help wanted | 2026-09-22 | 🤖 disclose AI use · 🔏 DCO |
 | [Feat request: Contact conversations don't include anything they were cced or recipients of](https://github.com/freescout-help-desk/freescout/issues/5656) | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4.6k | 🟡 help wanted | 2026-09-22 |  |
 | [[Bug]: Web Updater’s "start update" button unreachable without scroll bar](https://github.com/nextcloud/server/issues/40624) 💬 3 | [nextcloud/server](https://github.com/nextcloud/server) | 37k | 🟢 beginner | 2026-09-21 | 🤖 disclose AI use · 🔏 DCO |
 | [List LibreSign in beginner-friendly open source directories](https://github.com/LibreSign/libresign/issues/8284) 💬 5 | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 828 | 🟢 beginner | 2026-09-21 | 🤖 disclose AI use · 🔏 DCO |
@@ -76,6 +75,7 @@
 | [Missing translations for German (de)](https://github.com/symfony/symfony/issues/66099) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-09-19 |  |
 | [Missing translations for Galician (gl)](https://github.com/symfony/symfony/issues/64496) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-09-19 |  |
 | [Missing translations for Finnish (fi)](https://github.com/symfony/symfony/issues/64494) 💬 3 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-09-19 |  |
+| [Missing translations for Estonian (et)](https://github.com/symfony/symfony/issues/66097) 💬 4 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-09-19 |  |
 | [Duplicate conversation created from a single self-addressed email with identical Message-ID (single mailbox, o](https://github.com/freescout-help-desk/freescout/issues/5638) 💬 4 | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4.6k | 🟡 help wanted | 2026-09-19 |  |
 | [include name of original author & editor in notification of edited post](https://github.com/Submitty/Submitty/issues/13365) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-09-18 |  |
 | [Chamilo automatic deployment - Ansible](https://github.com/chamilo/chamilo-lms/issues/2502) 💬 7 | [chamilo/chamilo-lms](https://github.com/chamilo/chamilo-lms) | 1k | 🟡 help wanted | 2026-09-17 |  |
@@ -86,10 +86,8 @@
 | [Ollama cloud and webSearch](https://github.com/LLPhant/LLPhant/issues/421) | [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) | 1.7k | 🟡 help wanted | 2026-09-16 |  |
 | [Meilisearch Vector Database Support](https://github.com/LLPhant/LLPhant/issues/425) | [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) | 1.7k | 🟡 help wanted | 2026-09-16 |  |
 | [Expand CalDAVRemoveEmptyValue.php to fix additional 'Unsupported VALUE parameter for DTEND property' errors th](https://github.com/nextcloud/server/issues/17554) 💬 7 | [nextcloud/server](https://github.com/nextcloud/server) | 37k | 🟢 beginner | 2026-09-15 | 🤖 disclose AI use · 🔏 DCO |
-| [grade inquiry notifications need an icon to match indentation](https://github.com/Submitty/Submitty/issues/13356) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 800 | 🟢 beginner | 2026-09-15 |  |
 | [InitialTestSuite/SA should only run when mutations found](https://github.com/infection/infection/issues/2555) 💬 3 | [infection/infection](https://github.com/infection/infection) | 2.2k | 🟡 help wanted | 2026-09-10 |  |
 | [[LiveComponent] addCollectionItem don't work when using DTO as source](https://github.com/symfony/ux/issues/1384) 💬 5 | [symfony/ux](https://github.com/symfony/ux) | 1.1k | 🟡 help wanted | 2026-09-10 |  |
-| [Add the number of PHPStan errors to our list of third-party extensions](https://github.com/FreshRSS/Extensions/issues/525) | [FreshRSS/Extensions](https://github.com/FreshRSS/Extensions) | 720 | 🟡 help wanted | 2026-09-10 |  |
 | [[Bug] Simplepie destroys headers with a JSON value](https://github.com/FreshRSS/FreshRSS/issues/8636) 💬 1 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.2k | 🟡 help wanted | 2026-09-08 |  |
 | [[Feature]Subscribe FreshRSS's logs itself as rss](https://github.com/FreshRSS/FreshRSS/issues/6839) 💬 3 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.2k | 🟡 help wanted | 2026-09-08 |  |
 | [Set width and height for images to keep proper image ratio and reduce CLS](https://github.com/PrestaShop/PrestaShop/issues/25854) 💬 11 | [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) | 9.2k | 🟡 help wanted | 2026-09-08 |  |
@@ -109,7 +107,7 @@
 | [Alternative Badge SVG File as report for use in Gitlab and private Repositories](https://github.com/infection/infection/issues/1915) 💬 9 | [infection/infection](https://github.com/infection/infection) | 2.2k | 🟡 help wanted | 2026-08-30 |  |
 | [Incorrect subscription type due to race condition](https://github.com/laravel/cashier-stripe/issues/1773) 💬 2 | [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe) | 2.5k | 🟡 help wanted | 2026-08-27 |  |
 | [Old thread attachments are re-imported on each new reply](https://github.com/freescout-help-desk/freescout/issues/5311) 💬 9 | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4.6k | 🟡 help wanted | 2026-08-25 |  |
-| [Support TV shows](https://github.com/leepeuker/movary/issues/186) 💬 24 | [leepeuker/movary](https://github.com/leepeuker/movary) | 777 | 🟡 help wanted | 2026-08-24 |  |
+| [Support TV shows](https://github.com/leepeuker/movary/issues/186) 💬 24 | [leepeuker/movary](https://github.com/leepeuker/movary) | 778 | 🟡 help wanted | 2026-08-24 |  |
 | [Feature-Request: Pop-Out SQL Window](https://github.com/phpmyadmin/phpmyadmin/issues/11983) 💬 24 | [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 7.9k | 🟡 help wanted | 2026-08-18 | 🔏 DCO |
 | [Enhance Blueprint Stubs with PHPDoc to Eliminate PHPStan Warnings](https://github.com/laravel-shift/blueprint/issues/738) 💬 4 | [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) | 3.1k | 🟢 beginner | 2026-08-15 |  |
 | [[Feature Request/Bug] reordering feeds within a category](https://github.com/FreshRSS/FreshRSS/issues/3527) 💬 5 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.2k | 🟢 beginner | 2026-08-14 |  |
@@ -142,12 +140,6 @@
 | [Use an external LED as a status led](https://github.com/RaspAP/raspap-webgui/issues/2108) 💬 3 | [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) | 5.2k | 🟢 beginner | 2026-06-23 |  |
 | [Supervisors create connections with drivers they don't belong to](https://github.com/laravel/horizon/issues/1704) 💬 4 | [laravel/horizon](https://github.com/laravel/horizon) | 4.2k | 🟡 help wanted | 2026-06-23 |  |
 | [Segments \| Improve geographical segmentations: Continent & Regions segment are not clear](https://github.com/matomo-org/matomo/issues/11261) 💬 4 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 21.9k | 🟡 help wanted | 2026-06-22 |  |
-| [Moving the header to a new line](https://github.com/PrivateBin/PrivateBin/issues/1788) 💬 5 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | 8.6k | 🟢 beginner | 2026-06-22 | 🤖 disclose AI use |
-| [Geração de Declaração de Escolaridade para Alunos egressos](https://github.com/portabilis/i-educar/issues/1161) | [portabilis/i-educar](https://github.com/portabilis/i-educar) | 717 | 🟡 help wanted | 2026-06-15 |  |
-| [Sistema permite cadastrar turma com horário final](https://github.com/portabilis/i-educar/issues/1065) 💬 1 | [portabilis/i-educar](https://github.com/portabilis/i-educar) | 717 | 🟢 beginner | 2026-06-15 |  |
-| [Edição permitindo Carga Horária superior a 99:59](https://github.com/portabilis/i-educar/issues/1021) | [portabilis/i-educar](https://github.com/portabilis/i-educar) | 717 | 🟢 beginner | 2026-06-15 |  |
-| [Permite cadastrar Carga Horária como 00:00](https://github.com/portabilis/i-educar/issues/1020) | [portabilis/i-educar](https://github.com/portabilis/i-educar) | 717 | 🟢 beginner | 2026-06-15 |  |
-| [Permite salvar regra de teste com campo de Número máximo de casas decimais inválido](https://github.com/portabilis/i-educar/issues/1016) | [portabilis/i-educar](https://github.com/portabilis/i-educar) | 717 | 🟢 beginner | 2026-06-15 |  |
 | [Give activities multi-day capabilities](https://github.com/monicahq/monica/issues/2113) 💬 1 | [monicahq/monica](https://github.com/monicahq/monica) | 25.4k | 🟡 help wanted | 2026-06-14 |  |
 | [[3.x-migration] ApiController](https://github.com/MISP/MISP/issues/9382) 💬 2 | [MISP/MISP](https://github.com/MISP/MISP) | 6.6k | 🟢 beginner | 2026-06-12 | ✍️ CLA |
 | [CommentAuthor should have RootQuery entry points in the Graph](https://github.com/wp-graphql/wp-graphql/issues/1757) 💬 13 | [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql) | 3.8k | 🟢 beginner | 2026-06-12 |  |
@@ -164,9 +156,8 @@
 | [Add support for OpenVPN private key password in .ovpn configurations](https://github.com/RaspAP/raspap-webgui/issues/2109) 💬 1 | [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) | 5.2k | 🟢 beginner | 2026-06-05 |  |
 | [[FR] RTL BiDi Support](https://github.com/PrivateBin/PrivateBin/issues/1849) 💬 1 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | 8.6k | 🟡 help wanted | 2026-06-04 | 🤖 disclose AI use |
 | [[HLAPI] Need a way to filter ticket actors](https://github.com/glpi-project/glpi/issues/20743) 💬 5 | [glpi-project/glpi](https://github.com/glpi-project/glpi) | 6.4k | 🟡 help wanted | 2026-06-04 | 🤖 disclose AI use |
-| [Add a way to link to individual Featured Artist tracks](https://github.com/ppy/osu-web/issues/9508) 💬 3 | [ppy/osu-web](https://github.com/ppy/osu-web) | 1.2k | 🟢 beginner | 2026-06-02 |  |
-| [Upgrade authentication POST redirects without respecting YOURLS_SITE](https://github.com/YOURLS/YOURLS/issues/3781) 💬 2 | [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) | 12.2k | 🟡 help wanted | 2026-05-31 |  |
-| [Discrepancies in last 24 hours hit count](https://github.com/YOURLS/YOURLS/issues/3845) 💬 2 | [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) | 12.2k | 🟡 help wanted | 2026-05-31 |  |
+| [Upgrade authentication POST redirects without respecting YOURLS_SITE](https://github.com/YOURLS/YOURLS/issues/3781) 💬 2 | [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) | 12.3k | 🟡 help wanted | 2026-05-31 |  |
+| [Discrepancies in last 24 hours hit count](https://github.com/YOURLS/YOURLS/issues/3845) 💬 2 | [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) | 12.3k | 🟡 help wanted | 2026-05-31 |  |
 | [HAL links of embedded resources not consistent with standard representation](https://github.com/api-platform/core/issues/1291) 💬 18 | [api-platform/core](https://github.com/api-platform/core) | 2.6k | 🟢 beginner | 2026-05-29 |  |
 | [Add support for W3C’s Tabular Data Model](https://github.com/api-platform/core/issues/3174) 💬 1 | [api-platform/core](https://github.com/api-platform/core) | 2.6k | 🟡 help wanted | 2026-05-29 |  |
 | [[JSON-LD] [OpenAPI] Introduce violations OpenAPI schema](https://github.com/api-platform/core/issues/6811) | [api-platform/core](https://github.com/api-platform/core) | 2.6k | 🟡 help wanted | 2026-05-29 |  |

@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/vue.xml)
 
-> Updated automatically on **2026-10-01 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-02 11:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,9 +12,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [点击底部播放条，也可以进入详情页](https://github.com/algerkong/AlgerMusicPlayer/issues/751) 💬 2 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 16.9k | 🟢 beginner | 2026-10-02 |  |
 | [建议：播放页「纯净模式」开关补充悬停说明与首次开启引导气泡](https://github.com/algerkong/AlgerMusicPlayer/issues/758) 💬 1 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 16.9k | 🟢 beginner | 2026-09-19 |  |
 | [桌面歌词功能栏优化](https://github.com/algerkong/AlgerMusicPlayer/issues/719) | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 16.9k | 🟢 beginner | 2026-09-16 |  |
-| [点击底部播放条，也可以进入详情页](https://github.com/algerkong/AlgerMusicPlayer/issues/751) | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 16.9k | 🟢 beginner | 2026-09-16 |  |
 | [Command Line controls](https://github.com/tranxuanthang/lrcget/issues/61) 💬 6 | [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) | 3.2k | 🟡 help wanted | 2026-09-06 |  |
 | [Incorrect username after "Delete and re-draft" for handles with subdomains](https://github.com/elk-zone/elk/issues/3410) 💬 2 | [elk-zone/elk](https://github.com/elk-zone/elk) | 6k | 🟡 help wanted | 2026-09-05 | 🔏 DCO |
 | [Spanish translations](https://github.com/Smaug6739/Alexandrie/issues/651) | [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) | 2.8k | 🟢 beginner | 2026-08-26 |  |

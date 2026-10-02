@@ -1,10 +1,10 @@
 # CSS issues
 
-**34** open issues (29 labeled for beginners) across **6** active CSS projects.
+**33** open issues (28 labeled for beginners) across **6** active CSS projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/css.xml)
 
-> Updated automatically on **2026-10-01 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-02 11:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -32,7 +32,6 @@
 | [Fork, Commit, Merge - Easy Issue (Lua)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8302) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 510 | 🟢 beginner | 2026-10-01 |  |
 | [Fork, Commit, Merge - Easy Issue (Clojure)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8301) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 510 | 🟢 beginner | 2026-10-01 |  |
 | [Fork, Commit, Merge - Medium Issue (CoffeeScript)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8300) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 510 | 🟢 beginner | 2026-10-01 |  |
-| [Fork, Commit, Merge - Easy Issue (Perl)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8299) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 510 | 🟢 beginner | 2026-10-01 |  |
 | [Fork, Commit, Merge - Easy Issue (Vue)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8298) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 510 | 🟢 beginner | 2026-10-01 |  |
 | [Fork, Commit, Merge - Easy Issue (Svelte)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8297) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 510 | 🟢 beginner | 2026-10-01 |  |
 | [Fork, Commit, Merge - Easy Issue (Angular)](https://github.com/fork-commit-merge/fork-commit-merge/issues/8296) | [fork-commit-merge/fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) | 510 | 🟢 beginner | 2026-10-01 |  |
@@ -45,4 +44,4 @@
 | [Link Checker Report](https://github.com/data-engineering-community/data-engineering-wiki/issues/148) | [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) | 2k | 🟢 beginner | 2026-05-11 | ⚠️ AI restricted |
 | [Possible new sections or chapters](https://github.com/rust-lang/nomicon/issues/269) 💬 1 | [rust-lang/nomicon](https://github.com/rust-lang/nomicon) | 2.3k | 🟡 help wanted | 2026-05-05 |  |
 | [Link Checker Report](https://github.com/data-engineering-community/data-engineering-wiki/issues/147) | [data-engineering-community/data-engineering-wiki](https://github.com/data-engineering-community/data-engineering-wiki) | 2k | 🟢 beginner | 2026-05-04 | ⚠️ AI restricted |
-| [Dark mode illustrations could use some work](https://github.com/learnyouahaskell/learnyouahaskell.github.io/issues/152) 💬 1 | [learnyouahaskell/learnyouahaskell.github.io](https://github.com/learnyouahaskell/learnyouahaskell.github.io) | 610 | 🟡 help wanted | 2026-05-03 |  |
+| [Dark mode illustrations could use some work](https://github.com/learnyouahaskell/learnyouahaskell.github.io/issues/152) 💬 1 | [learnyouahaskell/learnyouahaskell.github.io](https://github.com/learnyouahaskell/learnyouahaskell.github.io) | 611 | 🟡 help wanted | 2026-05-03 |  |

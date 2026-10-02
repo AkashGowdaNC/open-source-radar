@@ -1,10 +1,10 @@
 # JavaScript issues
 
-**156** open issues (73 labeled for beginners) across **61** active JavaScript projects.
+**154** open issues (71 labeled for beginners) across **61** active JavaScript projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/javascript.xml)
 
-> Updated automatically on **2026-10-01 22:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-02 11:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,8 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Dark mode: Workspace login](https://github.com/ToolJet/ToolJet/issues/18145) 💬 4 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟢 beginner | 2026-10-01 | 🤖 disclose AI use |
-| [[Marketplace] Add Linear plugin](https://github.com/ToolJet/ToolJet/issues/18168) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use |
+| [element with display flex do not create a new BFC itself](https://github.com/yangshun/front-end-interview-handbook/issues/159) 💬 1 | [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | 44k | 🟡 help wanted | 2026-10-02 |  |
 | [Make tooltips dismissable](https://github.com/WordPress/gutenberg/issues/15145) 💬 6 | [WordPress/gutenberg](https://github.com/WordPress/gutenberg) | 11.8k | 🟢 beginner | 2026-09-30 | 🤖 disclose AI use |
 | [Operation request: Protocol Data Unit (PDU) encoder/decoder](https://github.com/gchq/CyberChef/issues/256) 💬 8 | [gchq/CyberChef](https://github.com/gchq/CyberChef) | 36k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA |
 | [[Feedback]: UI Shell is way too complicated and not really documented](https://github.com/carbon-design-system/carbon/issues/19715) 💬 6 | [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) | 9.5k | 🟡 help wanted | 2026-09-29 | 🔏 DCO |
@@ -24,11 +23,10 @@
 | [[Bug] 动态签发的叶子证书 authorityKeyIdentifier 为空 SEQUENCE，导致 Python 3.13+ X509_STRICT 校验失败](https://github.com/docmirror/dev-sidecar/issues/712) | [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) | 24.3k | 🟢 beginner | 2026-09-27 |  |
 | [[p5.js 2.0+ Bug Report]: Floats in strands shaders are always rounded to 4 decimals](https://github.com/processing/p5.js/issues/8884) 💬 16 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-27 | ⚠️ AI restricted |
 | [error handler of same domain can be called several times when it throws](https://github.com/nodejs/node/issues/25505) 💬 4 | [nodejs/node](https://github.com/nodejs/node) | 122.2k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use · 🔏 DCO |
-| [UI Lag when using 1Password env file](https://github.com/usebruno/bruno/issues/6057) 💬 13 | [usebruno/bruno](https://github.com/usebruno/bruno) | 47.3k | 🟢 beginner | 2026-09-25 |  |
 | [[FEATURE] Add tawk.to actions to Pipedream MCP](https://github.com/PipedreamHQ/pipedream/issues/22017) 💬 1 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-09-24 |  |
 | [noiseMode(SIMPLEX) add-on library](https://github.com/processing/p5.js/issues/6152) 💬 20 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-22 | ⚠️ AI restricted |
 | [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/22036) 💬 1 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-09-22 |  |
-| [BetterAuth to implement multi-user support, roles, external auth providers](https://github.com/louislam/uptime-kuma/issues/6200) 💬 13 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92k | 🟡 help wanted | 2026-09-21 | ⚠️ AI restricted |
+| [BetterAuth to implement multi-user support, roles, external auth providers](https://github.com/louislam/uptime-kuma/issues/6200) 💬 13 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.1k | 🟡 help wanted | 2026-09-21 | ⚠️ AI restricted |
 | [TS: Statement after top-level 'await' is duplicated with 'typescript' parser](https://github.com/prettier/prettier/issues/20096) 💬 3 | [prettier/prettier](https://github.com/prettier/prettier) | 52.3k | 🟡 help wanted | 2026-09-21 | 📄 AI policy |
 | [[Help] 代替send发信的一个网站](https://github.com/maillab/cloud-mail/issues/582) | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-09-19 |  |
 | [[Bug] Opening popup triggers extension mode flip](https://github.com/openstyles/stylus/issues/1810) 💬 6 | [openstyles/stylus](https://github.com/openstyles/stylus) | 6.9k | 🟡 help wanted | 2026-09-18 |  |
@@ -48,7 +46,7 @@
 | [Open new source to check Webhook [TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21912) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-09-06 |  |
 | [[Help] worker配置了admin，但部署登录后，admin是普通用户，没有系统设置！](https://github.com/maillab/cloud-mail/issues/567) | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-09-05 |  |
 | [[Help] cloudflare里面的电子邮件路由消失了，咋办？](https://github.com/maillab/cloud-mail/issues/563) 💬 3 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-09-05 |  |
-| [i18n: add a Swedish (sv) market mode](https://github.com/career-ops-hq/career-ops/issues/3847) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73.2k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use |
+| [i18n: add a Swedish (sv) market mode](https://github.com/career-ops-hq/career-ops/issues/3847) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73.3k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use |
 | [eBay Creating/Publishing Listings](https://github.com/PipedreamHQ/pipedream/issues/21896) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-09-04 |  |
 | [Generate PDF/A compliant document](https://github.com/parallax/jsPDF/issues/2882) 💬 6 | [parallax/jsPDF](https://github.com/parallax/jsPDF) | 31.3k | 🟡 help wanted | 2026-09-03 |  |
 | [Finish DocumenterPluto.jl](https://github.com/JuliaPluto/Pluto.jl/issues/3602) 💬 1 | [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) | 5.4k | 🟢 beginner | 2026-09-03 |  |
@@ -121,7 +119,7 @@
 | ['maxConns' option is ignored for incoming connections](https://github.com/webtorrent/webtorrent/issues/703) 💬 3 | [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) | 31.4k | 🟡 help wanted | 2026-07-17 |  |
 | [Mixed 'type' imports does not trigger 'import/no-duplicates'](https://github.com/import-js/eslint-plugin-import/issues/3035) 💬 2 | [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) | 5.9k | 🟡 help wanted | 2026-07-17 |  |
 | [Incorrect message when branch is not recognized as release branch](https://github.com/semantic-release/semantic-release/issues/1443) 💬 8 | [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) | 24.1k | 🟡 help wanted | 2026-07-16 |  |
-| [SMS Text to Speech/ Calling notification service](https://github.com/louislam/uptime-kuma/issues/3295) 💬 13 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92k | 🟡 help wanted | 2026-07-12 | ⚠️ AI restricted |
+| [SMS Text to Speech/ Calling notification service](https://github.com/louislam/uptime-kuma/issues/3295) 💬 13 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.1k | 🟡 help wanted | 2026-07-12 | ⚠️ AI restricted |
 | [[ACTION] Contacts+](https://github.com/PipedreamHQ/pipedream/issues/21328) 💬 2 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-07-11 |  |
 | [Integration: Microsoft Login / MS Graph API](https://github.com/sahat/hackathon-starter/issues/1357) 💬 2 | [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) | 35.3k | 🟡 help wanted | 2026-07-09 |  |
 | [Label double moves on batch movement](https://github.com/bpmn-io/bpmn-js/issues/1766) 💬 3 | [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) | 9.7k | 🟢 beginner | 2026-07-08 |  |
@@ -151,10 +149,10 @@
 | [这是什么情况？](https://github.com/maillab/cloud-mail/issues/430) 💬 1 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-06-03 |  |
 | [[Bug] Incorrect Raw String Literals formatting](https://github.com/microsoft/monaco-editor/issues/5085) | [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) | 46.8k | 🟡 help wanted | 2026-06-02 |  |
 | [Runic formatting ?](https://github.com/JuliaPluto/Pluto.jl/issues/3534) 💬 3 | [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) | 5.4k | 🟢 beginner | 2026-06-01 |  |
-| [Add ping graph on the status page](https://github.com/louislam/uptime-kuma/issues/637) 💬 35 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92k | 🟡 help wanted | 2026-05-27 | ⚠️ AI restricted |
+| [Add ping graph on the status page](https://github.com/louislam/uptime-kuma/issues/637) 💬 35 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.1k | 🟡 help wanted | 2026-05-27 | ⚠️ AI restricted |
 | [Expose Fuse to be used independently](https://github.com/Choices-js/Choices/issues/1370) 💬 1 | [Choices-js/Choices](https://github.com/Choices-js/Choices) | 6.8k | 🟢 beginner | 2026-05-25 |  |
 | [Allow changing the duration of zoom animations](https://github.com/Leaflet/Leaflet/issues/5332) 💬 8 | [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) | 45.7k | 🟡 help wanted | 2026-05-22 |  |
-| [Show detailed history of all received Push status=up events](https://github.com/louislam/uptime-kuma/issues/5949) 💬 3 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92k | 🟡 help wanted | 2026-05-20 | ⚠️ AI restricted |
+| [Show detailed history of all received Push status=up events](https://github.com/louislam/uptime-kuma/issues/5949) 💬 3 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.1k | 🟡 help wanted | 2026-05-20 | ⚠️ AI restricted |
 | [&amp; TO & amp;](https://github.com/beautifier/js-beautify/issues/880) 💬 2 | [beautifier/js-beautify](https://github.com/beautifier/js-beautify) | 9k | 🟢 beginner | 2026-05-18 |  |
 | [Demo tests in 'tests/basic.js' are broken.](https://github.com/sandstorm-io/sandstorm/issues/3615) 💬 1 | [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) | 7.1k | 🟢 beginner | 2026-05-12 |  |
 | [add paper size option Generate pdf on server](https://github.com/idurar/idurar-erp-crm/issues/230) 💬 6 | [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) | 8.8k | 🟢 beginner | 2026-05-07 |  |
@@ -162,7 +160,7 @@
 | [use non blocking json parser](https://github.com/expressjs/body-parser/issues/132) 💬 17 | [expressjs/body-parser](https://github.com/expressjs/body-parser) | 5.5k | 🟡 help wanted | 2026-04-30 |  |
 | [Security improvement : refresh token (second token stored in localstorage)](https://github.com/idurar/idurar-erp-crm/issues/204) 💬 11 | [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) | 8.8k | 🟢 beginner | 2026-04-25 |  |
 | [[Feature request]: Modify "Pause Breaks" options](https://github.com/hovancik/stretchly/issues/1462) 💬 5 | [hovancik/stretchly](https://github.com/hovancik/stretchly) | 6.6k | 🟡 help wanted | 2026-04-23 | 🤖 disclose AI use |
-| [GameDig Discord Server Monitoring](https://github.com/louislam/uptime-kuma/issues/4304) 💬 7 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92k | 🟢 beginner | 2026-04-21 | ⚠️ AI restricted |
+| [GameDig Discord Server Monitoring](https://github.com/louislam/uptime-kuma/issues/4304) 💬 7 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.1k | 🟢 beginner | 2026-04-21 | ⚠️ AI restricted |
 | [[Bug]: Error 400 in ingress-nginx](https://github.com/plankanban/planka/issues/1567) 💬 2 | [plankanban/planka](https://github.com/plankanban/planka) | 12.6k | 🟡 help wanted | 2026-04-18 |  |
 | [RDP connection is not working](https://github.com/electerm/electerm/issues/3764) 💬 12 | [electerm/electerm](https://github.com/electerm/electerm) | 15.2k | 🟡 help wanted | 2026-04-17 |  |
 | [Documentation Translation (we first need committed translators)](https://github.com/highlightjs/highlight.js/issues/2777) 💬 22 | [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) | 25k | 🟢 beginner | 2026-04-16 | 🤖 disclose AI use |
