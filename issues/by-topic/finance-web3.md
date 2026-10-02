@@ -1,8 +1,8 @@
 # Finance and Web3 issues
 
-**49** open issues (18 labeled for beginners) across **14** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
+**51** open issues (19 labeled for beginners) across **14** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
 
-> Updated automatically on **2026-10-02 11:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-02 22:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,6 +10,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [[Bug]: Can not reopen switch file menu after renaming the file](https://github.com/actualbudget/actual/issues/8793) 💬 1 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.3k | 🟢 beginner | 2026-10-02 | 🤖 disclose AI use |
 | [OpenSSL retains consumed TLS 1.3 stage secrets](https://github.com/openssl/openssl/issues/32213) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [get_crl callback: revocation reasons accumulation broken for multiple CDPs, causes X509_V_ERR_UNABLE_TO_GET_CR](https://github.com/openssl/openssl/issues/33055) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [Cleanup in EVP_SKEY from PKCS#12 files processing](https://github.com/openssl/openssl/issues/33041) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
@@ -40,6 +41,7 @@
 | [[Bug]: Unable to type in fields when editing reports on mobile browsers](https://github.com/actualbudget/actual/issues/4285) 💬 3 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.3k | 🟡 help wanted | 2026-07-21 | 🤖 disclose AI use |
 | [[Bug]: App not loading on mobile / Safari iOS](https://github.com/actualbudget/actual/issues/3575) 💬 5 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.3k | 🟡 help wanted | 2026-07-21 | 🤖 disclose AI use |
 | [[Bug]: Server fails silently when IPv6 is unavailable](https://github.com/actualbudget/actual/issues/5682) 💬 2 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.3k | 🟡 help wanted | 2026-07-21 | 🤖 disclose AI use |
+| [[Bug]: Custom Reports with 'Tag' filters do not calculate values of tagged top level split transactions](https://github.com/actualbudget/actual/issues/5640) 💬 2 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.3k | 🟡 help wanted | 2026-07-21 | 🤖 disclose AI use |
 | [Provide better message for transactionAPI](https://github.com/saleor/saleor/issues/13951) 💬 5 | [saleor/saleor](https://github.com/saleor/saleor) | 23.4k | 🟢 beginner | 2026-07-01 |  |
 | [parseLedgerHashes accepts negative int then throws on asUInt conversion](https://github.com/XRPLF/rippled/issues/6768) 💬 1 | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-06-26 | 🔏 DCO |
 | [[WEB - SDK] - Add Payment Method with Dynamic Field Rendering - Alfamart](https://github.com/juspay/hyperswitch/issues/6035) 💬 8 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 45.3k | 🟢 beginner | 2026-06-24 |  |
@@ -54,7 +56,7 @@
 | [Add benchmarks for compilation](https://github.com/IntersectMBO/plutus/issues/6113) 💬 1 | [IntersectMBO/plutus](https://github.com/IntersectMBO/plutus) | 1.6k | 🟢 beginner | 2026-05-01 |  |
 | [Reduce code duplication between regular and data-backed constitution tests](https://github.com/IntersectMBO/plutus/issues/6787) | [IntersectMBO/plutus](https://github.com/IntersectMBO/plutus) | 1.6k | 🟢 beginner | 2026-05-01 |  |
 | [Add golden tests for the validation benchmarks](https://github.com/IntersectMBO/plutus/issues/6828) | [IntersectMBO/plutus](https://github.com/IntersectMBO/plutus) | 1.6k | 🟢 beginner | 2026-05-01 |  |
-| [Navigator - a minimap for the entire dataset](https://github.com/tradingview/lightweight-charts/issues/2083) 💬 1 | [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) | 17.4k | 🟡 help wanted | 2026-04-28 |  |
+| [Navigator - a minimap for the entire dataset](https://github.com/tradingview/lightweight-charts/issues/2083) 💬 1 | [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) | 17.5k | 🟡 help wanted | 2026-04-28 |  |
 | [Deterministic simulation testing foundations (madsim) for linera-core](https://github.com/linera-io/linera-protocol/issues/6108) | [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) | 32.1k | 🟡 help wanted | 2026-04-23 |  |
 | [Embedded links in PDF output do not work when page numbering is enabled](https://github.com/invoiceninja/invoiceninja/issues/7543) 💬 4 | [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) | 10.2k | 🟡 help wanted | 2026-04-10 | ✍️ CLA |
 | [LogLevel contains dead code due to redundant partition check](https://github.com/XRPLF/rippled/issues/6752) | [XRPLF/rippled](https://github.com/XRPLF/rippled) | 5.2k | 🟢 beginner | 2026-04-07 | 🔏 DCO |

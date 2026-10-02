@@ -1,10 +1,10 @@
 # Swift issues
 
-**108** open issues (48 labeled for beginners) across **60** active Swift projects.
+**107** open issues (45 labeled for beginners) across **60** active Swift projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/swift.xml)
 
-> Updated automatically on **2026-10-02 11:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-02 22:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,33 +12,32 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [cmux NIGHTLY build is failing on main](https://github.com/manaflow-ai/cmux/issues/14440) 💬 226 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
+| [cmux NIGHTLY build is failing on main](https://github.com/manaflow-ai/cmux/issues/14440) 💬 234 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
+| [0.64.25 turn-end notifications silently dropped when agent identity resolves empty](https://github.com/manaflow-ai/cmux/issues/13986) 💬 2 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
+| [Cmux tab opens new window after response](https://github.com/manaflow-ai/cmux/issues/872) 💬 5 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
+| [Workspace switching degrades to 2.5–4 s after ~1 day uptime; main thread stuck in _CFXNotificationRegistrarRem](https://github.com/manaflow-ai/cmux/issues/16325) 💬 4 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
+| [browser automation CLI silently ignores unknown flags](https://github.com/manaflow-ai/cmux/issues/15731) 💬 5 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
+| [window default-display is documented but unreachable](https://github.com/manaflow-ai/cmux/issues/15739) 💬 3 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
+| [vpn CLI silently ignores trailing arguments, including on revoke](https://github.com/manaflow-ai/cmux/issues/15740) 💬 2 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
+| [Claude panels lose auto-resume after /clear (wasAgentRunning and autoResume reset while the process keeps runn](https://github.com/manaflow-ai/cmux/issues/15407) 💬 3 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
 | [Cloud VM socket summaries omit attach transport capabilities](https://github.com/manaflow-ai/cmux/issues/15691) 💬 4 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
 | [Browser omnibar shows only "Switch to tab" for URLs with a path already open in the same window](https://github.com/manaflow-ai/cmux/issues/2630) 💬 3 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
 | [Locked into vertical split](https://github.com/manaflow-ai/cmux/issues/178) 💬 3 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
 | [Notifications not working with Qwen Code (no OSC notification support)](https://github.com/manaflow-ai/cmux/issues/894) 💬 3 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
 | [cursor not same when display multiple window](https://github.com/manaflow-ai/cmux/issues/2295) 💬 3 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
+| [Gitlab Duo Support](https://github.com/steipete/CodexBar/issues/1769) 💬 4 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | 22.1k | 🟡 help wanted | 2026-10-02 |  |
 | [iOS SSH attach can outlive detach and resurrect a stale terminal](https://github.com/manaflow-ai/cmux/issues/16147) 💬 4 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-01 | 📄 AI policy · ✍️ CLA |
 | [Pi workspace auto-naming does not run for existing/resumed sessions](https://github.com/manaflow-ai/cmux/issues/8718) 💬 3 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-01 | 📄 AI policy · ✍️ CLA |
-| [Session restore silently drops windows after the twelfth](https://github.com/manaflow-ai/cmux/issues/15689) 💬 1 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-01 | 📄 AI policy · ✍️ CLA |
-| [Include a Markdown tab's file path in cmux tree and cmux identify](https://github.com/manaflow-ai/cmux/issues/15949) 💬 2 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-01 | 📄 AI policy · ✍️ CLA |
-| [Workspaces and terminals have no creation time: the daemon never records one, so the sidebar cannot show an ag](https://github.com/manaflow-ai/cmux/issues/15855) 💬 2 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-01 | 📄 AI policy · ✍️ CLA |
-| [iOS SSH browser reconnect can clear a newer proxy task and leak listeners](https://github.com/manaflow-ai/cmux/issues/16139) 💬 2 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-01 | 📄 AI policy · ✍️ CLA |
-| [iOS On iPhone browser tunnel ignores tagged Mac app instance](https://github.com/manaflow-ai/cmux/issues/16119) 💬 1 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-01 | 📄 AI policy · ✍️ CLA |
 | ["Learn from my corrections" doesn't work in terminal apps](https://github.com/altic-dev/FluidVoice/issues/1032) | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 11.9k | 🟡 help wanted | 2026-10-01 |  |
 | [Accidental cancel recovery](https://github.com/altic-dev/FluidVoice/issues/1038) 💬 1 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 11.9k | 🟡 help wanted | 2026-10-01 |  |
 | [[Bug] Keyboard text input has poor performance, buggy, and missing stock iOS features](https://github.com/minh-ton/reynard-browser/issues/309) 💬 7 | [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser) | 1.7k | 🟡 help wanted | 2026-10-01 |  |
-| [Migrate Kiro to a JSON definition](https://github.com/tddworks/ClaudeBar/issues/342) | [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar) | 1.5k | 🟢 beginner | 2026-10-01 |  |
-| [Migrate Amp to a JSON definition](https://github.com/tddworks/ClaudeBar/issues/341) | [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar) | 1.5k | 🟢 beginner | 2026-10-01 |  |
-| [Migrate Vercel AI Gateway to a JSON definition](https://github.com/tddworks/ClaudeBar/issues/335) | [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar) | 1.5k | 🟢 beginner | 2026-10-01 |  |
 | [Migrate DeepSeek to a JSON definition](https://github.com/tddworks/ClaudeBar/issues/332) | [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar) | 1.5k | 🟢 beginner | 2026-10-01 |  |
 | [Run with all traits in the API checker CI](https://github.com/apple/swift-configuration/issues/95) 💬 1 | [apple/swift-configuration](https://github.com/apple/swift-configuration) | 814 | 🟢 beginner | 2026-09-29 |  |
 | [🚀 功能建议：支持自定义扩展](https://github.com/tisfeng/Easydict/issues/136) 💬 6 | [tisfeng/Easydict](https://github.com/tisfeng/Easydict) | 14.8k | 🟡 help wanted | 2026-09-28 |  |
-| [Linux: run SpeakType 2 end to end and report what breaks](https://github.com/karansinghgit/speaktype/issues/164) 💬 1 | [karansinghgit/speaktype](https://github.com/karansinghgit/speaktype) | 527 | 🟡 help wanted | 2026-09-26 |  |
-| [Gitlab Duo Support](https://github.com/steipete/CodexBar/issues/1769) 💬 4 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | 22.1k | 🟡 help wanted | 2026-09-24 |  |
-| [Copy support info button in Settings](https://github.com/karansinghgit/speaktype/issues/161) 💬 3 | [karansinghgit/speaktype](https://github.com/karansinghgit/speaktype) | 527 | 🟢 beginner | 2026-09-23 |  |
+| [Linux: run SpeakType 2 end to end and report what breaks](https://github.com/karansinghgit/speaktype/issues/164) 💬 1 | [karansinghgit/speaktype](https://github.com/karansinghgit/speaktype) | 530 | 🟡 help wanted | 2026-09-26 |  |
+| [Copy support info button in Settings](https://github.com/karansinghgit/speaktype/issues/161) 💬 3 | [karansinghgit/speaktype](https://github.com/karansinghgit/speaktype) | 530 | 🟢 beginner | 2026-09-23 |  |
 | [Use augmentsSyntaxTokens parameter instead of reportSyntacticHighlightInSemanticTokens in initialization reque](https://github.com/swiftlang/sourcekit-lsp/issues/2767) 💬 2 | [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp) | 3.9k | 🟢 beginner | 2026-09-22 |  |
-| [Ship SpeakType on Flathub](https://github.com/karansinghgit/speaktype/issues/163) | [karansinghgit/speaktype](https://github.com/karansinghgit/speaktype) | 527 | 🟡 help wanted | 2026-09-22 |  |
+| [Ship SpeakType on Flathub](https://github.com/karansinghgit/speaktype/issues/163) | [karansinghgit/speaktype](https://github.com/karansinghgit/speaktype) | 530 | 🟡 help wanted | 2026-09-22 |  |
 | [FR: Add configurable Finder context menu actions and one-click compression](https://github.com/idawnlight/ShichiZip/issues/63) 💬 2 | [idawnlight/ShichiZip](https://github.com/idawnlight/ShichiZip) | 960 | 🟡 help wanted | 2026-09-20 |  |
 | [Add support for Raycast/Alfred](https://github.com/buresdv/Cork/issues/135) 💬 1 | [buresdv/Cork](https://github.com/buresdv/Cork) | 4.7k | 🟡 help wanted | 2026-09-19 | 📄 AI policy |
 | [[Feature Request] dns protection](https://github.com/0xCUB3/wBlock/issues/716) 💬 3 | [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) | 3k | 🟡 help wanted | 2026-09-19 |  |
@@ -49,35 +48,35 @@
 | [[FR]backup settings](https://github.com/ejbills/DockDoor/issues/688) 💬 7 | [ejbills/DockDoor](https://github.com/ejbills/DockDoor) | 6.1k | 🟢 beginner | 2026-09-09 | 🤖 disclose AI use |
 | [连接airpods的时候，会奇怪的出现通透模式，降噪模式切换](https://github.com/Ebullioscopic/Atoll/issues/822) 💬 2 | [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) | 4.8k | 🟡 help wanted | 2026-09-09 |  |
 | [Adopt iOS 17 nightstand landscape mode](https://github.com/vinhnx/Clendar/issues/255) 💬 8 | [vinhnx/Clendar](https://github.com/vinhnx/Clendar) | 732 | 🟢 beginner | 2026-09-06 |  |
-| [Visiting a reading list site that has not been previously opened in reader mode never renders content](https://github.com/mozilla-mobile/firefox-ios/issues/27546) 💬 7 | [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 13.1k | 🟢 beginner | 2026-09-04 |  |
+| [Visiting a reading list site that has not been previously opened in reader mode never renders content](https://github.com/mozilla-mobile/firefox-ios/issues/27546) 💬 7 | [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 13k | 🟢 beginner | 2026-09-04 |  |
 | [Add support for Cygwin](https://github.com/swiftlang/swift-testing/issues/886) 💬 1 | [swiftlang/swift-testing](https://github.com/swiftlang/swift-testing) | 2.2k | 🟡 help wanted | 2026-09-03 |  |
 | [test: fix flaky internal profiling API test](https://github.com/getsentry/sentry-cocoa/issues/8637) 💬 1 | [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) | 1.1k | 🟢 beginner | 2026-09-01 |  |
 | [Fix flaky 'testProfilerMutationDuringSlicing'](https://github.com/getsentry/sentry-cocoa/issues/3910) 💬 2 | [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) | 1.1k | 🟢 beginner | 2026-09-01 |  |
 | [Fix flaky 'testFlush_WhenNoInternet_BlocksAndFinishes'](https://github.com/getsentry/sentry-cocoa/issues/4704) | [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) | 1.1k | 🟢 beginner | 2026-09-01 |  |
-| [Would a version for iPadOS be feasible?](https://github.com/awaseem/foqos/issues/287) 💬 8 | [awaseem/foqos](https://github.com/awaseem/foqos) | 849 | 🟡 help wanted | 2026-09-01 |  |
+| [Would a version for iPadOS be feasible?](https://github.com/awaseem/foqos/issues/287) 💬 8 | [awaseem/foqos](https://github.com/awaseem/foqos) | 850 | 🟡 help wanted | 2026-09-01 |  |
 | [Feature request: Add a Disable option in the Menu](https://github.com/pablopunk/SwiftShift/issues/158) | [pablopunk/SwiftShift](https://github.com/pablopunk/SwiftShift) | 652 | 🟢 beginner | 2026-08-29 |  |
 | [Add a Qoder CLI agent manifest](https://github.com/termio-sh/termio/issues/246) | [termio-sh/termio](https://github.com/termio-sh/termio) | 535 | 🟡 help wanted | 2026-08-27 |  |
 | [Pointer speed has no effect on trackpad on M2 and later Macs](https://github.com/linearmouse/linearmouse/issues/270) 💬 14 | [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) | 6.9k | 🟡 help wanted | 2026-08-26 |  |
 | [Reduce redundancy in generated OpenAPI definition names](https://github.com/FeatherCMS/feather/issues/125) | [FeatherCMS/feather](https://github.com/FeatherCMS/feather) | 607 | 🟢 beginner | 2026-08-25 |  |
 | [Toolbar buttons draw without their glass capsule on some Macs](https://github.com/termio-sh/termio/issues/371) | [termio-sh/termio](https://github.com/termio-sh/termio) | 535 | 🟡 help wanted | 2026-08-20 |  |
 | [Add Chromecast support?](https://github.com/iina/iina/issues/126) 💬 59 | [iina/iina](https://github.com/iina/iina) | 46.6k | 🟡 help wanted | 2026-08-15 | ⚠️ AI restricted |
-| [[RTL] Focus iOS: Arrow in the settings is pointing in the wrong direction](https://github.com/mozilla-mobile/firefox-ios/issues/25644) 💬 3 | [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 13.1k | 🟢 beginner | 2026-08-14 |  |
+| [[RTL] Focus iOS: Arrow in the settings is pointing in the wrong direction](https://github.com/mozilla-mobile/firefox-ios/issues/25644) 💬 3 | [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 13k | 🟢 beginner | 2026-08-14 |  |
 | [Heights in feet](https://github.com/open-meteo/open-meteo/issues/78) | [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) | 6.3k | 🟢 beginner | 2026-08-13 |  |
 | [Usage supports more agents](https://github.com/termio-sh/termio/issues/267) | [termio-sh/termio](https://github.com/termio-sh/termio) | 535 | 🟡 help wanted | 2026-08-13 |  |
-| [Suggestions view closes when attempting to scroll, when New Tab is set to Custom](https://github.com/mozilla-mobile/firefox-ios/issues/28385) 💬 1 | [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 13.1k | 🟢 beginner | 2026-08-12 |  |
+| [Suggestions view closes when attempting to scroll, when New Tab is set to Custom](https://github.com/mozilla-mobile/firefox-ios/issues/28385) 💬 1 | [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 13k | 🟢 beginner | 2026-08-12 |  |
 | [Cannot delete old token in iOS App](https://github.com/freeotp/freeotp-ios/issues/370) 💬 11 | [freeotp/freeotp-ios](https://github.com/freeotp/freeotp-ios) | 764 | 🟢 beginner | 2026-08-12 |  |
 | [Make file paths in a mouse-capturing TUI (Claude Code) clickable — hover underline + precision (help wanted)](https://github.com/termio-sh/termio/issues/15) 💬 1 | [termio-sh/termio](https://github.com/termio-sh/termio) | 535 | 🟡 help wanted | 2026-08-12 |  |
 | [希望支持显示每个会话的token速率和所有会话的总速率](https://github.com/erha19/ping-island/issues/211) 💬 1 | [erha19/ping-island](https://github.com/erha19/ping-island) | 1.1k | 🟡 help wanted | 2026-08-11 |  |
 | [✨ ⇧⌘T keyboard shortcut to bring back closed editor tabs](https://github.com/CodeEditApp/CodeEdit/issues/1656) 💬 3 | [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) | 23.1k | 🟢 beginner | 2026-08-10 |  |
 | [Feature Request: Enterprise Analytics - Add Base Usage Status for OpenAI Business Team Subscription](https://github.com/steipete/CodexBar/issues/1130) 💬 4 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | 22.1k | 🟡 help wanted | 2026-08-05 |  |
-| [[SR-13388] Add Fix-Its to "override" mismatch](https://github.com/swiftlang/swift/issues/55828) 💬 13 | [swiftlang/swift](https://github.com/swiftlang/swift) | 70.4k | 🟢 beginner | 2026-08-03 |  |
-| [[SR-5362] StdlibUnittest allows redeclaration of the same-named test; ignores all but last](https://github.com/swiftlang/swift/issues/47936) 💬 3 | [swiftlang/swift](https://github.com/swiftlang/swift) | 70.4k | 🟢 beginner | 2026-08-01 |  |
+| [[SR-13388] Add Fix-Its to "override" mismatch](https://github.com/swiftlang/swift/issues/55828) 💬 13 | [swiftlang/swift](https://github.com/swiftlang/swift) | 70.5k | 🟢 beginner | 2026-08-03 |  |
+| [[SR-5362] StdlibUnittest allows redeclaration of the same-named test; ignores all but last](https://github.com/swiftlang/swift/issues/47936) 💬 3 | [swiftlang/swift](https://github.com/swiftlang/swift) | 70.5k | 🟢 beginner | 2026-08-01 |  |
 | [[Bug] always open with mode failed to open zip file](https://github.com/idawnlight/ShichiZip/issues/50) 💬 3 | [idawnlight/ShichiZip](https://github.com/idawnlight/ShichiZip) | 960 | 🟡 help wanted | 2026-07-28 |  |
 | [Java2Swift: Generalize conformances of Java collection types to Swift sequence protocols](https://github.com/swiftlang/swift-java/issues/96) 💬 1 | [swiftlang/swift-java](https://github.com/swiftlang/swift-java) | 1.2k | 🟢 beginner | 2026-07-27 |  |
 | [Java2Swift: Improve diagnostics when we suppress import due to a missing Java class import](https://github.com/swiftlang/swift-java/issues/112) 💬 2 | [swiftlang/swift-java](https://github.com/swiftlang/swift-java) | 1.2k | 🟢 beginner | 2026-07-27 |  |
-| [[SR-12930] Add protocol extension to "Result where Success == Void" so that we can use .success()](https://github.com/swiftlang/swift/issues/55376) 💬 3 | [swiftlang/swift](https://github.com/swiftlang/swift) | 70.4k | 🟢 beginner | 2026-07-23 |  |
+| [[SR-12930] Add protocol extension to "Result where Success == Void" so that we can use .success()](https://github.com/swiftlang/swift/issues/55376) 💬 3 | [swiftlang/swift](https://github.com/swiftlang/swift) | 70.5k | 🟢 beginner | 2026-07-23 |  |
 | [Play sound when picking up colors](https://github.com/superhighfives/pika/issues/68) 💬 2 | [superhighfives/pika](https://github.com/superhighfives/pika) | 2.6k | 🟡 help wanted | 2026-07-23 |  |
-| [Add Rust/Cargo target directory cleanup (project-level)](https://github.com/bysiber/cleardisk/issues/3) 💬 1 | [bysiber/cleardisk](https://github.com/bysiber/cleardisk) | 709 | 🟢 beginner | 2026-07-22 |  |
+| [Add Rust/Cargo target directory cleanup (project-level)](https://github.com/bysiber/cleardisk/issues/3) 💬 1 | [bysiber/cleardisk](https://github.com/bysiber/cleardisk) | 708 | 🟢 beginner | 2026-07-22 |  |
 | [SDF 2D / 3D Rendering improvements - call for input / help](https://github.com/Fabric-Project/Fabric/issues/146) | [Fabric-Project/Fabric](https://github.com/Fabric-Project/Fabric) | 569 | 🟡 help wanted | 2026-07-22 |  |
 | [Remove underbar prefix from _NIOFileSystem](https://github.com/apple/swift-nio/issues/3052) 💬 14 | [apple/swift-nio](https://github.com/apple/swift-nio) | 8.5k | 🟢 beginner | 2026-07-21 |  |
 | [colors are not the correct ones](https://github.com/sw33tLie/macshot/issues/105) 💬 63 | [sw33tLie/macshot](https://github.com/sw33tLie/macshot) | 3.7k | 🟡 help wanted | 2026-07-10 |  |
@@ -100,7 +99,7 @@
 | [[BUG] Generated EventControllerKey.keyPressed doesn’t support returning Bool](https://github.com/moreSwift/swift-cross-ui/issues/594) 💬 1 | [moreSwift/swift-cross-ui](https://github.com/moreSwift/swift-cross-ui) | 1.8k | 🟡 help wanted | 2026-05-26 | 🤖 disclose AI use |
 | [Configurable Raise Delay With Focus-follows-mouse](https://github.com/ianyh/Amethyst/issues/638) 💬 4 | [ianyh/Amethyst](https://github.com/ianyh/Amethyst) | 16.3k | 🟢 beginner | 2026-05-21 |  |
 | [Enhance documentation](https://github.com/swiftwasm/WasmKit/issues/71) | [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit) | 507 | 🟢 beginner | 2026-05-21 |  |
-| [大佬，可否增加低版本macos的支持](https://github.com/bylinxx/MacCalendar/issues/34) 💬 1 | [bylinxx/MacCalendar](https://github.com/bylinxx/MacCalendar) | 858 | 🟡 help wanted | 2026-05-19 |  |
+| [大佬，可否增加低版本macos的支持](https://github.com/bylinxx/MacCalendar/issues/34) 💬 1 | [bylinxx/MacCalendar](https://github.com/bylinxx/MacCalendar) | 859 | 🟡 help wanted | 2026-05-19 |  |
 | [issue with external monitor DDC control](https://github.com/Ebullioscopic/Atoll/issues/274) 💬 2 | [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) | 4.8k | 🟡 help wanted | 2026-05-16 |  |
 | [Change code actions to provide functionality through 'SyntaxRefactoringCodeActionProvider'](https://github.com/swiftlang/sourcekit-lsp/issues/2628) 💬 4 | [swiftlang/sourcekit-lsp](https://github.com/swiftlang/sourcekit-lsp) | 3.9k | 🟢 beginner | 2026-05-12 |  |
 | [When quickly scrolling through a long list of search results, a fuckton of 'ruby' processes get spawned and fr](https://github.com/buresdv/Cork/issues/168) 💬 3 | [buresdv/Cork](https://github.com/buresdv/Cork) | 4.7k | 🟡 help wanted | 2026-05-11 | 📄 AI policy |
@@ -113,7 +112,7 @@
 | [[Feature] Mute OTA update](https://github.com/rooootdev/lara/issues/221) | [rooootdev/lara](https://github.com/rooootdev/lara) | 1.6k | 🟡 help wanted | 2026-05-05 |  |
 | [Allow replying to an audio message](https://github.com/element-hq/element-x-ios/issues/5485) | [element-hq/element-x-ios](https://github.com/element-hq/element-x-ios) | 948 | 🟢 beginner | 2026-04-29 | ⚠️ AI restricted |
 | [Backtrace: Display binary offset](https://github.com/swiftwasm/WasmKit/issues/155) | [swiftwasm/WasmKit](https://github.com/swiftwasm/WasmKit) | 507 | 🟢 beginner | 2026-04-23 |  |
-| [Jump back in section is hidden when opening a tab via "+" toolbar button](https://github.com/mozilla-mobile/firefox-ios/issues/27802) 💬 4 | [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 13.1k | 🟢 beginner | 2026-04-21 |  |
+| [Jump back in section is hidden when opening a tab via "+" toolbar button](https://github.com/mozilla-mobile/firefox-ios/issues/27802) 💬 4 | [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 13k | 🟢 beginner | 2026-04-21 |  |
 | [Restore app state on launch](https://github.com/TortugaPower/BookPlayer/issues/1158) 💬 2 | [TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer) | 2.2k | 🟡 help wanted | 2026-04-16 |  |
 | [GarageBand Loops Wiki needs updating](https://github.com/munki/munki/issues/1211) 💬 6 | [munki/munki](https://github.com/munki/munki) | 3.5k | 🟡 help wanted | 2026-04-15 | ✍️ CLA |
 | [Feature - show sample rate](https://github.com/BLeeEZ/amperfy/issues/657) 💬 1 | [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) | 1.8k | 🟢 beginner | 2026-04-15 |  |

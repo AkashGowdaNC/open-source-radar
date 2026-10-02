@@ -1,10 +1,10 @@
 # Ruby issues
 
-**97** open issues (74 labeled for beginners) across **29** active Ruby projects.
+**96** open issues (74 labeled for beginners) across **29** active Ruby projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-10-02 11:51 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-02 22:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -108,4 +108,3 @@
 | [[Hotkeys] Link to relevant user setting on keyboard shortcut page](https://github.com/e621ng/e621ng/issues/1762) 💬 3 | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 571 | 🟢 beginner | 2026-04-06 |  |
 | [Alias metatag names](https://github.com/e621ng/e621ng/issues/1758) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 571 | 🟢 beginner | 2026-04-06 |  |
 | [Prevent artist pages from being made if the corresponding tag is not in the artist category.](https://github.com/e621ng/e621ng/issues/1755) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 571 | 🟢 beginner | 2026-04-06 |  |
-| [Tracing updates for Ruby 2.6](https://github.com/jruby/jruby/issues/6149) 💬 4 | [jruby/jruby](https://github.com/jruby/jruby) | 3.9k | 🟡 help wanted | 2026-04-05 |  |
