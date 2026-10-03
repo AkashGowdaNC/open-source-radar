@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/c.xml)
 
-> Updated automatically on **2026-10-02 22:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-03 11:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,15 +12,17 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Variant analysis: 1 unfixed sibling safety gap in openssl](https://github.com/openssl/openssl/issues/33015) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-03 | 🤖 disclose AI use · ✍️ CLA |
+| [Hyperscroll razer naga v2 pro.](https://github.com/openrazer/openrazer/issues/2605) 💬 9 | [openrazer/openrazer](https://github.com/openrazer/openrazer) | 4.5k | 🟡 help wanted | 2026-10-03 |  |
+| [kew roadmap: "Project Joy"](https://github.com/ravachol/kew/issues/575) 💬 76 | [ravachol/kew](https://github.com/ravachol/kew) | 3.1k | 🟡 help wanted | 2026-10-03 |  |
+| [Filesystem time on stat from 'nftw' not faked](https://github.com/wolfcw/libfaketime/issues/476) 💬 4 | [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) | 3.1k | 🟡 help wanted | 2026-10-03 |  |
 | [[Feature Request] Automatic MPU AccessControlList (ACL) clean up on object deletion](https://github.com/FreeRTOS/FreeRTOS-Kernel/issues/1499) 💬 1 | [FreeRTOS/FreeRTOS-Kernel](https://github.com/FreeRTOS/FreeRTOS-Kernel) | 4.5k | 🟡 help wanted | 2026-10-02 | ✍️ CLA |
-| [kew roadmap: "Project Joy"](https://github.com/ravachol/kew/issues/575) 💬 74 | [ravachol/kew](https://github.com/ravachol/kew) | 3.1k | 🟡 help wanted | 2026-10-02 |  |
 | [gadgets/trace_malloc: Add missing documentation Guide section](https://github.com/inspektor-gadget/inspektor-gadget/issues/5632) 💬 2 | [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) | 2.9k | 🟢 beginner | 2026-10-02 |  |
 | [OpenSSL retains consumed TLS 1.3 stage secrets](https://github.com/openssl/openssl/issues/32213) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [get_crl callback: revocation reasons accumulation broken for multiple CDPs, causes X509_V_ERR_UNABLE_TO_GET_CR](https://github.com/openssl/openssl/issues/33055) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [Cleanup in EVP_SKEY from PKCS#12 files processing](https://github.com/openssl/openssl/issues/33041) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [SSL_load_client_CA_file ignores TRUSTED CERTIFICATE PEM blocks](https://github.com/openssl/openssl/issues/33020) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [PEM_read_bio_X509 does not read TRUSTED CERTIFICATE PEM blocks despite documentation](https://github.com/openssl/openssl/issues/33019) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
-| [Variant analysis: 1 unfixed sibling safety gap in openssl](https://github.com/openssl/openssl/issues/33015) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [Implement RFC 10032](https://github.com/openssl/openssl/issues/33064) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [Adding FAEST](https://github.com/open-quantum-safe/liboqs/issues/2101) 💬 14 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-01 |  |
 | [command palette can't find portable apps](https://github.com/microsoft/PowerToys/issues/40508) 💬 4 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.2k | 🟡 help wanted | 2026-09-30 |  |
@@ -29,7 +31,7 @@
 | [Make Wycheproof CI (network) failure resistant](https://github.com/open-quantum-safe/liboqs/issues/2495) 💬 3 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-09-30 |  |
 | [Bank MSB shouldn't always be ignored in XG mode](https://github.com/FluidSynth/fluidsynth/issues/1378) 💬 26 | [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) | 2.5k | 🟡 help wanted | 2026-09-29 |  |
 | [Allow all system tray icons to be displayed on the dock.](https://github.com/microsoft/PowerToys/issues/46232) 💬 9 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.2k | 🟡 help wanted | 2026-09-27 |  |
-| [[Experiment] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 39.1k | 🟡 help wanted | 2026-09-27 |  |
+| [[Experiment] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 39.2k | 🟡 help wanted | 2026-09-27 |  |
 | [openssl cms sign command does not support 'noattr' when 'digest' is used](https://github.com/openssl/openssl/issues/28743) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use · ✍️ CLA |
 | [[robustness] -purpose crlsign\|ocsphelper infers aux-blind X509_TRUST_COMPAT (x509_vfy.c:2621) → anchor REJECT](https://github.com/openssl/openssl/issues/32365) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use · ✍️ CLA |
 | [macOS: intermittent CONNECTION_IDLE during handshake on loopback under sustained connect load](https://github.com/microsoft/msquic/issues/6265) 💬 2 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-09-26 | ✍️ CLA |
@@ -58,7 +60,6 @@
 | [FreeSWITCH Not Compliant with RFC3515 - Not Processing REFER - $250 Bounty](https://github.com/signalwire/freeswitch/issues/592) 💬 6 | [signalwire/freeswitch](https://github.com/signalwire/freeswitch) | 5.2k | 🟡 help wanted | 2026-09-07 |  |
 | [[Feature Request] Support configurable additional HID interfaces](https://github.com/qmk/qmk_firmware/issues/26363) 💬 2 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-09-06 |  |
 | [Will open5gs team produce NEF(Network Exposure Function ) to meet MEC(edge computing) use case ？](https://github.com/open5gs/open5gs/issues/1663) 💬 2 | [open5gs/open5gs](https://github.com/open5gs/open5gs) | 2.7k | 🟡 help wanted | 2026-09-03 |  |
-| [Filesystem time on stat from 'nftw' not faked](https://github.com/wolfcw/libfaketime/issues/476) 💬 2 | [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) | 3.1k | 🟡 help wanted | 2026-09-02 |  |
 | [DOSBox-X translations 💬🌍](https://github.com/joncampbell123/dosbox-x/issues/2820) 💬 22 | [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) | 3.8k | 🟡 help wanted | 2026-09-01 |  |
 | [CmdPal: Bookmarks extension needs icon cache](https://github.com/microsoft/PowerToys/issues/41783) 💬 6 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.2k | 🟡 help wanted | 2026-08-31 |  |
 | [Implement connect redirect and bind redirect.](https://github.com/microsoft/ebpf-for-windows/issues/848) 💬 1 | [microsoft/ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) | 3.6k | 🟡 help wanted | 2026-08-31 | ✍️ CLA |
@@ -95,7 +96,6 @@
 | [Is there like a native C Library?](https://github.com/containers/bubblewrap/issues/626) 💬 5 | [containers/bubblewrap](https://github.com/containers/bubblewrap) | 8.9k | 🟡 help wanted | 2026-07-30 |  |
 | [[RFC] Lack of support for types none, exn and noexn.](https://github.com/wasm-micro-runtime/wasm-micro-runtime/issues/4814) | [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) | 6.1k | 🟡 help wanted | 2026-07-30 |  |
 | [RFC: Use the target_features section to verify compatibility](https://github.com/wasm-micro-runtime/wasm-micro-runtime/issues/4569) 💬 2 | [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) | 6.1k | 🟡 help wanted | 2026-07-30 |  |
-| [Hyperscroll razer naga v2 pro.](https://github.com/openrazer/openrazer/issues/2605) 💬 9 | [openrazer/openrazer](https://github.com/openrazer/openrazer) | 4.5k | 🟡 help wanted | 2026-07-30 |  |
 | [[Bug] splitkb/halcyon/elora/rev2 fails to compile](https://github.com/qmk/qmk_firmware/issues/26365) 💬 3 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-07-28 |  |
 | [Hope to support wolfSSL encryption](https://github.com/microsoft/msquic/issues/6175) 💬 1 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-07-28 | ✍️ CLA |
 | [[BUG] sockops port error](https://github.com/eunomia-bpf/bpf-developer-tutorial/issues/115) 💬 1 | [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) | 4.3k | 🟡 help wanted | 2026-07-26 |  |
@@ -111,7 +111,7 @@
 | [最近测试发现TDengine的WAL_LEVEL设置为2时，插入数据后并不会主动进行刷盘](https://github.com/taosdata/TDengine/issues/33659) 💬 4 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.1k | 🟡 help wanted | 2026-07-17 |  |
 | [Unify WAMR_BUILD_TARGET auto-detection across all CMake build files](https://github.com/wasm-micro-runtime/wasm-micro-runtime/issues/4966) 💬 1 | [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) | 6.1k | 🟡 help wanted | 2026-07-17 |  |
 | [[Run] Improve error message for file not found](https://github.com/microsoft/PowerToys/issues/11073) 💬 1 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.2k | 🟡 help wanted | 2026-07-15 |  |
-| [Add IP addresses in log messages](https://github.com/coturn/coturn/issues/756) 💬 8 | [coturn/coturn](https://github.com/coturn/coturn) | 14.4k | 🟡 help wanted | 2026-07-15 |  |
+| [Add IP addresses in log messages](https://github.com/coturn/coturn/issues/756) 💬 8 | [coturn/coturn](https://github.com/coturn/coturn) | 14.5k | 🟡 help wanted | 2026-07-15 |  |
 | [OSX compatibility](https://github.com/cboxdoerfer/fsearch/issues/7) 💬 14 | [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) | 4.4k | 🟡 help wanted | 2026-07-14 |  |
 | [Tap to change page](https://github.com/pwmt/zathura/issues/938) 💬 4 | [pwmt/zathura](https://github.com/pwmt/zathura) | 3.3k | 🟡 help wanted | 2026-07-10 |  |
 | [Sioyek does not start](https://github.com/ahrm/sioyek/issues/1283) 💬 18 | [ahrm/sioyek](https://github.com/ahrm/sioyek) | 9.9k | 🟡 help wanted | 2026-07-09 |  |

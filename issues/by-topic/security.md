@@ -1,8 +1,8 @@
 # Security and privacy issues
 
-**213** open issues (106 labeled for beginners) across **56** projects tagged with topics like `security`, `privacy`, `cryptography`, `encryption`, `authentication`, `oauth`.
+**213** open issues (105 labeled for beginners) across **57** projects tagged with topics like `security`, `privacy`, `cryptography`, `encryption`, `authentication`, `oauth`.
 
-> Updated automatically on **2026-10-02 22:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-03 11:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,12 +10,13 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Variant analysis: 1 unfixed sibling safety gap in openssl](https://github.com/openssl/openssl/issues/33015) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-03 | 🤖 disclose AI use · ✍️ CLA |
+| [IzzyOnDroid releases lack armv8/aarch64 APKs](https://github.com/ethereal-developers/OpenScan/issues/125) 💬 1 | [ethereal-developers/OpenScan](https://github.com/ethereal-developers/OpenScan) | 1.8k | 🟡 help wanted | 2026-10-03 |  |
 | [OpenSSL retains consumed TLS 1.3 stage secrets](https://github.com/openssl/openssl/issues/32213) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [get_crl callback: revocation reasons accumulation broken for multiple CDPs, causes X509_V_ERR_UNABLE_TO_GET_CR](https://github.com/openssl/openssl/issues/33055) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [Cleanup in EVP_SKEY from PKCS#12 files processing](https://github.com/openssl/openssl/issues/33041) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [SSL_load_client_CA_file ignores TRUSTED CERTIFICATE PEM blocks](https://github.com/openssl/openssl/issues/33020) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [PEM_read_bio_X509 does not read TRUSTED CERTIFICATE PEM blocks despite documentation](https://github.com/openssl/openssl/issues/33019) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
-| [Variant analysis: 1 unfixed sibling safety gap in openssl](https://github.com/openssl/openssl/issues/33015) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [Implement RFC 10032](https://github.com/openssl/openssl/issues/33064) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [💡 bottom Navigation bar {ui/ux improvement for phone: 6a/100}](https://github.com/super-productivity/super-productivity/issues/10095) 💬 2 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.5k | 🟡 help wanted | 2026-10-01 |  |
 | [User country map: allow to zoom in countries when no clickable area](https://github.com/matomo-org/matomo/issues/11319) 💬 5 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 21.9k | 🟡 help wanted | 2026-10-01 |  |
@@ -35,7 +36,6 @@
 | [Hybrid devices: UI shifts when switching between touch and mouse input (repro needed)](https://github.com/super-productivity/super-productivity/issues/10152) | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.5k | 🟡 help wanted | 2026-09-28 |  |
 | [Replace UTF code](https://github.com/zeek/zeek/issues/1756) 💬 9 | [zeek/zeek](https://github.com/zeek/zeek) | 8.1k | 🟢 beginner | 2026-09-28 | 🤖 disclose AI use |
 | [openssl cms sign command does not support 'noattr' when 'digest' is used](https://github.com/openssl/openssl/issues/28743) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use · ✍️ CLA |
-| [Ability to add Guidepost as POI](https://github.com/organicmaps/organicmaps/issues/13636) | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.5k | 🟢 beginner | 2026-09-27 | 🔏 DCO |
 | [Investigate if other banners have the same behavior of /etc/motd banner as described in #11826](https://github.com/ComplianceAsCode/content/issues/11844) 💬 1 | [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) | 2.8k | 🟢 beginner | 2026-09-27 |  |
 | [Feature: Self-hosted sync server](https://github.com/simonoppowa/OpenNutriTracker/issues/79) 💬 5 | [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) | 2.6k | 🟡 help wanted | 2026-09-27 |  |
 | [Submit OpenNutriTracker to the F-Droid repository](https://github.com/simonoppowa/OpenNutriTracker/issues/575) 💬 4 | [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) | 2.6k | 🟢 beginner | 2026-09-27 |  |
@@ -54,7 +54,7 @@
 | [please support Chinese](https://github.com/LeanBitLab/LeanType/issues/235) 💬 6 | [LeanBitLab/LeanType](https://github.com/LeanBitLab/LeanType) | 1k | 🟡 help wanted | 2026-09-23 |  |
 | [With external engine, getting DHE copy parameter's failure.](https://github.com/openssl/openssl/issues/23137) 💬 12 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-21 | 🤖 disclose AI use · ✍️ CLA |
 | [Building libqasan for musl](https://github.com/AFLplusplus/AFLplusplus/issues/2832) 💬 6 | [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) | 6.8k | 🟢 beginner | 2026-09-21 |  |
-| [Some icons are blurry or inconsistent in size on Android 16 / Fairphone](https://github.com/organicmaps/organicmaps/issues/13596) | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.5k | 🟢 beginner | 2026-09-20 | 🔏 DCO |
+| [Some icons are blurry or inconsistent in size on Android 16 / Fairphone](https://github.com/organicmaps/organicmaps/issues/13596) | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.6k | 🟢 beginner | 2026-09-20 | 🔏 DCO |
 | [Two maps created with 'om', seem to share the same underlying buffer](https://github.com/rizinorg/rizin/issues/6771) 💬 1 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟡 help wanted | 2026-09-20 | 🤖 disclose AI use |
 | [[Feature Request] dns protection](https://github.com/0xCUB3/wBlock/issues/716) 💬 3 | [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) | 3k | 🟡 help wanted | 2026-09-19 |  |
 | [[Bug] Opening popup triggers extension mode flip](https://github.com/openstyles/stylus/issues/1810) 💬 6 | [openstyles/stylus](https://github.com/openstyles/stylus) | 6.9k | 🟡 help wanted | 2026-09-18 |  |
@@ -62,13 +62,13 @@
 | [Update speed tests to measure GPU performance for cuPQC code](https://github.com/open-quantum-safe/liboqs/issues/2160) 💬 42 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-09-16 |  |
 | [[Feature]: InCallService - Add a option to whitelist allowed third-party apps package name](https://github.com/kitsumed/ShizuCallRecorder/issues/46) 💬 3 | [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) | 1.7k | 🟡 help wanted | 2026-09-11 | 🤖 disclose AI use |
 | [New audit: repojacking](https://github.com/zizmorcore/zizmor/issues/479) 💬 9 | [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) | 6.6k | 🟢 beginner | 2026-09-10 | 📄 AI policy |
-| [Add Bluesky and Mastodon to the Edit Place screen](https://github.com/organicmaps/organicmaps/issues/10142) 💬 6 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.5k | 🟢 beginner | 2026-09-09 | 🔏 DCO |
-| [Translate "more..."](https://github.com/organicmaps/organicmaps/issues/13214) 💬 1 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.5k | 🟢 beginner | 2026-09-09 | 🔏 DCO |
+| [Add Bluesky and Mastodon to the Edit Place screen](https://github.com/organicmaps/organicmaps/issues/10142) 💬 6 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.6k | 🟢 beginner | 2026-09-09 | 🔏 DCO |
+| [Translate "more..."](https://github.com/organicmaps/organicmaps/issues/13214) 💬 1 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.6k | 🟢 beginner | 2026-09-09 | 🔏 DCO |
 | [Implement '--max-files' flag to limit the number of files transferred](https://github.com/rclone/rclone/issues/4118) 💬 8 | [rclone/rclone](https://github.com/rclone/rclone) | 60.1k | 🟡 help wanted | 2026-09-08 |  |
 | [Support Unified Push](https://github.com/ungoogled-software/ungoogled-chromium/issues/3675) 💬 20 | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-09-07 |  |
 | [Support Bearer Tokens for authenticating instead of using a token in basic auth](https://github.com/Graylog2/graylog2-server/issues/5167) 💬 2 | [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) | 8.2k | 🟢 beginner | 2026-09-07 |  |
 | [Support import of OpenVEX statements](https://github.com/DependencyTrack/dependency-track/issues/7094) 💬 8 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟢 beginner | 2026-09-07 | ⚠️ AI restricted · 🔏 DCO |
-| [ci: enable the use of a dependancy bot](https://github.com/ImranR98/Obtainium/issues/3275) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.1k | 🟢 beginner | 2026-09-06 | 📄 AI policy |
+| [ci: enable the use of a dependancy bot](https://github.com/ImranR98/Obtainium/issues/3275) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.2k | 🟢 beginner | 2026-09-06 | 📄 AI policy |
 | [include git commit id in status information and artifact README](https://github.com/yacy/yacy_search_server/issues/466) 💬 1 | [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) | 4.1k | 🟢 beginner | 2026-09-06 |  |
 | [Add flag to disable Web Audio API](https://github.com/ungoogled-software/ungoogled-chromium/issues/3944) | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-09-04 |  |
 | [[Flatpak] Auth: Failed to launch: libsecret_error: Failed to unlock the keyring](https://github.com/ente/ente/issues/6564) 💬 6 | [ente/ente](https://github.com/ente/ente) | 29.2k | 🟡 help wanted | 2026-09-03 |  |
@@ -115,9 +115,9 @@
 | [Update stats on Dashboard in real-time](https://github.com/AdguardTeam/AdGuardHome/issues/1739) 💬 10 | [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | 37.2k | 🟡 help wanted | 2026-08-03 |  |
 | [Wrong OS/ARCH for Docker Image](https://github.com/AdguardTeam/AdGuardHome/issues/1265) 💬 11 | [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | 37.2k | 🟡 help wanted | 2026-08-03 |  |
 | [Feature flag to enable QUIC for custom CAs](https://github.com/ungoogled-software/ungoogled-chromium/issues/3894) | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-08-01 |  |
-| [SOCKS5 Proxy/Orbot Support](https://github.com/ImranR98/Obtainium/issues/121) 💬 9 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.1k | 🟡 help wanted | 2026-07-31 | 📄 AI policy |
-| [[android] Add instructions on how to add a missing TTS language](https://github.com/organicmaps/organicmaps/issues/6210) 💬 4 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.5k | 🟢 beginner | 2026-07-30 | 🔏 DCO |
-| [Distance to stop in route](https://github.com/organicmaps/organicmaps/issues/10784) 💬 10 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.5k | 🟢 beginner | 2026-07-30 | 🔏 DCO |
+| [SOCKS5 Proxy/Orbot Support](https://github.com/ImranR98/Obtainium/issues/121) 💬 9 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.2k | 🟡 help wanted | 2026-07-31 | 📄 AI policy |
+| [[android] Add instructions on how to add a missing TTS language](https://github.com/organicmaps/organicmaps/issues/6210) 💬 4 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.6k | 🟢 beginner | 2026-07-30 | 🔏 DCO |
+| [Distance to stop in route](https://github.com/organicmaps/organicmaps/issues/10784) 💬 10 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.6k | 🟢 beginner | 2026-07-30 | 🔏 DCO |
 | [Visualize if a user is federated or local](https://github.com/zitadel/zitadel/issues/4594) 💬 2 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-30 |  |
 | [General improvements for mobile view](https://github.com/zitadel/zitadel/issues/4834) 💬 2 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-30 |  |
 | [Add/Change authorization behaviour in console](https://github.com/zitadel/zitadel/issues/4952) 💬 3 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-30 |  |
@@ -168,7 +168,7 @@
 | [asymmetric key encryption in pkcs11 module does not work](https://github.com/OpenSC/OpenSC/issues/3144) 💬 2 | [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) | 3.1k | 🟢 beginner | 2026-06-26 | 🤖 disclose AI use |
 | [[Feature]: Migrate from SharedPreferences to Preferences DataStore](https://github.com/kitsumed/ShizuCallRecorder/issues/3) | [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) | 1.7k | 🟡 help wanted | 2026-06-26 | 🤖 disclose AI use |
 | [Notify user, when response of Hub Authentication takes a long time](https://github.com/cryptomator/cryptomator/issues/3162) 💬 3 | [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) | 16.2k | 🟢 beginner | 2026-06-24 |  |
-| [Can you added TV Version armv7 + 64](https://github.com/ImranR98/Obtainium/issues/2924) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.1k | 🟡 help wanted | 2026-06-23 | 📄 AI policy |
+| [Can you added TV Version armv7 + 64](https://github.com/ImranR98/Obtainium/issues/2924) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.2k | 🟡 help wanted | 2026-06-23 | 📄 AI policy |
 | [Bring back the scrollable-tabstrip flag](https://github.com/ungoogled-software/ungoogled-chromium/issues/3832) | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-06-22 |  |
 | [Segments \| Improve geographical segmentations: Continent & Regions segment are not clear](https://github.com/matomo-org/matomo/issues/11261) 💬 4 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 21.9k | 🟡 help wanted | 2026-06-22 |  |
 | [PT BR - Portuguese Brazil](https://github.com/itsfatduck/optimizerDuck/issues/34) 💬 1 | [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) | 9.8k | 🟢 beginner | 2026-06-16 |  |
@@ -185,7 +185,7 @@
 | ['rz-asm' assembly results may be not correct](https://github.com/rizinorg/rizin/issues/1834) 💬 8 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-07 | 🤖 disclose AI use |
 | [XAP: add missing opcodes](https://github.com/rizinorg/rizin/issues/4661) 💬 5 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-07 | 🤖 disclose AI use |
 | [CPU profiles: add the '.comment' value as rizin comment near the flag, if defined](https://github.com/rizinorg/rizin/issues/1671) 💬 13 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-07 | 🤖 disclose AI use |
-| [Add rendering man_made=tower](https://github.com/organicmaps/organicmaps/issues/5521) 💬 7 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.5k | 🟢 beginner | 2026-06-06 | 🔏 DCO |
+| [Add rendering man_made=tower](https://github.com/organicmaps/organicmaps/issues/5521) 💬 7 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.6k | 🟢 beginner | 2026-06-06 | 🔏 DCO |
 | [Publish icon is upside down](https://github.com/MISP/MISP/issues/1179) 💬 3 | [MISP/MISP](https://github.com/MISP/MISP) | 6.6k | 🟢 beginner | 2026-06-05 | ✍️ CLA |
 | [Selenium tests: check console output.](https://github.com/searxng/searxng/issues/338) 💬 1 | [searxng/searxng](https://github.com/searxng/searxng) | 37.9k | 🟢 beginner | 2026-06-04 | 📄 AI policy |
 | [[FR] RTL BiDi Support](https://github.com/PrivateBin/PrivateBin/issues/1849) 💬 1 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | 8.6k | 🟡 help wanted | 2026-06-04 | 🤖 disclose AI use |

@@ -1,8 +1,8 @@
 # Science and research issues
 
-**60** open issues (40 labeled for beginners) across **18** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
+**61** open issues (40 labeled for beginners) across **18** projects tagged with topics like `science`, `scientific-computing`, `bioinformatics`, `physics`, `astronomy`, `chemistry`.
 
-> Updated automatically on **2026-10-02 22:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-03 11:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -22,6 +22,7 @@
 | [OpenRocket on Linux - very odd filenames under ~/.java/.userPrefs/OpenRocket/favoritePresets/](https://github.com/openrocket/openrocket/issues/3335) 💬 2 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | 3.1k | 🟢 beginner | 2026-09-19 | 📄 AI policy |
 | [Crash just after loading screen due to 'ERROR: Parameter "tex" is null'](https://github.com/Revolutionary-Games/Thrive/issues/6981) 💬 8 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.7k | 🟡 help wanted | 2026-09-18 |  |
 | [Core.bitcast to LLVMPtr from Float64 generates invalid inttoptr, aborts compilation](https://github.com/JuliaLang/julia/issues/63218) 💬 3 | [JuliaLang/julia](https://github.com/JuliaLang/julia) | 49.2k | 🟢 beginner | 2026-09-17 | 🤖 disclose AI use |
+| [Mean Standardized Log Loss (MSLL) for uncertainty aware regression models](https://github.com/scikit-learn/scikit-learn/issues/21665) 💬 16 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 67.5k | 🟡 help wanted | 2026-09-12 | 🤖 disclose AI use |
 | [all *.json files are interpreted as objects](https://github.com/OpenRCT2/OpenRCT2/issues/16807) 💬 3 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.3k | 🟢 beginner | 2026-09-12 |  |
 | [Consensus Index for Clustering Model Selection](https://github.com/scikit-learn/scikit-learn/issues/11778) 💬 7 | [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) | 67.5k | 🟡 help wanted | 2026-09-10 | 🤖 disclose AI use |
 | [When you change the objective in a scenario that you have already failed it does not remove the failed objecti](https://github.com/OpenRCT2/OpenRCT2/issues/16510) 💬 4 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.3k | 🟢 beginner | 2026-09-09 |  |

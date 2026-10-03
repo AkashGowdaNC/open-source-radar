@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/shell.xml)
 
-> Updated automatically on **2026-10-02 22:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-03 11:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,9 +12,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Change the LineageOS Updater app to link to our download server](https://github.com/lineageos4microg/docker-lineage-cicd/issues/935) 💬 5 | [lineageos4microg/docker-lineage-cicd](https://github.com/lineageos4microg/docker-lineage-cicd) | 558 | 🟡 help wanted | 2026-10-03 |  |
 | [[arm64/box64] BDS 1.26.51.1 NetherNet TLS handshake fails with InitialConnection-13](https://github.com/itzg/docker-minecraft-bedrock-server/issues/680) 💬 8 | [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) | 1.9k | 🟡 help wanted | 2026-10-02 |  |
 | [App Request:IPTVnator](https://github.com/wimpysworld/deb-get/issues/2003) 💬 2 | [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) | 1.8k | 🟢 beginner | 2026-10-02 |  |
-| [Change the LineageOS Updater app to link to our download server](https://github.com/lineageos4microg/docker-lineage-cicd/issues/935) 💬 4 | [lineageos4microg/docker-lineage-cicd](https://github.com/lineageos4microg/docker-lineage-cicd) | 558 | 🟡 help wanted | 2026-10-02 |  |
 | [App Request: Limusic](https://github.com/wimpysworld/deb-get/issues/2040) | [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) | 1.8k | 🟢 beginner | 2026-10-01 |  |
 | [Super basic question about manually setting scaling](https://github.com/shibco/ableton-linux/issues/325) 💬 9 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 621 | 🟡 help wanted | 2026-10-01 |  |
 | [boot-*.cmd: one failing DT overlay discards every selected overlay for that boot](https://github.com/armbian/build/issues/10862) 💬 1 | [armbian/build](https://github.com/armbian/build) | 5.5k | 🟢 beginner | 2026-09-30 |  |
@@ -22,13 +22,13 @@
 | [[Installer] Add CHANGE-ME](https://github.com/webinstall/webi-installers/issues/1150) | [webinstall/webi-installers](https://github.com/webinstall/webi-installers) | 3k | 🟢 beginner | 2026-09-29 |  |
 | [[Installer] Add CHANGE-ME](https://github.com/webinstall/webi-installers/issues/1149) | [webinstall/webi-installers](https://github.com/webinstall/webi-installers) | 3k | 🟢 beginner | 2026-09-29 |  |
 | [[Installer] Add CHANGE-ME](https://github.com/webinstall/webi-installers/issues/1148) | [webinstall/webi-installers](https://github.com/webinstall/webi-installers) | 3k | 🟢 beginner | 2026-09-29 |  |
-| [PCIe Gen 3/4 support](https://github.com/amoghmunikote/cmpunlocker/issues/9) 💬 13 | [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) | 692 | 🟡 help wanted | 2026-09-29 |  |
+| [PCIe Gen 3/4 support](https://github.com/amoghmunikote/cmpunlocker/issues/9) 💬 13 | [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) | 693 | 🟡 help wanted | 2026-09-29 |  |
 | [[FEATURE] Node Affinity support for longhorn component deployment](https://github.com/longhorn/longhorn/issues/6035) 💬 2 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟢 beginner | 2026-09-28 | 🔏 DCO |
 | [[BUG] v2 volumes get stuck in unknown loading state if all nodes are labeled with 'disable-v2-data-engine=true](https://github.com/longhorn/longhorn/issues/11831) 💬 9 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟢 beginner | 2026-09-28 | 🔏 DCO |
 | [[IMPROVEMENT] Implementing CLI Checks for Critical Resource Labels and Fields](https://github.com/longhorn/longhorn/issues/9458) 💬 2 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟢 beginner | 2026-09-28 | 🔏 DCO |
 | [[IMPROVEMENT] share-manager-pvc should have its own toleration setting or nodeaffinity for replica zones](https://github.com/longhorn/longhorn/issues/6509) 💬 1 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟢 beginner | 2026-09-28 | 🔏 DCO |
 | [[FEATURE] 'longhornctl' supports node maintenance](https://github.com/longhorn/longhorn/issues/8799) | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟡 help wanted | 2026-09-28 | 🔏 DCO |
-| [Missing icon: Lap](https://github.com/SylEleuth/gruvbox-plus-icon-pack/issues/556) | [SylEleuth/gruvbox-plus-icon-pack](https://github.com/SylEleuth/gruvbox-plus-icon-pack) | 797 | 🟡 help wanted | 2026-09-28 |  |
+| [Missing icon: Lap](https://github.com/SylEleuth/gruvbox-plus-icon-pack/issues/556) | [SylEleuth/gruvbox-plus-icon-pack](https://github.com/SylEleuth/gruvbox-plus-icon-pack) | 798 | 🟡 help wanted | 2026-09-28 |  |
 | [[Bug]: uInitrd CRC mismatch in community images for Orange Pi Zero3 (sun50iw9)](https://github.com/armbian/build/issues/10701) 💬 2 | [armbian/build](https://github.com/armbian/build) | 5.5k | 🟢 beginner | 2026-09-27 |  |
 | [Investigate if other banners have the same behavior of /etc/motd banner as described in #11826](https://github.com/ComplianceAsCode/content/issues/11844) 💬 1 | [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) | 2.8k | 🟢 beginner | 2026-09-27 |  |
 | [Server will not not respond on UDPv4, even when using ENABLE_BDS_V6BIND_FIX](https://github.com/itzg/docker-minecraft-bedrock-server/issues/684) 💬 7 | [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) | 1.9k | 🟡 help wanted | 2026-09-27 |  |
@@ -61,7 +61,7 @@
 | [App Request: Biopass](https://github.com/wimpysworld/deb-get/issues/2005) | [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) | 1.8k | 🟢 beginner | 2026-09-07 |  |
 | [Ableton-Linux Update resulted in Regressions on SteamOS](https://github.com/shibco/ableton-linux/issues/297) 💬 52 | [shibco/ableton-linux](https://github.com/shibco/ableton-linux) | 621 | 🟡 help wanted | 2026-09-07 |  |
 | [v4.0 post-release polish: event-count arithmetic + test cleanup trap](https://github.com/sangrokjung/claude-forge/issues/81) 💬 1 | [sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge) | 845 | 🟢 beginner | 2026-09-06 |  |
-| [NVLink](https://github.com/amoghmunikote/cmpunlocker/issues/13) 💬 6 | [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) | 692 | 🟡 help wanted | 2026-09-04 |  |
+| [NVLink](https://github.com/amoghmunikote/cmpunlocker/issues/13) 💬 6 | [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) | 693 | 🟡 help wanted | 2026-09-04 |  |
 | [Refresh CHYT benchmark results](https://github.com/ClickHouse/ClickBench/issues/1459) | [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) | 1.1k | 🟡 help wanted | 2026-09-03 |  |
 | [Leaks user passwords via parameter expansion of variables in command arguments and command substitution](https://github.com/Macjutsu/super/issues/301) 💬 4 | [Macjutsu/super](https://github.com/Macjutsu/super) | 899 | 🟡 help wanted | 2026-09-03 |  |
 | [Switching Go version when process.env["GOROOT"] is set is unsupported.](https://github.com/go-nv/goenv/issues/367) 💬 5 | [go-nv/goenv](https://github.com/go-nv/goenv) | 2.5k | 🟡 help wanted | 2026-08-31 |  |
@@ -87,7 +87,7 @@
 | ["🙋 问题交流。。。 \| [Question] Some question..."请问，如何查看当前的应用版本号啊？](https://github.com/tty228/luci-app-wechatpush/issues/386) 💬 1 | [tty228/luci-app-wechatpush](https://github.com/tty228/luci-app-wechatpush) | 1.4k | 🟡 help wanted | 2026-08-13 |  |
 | [[Feature Request]: Auto max bit color depth for rockchip devices](https://github.com/armbian/build/issues/9415) 💬 3 | [armbian/build](https://github.com/armbian/build) | 5.5k | 🟢 beginner | 2026-08-12 |  |
 | [[Feature Request]: Stable 6.1 kernel build for Radxa Dragon Q6A](https://github.com/armbian/build/issues/9511) 💬 2 | [armbian/build](https://github.com/armbian/build) | 5.5k | 🟢 beginner | 2026-08-12 |  |
-| [Missing icon: Psychonauts 2](https://github.com/SylEleuth/gruvbox-plus-icon-pack/issues/350) 💬 3 | [SylEleuth/gruvbox-plus-icon-pack](https://github.com/SylEleuth/gruvbox-plus-icon-pack) | 797 | 🟡 help wanted | 2026-08-12 |  |
+| [Missing icon: Psychonauts 2](https://github.com/SylEleuth/gruvbox-plus-icon-pack/issues/350) 💬 3 | [SylEleuth/gruvbox-plus-icon-pack](https://github.com/SylEleuth/gruvbox-plus-icon-pack) | 798 | 🟡 help wanted | 2026-08-12 |  |
 | [Thank you for this awesome project](https://github.com/Frogging-Family/linux-tkg/issues/262) 💬 2 | [Frogging-Family/linux-tkg](https://github.com/Frogging-Family/linux-tkg) | 1.6k | 🟢 beginner | 2026-08-09 |  |
 | [Place to share proxy information](https://github.com/WhatsApp/proxy/issues/92) 💬 15 | [WhatsApp/proxy](https://github.com/WhatsApp/proxy) | 2.4k | 🟢 beginner | 2026-08-08 | ✍️ CLA |
 | [App Request: jtk](https://github.com/wimpysworld/deb-get/issues/1914) 💬 2 | [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) | 1.8k | 🟢 beginner | 2026-08-04 |  |
@@ -135,7 +135,7 @@
 | [[feature] ESNI (Encrypted Server Name Indication)](https://github.com/testssl/testssl.sh/issues/1641) 💬 4 | [testssl/testssl.sh](https://github.com/testssl/testssl.sh) | 9.2k | 🟡 help wanted | 2026-05-02 | 🤖 disclose AI use |
 | [Have an official location for system-wide user-installed plugins](https://github.com/fullstaq-ruby/server-edition/issues/24) 💬 4 | [fullstaq-ruby/server-edition](https://github.com/fullstaq-ruby/server-edition) | 630 | 🟢 beginner | 2026-04-25 |  |
 | [Documentation for .ruby-variant](https://github.com/fullstaq-ruby/server-edition/issues/30) 💬 2 | [fullstaq-ruby/server-edition](https://github.com/fullstaq-ruby/server-edition) | 630 | 🟢 beginner | 2026-04-25 |  |
-| [Can you please do for GetX](https://github.com/evanca/flutter-ai-rules/issues/2) | [evanca/flutter-ai-rules](https://github.com/evanca/flutter-ai-rules) | 645 | 🟢 beginner | 2026-04-18 |  |
+| [Can you please do for GetX](https://github.com/evanca/flutter-ai-rules/issues/2) | [evanca/flutter-ai-rules](https://github.com/evanca/flutter-ai-rules) | 646 | 🟢 beginner | 2026-04-18 |  |
 | [Bug: setup.sh fails if Resolve's installer path contains space](https://github.com/zelikos/davincibox/issues/253) 💬 3 | [zelikos/davincibox](https://github.com/zelikos/davincibox) | 1k | 🟢 beginner | 2026-04-17 |  |
 | [[建议] 推荐 WeChat Bridge 作为自定义推送后端方案（附完整配置与截图）](https://github.com/tty228/luci-app-wechatpush/issues/389) | [tty228/luci-app-wechatpush](https://github.com/tty228/luci-app-wechatpush) | 1.4k | 🟡 help wanted | 2026-04-14 |  |
 | [Add suffix (timestamp) to the log filename](https://github.com/nestybox/sysbox/issues/143) 💬 1 | [nestybox/sysbox](https://github.com/nestybox/sysbox) | 3.9k | 🟢 beginner | 2026-04-10 | 🔏 DCO |

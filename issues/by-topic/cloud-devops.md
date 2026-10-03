@@ -1,8 +1,8 @@
 # Cloud, DevOps and infrastructure issues
 
-**491** open issues (199 labeled for beginners) across **132** projects tagged with topics like `devops`, `kubernetes`, `docker`, `cloud`, `infrastructure`, `terraform`.
+**484** open issues (193 labeled for beginners) across **132** projects tagged with topics like `devops`, `kubernetes`, `docker`, `cloud`, `infrastructure`, `terraform`.
 
-> Updated automatically on **2026-10-02 22:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-03 11:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,17 +10,14 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [[Bug] Cannot load qwen3-vl series with lora adapter on vllm.](https://github.com/unslothai/unsloth/issues/3560) 💬 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.1k | 🟢 beginner | 2026-10-02 |  |
-| [[Feature] Add FT support for the Qwen3-TTS model.](https://github.com/unslothai/unsloth/issues/3951) 💬 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.1k | 🟢 beginner | 2026-10-02 |  |
+| [[Accessibility issue] Template variables: No designator for mandatory fields in forms (MAS issue: 258655)](https://github.com/grafana/grafana/issues/73397) 💬 4 | [grafana/grafana](https://github.com/grafana/grafana) | 77k | 🟡 help wanted | 2026-10-03 | ✍️ CLA |
+| [[Executions] Bulk action bar should only enable actions that all selected executions can accept](https://github.com/kestra-io/kestra/issues/19930) 💬 9 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.9k | 🟢 beginner | 2026-10-03 |  |
+| [[UI] Add a select tab dropdown on the execution page, same as flow](https://github.com/kestra-io/kestra/issues/17964) 💬 7 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.9k | 🟢 beginner | 2026-10-03 |  |
+| [[kbn-evals] CLI profile flags hide that they control scores and traces](https://github.com/elastic/kibana/issues/273015) 💬 3 | [elastic/kibana](https://github.com/elastic/kibana) | 21.3k | 🟢 beginner | 2026-10-03 | ⚠️ AI restricted |
+| [[Bug] Cannot load qwen3-vl series with lora adapter on vllm.](https://github.com/unslothai/unsloth/issues/3560) 💬 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.2k | 🟢 beginner | 2026-10-02 |  |
+| [[Feature] Add FT support for the Qwen3-TTS model.](https://github.com/unslothai/unsloth/issues/3951) 💬 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.2k | 🟢 beginner | 2026-10-02 |  |
+| [Dark mode: Toggle not visible](https://github.com/ToolJet/ToolJet/issues/18146) 💬 4 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟢 beginner | 2026-10-02 | 🤖 disclose AI use |
 | [Add machine-readable output to helm lint](https://github.com/helm/helm/issues/32694) 💬 3 | [helm/helm](https://github.com/helm/helm) | 30.3k | 🟡 help wanted | 2026-10-02 | 🔏 DCO |
-| [Add unit tests for the chart colour schemes](https://github.com/kestra-io/kestra/issues/20190) 💬 5 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.8k | 🟢 beginner | 2026-10-02 |  |
-| [Add unit tests for the design system useTheme](https://github.com/kestra-io/kestra/issues/20200) 💬 7 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.8k | 🟢 beginner | 2026-10-02 |  |
-| [Add unit tests for the object helpers in utils.ts](https://github.com/kestra-io/kestra/issues/20178) 💬 7 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.8k | 🟢 beginner | 2026-10-02 |  |
-| [Add unit tests for the byte-size formatting helpers](https://github.com/kestra-io/kestra/issues/20176) 💬 7 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.8k | 🟢 beginner | 2026-10-02 |  |
-| [Add unit tests for trackSavedFilter](https://github.com/kestra-io/kestra/issues/20193) 💬 5 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.8k | 🟢 beginner | 2026-10-02 |  |
-| [Add unit tests for useTaskIcon](https://github.com/kestra-io/kestra/issues/20199) 💬 5 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.8k | 🟢 beginner | 2026-10-02 |  |
-| [[Executions] Bulk action bar should only enable actions that all selected executions can accept](https://github.com/kestra-io/kestra/issues/19930) 💬 8 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.8k | 🟢 beginner | 2026-10-02 |  |
-| [The bundled embedding model is FP16, not the int8 ADR 0007 specifies](https://github.com/MODSetter/SurfSense/issues/1996) 💬 2 | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-10-02 |  |
 | [docs: surface repository examples and templates in the Recipes tab](https://github.com/ai-dynamo/dynamo/issues/13497) 💬 2 | [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | 8.2k | 🟢 beginner | 2026-10-02 | 📄 AI policy · 🔏 DCO |
 | ['information_schema.flows' include recent execution errors](https://github.com/GreptimeTeam/greptimedb/issues/5824) 💬 2 | [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) | 6.7k | 🟢 beginner | 2026-10-02 | ✍️ CLA · 🔏 DCO |
 | [gadgets/trace_malloc: Add missing documentation Guide section](https://github.com/inspektor-gadget/inspektor-gadget/issues/5632) 💬 2 | [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) | 2.9k | 🟢 beginner | 2026-10-02 |  |
@@ -36,7 +33,6 @@
 | [[idea] Docker 06/14: CI for the Docker image](https://github.com/MODSetter/SurfSense/issues/2106) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-10-01 |  |
 | [[idea] Docker 05/14: First CPU image and compose, without local model runtimes](https://github.com/MODSetter/SurfSense/issues/2105) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-10-01 |  |
 | [[idea] Docker 04/14: Headless entry for the sidecars](https://github.com/MODSetter/SurfSense/issues/2104) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-10-01 |  |
-| [Bug Report: Social Handle Platform Icon Is Huge in Admin UI](https://github.com/owncast/owncast/issues/5171) 💬 3 | [owncast/owncast](https://github.com/owncast/owncast) | 11.6k | 🟢 beginner | 2026-10-01 |  |
 | [Hashicorp vault auth allow tokens directly set in TriggerAuthentication](https://github.com/kedacore/keda/issues/6026) 💬 6 | [kedacore/keda](https://github.com/kedacore/keda) | 10.6k | 🟢 beginner | 2026-10-01 | 🔏 DCO |
 | [Keda Cron Scaler can't be unsuspended](https://github.com/kedacore/keda/issues/4044) 💬 5 | [kedacore/keda](https://github.com/kedacore/keda) | 10.6k | 🟡 help wanted | 2026-10-01 | 🔏 DCO |
 | [Prometheus agent mode using more heap memory than regular mode.](https://github.com/prometheus/prometheus/issues/10431) 💬 29 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 66.3k | 🟡 help wanted | 2026-09-30 | 🔏 DCO |
@@ -62,9 +58,8 @@
 | [velero-plugin-for-aws v1.14.3 still sends x-amz-tagging on PutObject with Backblaze B2, despite #309's guard](https://github.com/velero-io/velero/issues/10584) 💬 1 | [velero-io/velero](https://github.com/velero-io/velero) | 10.3k | 🟡 help wanted | 2026-09-29 | 🔏 DCO |
 | [Service Worker Offline](https://github.com/TandoorRecipes/recipes/issues/621) 💬 7 | [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) | 8.6k | 🟢 beginner | 2026-09-29 |  |
 | [[Improvement] Update Spark Ranger plugin to 2.7.0](https://github.com/apache/kyuubi/issues/7234) 💬 2 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA |
-| [Bind services to loopback only by default](https://github.com/kiriwalawren/nixflix/issues/364) | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 584 | 🟢 beginner | 2026-09-29 |  |
+| [Bind services to loopback only by default](https://github.com/kiriwalawren/nixflix/issues/364) | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 585 | 🟢 beginner | 2026-09-29 |  |
 | [ListWatch: StreamWatcher is consuming high memory in high pod churn](https://github.com/kubernetes/kubernetes/issues/129705) 💬 13 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 128.2k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use · ✍️ CLA |
-| [Confirm whether an installed '.deb' auto-updates, and document the answer](https://github.com/MODSetter/SurfSense/issues/2011) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [Trusted registries don't work correctly for multi-part repo names](https://github.com/hadolint/hadolint/issues/401) 💬 8 | [hadolint/hadolint](https://github.com/hadolint/hadolint) | 12.4k | 🟡 help wanted | 2026-09-28 |  |
 | [[FEATURE] Node Affinity support for longhorn component deployment](https://github.com/longhorn/longhorn/issues/6035) 💬 2 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟢 beginner | 2026-09-28 | 🔏 DCO |
 | [[BUG] v2 volumes get stuck in unknown loading state if all nodes are labeled with 'disable-v2-data-engine=true](https://github.com/longhorn/longhorn/issues/11831) 💬 9 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟢 beginner | 2026-09-28 | 🔏 DCO |
@@ -72,16 +67,16 @@
 | [[IMPROVEMENT] share-manager-pvc should have its own toleration setting or nodeaffinity for replica zones](https://github.com/longhorn/longhorn/issues/6509) 💬 1 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟢 beginner | 2026-09-28 | 🔏 DCO |
 | [[FEATURE] 'longhornctl' supports node maintenance](https://github.com/longhorn/longhorn/issues/8799) | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟡 help wanted | 2026-09-28 | 🔏 DCO |
 | [[BUG] java.lang.OutOfMemoryError: GC overhead limit exceeded](https://github.com/apache/hertzbeat/issues/1714) 💬 14 | [apache/hertzbeat](https://github.com/apache/hertzbeat) | 7.4k | 🟢 beginner | 2026-09-28 |  |
-| [reinforce(gspo) training didn't yield any improments](https://github.com/unslothai/unsloth/issues/3485) 💬 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.1k | 🟡 help wanted | 2026-09-27 |  |
+| [reinforce(gspo) training didn't yield any improments](https://github.com/unslothai/unsloth/issues/3485) 💬 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.2k | 🟡 help wanted | 2026-09-27 |  |
 | [[Question] Add monitoring grouping function](https://github.com/apache/hertzbeat/issues/698) 💬 2 | [apache/hertzbeat](https://github.com/apache/hertzbeat) | 7.4k | 🟡 help wanted | 2026-09-27 |  |
 | [Auto-created tables can miss required columns when insert schemas differ](https://github.com/GreptimeTeam/greptimedb/issues/9185) 💬 4 | [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) | 6.7k | 🟢 beginner | 2026-09-27 | ✍️ CLA · 🔏 DCO |
 | [Possible new ideas for challenges](https://github.com/OWASP/wrongsecrets/issues/37) 💬 13 | [OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) | 1.5k | 🟡 help wanted | 2026-09-26 |  |
 | [[Feed problem] Titles are not parsed properly.](https://github.com/FreshRSS/FreshRSS/issues/8162) 💬 5 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.2k | 🟡 help wanted | 2026-09-25 |  |
 | [Direct link to an experiment step from the step list](https://github.com/elabftw/elabftw/issues/7483) 💬 1 | [elabftw/elabftw](https://github.com/elabftw/elabftw) | 1.4k | 🟢 beginner | 2026-09-25 |  |
-| [Lidarr: Create metadata tags configuration service](https://github.com/kiriwalawren/nixflix/issues/335) 💬 1 | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 584 | 🟢 beginner | 2026-09-25 |  |
-| [Navidrome: add lyrics plugin](https://github.com/kiriwalawren/nixflix/issues/334) | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 584 | 🟢 beginner | 2026-09-25 |  |
-| [Integrate autobrr](https://github.com/kiriwalawren/nixflix/issues/359) 💬 1 | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 584 | 🟢 beginner | 2026-09-25 |  |
-| [Integrate cross-seed](https://github.com/kiriwalawren/nixflix/issues/360) 💬 1 | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 584 | 🟢 beginner | 2026-09-25 |  |
+| [Lidarr: Create metadata tags configuration service](https://github.com/kiriwalawren/nixflix/issues/335) 💬 1 | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 585 | 🟢 beginner | 2026-09-25 |  |
+| [Navidrome: add lyrics plugin](https://github.com/kiriwalawren/nixflix/issues/334) | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 585 | 🟢 beginner | 2026-09-25 |  |
+| [Integrate autobrr](https://github.com/kiriwalawren/nixflix/issues/359) 💬 1 | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 585 | 🟢 beginner | 2026-09-25 |  |
+| [Integrate cross-seed](https://github.com/kiriwalawren/nixflix/issues/360) 💬 1 | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 585 | 🟢 beginner | 2026-09-25 |  |
 | [Batch offline service based on IP address](https://github.com/alibaba/nacos/issues/2272) 💬 24 | [alibaba/nacos](https://github.com/alibaba/nacos) | 33.4k | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · ✍️ CLA |
 | [Migrate UUIDv5 (SHA-1) usage in kbn-evals to FIPS 140-3 compliant alternative](https://github.com/elastic/kibana/issues/256090) 💬 1 | [elastic/kibana](https://github.com/elastic/kibana) | 21.3k | 🟢 beginner | 2026-09-24 | ⚠️ AI restricted |
 | [[FEATURE] Add tawk.to actions to Pipedream MCP](https://github.com/PipedreamHQ/pipedream/issues/22017) 💬 1 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-09-24 |  |
@@ -89,7 +84,6 @@
 | [metrics browser: Label values counter showing incorrect counts after selecting a label](https://github.com/grafana/grafana/issues/59705) 💬 8 | [grafana/grafana](https://github.com/grafana/grafana) | 77k | 🟢 beginner | 2026-09-23 | ✍️ CLA |
 | [VM mesh expansion, ISTIO_INBOUND_PORTS conflicts with Docker container outbound traffic](https://github.com/istio/istio/issues/27728) 💬 24 | [istio/istio](https://github.com/istio/istio) | 38.4k | 🟡 help wanted | 2026-09-23 |  |
 | [[JENKINS-33239] Environment variable resolves variables recursively](https://github.com/jenkinsci/jenkins/issues/21801) 💬 5 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 26.6k | 🟢 beginner | 2026-09-23 | ✍️ CLA |
-| [[kbn-evals] CLI profile flags hide that they control scores and traces](https://github.com/elastic/kibana/issues/273015) 💬 2 | [elastic/kibana](https://github.com/elastic/kibana) | 21.3k | 🟢 beginner | 2026-09-23 | ⚠️ AI restricted |
 | [Implement AMX support](https://github.com/google/gvisor/issues/9896) 💬 2 | [google/gvisor](https://github.com/google/gvisor) | 19.5k | 🟡 help wanted | 2026-09-23 | 🤖 disclose AI use · ✍️ CLA |
 | [Snyk vulnerability [SNYK-JS-ROLLUP-8073097]](https://github.com/backstage/backstage/issues/35529) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-22 | 📄 AI policy · 🔏 DCO |
 | [Snyk vulnerability [SNYK-JS-LODASH-15869619]](https://github.com/backstage/backstage/issues/35519) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-22 | 📄 AI policy · 🔏 DCO |
@@ -113,8 +107,8 @@
 | [Snyk vulnerability [SNYK-JS-HTTPCACHESEMANTICS-19964064]](https://github.com/backstage/backstage/issues/35825) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-20 | 📄 AI policy · 🔏 DCO |
 | [Snyk vulnerability [SNYK-JS-ADMZIP-19963965]](https://github.com/backstage/backstage/issues/35823) | [backstage/backstage](https://github.com/backstage/backstage) | 34.5k | 🟡 help wanted | 2026-09-20 | 📄 AI policy · 🔏 DCO |
 | [🚀 Feature: Add OneSignal as a Messaging provider](https://github.com/appwrite/appwrite/issues/7726) 💬 9 | [appwrite/appwrite](https://github.com/appwrite/appwrite) | 57.5k | 🟡 help wanted | 2026-09-19 |  |
-| [[CW-2868] Integration for Microsoft Teams](https://github.com/chatwoot/chatwoot/issues/1655) 💬 12 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 37.4k | 🟢 beginner | 2026-09-19 |  |
-| [Feature Request to add chatwoot directly install in plesk apps](https://github.com/chatwoot/chatwoot/issues/6911) 💬 6 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 37.4k | 🟢 beginner | 2026-09-19 |  |
+| [[CW-2868] Integration for Microsoft Teams](https://github.com/chatwoot/chatwoot/issues/1655) 💬 12 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 37.5k | 🟢 beginner | 2026-09-19 |  |
+| [Feature Request to add chatwoot directly install in plesk apps](https://github.com/chatwoot/chatwoot/issues/6911) 💬 6 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 37.5k | 🟢 beginner | 2026-09-19 |  |
 | [Reminder: Update Hacktoberfest branding for this year](https://github.com/owncast/owncast/issues/5180) 💬 2 | [owncast/owncast](https://github.com/owncast/owncast) | 11.6k | 🟢 beginner | 2026-09-19 |  |
 | [Proposal: use container DNS for Windows containers in Docker Desktop instead of localhost](https://github.com/dapr/dapr/issues/5490) 💬 4 | [dapr/dapr](https://github.com/dapr/dapr) | 26.1k | 🟡 help wanted | 2026-09-18 | 🔏 DCO |
 | [[IMPROVEMENT] Strictly validate resources spec and status fields in validating webhook](https://github.com/longhorn/longhorn/issues/6793) | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟡 help wanted | 2026-09-18 | 🔏 DCO |
@@ -200,8 +194,8 @@
 | [[Management] Number fields accept invalid input](https://github.com/elastic/kibana/issues/197506) 💬 6 | [elastic/kibana](https://github.com/elastic/kibana) | 21.3k | 🟢 beginner | 2026-09-02 | ⚠️ AI restricted |
 | [[Security Solution] Exception lists are removed during rule import rule import, causing false positives](https://github.com/elastic/kibana/issues/256010) 💬 4 | [elastic/kibana](https://github.com/elastic/kibana) | 21.3k | 🟢 beginner | 2026-09-02 | ⚠️ AI restricted |
 | [GCS needs someone with a real bucket to run its test](https://github.com/deeplethe/utopia/issues/214) | [deeplethe/utopia](https://github.com/deeplethe/utopia) | 8k | 🟡 help wanted | 2026-09-02 | ✍️ CLA · 🔏 DCO |
-| [[Feature] Running Usloth Studion in kaggle](https://github.com/unslothai/unsloth/issues/4944) 💬 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.1k | 🟡 help wanted | 2026-09-01 |  |
-| [Request for Notebook to Fine-Tune Qwen TTS (or Alternatives Using Existing Notebooks)](https://github.com/unslothai/unsloth/issues/3961) 💬 4 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.1k | 🟢 beginner | 2026-09-01 |  |
+| [[Feature] Running Usloth Studion in kaggle](https://github.com/unslothai/unsloth/issues/4944) 💬 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.2k | 🟡 help wanted | 2026-09-01 |  |
+| [Request for Notebook to Fine-Tune Qwen TTS (or Alternatives Using Existing Notebooks)](https://github.com/unslothai/unsloth/issues/3961) 💬 4 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.2k | 🟢 beginner | 2026-09-01 |  |
 | [daemon/containerd GetLayerFolders: verify implementation against current hcsshim](https://github.com/moby/moby/issues/52956) 💬 3 | [moby/moby](https://github.com/moby/moby) | 72.1k | 🟡 help wanted | 2026-09-01 | 🤖 disclose AI use · 🔏 DCO |
 | [building node images requires public internet access and doesn't error if pre-pulling images fails](https://github.com/kubernetes-sigs/kind/issues/2562) 💬 22 | [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) | 15.5k | 🟡 help wanted | 2026-09-01 |  |
 | [Digicert ACME order is failing due to invalid validity_years](https://github.com/cert-manager/cert-manager/issues/7536) 💬 12 | [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) | 14.1k | 🟢 beginner | 2026-09-01 |  |
@@ -210,5 +204,11 @@
 | [Consolidate code snippets from the docs and '/examples' folder](https://github.com/testcontainers/testcontainers-java/issues/1167) 💬 9 | [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) | 8.7k | 🟢 beginner | 2026-08-31 |  |
 | [[FEATURE] Extract kyuubiClientPrincipal/kyuubiClientKeytab from JDBC connection properties](https://github.com/apache/kyuubi/issues/6689) 💬 1 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-08-31 | 🤖 disclose AI use · ✍️ CLA |
 | [Add the ability to customize the notification on mobile](https://github.com/grimmory-tools/grimmory/issues/836) 💬 1 | [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory) | 4.5k | 🟢 beginner | 2026-08-30 | 🤖 disclose AI use |
+| [Oauth2 generated accounts are not added as creators](https://github.com/manyfold3d/manyfold/issues/4768) 💬 3 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-08-29 | 📄 AI policy · ✍️ CLA |
+| ["Polls closing soon" gives confusing notification when pressing its refresh button](https://github.com/bonfire-networks/bonfire-app/issues/2243) | [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) | 942 | 🟢 beginner | 2026-08-29 |  |
+| [Docs: add a Wikipedia page about Sniffnet](https://github.com/GyulyVGC/sniffnet/issues/975) 💬 2 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 41.3k | 🟢 beginner | 2026-08-28 | 🤖 disclose AI use |
+| [Proposal: Allow dynamic dependency override](https://github.com/helm/helm/issues/2205) 💬 72 | [helm/helm](https://github.com/helm/helm) | 30.3k | 🟡 help wanted | 2026-08-28 | 🔏 DCO |
+| [Possibility to use Mutelist in DynamoDB to all providers](https://github.com/prowler-cloud/prowler/issues/5777) 💬 1 | [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) | 14.9k | 🟡 help wanted | 2026-08-28 |  |
+| [examples: add examples with other client frameworks](https://github.com/dexidp/dex/issues/320) 💬 11 | [dexidp/dex](https://github.com/dexidp/dex) | 11.2k | 🟡 help wanted | 2026-08-27 | 🔏 DCO |
 
-Showing the 200 most recently updated. See all 491 on the website.
+Showing the 200 most recently updated. See all 484 on the website.

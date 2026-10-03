@@ -1,10 +1,10 @@
 # C++ issues
 
-**352** open issues (123 labeled for beginners) across **102** active C++ projects.
+**353** open issues (124 labeled for beginners) across **102** active C++ projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/cpp.xml)
 
-> Updated automatically on **2026-10-02 22:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-03 11:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,10 +12,13 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Cannot change increment step in PD:Fillet](https://github.com/FreeCAD/FreeCAD/issues/33172) 💬 1 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-10-03 | ⚠️ AI restricted |
+| [TechDraw: Broken view leaves gaps between the geometry and the break lines](https://github.com/FreeCAD/FreeCAD/issues/13406) 💬 9 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟡 help wanted | 2026-10-03 | ⚠️ AI restricted |
+| [ESAPI plates break too easily](https://github.com/CleverRaven/Cataclysm-DDA/issues/68613) 💬 1 | [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) | 13.3k | 🟡 help wanted | 2026-10-03 |  |
+| [[BUG]: Issue when creating State Reports when the title has an "&"](https://github.com/Vita3K/Vita3K/issues/4148) 💬 1 | [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) | 5.8k | 🟢 beginner | 2026-10-03 |  |
 | [Wayland: Copy and paste issue](https://github.com/FreeCAD/FreeCAD/issues/15198) 💬 31 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟡 help wanted | 2026-10-02 | ⚠️ AI restricted |
 | [TechDraw: Inserted SVG symbols default to bottom of layer stack](https://github.com/FreeCAD/FreeCAD/issues/24820) 💬 5 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-10-02 | ⚠️ AI restricted |
 | [PartDesign: UX could use optimization in order to add elements on some lists](https://github.com/FreeCAD/FreeCAD/issues/24440) 💬 3 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-10-02 | ⚠️ AI restricted |
-| [TechDraw: Broken view leaves gaps between the geometry and the break lines](https://github.com/FreeCAD/FreeCAD/issues/13406) 💬 9 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟡 help wanted | 2026-10-02 | ⚠️ AI restricted |
 | [gzip filter: support chunked transfer encoding](https://github.com/envoyproxy/envoy/issues/6632) 💬 14 | [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 29k | 🟡 help wanted | 2026-10-02 | 🤖 disclose AI use · 🔏 DCO |
 | [Preference file damaged after content disk got full. After restart are no content files shown, but seeding wor](https://github.com/transmission/transmission/issues/9119) | [transmission/transmission](https://github.com/transmission/transmission) | 15.3k | 🟡 help wanted | 2026-10-02 |  |
 | [Add keyboard maximize shortcut](https://github.com/mumble-voip/mumble/issues/6871) 💬 16 | [mumble-voip/mumble](https://github.com/mumble-voip/mumble) | 8.3k | 🟢 beginner | 2026-10-02 |  |
@@ -43,7 +46,6 @@
 | [If try tracing inside lambdas, compiler runs for infinite time](https://github.com/google/perfetto/issues/7591) 💬 3 | [google/perfetto](https://github.com/google/perfetto) | 6.6k | 🟢 beginner | 2026-09-28 |  |
 | [Broken geometry exporting a solid derived from an arc of ellipse to a step file](https://github.com/FreeCAD/FreeCAD/issues/14447) 💬 6 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟡 help wanted | 2026-09-27 | ⚠️ AI restricted |
 | [xtensa-lx106-elf-g++: bad CPU type in executable on a M2 Mac without rosetta emulation installed](https://github.com/esp8266/Arduino/issues/8725) 💬 10 | [esp8266/Arduino](https://github.com/esp8266/Arduino) | 16.7k | 🟡 help wanted | 2026-09-27 |  |
-| [Ability to add Guidepost as POI](https://github.com/organicmaps/organicmaps/issues/13636) | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.5k | 🟢 beginner | 2026-09-27 | 🔏 DCO |
 | [CopyQ Creates a Blank Unclosable Window, Subsequently opens Second Window](https://github.com/hluk/CopyQ/issues/1228) 💬 13 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.3k | 🟡 help wanted | 2026-09-27 |  |
 | [Linux: 100% CPU when using external-message-pump with Version 84+](https://github.com/chromiumembedded/cef/issues/3002) 💬 8 | [chromiumembedded/cef](https://github.com/chromiumembedded/cef) | 4.8k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use |
 | [Smarter window positioning for multi-screen setups](https://github.com/f3d-app/f3d/issues/3192) 💬 5 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.7k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use |
@@ -67,11 +69,10 @@
 | [BIM: Door/Window marks](https://github.com/FreeCAD/FreeCAD/issues/5741) | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-09-22 | ⚠️ AI restricted |
 | [BIM: Fix IV mode in Sketchfab exporter](https://github.com/FreeCAD/FreeCAD/issues/5744) 💬 10 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-09-22 | ⚠️ AI restricted |
 | [Linux trace_processor prebuilt SIGILL (x86_64)](https://github.com/google/perfetto/issues/7504) 💬 7 | [google/perfetto](https://github.com/google/perfetto) | 6.6k | 🟢 beginner | 2026-09-22 |  |
-| [Part: Intersections aren't displayed intersected in external references](https://github.com/FreeCAD/FreeCAD/issues/23142) 💬 15 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟡 help wanted | 2026-09-21 | ⚠️ AI restricted |
 | [Support webrtc for webtorrent clients](https://github.com/transmission/transmission/issues/47) 💬 64 | [transmission/transmission](https://github.com/transmission/transmission) | 15.3k | 🟢 beginner | 2026-09-21 |  |
 | [AppImage Prism Launcher can't find Java when installed via AM-GUI](https://github.com/PrismLauncher/PrismLauncher/issues/5579) 💬 9 | [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) | 10.6k | 🟡 help wanted | 2026-09-21 | 🤖 disclose AI use · 🔏 DCO |
 | [ROS2 Kilted Sync (2025-07-28) ~ 0.9.7-1 : Fails to resolve is_nothrow_invocable_v in magic_enum::detail](https://github.com/Neargye/magic_enum/issues/420) 💬 18 | [Neargye/magic_enum](https://github.com/Neargye/magic_enum) | 6.2k | 🟡 help wanted | 2026-09-21 |  |
-| [Some icons are blurry or inconsistent in size on Android 16 / Fairphone](https://github.com/organicmaps/organicmaps/issues/13596) | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.5k | 🟢 beginner | 2026-09-20 | 🔏 DCO |
+| [Some icons are blurry or inconsistent in size on Android 16 / Fairphone](https://github.com/organicmaps/organicmaps/issues/13596) | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.6k | 🟢 beginner | 2026-09-20 | 🔏 DCO |
 | [[Epic] Requested 3D formats](https://github.com/assimp/assimp/issues/6097) 💬 1 | [assimp/assimp](https://github.com/assimp/assimp) | 13.2k | 🟡 help wanted | 2026-09-20 |  |
 | [Add support for roaming settings.json or storing it elsewhere](https://github.com/microsoft/terminal/issues/2933) 💬 53 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105.1k | 🟡 help wanted | 2026-09-19 | 🤖 disclose AI use |
 | [Fallback value should be close to original value](https://github.com/microsoft/microsoft-ui-xaml/issues/5707) 💬 2 | [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) | 8.5k | 🟡 help wanted | 2026-09-18 | ✍️ CLA |
@@ -124,14 +125,14 @@
 | [[MaterializedPostgreSQL] PG WAL size keep increasing if there's no change](https://github.com/ClickHouse/ClickHouse/issues/78149) | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 50.2k | 🟡 help wanted | 2026-09-11 | 🤖 disclose AI use · ✍️ CLA |
 | [MaterializedPostgreSQL: order of columns in the primary key is not honoured on the Clickhouse Side](https://github.com/ClickHouse/ClickHouse/issues/79375) | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 50.2k | 🟡 help wanted | 2026-09-11 | 🤖 disclose AI use · ✍️ CLA |
 | [Request to allow storage policy with MaterializedPostgreSQL](https://github.com/ClickHouse/ClickHouse/issues/81878) | [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) | 50.2k | 🟡 help wanted | 2026-09-11 | 🤖 disclose AI use · ✍️ CLA |
-| [CPU support for dense reconstruction](https://github.com/colmap/colmap/issues/2390) 💬 7 | [colmap/colmap](https://github.com/colmap/colmap) | 12.8k | 🟡 help wanted | 2026-09-11 |  |
+| [CPU support for dense reconstruction](https://github.com/colmap/colmap/issues/2390) 💬 7 | [colmap/colmap](https://github.com/colmap/colmap) | 12.9k | 🟡 help wanted | 2026-09-11 |  |
 | [tray menu does not work with ubuntu 26](https://github.com/hluk/CopyQ/issues/3645) 💬 3 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.3k | 🟡 help wanted | 2026-09-11 |  |
 | [[RFC]: Hot Standby Mode for Master Service Metadata High Availability](https://github.com/kvcache-ai/Mooncake/issues/1200) 💬 4 | [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) | 6.7k | 🟢 beginner | 2026-09-11 | 🤖 disclose AI use |
 | [[Feature] TemplateMatch 增加可选灰度匹配参数（纯性能优化，默认关闭）](https://github.com/MaaXYZ/MaaFramework/issues/1483) 💬 2 | [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework) | 4.9k | 🟡 help wanted | 2026-09-11 |  |
 | [Consider feature adoption: Vector PP and Stanley within RPP package](https://github.com/ros-navigation/navigation2/issues/5952) 💬 10 | [ros-navigation/navigation2](https://github.com/ros-navigation/navigation2) | 4.8k | 🟡 help wanted | 2026-09-10 | 🔏 DCO |
 | [When you change the objective in a scenario that you have already failed it does not remove the failed objecti](https://github.com/OpenRCT2/OpenRCT2/issues/16510) 💬 4 | [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) | 16.3k | 🟢 beginner | 2026-09-09 |  |
-| [Add Bluesky and Mastodon to the Edit Place screen](https://github.com/organicmaps/organicmaps/issues/10142) 💬 6 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.5k | 🟢 beginner | 2026-09-09 | 🔏 DCO |
-| [Translate "more..."](https://github.com/organicmaps/organicmaps/issues/13214) 💬 1 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.5k | 🟢 beginner | 2026-09-09 | 🔏 DCO |
+| [Add Bluesky and Mastodon to the Edit Place screen](https://github.com/organicmaps/organicmaps/issues/10142) 💬 6 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.6k | 🟢 beginner | 2026-09-09 | 🔏 DCO |
+| [Translate "more..."](https://github.com/organicmaps/organicmaps/issues/13214) 💬 1 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.6k | 🟢 beginner | 2026-09-09 | 🔏 DCO |
 | [Linux: Embed AppImage update information](https://github.com/hluk/CopyQ/issues/3688) | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.3k | 🟡 help wanted | 2026-09-09 |  |
 | [delay字段添加随机延迟功能，如pre_delay[100,5000],在100到5000ms之间随机延迟](https://github.com/MaaXYZ/MaaFramework/issues/1470) 💬 1 | [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework) | 4.9k | 🟡 help wanted | 2026-09-09 |  |
 | [Implement (Contour's) Color Palette Update Notification and report](https://github.com/microsoft/terminal/issues/18375) 💬 4 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105.1k | 🟡 help wanted | 2026-09-08 | 🤖 disclose AI use |
@@ -211,6 +212,5 @@
 | [YAML::Node::EndMark()](https://github.com/jbeder/yaml-cpp/issues/1217) 💬 2 | [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | 6.1k | 🟡 help wanted | 2026-08-11 | ⚠️ AI restricted |
 | [Please enhance context about exceptions handling in yaml-cpp](https://github.com/jbeder/yaml-cpp/issues/1395) | [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | 6.1k | 🟡 help wanted | 2026-08-10 | ⚠️ AI restricted |
 | [[Feature Request] Screen sharing is of somewhat low quality](https://github.com/telegramdesktop/tdesktop/issues/16487) 💬 61 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 33.1k | 🟡 help wanted | 2026-08-06 |  |
-| [Add softirq processing time into Off-CPU time](https://github.com/KDAB/hotspot/issues/717) 💬 3 | [KDAB/hotspot](https://github.com/KDAB/hotspot) | 5.2k | 🟡 help wanted | 2026-08-06 |  |
 
-Showing the 200 most recently updated. See all 352 on the website.
+Showing the 200 most recently updated. See all 353 on the website.

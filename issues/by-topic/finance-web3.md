@@ -2,7 +2,7 @@
 
 **51** open issues (19 labeled for beginners) across **14** projects tagged with topics like `finance`, `fintech`, `blockchain`, `ethereum`, `crypto`, `trading`.
 
-> Updated automatically on **2026-10-02 22:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-03 11:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,13 +10,13 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Variant analysis: 1 unfixed sibling safety gap in openssl](https://github.com/openssl/openssl/issues/33015) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-03 | 🤖 disclose AI use · ✍️ CLA |
 | [[Bug]: Can not reopen switch file menu after renaming the file](https://github.com/actualbudget/actual/issues/8793) 💬 1 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.3k | 🟢 beginner | 2026-10-02 | 🤖 disclose AI use |
 | [OpenSSL retains consumed TLS 1.3 stage secrets](https://github.com/openssl/openssl/issues/32213) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [get_crl callback: revocation reasons accumulation broken for multiple CDPs, causes X509_V_ERR_UNABLE_TO_GET_CR](https://github.com/openssl/openssl/issues/33055) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [Cleanup in EVP_SKEY from PKCS#12 files processing](https://github.com/openssl/openssl/issues/33041) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [SSL_load_client_CA_file ignores TRUSTED CERTIFICATE PEM blocks](https://github.com/openssl/openssl/issues/33020) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [PEM_read_bio_X509 does not read TRUSTED CERTIFICATE PEM blocks despite documentation](https://github.com/openssl/openssl/issues/33019) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
-| [Variant analysis: 1 unfixed sibling safety gap in openssl](https://github.com/openssl/openssl/issues/33015) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [Implement RFC 10032](https://github.com/openssl/openssl/issues/33064) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [Adding FAEST](https://github.com/open-quantum-safe/liboqs/issues/2101) 💬 14 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-01 |  |
 | [Large test input file distributed with latest 3.0/3.5 releases](https://github.com/openssl/openssl/issues/32603) 💬 5 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use · ✍️ CLA |

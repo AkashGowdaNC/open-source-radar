@@ -1,10 +1,10 @@
 # Go issues
 
-**316** open issues (72 labeled for beginners) across **79** active Go projects.
+**315** open issues (71 labeled for beginners) across **79** active Go projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/go.xml)
 
-> Updated automatically on **2026-10-02 22:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-03 11:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,16 +12,15 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [all: flaky failures on netbsd/arm](https://github.com/golang/go/issues/73820) 💬 755 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-10-02 |  |
-| [runtime: deadlock while stopping the world (most recently openbsd/amd64)](https://github.com/golang/go/issues/62541) 💬 17 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-10-02 |  |
-| [runtime: flaky failures on NetBSD since CL 526118](https://github.com/golang/go/issues/62524) 💬 165 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-10-02 |  |
-| [runtime: linux/s390x test timeout](https://github.com/golang/go/issues/60413) 💬 878 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-10-02 |  |
+| [runtime: linux/s390x test timeout](https://github.com/golang/go/issues/60413) 💬 880 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-10-03 |  |
+| [runtime: deadlock while stopping the world (most recently openbsd/amd64)](https://github.com/golang/go/issues/62541) 💬 18 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-10-03 |  |
+| [all: flaky failures on netbsd/arm](https://github.com/golang/go/issues/73820) 💬 756 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-10-02 |  |
+| [runtime: flaky failures on NetBSD since CL 526118](https://github.com/golang/go/issues/62524) 💬 166 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-10-02 |  |
 | [runtime:cpu1: TestPreemptionAfterSyscall/100µs failures](https://github.com/golang/go/issues/72965) 💬 83 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-10-02 |  |
 | [Add machine-readable output to helm lint](https://github.com/helm/helm/issues/32694) 💬 3 | [helm/helm](https://github.com/helm/helm) | 30.3k | 🟡 help wanted | 2026-10-02 | 🔏 DCO |
 | [cmd/pprof: TestDisasm failures](https://github.com/golang/go/issues/56574) 💬 67 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-10-01 |  |
 | [crypto/cipher: update 'StreamWriter' example](https://github.com/golang/go/issues/81933) 💬 2 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-10-01 |  |
 | [Feature request: Webhooks](https://github.com/juanfont/headscale/issues/1543) 💬 14 | [juanfont/headscale](https://github.com/juanfont/headscale) | 44.3k | 🟡 help wanted | 2026-10-01 | ⚠️ AI restricted |
-| [Bug Report: Social Handle Platform Icon Is Huge in Admin UI](https://github.com/owncast/owncast/issues/5171) 💬 3 | [owncast/owncast](https://github.com/owncast/owncast) | 11.6k | 🟢 beginner | 2026-10-01 |  |
 | [Hashicorp vault auth allow tokens directly set in TriggerAuthentication](https://github.com/kedacore/keda/issues/6026) 💬 6 | [kedacore/keda](https://github.com/kedacore/keda) | 10.6k | 🟢 beginner | 2026-10-01 | 🔏 DCO |
 | [Keda Cron Scaler can't be unsuspended](https://github.com/kedacore/keda/issues/4044) 💬 5 | [kedacore/keda](https://github.com/kedacore/keda) | 10.6k | 🟡 help wanted | 2026-10-01 | 🔏 DCO |
 | [runtime: "unexpected signal during runtime execution" during bgscavenge on plan9](https://github.com/golang/go/issues/35456) 💬 97 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-09-30 |  |
@@ -58,7 +57,7 @@
 | [feature: support vi key bindings (ala readline/bash/psql vi modes)](https://github.com/xo/usql/issues/236) 💬 5 | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
 | ['\\ss' without arguments lists columns for all tables](https://github.com/xo/usql/issues/363) 💬 2 | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
 | [Support For Windows Containers](https://github.com/kubernetes/minikube/issues/2015) 💬 68 | [kubernetes/minikube](https://github.com/kubernetes/minikube) | 32.2k | 🟡 help wanted | 2026-09-22 |  |
-| [i18n: Streamline Singular/Plural Nouns](https://github.com/stashapp/stash/issues/1924) 💬 6 | [stashapp/stash](https://github.com/stashapp/stash) | 13k | 🟡 help wanted | 2026-09-22 | ⚠️ AI restricted |
+| [i18n: Streamline Singular/Plural Nouns](https://github.com/stashapp/stash/issues/1924) 💬 6 | [stashapp/stash](https://github.com/stashapp/stash) | 13.1k | 🟡 help wanted | 2026-09-22 | ⚠️ AI restricted |
 | [Help about Telegram Custom alerts](https://github.com/TwiN/gatus/issues/1809) | [TwiN/gatus](https://github.com/TwiN/gatus) | 12.2k | 🟡 help wanted | 2026-09-22 |  |
 | [x/sys/windows: generated wrappers read undefined upper bits of 32-bit syscall return values](https://github.com/golang/go/issues/81249) 💬 11 | [golang/go](https://github.com/golang/go) | 139.1k | 🟡 help wanted | 2026-09-21 |  |
 | [Typst support](https://github.com/d2lang/d2/issues/1435) 💬 5 | [d2lang/d2](https://github.com/d2lang/d2) | 25.6k | 🟢 beginner | 2026-09-21 |  |
@@ -118,7 +117,7 @@
 | [How to enable support of proxy protocol v2?](https://github.com/valyala/fasthttp/issues/1528) 💬 1 | [valyala/fasthttp](https://github.com/valyala/fasthttp) | 23.5k | 🟡 help wanted | 2026-08-28 |  |
 | [Consider to support Plan9](https://github.com/valyala/fasthttp/issues/2093) 💬 2 | [valyala/fasthttp](https://github.com/valyala/fasthttp) | 23.5k | 🟡 help wanted | 2026-08-28 |  |
 | [[Support]: Cookie Refresh Behaviour](https://github.com/oauth2-proxy/oauth2-proxy/issues/3525) 💬 1 | [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) | 15k | 🟡 help wanted | 2026-08-28 | 🤖 disclose AI use · 🔏 DCO |
-| [examples: add examples with other client frameworks](https://github.com/dexidp/dex/issues/320) 💬 11 | [dexidp/dex](https://github.com/dexidp/dex) | 11.1k | 🟡 help wanted | 2026-08-27 | 🔏 DCO |
+| [examples: add examples with other client frameworks](https://github.com/dexidp/dex/issues/320) 💬 11 | [dexidp/dex](https://github.com/dexidp/dex) | 11.2k | 🟡 help wanted | 2026-08-27 | 🔏 DCO |
 | [Cannot scrape targets specified by mDNS name](https://github.com/prometheus/prometheus/issues/2537) 💬 28 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 66.3k | 🟡 help wanted | 2026-08-25 | 🔏 DCO |
 | [Pushing fails periodically with 'dial tcp: lookup github.com: no such host' error, disrupts network](https://github.com/git-lfs/git-lfs/issues/2887) 💬 21 | [git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) | 14.5k | 🟡 help wanted | 2026-08-24 |  |
 | [Discussion: should team knowledge compound across agent runs the way skills do?](https://github.com/multica-ai/multica/issues/1211) 💬 14 | [multica-ai/multica](https://github.com/multica-ai/multica) | 51.9k | 🟢 beginner | 2026-08-21 | 🤖 disclose AI use |
@@ -212,5 +211,6 @@
 | [Can you provide a harbor installation package that does not depend on docker?](https://github.com/goharbor/harbor/issues/17113) 💬 1 | [goharbor/harbor](https://github.com/goharbor/harbor) | 29.5k | 🟡 help wanted | 2026-07-08 | 🔏 DCO |
 | [internal network OSS](https://github.com/goharbor/harbor/issues/20901) 💬 3 | [goharbor/harbor](https://github.com/goharbor/harbor) | 29.5k | 🟡 help wanted | 2026-07-07 | 🔏 DCO |
 | [Supporting LDAP group attribute member attribute instead of user attribute memberof for authentication](https://github.com/goharbor/harbor/issues/16918) 💬 4 | [goharbor/harbor](https://github.com/goharbor/harbor) | 29.5k | 🟡 help wanted | 2026-07-07 | 🔏 DCO |
+| [Compile binaries without docker](https://github.com/goharbor/harbor/issues/13885) 💬 5 | [goharbor/harbor](https://github.com/goharbor/harbor) | 29.5k | 🟡 help wanted | 2026-07-07 | 🔏 DCO |
 
-Showing the 200 most recently updated. See all 316 on the website.
+Showing the 200 most recently updated. See all 315 on the website.

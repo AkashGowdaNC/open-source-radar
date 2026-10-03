@@ -1,8 +1,8 @@
 # Games and graphics issues
 
-**145** open issues (78 labeled for beginners) across **51** projects tagged with topics like `game`, `game-engine`, `gamedev`, `graphics`, `opengl`, `vulkan`.
+**147** open issues (80 labeled for beginners) across **51** projects tagged with topics like `game`, `game-engine`, `gamedev`, `graphics`, `opengl`, `vulkan`.
 
-> Updated automatically on **2026-10-02 22:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-03 11:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,10 +10,13 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Cannot change increment step in PD:Fillet](https://github.com/FreeCAD/FreeCAD/issues/33172) 💬 1 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-10-03 | ⚠️ AI restricted |
+| [TechDraw: Broken view leaves gaps between the geometry and the break lines](https://github.com/FreeCAD/FreeCAD/issues/13406) 💬 9 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟡 help wanted | 2026-10-03 | ⚠️ AI restricted |
+| [ESAPI plates break too easily](https://github.com/CleverRaven/Cataclysm-DDA/issues/68613) 💬 1 | [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) | 13.3k | 🟡 help wanted | 2026-10-03 |  |
+| [[BUG]: Issue when creating State Reports when the title has an "&"](https://github.com/Vita3K/Vita3K/issues/4148) 💬 1 | [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) | 5.8k | 🟢 beginner | 2026-10-03 |  |
 | [Wayland: Copy and paste issue](https://github.com/FreeCAD/FreeCAD/issues/15198) 💬 31 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟡 help wanted | 2026-10-02 | ⚠️ AI restricted |
 | [TechDraw: Inserted SVG symbols default to bottom of layer stack](https://github.com/FreeCAD/FreeCAD/issues/24820) 💬 5 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-10-02 | ⚠️ AI restricted |
 | [PartDesign: UX could use optimization in order to add elements on some lists](https://github.com/FreeCAD/FreeCAD/issues/24440) 💬 3 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-10-02 | ⚠️ AI restricted |
-| [TechDraw: Broken view leaves gaps between the geometry and the break lines](https://github.com/FreeCAD/FreeCAD/issues/13406) 💬 9 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟡 help wanted | 2026-10-02 | ⚠️ AI restricted |
 | [TechDraw: Keyboard navigation of the Section Plane is chaotic](https://github.com/FreeCAD/FreeCAD/issues/30833) 💬 6 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-10-01 | ⚠️ AI restricted |
 | [Link: Lighting is not working well when the choice is "Two Side"](https://github.com/FreeCAD/FreeCAD/issues/22170) 💬 17 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟡 help wanted | 2026-10-01 | ⚠️ AI restricted |
 | [Sketcher: Carbon copying a non-parallel sketch has incorrect help text on macOS](https://github.com/FreeCAD/FreeCAD/issues/19935) 💬 6 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-09-29 | ⚠️ AI restricted |
@@ -42,7 +45,6 @@
 | [BIM: Door/Window marks](https://github.com/FreeCAD/FreeCAD/issues/5741) | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-09-22 | ⚠️ AI restricted |
 | [BIM: Fix IV mode in Sketchfab exporter](https://github.com/FreeCAD/FreeCAD/issues/5744) 💬 10 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟢 beginner | 2026-09-22 | ⚠️ AI restricted |
 | [noiseMode(SIMPLEX) add-on library](https://github.com/processing/p5.js/issues/6152) 💬 20 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-22 | ⚠️ AI restricted |
-| [Part: Intersections aren't displayed intersected in external references](https://github.com/FreeCAD/FreeCAD/issues/23142) 💬 15 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 33.9k | 🟡 help wanted | 2026-09-21 | ⚠️ AI restricted |
 | [Support for cursors change](https://github.com/f3d-app/f3d/issues/3492) | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.7k | 🟡 help wanted | 2026-09-18 | 🤖 disclose AI use |
 | [OpenGL error with grid reflection and volume option](https://github.com/f3d-app/f3d/issues/3488) | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.7k | 🟡 help wanted | 2026-09-18 | 🤖 disclose AI use |
 | [USD: GPU sparse blend shapes support](https://github.com/f3d-app/f3d/issues/3218) 💬 9 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.7k | 🟡 help wanted | 2026-09-18 | 🤖 disclose AI use |
@@ -75,7 +77,7 @@
 | [Board editor: possibly disable 960 Castling in standard](https://github.com/lichess-org/lila/issues/12926) 💬 9 | [lichess-org/lila](https://github.com/lichess-org/lila) | 18.8k | 🟢 beginner | 2026-08-15 | 🤖 disclose AI use |
 | [Retain screen position / target screen in xemu.toml and restore when starting the program](https://github.com/xemu-project/xemu/issues/1268) 💬 1 | [xemu-project/xemu](https://github.com/xemu-project/xemu) | 4.1k | 🟢 beginner | 2026-08-13 |  |
 | [Disable VK on unsupported systems](https://github.com/xemu-project/xemu/issues/2307) 💬 3 | [xemu-project/xemu](https://github.com/xemu-project/xemu) | 4.1k | 🟢 beginner | 2026-08-12 |  |
-| [Toast widget](https://github.com/iced-rs/iced/issues/485) 💬 4 | [iced-rs/iced](https://github.com/iced-rs/iced) | 31.6k | 🟢 beginner | 2026-08-06 |  |
+| [Toast widget](https://github.com/iced-rs/iced/issues/485) 💬 4 | [iced-rs/iced](https://github.com/iced-rs/iced) | 31.7k | 🟢 beginner | 2026-08-06 |  |
 | [Feature Request: 3D Pipeline/Water Pipe Drawing Tool](https://github.com/pascalorg/editor/issues/227) 💬 4 | [pascalorg/editor](https://github.com/pascalorg/editor) | 24.6k | 🟡 help wanted | 2026-08-04 |  |
 | [Give reason for damage done by tnt](https://github.com/luanti-org/minetest_game/issues/3263) | [luanti-org/minetest_game](https://github.com/luanti-org/minetest_game) | 1.6k | 🟢 beginner | 2026-08-02 |  |
 | [(Locale): Missing Spanish text for Mountaineer Stormpike.](https://github.com/azerothcore/azerothcore-wotlk/issues/16313) 💬 3 | [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) | 9k | 🟢 beginner | 2026-07-27 |  |
@@ -125,7 +127,7 @@
 | [Improve HTTP cache options](https://github.com/defold/defold/issues/5687) 💬 4 | [defold/defold](https://github.com/defold/defold) | 6.3k | 🟢 beginner | 2026-06-10 | ✍️ CLA |
 | [Improve UX for configuring external code editor](https://github.com/defold/defold/issues/8016) 💬 7 | [defold/defold](https://github.com/defold/defold) | 6.3k | 🟢 beginner | 2026-06-10 | ✍️ CLA |
 | [[Wiki] [Docs] [Editor] Please provide documentation on "using the in-game Scenario Editor"](https://github.com/wesnoth/wesnoth/issues/5700) 💬 12 | [wesnoth/wesnoth](https://github.com/wesnoth/wesnoth) | 6.9k | 🟢 beginner | 2026-06-09 |  |
-| [Mac OS: kitty doesn't restore](https://github.com/kovidgoyal/kitty/issues/1197) 💬 22 | [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) | 35.1k | 🟡 help wanted | 2026-06-07 |  |
+| [Mac OS: kitty doesn't restore](https://github.com/kovidgoyal/kitty/issues/1197) 💬 22 | [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) | 35.2k | 🟡 help wanted | 2026-06-07 |  |
 | [On window minimize Screen.resize(0,0) called on Windows but not on Linux](https://github.com/libgdx/libgdx/issues/7072) 💬 8 | [libgdx/libgdx](https://github.com/libgdx/libgdx) | 25.4k | 🟢 beginner | 2026-06-04 | ✍️ CLA |
 | [Consider if the editor light level (day/night) buttons should default to day](https://github.com/Revolutionary-Games/Thrive/issues/6039) 💬 2 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.7k | 🟢 beginner | 2026-06-04 |  |
 | [RAM Search Changes column does not update](https://github.com/TASEmulators/BizHawk/issues/3020) 💬 2 | [TASEmulators/BizHawk](https://github.com/TASEmulators/BizHawk) | 2.8k | 🟢 beginner | 2026-06-03 | 📄 AI policy |

@@ -1,8 +1,8 @@
 # Web development issues
 
-**261** open issues (117 labeled for beginners) across **109** projects tagged with topics like `web`, `frontend`, `react`, `vue`, `svelte`, `angular`.
+**262** open issues (117 labeled for beginners) across **109** projects tagged with topics like `web`, `frontend`, `react`, `vue`, `svelte`, `angular`.
 
-> Updated automatically on **2026-10-02 22:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-03 11:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,13 +10,15 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [[Bug] Cannot load qwen3-vl series with lora adapter on vllm.](https://github.com/unslothai/unsloth/issues/3560) 💬 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.1k | 🟢 beginner | 2026-10-02 |  |
-| [[Feature] Add FT support for the Qwen3-TTS model.](https://github.com/unslothai/unsloth/issues/3951) 💬 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.1k | 🟢 beginner | 2026-10-02 |  |
+| [Dashboard i18n:validate fails for 30 of 34 locales because the sync workflow never removes stale keys](https://github.com/medusajs/medusa/issues/17122) 💬 1 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.6k | 🟡 help wanted | 2026-10-03 |  |
+| [[Bug]: custom path aliases breaks plugin dev hot reload](https://github.com/medusajs/medusa/issues/16535) 💬 8 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.6k | 🟡 help wanted | 2026-10-03 |  |
+| [🚀 Feature: Fireflies MCP connector preset](https://github.com/arc53/DocsGPT/issues/2936) | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 18.3k | 🟢 beginner | 2026-10-03 |  |
+| [🚀 Feature: draw.io MCP connector preset](https://github.com/arc53/DocsGPT/issues/2937) | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 18.3k | 🟢 beginner | 2026-10-03 |  |
+| [🚀 Feature: MotherDuck MCP connector preset](https://github.com/arc53/DocsGPT/issues/2935) | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 18.3k | 🟢 beginner | 2026-10-03 |  |
+| [🚀 Feature: Composio Connect MCP connector preset](https://github.com/arc53/DocsGPT/issues/2934) | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 18.3k | 🟢 beginner | 2026-10-03 |  |
+| [[Bug] Cannot load qwen3-vl series with lora adapter on vllm.](https://github.com/unslothai/unsloth/issues/3560) 💬 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.2k | 🟢 beginner | 2026-10-02 |  |
+| [[Feature] Add FT support for the Qwen3-TTS model.](https://github.com/unslothai/unsloth/issues/3951) 💬 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.2k | 🟢 beginner | 2026-10-02 |  |
 | [element with display flex do not create a new BFC itself](https://github.com/yangshun/front-end-interview-handbook/issues/159) 💬 1 | [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | 44k | 🟡 help wanted | 2026-10-02 |  |
-| [[Bug]: custom path aliases breaks plugin dev hot reload](https://github.com/medusajs/medusa/issues/16535) 💬 8 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.6k | 🟡 help wanted | 2026-10-02 |  |
-| [🚀 Feature: Twelve Data MCP connector preset](https://github.com/arc53/DocsGPT/issues/2916) | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 18.3k | 🟢 beginner | 2026-10-02 |  |
-| [🚀 Feature: Miro MCP connector preset](https://github.com/arc53/DocsGPT/issues/2915) | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 18.3k | 🟢 beginner | 2026-10-02 |  |
-| [🚀 Feature: Zapier MCP connector preset](https://github.com/arc53/DocsGPT/issues/2900) | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 18.3k | 🟢 beginner | 2026-10-02 |  |
 | [[Bug]: automigrate fails on EXDEV error](https://github.com/storybookjs/storybook/issues/30184) 💬 7 | [storybookjs/storybook](https://github.com/storybookjs/storybook) | 91.2k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use |
 | [@penpot/plugin-styles loads Work Sans from a third-party CDN](https://github.com/penpot/penpot/issues/12023) | [penpot/penpot](https://github.com/penpot/penpot) | 60.6k | 🟢 beginner | 2026-10-01 | 🤖 disclose AI use · 🔏 DCO |
 | [xhs 图片无法保存完整](https://github.com/nexu-io/html-anything/issues/160) 💬 2 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 9k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
@@ -25,13 +27,12 @@
 | [Execution time limit annotations](https://github.com/nasa/fprime/issues/3688) 💬 3 | [nasa/fprime](https://github.com/nasa/fprime) | 11.8k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use |
 | [Add optional insertion-order preservation for crow::json::wvalue](https://github.com/CrowCpp/Crow/issues/1255) | [CrowCpp/Crow](https://github.com/CrowCpp/Crow) | 5k | 🟡 help wanted | 2026-09-30 |  |
 | [Add usage statistics administration UI](https://github.com/LibreSign/libresign/issues/8936) | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 828 | 🟢 beginner | 2026-09-30 | 🤖 disclose AI use · 🔏 DCO |
-| [[Bug]: Product media edit continues after a failed upload and hides the server's error](https://github.com/medusajs/medusa/issues/17059) 💬 7 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.6k | 🟢 beginner | 2026-09-29 |  |
 | [[🐞]Netlify deployment fails with Bun: 'SyntaxError: Unexpected token ':'' during "Edge Functions bundling"](https://github.com/QwikDev/qwik/issues/8113) 💬 3 | [QwikDev/qwik](https://github.com/QwikDev/qwik) | 22.1k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
 | [[📖] useServerData (in v2)](https://github.com/QwikDev/qwik/issues/7955) 💬 1 | [QwikDev/qwik](https://github.com/QwikDev/qwik) | 22.1k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
 | [[📖] explain uncontrolled vs controlled components](https://github.com/QwikDev/qwik/issues/6336) 💬 5 | [QwikDev/qwik](https://github.com/QwikDev/qwik) | 22.1k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
 | [[📖] How to debug Big js chunks on build](https://github.com/QwikDev/qwik/issues/6836) 💬 2 | [QwikDev/qwik](https://github.com/QwikDev/qwik) | 22.1k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
 | [[Feedback]: UI Shell is way too complicated and not really documented](https://github.com/carbon-design-system/carbon/issues/19715) 💬 6 | [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) | 9.5k | 🟡 help wanted | 2026-09-29 | 🔏 DCO |
-| [reinforce(gspo) training didn't yield any improments](https://github.com/unslothai/unsloth/issues/3485) 💬 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.1k | 🟡 help wanted | 2026-09-27 |  |
+| [reinforce(gspo) training didn't yield any improments](https://github.com/unslothai/unsloth/issues/3485) 💬 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.2k | 🟡 help wanted | 2026-09-27 |  |
 | [[p5.js 2.0+ Bug Report]: Floats in strands shaders are always rounded to 4 decimals](https://github.com/processing/p5.js/issues/8884) 💬 16 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-27 | ⚠️ AI restricted |
 | [[Bug]: '@medusajs/test-utils': database credentials are captured at module load, ignoring runner 'env'](https://github.com/medusajs/medusa/issues/16272) 💬 4 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.6k | 🟡 help wanted | 2026-09-25 |  |
 | [[Bug]: '@medusajs/test-utils': 'schema' option is exposed but not applied to Medusa config](https://github.com/medusajs/medusa/issues/16275) 💬 3 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.6k | 🟡 help wanted | 2026-09-25 |  |
@@ -88,8 +89,8 @@
 | ['_some' operator limited to top-level relations prevents complex nested filtering](https://github.com/directus/directus/issues/25403) 💬 7 | [directus/directus](https://github.com/directus/directus) | 38k | 🟡 help wanted | 2026-09-02 |  |
 | [M2A Relation Display Not Showing Properly](https://github.com/directus/directus/issues/25348) 💬 4 | [directus/directus](https://github.com/directus/directus) | 38k | 🟡 help wanted | 2026-09-02 |  |
 | [[Tracker] 任务清单](https://github.com/ant-design/ant-design/issues/58972) 💬 4 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 99.7k | 🟡 help wanted | 2026-09-01 |  |
-| [[Feature] Running Usloth Studion in kaggle](https://github.com/unslothai/unsloth/issues/4944) 💬 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.1k | 🟡 help wanted | 2026-09-01 |  |
-| [Request for Notebook to Fine-Tune Qwen TTS (or Alternatives Using Existing Notebooks)](https://github.com/unslothai/unsloth/issues/3961) 💬 4 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.1k | 🟢 beginner | 2026-09-01 |  |
+| [[Feature] Running Usloth Studion in kaggle](https://github.com/unslothai/unsloth/issues/4944) 💬 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.2k | 🟡 help wanted | 2026-09-01 |  |
+| [Request for Notebook to Fine-Tune Qwen TTS (or Alternatives Using Existing Notebooks)](https://github.com/unslothai/unsloth/issues/3961) 💬 4 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.2k | 🟢 beginner | 2026-09-01 |  |
 | [Docling on n8n nodes](https://github.com/docling-project/docling/issues/890) 💬 1 | [docling-project/docling](https://github.com/docling-project/docling) | 68.3k | 🟡 help wanted | 2026-09-01 |  |
 | [Responsive images generated with contain fit and an aspect ratio that causes pillarboxing are missing high res](https://github.com/gatsbyjs/gatsby/issues/33647) 💬 11 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) | 55.9k | 🟡 help wanted | 2026-09-01 |  |
 | [Catch and handle ChunkLoadError](https://github.com/gatsbyjs/gatsby/issues/33844) 💬 11 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) | 55.9k | 🟡 help wanted | 2026-09-01 |  |
@@ -194,7 +195,7 @@
 | [Corrupted styles with third-party component using cssInterop and shadows](https://github.com/nativewind/nativewind/issues/1418) 💬 2 | [nativewind/nativewind](https://github.com/nativewind/nativewind) | 8.1k | 🟡 help wanted | 2026-07-08 |  |
 | [Displaying Camera Settings](https://github.com/immichFrame/ImmichFrame/issues/386) 💬 8 | [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) | 2.4k | 🟢 beginner | 2026-07-08 |  |
 | [📢 NaiveUI Feature Requests & Task Assignment](https://github.com/tusen-ai/naive-ui/issues/6737) 💬 10 | [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) | 18.6k | 🟡 help wanted | 2026-07-05 |  |
-| [Proposal: Turn on GL backend for Femtovg WGPU](https://github.com/slint-ui/slint/issues/12273) 💬 2 | [slint-ui/slint](https://github.com/slint-ui/slint) | 24k | 🟢 beginner | 2026-06-30 |  |
+| [Proposal: Turn on GL backend for Femtovg WGPU](https://github.com/slint-ui/slint/issues/12273) 💬 2 | [slint-ui/slint](https://github.com/slint-ui/slint) | 24.1k | 🟢 beginner | 2026-06-30 |  |
 | [Scripts refuse to load due to unsafe eval](https://github.com/beautifier/js-beautify/issues/1319) 💬 4 | [beautifier/js-beautify](https://github.com/beautifier/js-beautify) | 9k | 🟡 help wanted | 2026-06-30 |  |
 | [Does this currently support babel/es2015/es6?](https://github.com/beautifier/js-beautify/issues/780) 💬 5 | [beautifier/js-beautify](https://github.com/beautifier/js-beautify) | 9k | 🟢 beginner | 2026-06-30 |  |
 | [Table is not interactive on first click in SSR](https://github.com/adobe/react-spectrum/issues/8239) 💬 17 | [adobe/react-spectrum](https://github.com/adobe/react-spectrum) | 15.9k | 🟡 help wanted | 2026-06-29 | 🤖 disclose AI use · ✍️ CLA |
@@ -209,6 +210,5 @@
 | [Option to not put a space before /&gt; in self-closing tags](https://github.com/beautifier/js-beautify/issues/654) 💬 13 | [beautifier/js-beautify](https://github.com/beautifier/js-beautify) | 9k | 🟢 beginner | 2026-06-23 |  |
 | [add support for link type extensions ('&lt;link [rel]&gt;')](https://github.com/kristoff-it/superhtml/issues/143) 💬 1 | [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) | 1.4k | 🟢 beginner | 2026-06-23 |  |
 | [Converging toward a principal Unreal Engine backend/binding for Dear ImGui?](https://github.com/ocornut/imgui/issues/9122) 💬 48 | [ocornut/imgui](https://github.com/ocornut/imgui) | 76.5k | 🟡 help wanted | 2026-06-21 | ✍️ CLA |
-| [setAttributes() invalidates references to earlier canvases](https://github.com/processing/p5.js/issues/5902) 💬 8 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-06-20 | ⚠️ AI restricted |
 
-Showing the 200 most recently updated. See all 261 on the website.
+Showing the 200 most recently updated. See all 262 on the website.

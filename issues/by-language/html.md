@@ -1,10 +1,10 @@
 # HTML issues
 
-**84** open issues (27 labeled for beginners) across **34** active HTML projects.
+**83** open issues (27 labeled for beginners) across **34** active HTML projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/html.xml)
 
-> Updated automatically on **2026-10-02 22:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-03 11:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,7 +13,6 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [xhs 图片无法保存完整](https://github.com/nexu-io/html-anything/issues/160) 💬 2 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 9k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
-| [java.util.ImmutableCollections$ListN can contain null values](https://github.com/EsotericSoftware/kryo/issues/1239) 💬 5 | [EsotericSoftware/kryo](https://github.com/EsotericSoftware/kryo) | 6.5k | 🟡 help wanted | 2026-10-01 |  |
 | [[Initiative]: Cloud Native Business Continuity: whitepaper and best practices](https://github.com/cncf/toc/issues/1779) 💬 12 | [cncf/toc](https://github.com/cncf/toc) | 1.9k | 🟡 help wanted | 2026-09-30 |  |
 | [Service Worker Offline](https://github.com/TandoorRecipes/recipes/issues/621) 💬 7 | [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) | 8.6k | 🟢 beginner | 2026-09-29 |  |
 | [Search - Use the same words for criteria in "Products search" and in the product page (and edition page)](https://github.com/openfoodfacts/openfoodfacts-server/issues/17) 💬 1 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |

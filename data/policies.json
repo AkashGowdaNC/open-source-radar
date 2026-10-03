@@ -11514,7 +11514,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-26T10:12:50+00:00"
+    "scanned_at": "2026-10-03T10:43:34+00:00"
   },
   "business-science/tidyquant": {
     "ai": "none",
@@ -11522,7 +11522,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-09-27T10:51:36+00:00"
+    "scanned_at": "2026-10-03T10:43:34+00:00"
   },
   "bylinxx/MacCalendar": {
     "ai": "none",
@@ -11530,7 +11530,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-09-27T10:51:36+00:00"
+    "scanned_at": "2026-10-03T10:43:34+00:00"
   },
   "bysiber/cleardisk": {
     "ai": "none",
@@ -11540,7 +11540,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-27T10:51:36+00:00"
+    "scanned_at": "2026-10-03T10:43:34+00:00"
   },
   "bytebase/bytebase": {
     "ai": "none",
@@ -11550,7 +11550,7 @@
     "files": [
       "AGENTS.md"
     ],
-    "scanned_at": "2026-09-27T10:51:36+00:00"
+    "scanned_at": "2026-10-03T10:43:34+00:00"
   },
   "bytecode77/r77-rootkit": {
     "ai": "none",
@@ -11570,7 +11570,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-27T10:51:36+00:00"
+    "scanned_at": "2026-10-03T10:43:34+00:00"
   },
   "bytedance/UI-TARS-desktop": {
     "ai": "none",
@@ -12357,6 +12357,17 @@
     ],
     "scanned_at": "2026-09-27T10:53:38+00:00"
   },
+  "chromedp/chromedp": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [
+      "AGENTS.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-10-03T10:44:24+00:00"
+  },
   "chromiumembedded/cef": {
     "ai": "disclose",
     "ai_file": "AI_POLICY.md",
@@ -12366,7 +12377,7 @@
       "AI_POLICY.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-27T10:53:38+00:00"
+    "scanned_at": "2026-10-03T10:44:24+00:00"
   },
   "chubin/cheat.sh": {
     "ai": "none",
@@ -12376,7 +12387,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-27T10:53:38+00:00"
+    "scanned_at": "2026-10-03T10:44:24+00:00"
   },
   "chubin/wttr.in": {
     "ai": "none",
@@ -12384,7 +12395,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-09-27T10:53:38+00:00"
+    "scanned_at": "2026-10-03T10:44:24+00:00"
   },
   "cilium/pwru": {
     "ai": "disclose",
@@ -12395,7 +12406,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-27T10:53:38+00:00"
+    "scanned_at": "2026-10-03T10:44:24+00:00"
   },
   "cilium/tetragon": {
     "ai": "policy",
@@ -12406,7 +12417,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-27T10:53:38+00:00"
+    "scanned_at": "2026-10-03T10:44:24+00:00"
   },
   "cimgui/cimgui": {
     "ai": "none",
@@ -15750,7 +15761,7 @@
       ".github/CONTRIBUTING.md",
       ".github/pull_request_template.md"
     ],
-    "scanned_at": "2026-09-27T10:57:41+00:00"
+    "scanned_at": "2026-10-03T10:50:30+00:00"
   },
   "esengine/DeepSeek-Reasonix": {
     "ai": "none",
@@ -15762,7 +15773,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-27T10:57:41+00:00"
+    "scanned_at": "2026-10-03T10:50:30+00:00"
   },
   "eslint/eslint": {
     "ai": "disclose",
@@ -15774,7 +15785,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-26T10:19:34+00:00"
+    "scanned_at": "2026-10-03T10:50:30+00:00"
   },
   "esnet/iperf": {
     "ai": "none",
@@ -15785,7 +15796,7 @@
       ".github/CONTRIBUTING.md",
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-10-02T21:43:55+00:00"
+    "scanned_at": "2026-10-03T10:50:30+00:00"
   },
   "esp8266/Arduino": {
     "ai": "none",
@@ -15793,7 +15804,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-02T21:43:55+00:00"
+    "scanned_at": "2026-10-03T10:50:30+00:00"
   },
   "espanso/espanso": {
     "ai": "none",
@@ -15801,7 +15812,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-10-02T21:43:55+00:00"
+    "scanned_at": "2026-10-03T10:50:30+00:00"
   },
   "espeak-ng/espeak-ng": {
     "ai": "none",
@@ -15873,13 +15884,21 @@
     ],
     "scanned_at": "2026-10-01T22:14:28+00:00"
   },
+  "ethereal-developers/OpenScan": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [],
+    "scanned_at": "2026-10-03T10:50:36+00:00"
+  },
   "ethereum-lists/chains": {
     "ai": "none",
     "ai_file": null,
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-09-27T10:57:49+00:00"
+    "scanned_at": "2026-10-03T10:50:36+00:00"
   },
   "ethereum/go-ethereum": {
     "ai": "none",
@@ -15890,7 +15909,7 @@
       ".github/CONTRIBUTING.md",
       "AGENTS.md"
     ],
-    "scanned_at": "2026-09-27T10:57:49+00:00"
+    "scanned_at": "2026-10-03T10:50:36+00:00"
   },
   "eunomia-bpf/bpf-developer-tutorial": {
     "ai": "none",
@@ -15898,7 +15917,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-09-27T10:57:53+00:00"
+    "scanned_at": "2026-10-03T10:50:36+00:00"
   },
   "evan361425/flutter-pos-system": {
     "ai": "none",
@@ -15909,7 +15928,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "docs/CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-27T10:57:53+00:00"
+    "scanned_at": "2026-10-03T10:50:36+00:00"
   },
   "evanca/flutter-ai-rules": {
     "ai": "none",
@@ -15919,7 +15938,7 @@
     "files": [
       "AGENTS.md"
     ],
-    "scanned_at": "2026-09-27T10:57:53+00:00"
+    "scanned_at": "2026-10-03T10:50:36+00:00"
   },
   "every-app/open-seo": {
     "ai": "none",
@@ -16368,6 +16387,18 @@
     ],
     "scanned_at": "2026-09-27T10:58:28+00:00"
   },
+  "fastrepl/anarlog": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [
+      ".github/PULL_REQUEST_TEMPLATE.md",
+      "AGENTS.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-10-03T10:52:03+00:00"
+  },
   "fatfreecrm/fat_free_crm": {
     "ai": "none",
     "ai_file": null,
@@ -16376,7 +16407,7 @@
     "files": [
       "AGENTS.md"
     ],
-    "scanned_at": "2026-09-27T10:58:28+00:00"
+    "scanned_at": "2026-10-03T10:52:03+00:00"
   },
   "faveosuite/faveo-helpdesk": {
     "ai": "none",
@@ -16386,7 +16417,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-27T10:58:28+00:00"
+    "scanned_at": "2026-10-03T10:52:03+00:00"
   },
   "favourhong/Awesome-Marp": {
     "ai": "none",
@@ -16394,7 +16425,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-09-27T10:58:28+00:00"
+    "scanned_at": "2026-10-03T10:52:03+00:00"
   },
   "fcitx5-android/fcitx5-android": {
     "ai": "none",
@@ -16402,7 +16433,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-09-27T10:58:31+00:00"
+    "scanned_at": "2026-10-03T10:52:03+00:00"
   },
   "feedjira/feedjira": {
     "ai": "none",
@@ -16410,7 +16441,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-09-27T10:58:31+00:00"
+    "scanned_at": "2026-10-03T10:52:03+00:00"
   },
   "felangel/bloc": {
     "ai": "none",
@@ -17203,7 +17234,7 @@
       ".github/pull_request_template.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-27T11:00:20+00:00"
+    "scanned_at": "2026-10-03T10:52:44+00:00"
   },
   "fyne-io/fyne": {
     "ai": "none",
@@ -17214,7 +17245,7 @@
       ".github/PULL_REQUEST_TEMPLATE.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-27T11:00:20+00:00"
+    "scanned_at": "2026-10-03T10:52:44+00:00"
   },
   "g1eny0ung/hugo-theme-dream": {
     "ai": "none",
@@ -17222,7 +17253,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-09-27T11:00:20+00:00"
+    "scanned_at": "2026-10-03T10:52:44+00:00"
   },
   "gadicc/yahoo-finance2": {
     "ai": "none",
@@ -17234,7 +17265,18 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-27T11:00:20+00:00"
+    "scanned_at": "2026-10-03T10:52:44+00:00"
+  },
+  "ganeshmshetty/openclip": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [
+      "AGENTS.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-10-03T10:52:44+00:00"
   },
   "gantry/gantry5": {
     "ai": "none",
@@ -17242,7 +17284,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-09-27T11:00:26+00:00"
+    "scanned_at": "2026-10-03T10:52:44+00:00"
   },
   "garris/BackstopJS": {
     "ai": "none",
@@ -24487,7 +24529,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-27T11:12:50+00:00"
+    "scanned_at": "2026-10-03T11:05:07+00:00"
   },
   "minbrowser/min": {
     "ai": "none",
@@ -24495,7 +24537,15 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-09-27T11:12:50+00:00"
+    "scanned_at": "2026-10-03T11:05:07+00:00"
+  },
+  "mindcraft-bots/mindcraft": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [],
+    "scanned_at": "2026-10-03T11:05:07+00:00"
   },
   "mingrammer/diagrams": {
     "ai": "none",
@@ -24505,7 +24555,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-27T11:12:50+00:00"
+    "scanned_at": "2026-10-03T11:05:07+00:00"
   },
   "minh-ton/reynard-browser": {
     "ai": "none",
@@ -24513,7 +24563,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-09-27T11:12:50+00:00"
+    "scanned_at": "2026-10-03T11:05:07+00:00"
   },
   "mini-software/MiniExcel": {
     "ai": "none",
@@ -24523,7 +24573,7 @@
     "files": [
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-27T11:12:50+00:00"
+    "scanned_at": "2026-10-03T11:05:07+00:00"
   },
   "mishakorzik/AllHackingTools": {
     "ai": "none",
@@ -27625,7 +27675,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-09-26T20:37:55+00:00"
+    "scanned_at": "2026-10-03T11:08:56+00:00"
   },
   "osociety/vernet": {
     "ai": "policy",
@@ -27635,7 +27685,7 @@
     "files": [
       "AGENTS.md"
     ],
-    "scanned_at": "2026-09-26T20:38:00+00:00"
+    "scanned_at": "2026-10-03T11:08:56+00:00"
   },
   "oss-review-toolkit/ort": {
     "ai": "disclose",
@@ -27645,7 +27695,7 @@
     "files": [
       "AI_POLICY.md"
     ],
-    "scanned_at": "2026-09-26T20:38:00+00:00"
+    "scanned_at": "2026-10-03T11:08:56+00:00"
   },
   "outr/scribe": {
     "ai": "none",
@@ -27653,7 +27703,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-09-26T20:38:00+00:00"
+    "scanned_at": "2026-10-03T11:08:56+00:00"
   },
   "oven-sh/bun": {
     "ai": "none",
@@ -27665,7 +27715,17 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-26T20:38:00+00:00"
+    "scanned_at": "2026-10-03T11:08:56+00:00"
+  },
+  "overextended/ox_inventory": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": true,
+    "dco": false,
+    "files": [
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-10-03T11:08:56+00:00"
   },
   "owasp-modsecurity/ModSecurity": {
     "ai": "none",
@@ -30240,7 +30300,7 @@
       ".github/CONTRIBUTING.md",
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-09-27T11:21:59+00:00"
+    "scanned_at": "2026-10-03T11:14:03+00:00"
   },
   "robstoll/atrium": {
     "ai": "none",
@@ -30251,7 +30311,7 @@
       ".github/CONTRIBUTING.md",
       ".github/PULL_REQUEST_TEMPLATE.md"
     ],
-    "scanned_at": "2026-09-27T11:21:59+00:00"
+    "scanned_at": "2026-10-03T11:14:03+00:00"
   },
   "roc-lang/roc": {
     "ai": "none",
@@ -30261,7 +30321,7 @@
     "files": [
       "AGENTS.md"
     ],
-    "scanned_at": "2026-09-26T20:43:37+00:00"
+    "scanned_at": "2026-10-03T11:14:03+00:00"
   },
   "rocker-org/rocker-versioned2": {
     "ai": "none",
@@ -30269,7 +30329,18 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-09-26T20:43:37+00:00"
+    "scanned_at": "2026-10-03T11:14:03+00:00"
+  },
+  "rockerBOO/awesome-neovim": {
+    "ai": "none",
+    "ai_file": null,
+    "cla": false,
+    "dco": false,
+    "files": [
+      ".github/pull_request_template.md",
+      "CONTRIBUTING.md"
+    ],
+    "scanned_at": "2026-10-03T11:14:03+00:00"
   },
   "rocketride-org/rocketride-server": {
     "ai": "none",
@@ -30281,7 +30352,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-26T20:43:37+00:00"
+    "scanned_at": "2026-10-03T11:14:03+00:00"
   },
   "rocksdanister/lively": {
     "ai": "none",
@@ -36347,7 +36418,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-09-20T10:44:58+00:00"
+    "scanned_at": "2026-10-03T11:23:29+00:00"
   },
   "wp-graphql/wp-graphql": {
     "ai": "none",
@@ -36360,7 +36431,7 @@
       "AGENTS.md",
       "docs/CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-27T21:03:17+00:00"
+    "scanned_at": "2026-10-03T11:23:29+00:00"
   },
   "wp-media/wp-rocket": {
     "ai": "policy",
@@ -36371,7 +36442,7 @@
       "AGENTS.md",
       "CONTRIBUTING.md"
     ],
-    "scanned_at": "2026-09-27T21:03:17+00:00"
+    "scanned_at": "2026-10-03T11:23:29+00:00"
   },
   "wvlet/airframe": {
     "ai": "none",
@@ -36381,7 +36452,7 @@
     "files": [
       ".github/pull_request_template.md"
     ],
-    "scanned_at": "2026-09-27T21:03:17+00:00"
+    "scanned_at": "2026-10-03T11:23:29+00:00"
   },
   "wwebjs/whatsapp-web.js": {
     "ai": "none",
@@ -36392,7 +36463,7 @@
       ".github/CONTRIBUTING.md",
       ".github/pull_request_template.md"
     ],
-    "scanned_at": "2026-09-27T21:03:17+00:00"
+    "scanned_at": "2026-10-03T11:23:29+00:00"
   },
   "wwmm/easyeffects": {
     "ai": "none",
@@ -36400,7 +36471,7 @@
     "cla": false,
     "dco": false,
     "files": [],
-    "scanned_at": "2026-09-27T21:03:21+00:00"
+    "scanned_at": "2026-10-03T11:23:29+00:00"
   },
   "wzh4869/AppPorts": {
     "ai": "none",

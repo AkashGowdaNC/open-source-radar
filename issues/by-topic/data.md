@@ -1,8 +1,8 @@
 # Data and databases issues
 
-**310** open issues (148 labeled for beginners) across **94** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
+**306** open issues (143 labeled for beginners) across **94** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
 
-> Updated automatically on **2026-10-02 22:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-03 11:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,13 +10,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Add unit tests for the chart colour schemes](https://github.com/kestra-io/kestra/issues/20190) 💬 5 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.8k | 🟢 beginner | 2026-10-02 |  |
-| [Add unit tests for the design system useTheme](https://github.com/kestra-io/kestra/issues/20200) 💬 7 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.8k | 🟢 beginner | 2026-10-02 |  |
-| [Add unit tests for the object helpers in utils.ts](https://github.com/kestra-io/kestra/issues/20178) 💬 7 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.8k | 🟢 beginner | 2026-10-02 |  |
-| [Add unit tests for the byte-size formatting helpers](https://github.com/kestra-io/kestra/issues/20176) 💬 7 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.8k | 🟢 beginner | 2026-10-02 |  |
-| [Add unit tests for trackSavedFilter](https://github.com/kestra-io/kestra/issues/20193) 💬 5 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.8k | 🟢 beginner | 2026-10-02 |  |
-| [Add unit tests for useTaskIcon](https://github.com/kestra-io/kestra/issues/20199) 💬 5 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.8k | 🟢 beginner | 2026-10-02 |  |
-| [[Executions] Bulk action bar should only enable actions that all selected executions can accept](https://github.com/kestra-io/kestra/issues/19930) 💬 8 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.8k | 🟢 beginner | 2026-10-02 |  |
+| [[Accessibility issue] Template variables: No designator for mandatory fields in forms (MAS issue: 258655)](https://github.com/grafana/grafana/issues/73397) 💬 4 | [grafana/grafana](https://github.com/grafana/grafana) | 77k | 🟡 help wanted | 2026-10-03 | ✍️ CLA |
+| [[Executions] Bulk action bar should only enable actions that all selected executions can accept](https://github.com/kestra-io/kestra/issues/19930) 💬 9 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.9k | 🟢 beginner | 2026-10-03 |  |
+| [[UI] Add a select tab dropdown on the execution page, same as flow](https://github.com/kestra-io/kestra/issues/17964) 💬 7 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 28.9k | 🟢 beginner | 2026-10-03 |  |
 | [Cannot filter by an outer column inside EXCEPT](https://github.com/diesel-rs/diesel/issues/5253) | [diesel-rs/diesel](https://github.com/diesel-rs/diesel) | 14.2k | 🟡 help wanted | 2026-10-02 | ⚠️ AI restricted |
 | [Fuzzing for 'diesel_infer_query'](https://github.com/diesel-rs/diesel/issues/5222) 💬 1 | [diesel-rs/diesel](https://github.com/diesel-rs/diesel) | 14.2k | 🟡 help wanted | 2026-10-02 | ⚠️ AI restricted |
 | [Support a properties-file (available during runtime) for ml-models (Stateless evaluation in container)](https://github.com/vespa-engine/vespa/issues/9552) 💬 3 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7.1k | 🟢 beginner | 2026-10-02 |  |
@@ -194,12 +190,12 @@
 | [REST test against clusters with dedicated master nodes](https://github.com/elastic/elasticsearch/issues/34563) 💬 15 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 78.2k | 🟡 help wanted | 2026-08-05 | ✍️ CLA |
 | [在Dbeaver中，不能下载、使用最新驱动](https://github.com/taosdata/TDengine/issues/35396) 💬 2 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.1k | 🟡 help wanted | 2026-08-04 |  |
 | [MessagePack codec (or VRL functions)](https://github.com/vectordotdev/vector/issues/8675) 💬 4 | [vectordotdev/vector](https://github.com/vectordotdev/vector) | 22.7k | 🟢 beginner | 2026-08-03 | 📄 AI policy · ✍️ CLA |
-| [Multi-label updates](https://github.com/FalkorDB/FalkorDB/issues/284) 💬 8 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.6k | 🟡 help wanted | 2026-08-03 |  |
-| [Consider RDF/SPARQL support](https://github.com/FalkorDB/FalkorDB/issues/173) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.6k | 🟡 help wanted | 2026-08-03 |  |
-| ["WHERE NOT (node)-[]-&gt;()" much slower than "OUTDEGREE(node)=0"](https://github.com/FalkorDB/FalkorDB/issues/146) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.6k | 🟡 help wanted | 2026-08-03 |  |
-| [Can I write nodes or relationships to the graph in parallel](https://github.com/FalkorDB/FalkorDB/issues/130) 💬 3 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.6k | 🟡 help wanted | 2026-08-03 |  |
-| [Document execution plan operations](https://github.com/FalkorDB/FalkorDB/issues/82) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.6k | 🟡 help wanted | 2026-08-03 |  |
-| [Redis Graph doesn't allow single quote to be escaped when creating a vertex/edge](https://github.com/FalkorDB/FalkorDB/issues/71) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.6k | 🟡 help wanted | 2026-08-03 |  |
+| [Multi-label updates](https://github.com/FalkorDB/FalkorDB/issues/284) 💬 8 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.7k | 🟡 help wanted | 2026-08-03 |  |
+| [Consider RDF/SPARQL support](https://github.com/FalkorDB/FalkorDB/issues/173) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.7k | 🟡 help wanted | 2026-08-03 |  |
+| ["WHERE NOT (node)-[]-&gt;()" much slower than "OUTDEGREE(node)=0"](https://github.com/FalkorDB/FalkorDB/issues/146) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.7k | 🟡 help wanted | 2026-08-03 |  |
+| [Can I write nodes or relationships to the graph in parallel](https://github.com/FalkorDB/FalkorDB/issues/130) 💬 3 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.7k | 🟡 help wanted | 2026-08-03 |  |
+| [Document execution plan operations](https://github.com/FalkorDB/FalkorDB/issues/82) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.7k | 🟡 help wanted | 2026-08-03 |  |
+| [Redis Graph doesn't allow single quote to be escaped when creating a vertex/edge](https://github.com/FalkorDB/FalkorDB/issues/71) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 6.7k | 🟡 help wanted | 2026-08-03 |  |
 | [add support for signed data types for TTL](https://github.com/ydb-platform/ydb/issues/12751) | [ydb-platform/ydb](https://github.com/ydb-platform/ydb) | 4.8k | 🟢 beginner | 2026-08-03 |  |
 | [Group MCP tools by read and write/ delete](https://github.com/PostHog/posthog/issues/76236) 💬 2 | [PostHog/posthog](https://github.com/PostHog/posthog) | 40.1k | 🟢 beginner | 2026-08-02 | ⚠️ AI restricted |
 | [TMemoryLimitException should be inherited from std::exception](https://github.com/ydb-platform/ydb/issues/2887) | [ydb-platform/ydb](https://github.com/ydb-platform/ydb) | 4.8k | 🟢 beginner | 2026-08-02 |  |
@@ -210,5 +206,9 @@
 | [Save markdown heading collapsed states](https://github.com/marimo-team/marimo/issues/3825) 💬 3 | [marimo-team/marimo](https://github.com/marimo-team/marimo) | 23k | 🟡 help wanted | 2026-07-25 | 🤖 disclose AI use · ✍️ CLA |
 | [Add a Python client library](https://github.com/cube-js/cube/issues/1744) 💬 13 | [cube-js/cube](https://github.com/cube-js/cube) | 20.9k | 🟡 help wanted | 2026-07-23 | 🔏 DCO |
 | [TestLoad* failures: unexpected path expansion](https://github.com/ent/ent/issues/3013) 💬 6 | [ent/ent](https://github.com/ent/ent) | 17.2k | 🟢 beginner | 2026-07-23 | ✍️ CLA |
+| [delete_many() with 'exec_with_returning' with '.filter()' won't return the deleted entry](https://github.com/SeaQL/sea-orm/issues/3046) 💬 3 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) | 9.9k | 🟡 help wanted | 2026-07-23 |  |
+| ["Comparison to average values of products in the same category" is unclear](https://github.com/openfoodfacts/openfoodfacts-server/issues/2497) 💬 9 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-07-23 | 🤖 disclose AI use |
+| [Mirror load_datasets api for read_huggingface](https://github.com/Eventual-Inc/Daft/issues/5295) | [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) | 5.8k | 🟡 help wanted | 2026-07-22 | 🤖 disclose AI use |
+| [Provide an optional value comparer for JsonDocument/JsonElement](https://github.com/npgsql/efcore.pg/issues/1393) 💬 5 | [npgsql/efcore.pg](https://github.com/npgsql/efcore.pg) | 1.8k | 🟢 beginner | 2026-07-22 |  |
 
-Showing the 200 most recently updated. See all 310 on the website.
+Showing the 200 most recently updated. See all 306 on the website.

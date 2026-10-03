@@ -1,10 +1,10 @@
 # Swift issues
 
-**107** open issues (45 labeled for beginners) across **60** active Swift projects.
+**103** open issues (45 labeled for beginners) across **60** active Swift projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/swift.xml)
 
-> Updated automatically on **2026-10-02 22:17 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-03 11:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,26 +12,23 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [cmux NIGHTLY build is failing on main](https://github.com/manaflow-ai/cmux/issues/14440) 💬 234 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
-| [0.64.25 turn-end notifications silently dropped when agent identity resolves empty](https://github.com/manaflow-ai/cmux/issues/13986) 💬 2 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
-| [Cmux tab opens new window after response](https://github.com/manaflow-ai/cmux/issues/872) 💬 5 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
-| [Workspace switching degrades to 2.5–4 s after ~1 day uptime; main thread stuck in _CFXNotificationRegistrarRem](https://github.com/manaflow-ai/cmux/issues/16325) 💬 4 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
+| [cmux NIGHTLY build is failing on main](https://github.com/manaflow-ai/cmux/issues/14440) 💬 249 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-03 | 📄 AI policy · ✍️ CLA |
+| [Claude panels lose auto-resume after /clear (wasAgentRunning and autoResume reset while the process keeps runn](https://github.com/manaflow-ai/cmux/issues/15407) 💬 4 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-03 | 📄 AI policy · ✍️ CLA |
+| [Workspace switching degrades to 2.5–4 s after ~1 day uptime; main thread stuck in _CFXNotificationRegistrarRem](https://github.com/manaflow-ai/cmux/issues/16325) 💬 6 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-03 | 📄 AI policy · ✍️ CLA |
+| [Pointer speed has no effect on trackpad on M2 and later Macs](https://github.com/linearmouse/linearmouse/issues/270) 💬 15 | [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) | 6.9k | 🟡 help wanted | 2026-10-03 |  |
+| [[Bug] Keyboard text input has poor performance, buggy, and missing stock iOS features](https://github.com/minh-ton/reynard-browser/issues/309) 💬 7 | [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser) | 1.7k | 🟡 help wanted | 2026-10-03 |  |
+| [[Feature]: Add Keyboard Shortcuts for Custom AI Actions](https://github.com/ganeshmshetty/openclip/issues/117) 💬 1 | [ganeshmshetty/openclip](https://github.com/ganeshmshetty/openclip) | 593 | 🟢 beginner | 2026-10-03 |  |
+| [0.64.25 cmux hooks broke Claude Code for a user](https://github.com/manaflow-ai/cmux/issues/15058) 💬 2 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
+| [window default-display is documented but unreachable](https://github.com/manaflow-ai/cmux/issues/15739) 💬 4 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
+| [0.64.25 turn-end notifications silently dropped when agent identity resolves empty](https://github.com/manaflow-ai/cmux/issues/13986) 💬 1 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
+| [Cmux tab opens new window after response](https://github.com/manaflow-ai/cmux/issues/872) 💬 4 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
 | [browser automation CLI silently ignores unknown flags](https://github.com/manaflow-ai/cmux/issues/15731) 💬 5 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
-| [window default-display is documented but unreachable](https://github.com/manaflow-ai/cmux/issues/15739) 💬 3 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
 | [vpn CLI silently ignores trailing arguments, including on revoke](https://github.com/manaflow-ai/cmux/issues/15740) 💬 2 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
-| [Claude panels lose auto-resume after /clear (wasAgentRunning and autoResume reset while the process keeps runn](https://github.com/manaflow-ai/cmux/issues/15407) 💬 3 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
 | [Cloud VM socket summaries omit attach transport capabilities](https://github.com/manaflow-ai/cmux/issues/15691) 💬 4 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
 | [Browser omnibar shows only "Switch to tab" for URLs with a path already open in the same window](https://github.com/manaflow-ai/cmux/issues/2630) 💬 3 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
-| [Locked into vertical split](https://github.com/manaflow-ai/cmux/issues/178) 💬 3 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
-| [Notifications not working with Qwen Code (no OSC notification support)](https://github.com/manaflow-ai/cmux/issues/894) 💬 3 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
-| [cursor not same when display multiple window](https://github.com/manaflow-ai/cmux/issues/2295) 💬 3 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-02 | 📄 AI policy · ✍️ CLA |
 | [Gitlab Duo Support](https://github.com/steipete/CodexBar/issues/1769) 💬 4 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | 22.1k | 🟡 help wanted | 2026-10-02 |  |
-| [iOS SSH attach can outlive detach and resurrect a stale terminal](https://github.com/manaflow-ai/cmux/issues/16147) 💬 4 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-01 | 📄 AI policy · ✍️ CLA |
-| [Pi workspace auto-naming does not run for existing/resumed sessions](https://github.com/manaflow-ai/cmux/issues/8718) 💬 3 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27.6k | 🟡 help wanted | 2026-10-01 | 📄 AI policy · ✍️ CLA |
 | ["Learn from my corrections" doesn't work in terminal apps](https://github.com/altic-dev/FluidVoice/issues/1032) | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 11.9k | 🟡 help wanted | 2026-10-01 |  |
 | [Accidental cancel recovery](https://github.com/altic-dev/FluidVoice/issues/1038) 💬 1 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 11.9k | 🟡 help wanted | 2026-10-01 |  |
-| [[Bug] Keyboard text input has poor performance, buggy, and missing stock iOS features](https://github.com/minh-ton/reynard-browser/issues/309) 💬 7 | [minh-ton/reynard-browser](https://github.com/minh-ton/reynard-browser) | 1.7k | 🟡 help wanted | 2026-10-01 |  |
-| [Migrate DeepSeek to a JSON definition](https://github.com/tddworks/ClaudeBar/issues/332) | [tddworks/ClaudeBar](https://github.com/tddworks/ClaudeBar) | 1.5k | 🟢 beginner | 2026-10-01 |  |
 | [Run with all traits in the API checker CI](https://github.com/apple/swift-configuration/issues/95) 💬 1 | [apple/swift-configuration](https://github.com/apple/swift-configuration) | 814 | 🟢 beginner | 2026-09-29 |  |
 | [🚀 功能建议：支持自定义扩展](https://github.com/tisfeng/Easydict/issues/136) 💬 6 | [tisfeng/Easydict](https://github.com/tisfeng/Easydict) | 14.8k | 🟡 help wanted | 2026-09-28 |  |
 | [Linux: run SpeakType 2 end to end and report what breaks](https://github.com/karansinghgit/speaktype/issues/164) 💬 1 | [karansinghgit/speaktype](https://github.com/karansinghgit/speaktype) | 530 | 🟡 help wanted | 2026-09-26 |  |
@@ -45,7 +42,7 @@
 | [bug: かな入力でテンキーの入力がひらがなに化けてしまう](https://github.com/azooKey/azooKey-Desktop/issues/262) 💬 15 | [azooKey/azooKey-Desktop](https://github.com/azooKey/azooKey-Desktop) | 1k | 🟢 beginner | 2026-09-16 |  |
 | [Drop ZIG as the default build programme](https://github.com/idawnlight/ShichiZip/issues/52) 💬 1 | [idawnlight/ShichiZip](https://github.com/idawnlight/ShichiZip) | 960 | 🟡 help wanted | 2026-09-16 |  |
 | [Use vertical scrolling for series episodes on iOS](https://github.com/jellyfin/Swiftfin/issues/2145) 💬 3 | [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) | 4.2k | 🟢 beginner | 2026-09-14 |  |
-| [[FR]backup settings](https://github.com/ejbills/DockDoor/issues/688) 💬 7 | [ejbills/DockDoor](https://github.com/ejbills/DockDoor) | 6.1k | 🟢 beginner | 2026-09-09 | 🤖 disclose AI use |
+| [[FR]backup settings](https://github.com/ejbills/DockDoor/issues/688) 💬 7 | [ejbills/DockDoor](https://github.com/ejbills/DockDoor) | 6.2k | 🟢 beginner | 2026-09-09 | 🤖 disclose AI use |
 | [连接airpods的时候，会奇怪的出现通透模式，降噪模式切换](https://github.com/Ebullioscopic/Atoll/issues/822) 💬 2 | [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) | 4.8k | 🟡 help wanted | 2026-09-09 |  |
 | [Adopt iOS 17 nightstand landscape mode](https://github.com/vinhnx/Clendar/issues/255) 💬 8 | [vinhnx/Clendar](https://github.com/vinhnx/Clendar) | 732 | 🟢 beginner | 2026-09-06 |  |
 | [Visiting a reading list site that has not been previously opened in reader mode never renders content](https://github.com/mozilla-mobile/firefox-ios/issues/27546) 💬 7 | [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 13k | 🟢 beginner | 2026-09-04 |  |
@@ -53,19 +50,18 @@
 | [test: fix flaky internal profiling API test](https://github.com/getsentry/sentry-cocoa/issues/8637) 💬 1 | [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) | 1.1k | 🟢 beginner | 2026-09-01 |  |
 | [Fix flaky 'testProfilerMutationDuringSlicing'](https://github.com/getsentry/sentry-cocoa/issues/3910) 💬 2 | [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) | 1.1k | 🟢 beginner | 2026-09-01 |  |
 | [Fix flaky 'testFlush_WhenNoInternet_BlocksAndFinishes'](https://github.com/getsentry/sentry-cocoa/issues/4704) | [getsentry/sentry-cocoa](https://github.com/getsentry/sentry-cocoa) | 1.1k | 🟢 beginner | 2026-09-01 |  |
-| [Would a version for iPadOS be feasible?](https://github.com/awaseem/foqos/issues/287) 💬 8 | [awaseem/foqos](https://github.com/awaseem/foqos) | 850 | 🟡 help wanted | 2026-09-01 |  |
+| [Would a version for iPadOS be feasible?](https://github.com/awaseem/foqos/issues/287) 💬 8 | [awaseem/foqos](https://github.com/awaseem/foqos) | 851 | 🟡 help wanted | 2026-09-01 |  |
 | [Feature request: Add a Disable option in the Menu](https://github.com/pablopunk/SwiftShift/issues/158) | [pablopunk/SwiftShift](https://github.com/pablopunk/SwiftShift) | 652 | 🟢 beginner | 2026-08-29 |  |
-| [Add a Qoder CLI agent manifest](https://github.com/termio-sh/termio/issues/246) | [termio-sh/termio](https://github.com/termio-sh/termio) | 535 | 🟡 help wanted | 2026-08-27 |  |
-| [Pointer speed has no effect on trackpad on M2 and later Macs](https://github.com/linearmouse/linearmouse/issues/270) 💬 14 | [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) | 6.9k | 🟡 help wanted | 2026-08-26 |  |
+| [Add a Qoder CLI agent manifest](https://github.com/termio-sh/termio/issues/246) | [termio-sh/termio](https://github.com/termio-sh/termio) | 536 | 🟡 help wanted | 2026-08-27 |  |
 | [Reduce redundancy in generated OpenAPI definition names](https://github.com/FeatherCMS/feather/issues/125) | [FeatherCMS/feather](https://github.com/FeatherCMS/feather) | 607 | 🟢 beginner | 2026-08-25 |  |
-| [Toolbar buttons draw without their glass capsule on some Macs](https://github.com/termio-sh/termio/issues/371) | [termio-sh/termio](https://github.com/termio-sh/termio) | 535 | 🟡 help wanted | 2026-08-20 |  |
+| [Toolbar buttons draw without their glass capsule on some Macs](https://github.com/termio-sh/termio/issues/371) | [termio-sh/termio](https://github.com/termio-sh/termio) | 536 | 🟡 help wanted | 2026-08-20 |  |
 | [Add Chromecast support?](https://github.com/iina/iina/issues/126) 💬 59 | [iina/iina](https://github.com/iina/iina) | 46.6k | 🟡 help wanted | 2026-08-15 | ⚠️ AI restricted |
 | [[RTL] Focus iOS: Arrow in the settings is pointing in the wrong direction](https://github.com/mozilla-mobile/firefox-ios/issues/25644) 💬 3 | [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 13k | 🟢 beginner | 2026-08-14 |  |
 | [Heights in feet](https://github.com/open-meteo/open-meteo/issues/78) | [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) | 6.3k | 🟢 beginner | 2026-08-13 |  |
-| [Usage supports more agents](https://github.com/termio-sh/termio/issues/267) | [termio-sh/termio](https://github.com/termio-sh/termio) | 535 | 🟡 help wanted | 2026-08-13 |  |
+| [Usage supports more agents](https://github.com/termio-sh/termio/issues/267) | [termio-sh/termio](https://github.com/termio-sh/termio) | 536 | 🟡 help wanted | 2026-08-13 |  |
 | [Suggestions view closes when attempting to scroll, when New Tab is set to Custom](https://github.com/mozilla-mobile/firefox-ios/issues/28385) 💬 1 | [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) | 13k | 🟢 beginner | 2026-08-12 |  |
 | [Cannot delete old token in iOS App](https://github.com/freeotp/freeotp-ios/issues/370) 💬 11 | [freeotp/freeotp-ios](https://github.com/freeotp/freeotp-ios) | 764 | 🟢 beginner | 2026-08-12 |  |
-| [Make file paths in a mouse-capturing TUI (Claude Code) clickable — hover underline + precision (help wanted)](https://github.com/termio-sh/termio/issues/15) 💬 1 | [termio-sh/termio](https://github.com/termio-sh/termio) | 535 | 🟡 help wanted | 2026-08-12 |  |
+| [Make file paths in a mouse-capturing TUI (Claude Code) clickable — hover underline + precision (help wanted)](https://github.com/termio-sh/termio/issues/15) 💬 1 | [termio-sh/termio](https://github.com/termio-sh/termio) | 536 | 🟡 help wanted | 2026-08-12 |  |
 | [希望支持显示每个会话的token速率和所有会话的总速率](https://github.com/erha19/ping-island/issues/211) 💬 1 | [erha19/ping-island](https://github.com/erha19/ping-island) | 1.1k | 🟡 help wanted | 2026-08-11 |  |
 | [✨ ⇧⌘T keyboard shortcut to bring back closed editor tabs](https://github.com/CodeEditApp/CodeEdit/issues/1656) 💬 3 | [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) | 23.1k | 🟢 beginner | 2026-08-10 |  |
 | [Feature Request: Enterprise Analytics - Add Base Usage Status for OpenAI Business Team Subscription](https://github.com/steipete/CodexBar/issues/1130) 💬 4 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | 22.1k | 🟡 help wanted | 2026-08-05 |  |
