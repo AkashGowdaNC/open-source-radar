@@ -1,10 +1,10 @@
 # Vue issues
 
-**31** open issues (21 labeled for beginners) across **13** active Vue projects.
+**30** open issues (21 labeled for beginners) across **13** active Vue projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/vue.xml)
 
-> Updated automatically on **2026-10-03 11:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-03 20:45 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -19,7 +19,7 @@
 | [Incorrect username after "Delete and re-draft" for handles with subdomains](https://github.com/elk-zone/elk/issues/3410) 💬 2 | [elk-zone/elk](https://github.com/elk-zone/elk) | 6k | 🟡 help wanted | 2026-09-05 | 🔏 DCO |
 | [Spanish translations](https://github.com/Smaug6739/Alexandrie/issues/651) | [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) | 2.8k | 🟢 beginner | 2026-08-26 |  |
 | [Improve public documents sharing](https://github.com/Smaug6739/Alexandrie/issues/608) | [Smaug6739/Alexandrie](https://github.com/Smaug6739/Alexandrie) | 2.8k | 🟢 beginner | 2026-08-24 |  |
-| [Take a look at this issue if you come up with more features](https://github.com/zerotrac/leetcode_problem_rating/issues/15) 💬 9 | [zerotrac/leetcode_problem_rating](https://github.com/zerotrac/leetcode_problem_rating) | 695 | 🟢 beginner | 2026-08-16 |  |
+| [Take a look at this issue if you come up with more features](https://github.com/zerotrac/leetcode_problem_rating/issues/15) 💬 9 | [zerotrac/leetcode_problem_rating](https://github.com/zerotrac/leetcode_problem_rating) | 696 | 🟢 beginner | 2026-08-16 |  |
 | [Cannot remove audio file, keeps UI in blocked state on error.](https://github.com/elk-zone/elk/issues/3626) | [elk-zone/elk](https://github.com/elk-zone/elk) | 6k | 🟡 help wanted | 2026-08-15 | 🔏 DCO |
 | [Replying to message in thread causes scroll to top of thread](https://github.com/elk-zone/elk/issues/3456) | [elk-zone/elk](https://github.com/elk-zone/elk) | 6k | 🟡 help wanted | 2026-08-15 | 🔏 DCO |
 | [A provision is required to create Child or dependent tickets.](https://github.com/frappe/helpdesk/issues/2370) 💬 1 | [frappe/helpdesk](https://github.com/frappe/helpdesk) | 3.4k | 🟢 beginner | 2026-08-07 |  |
@@ -42,4 +42,3 @@
 | [[Enhancement] Android TV Support](https://github.com/advplyr/audiobookshelf-app/issues/606) 💬 30 | [advplyr/audiobookshelf-app](https://github.com/advplyr/audiobookshelf-app) | 2.8k | 🟡 help wanted | 2026-04-11 |  |
 | [🐛 [Bug]:自由布局模式下，组件大小不能通过鼠标拖拉的方式调整](https://github.com/opentiny/tiny-engine/issues/1237) 💬 2 | [opentiny/tiny-engine](https://github.com/opentiny/tiny-engine) | 2.8k | 🟡 help wanted | 2026-04-09 |  |
 | [Pivot Controls](https://github.com/Tresjs/tres/issues/1104) | [Tresjs/tres](https://github.com/Tresjs/tres) | 3.7k | 🟢 beginner | 2026-04-08 |  |
-| [feature request: an editable theme, add custom playlist, register player to sound indicator](https://github.com/tranxuanthang/lrcget/issues/10) 💬 1 | [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) | 3.2k | 🟡 help wanted | 2026-04-06 |  |

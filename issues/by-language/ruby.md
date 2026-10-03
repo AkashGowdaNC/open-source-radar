@@ -1,10 +1,10 @@
 # Ruby issues
 
-**96** open issues (74 labeled for beginners) across **29** active Ruby projects.
+**91** open issues (69 labeled for beginners) across **29** active Ruby projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-10-03 11:25 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-03 20:45 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -103,8 +103,3 @@
 | [Post UI Navigation should show sets to maintainers, not just owners](https://github.com/e621ng/e621ng/issues/1779) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 572 | 🟢 beginner | 2026-04-08 |  |
 | [safe mode shows "deleted" for the profile picture in case the post is NSFW](https://github.com/e621ng/e621ng/issues/1553) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 572 | 🟢 beginner | 2026-04-08 |  |
 | [Refactor 'TagQuery#parse_query''s metatag matching switch to use a jump table](https://github.com/e621ng/e621ng/issues/1766) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 572 | 🟢 beginner | 2026-04-08 |  |
-| [W3C BNF](https://github.com/github-linguist/linguist/issues/5590) 💬 2 | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.7k | 🟢 beginner | 2026-04-06 |  |
-| [[UI] Temp form input caching](https://github.com/e621ng/e621ng/issues/1764) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 572 | 🟢 beginner | 2026-04-06 |  |
-| [[Hotkeys] Link to relevant user setting on keyboard shortcut page](https://github.com/e621ng/e621ng/issues/1762) 💬 3 | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 572 | 🟢 beginner | 2026-04-06 |  |
-| [Alias metatag names](https://github.com/e621ng/e621ng/issues/1758) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 572 | 🟢 beginner | 2026-04-06 |  |
-| [Prevent artist pages from being made if the corresponding tag is not in the artist category.](https://github.com/e621ng/e621ng/issues/1755) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 572 | 🟢 beginner | 2026-04-06 |  |
