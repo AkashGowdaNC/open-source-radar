@@ -1,10 +1,10 @@
 # Shell issues
 
-**124** open issues (62 labeled for beginners) across **52** active Shell projects.
+**126** open issues (63 labeled for beginners) across **52** active Shell projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/shell.xml)
 
-> Updated automatically on **2026-10-04 11:49 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-04 21:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [[BUG] Backup engine SIGSEGV on aarch64 with 16K page size kernel (Fedora Asahi Remix / Apple Silicon) — v1.11.](https://github.com/longhorn/longhorn/issues/12929) 💬 3 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟡 help wanted | 2026-10-04 | 🔏 DCO |
+| [[Task]: Orange Pi 4A (T527/A523) Sony IMX219 MIPI CSI-2 / CSI capture support](https://github.com/armbian/build/issues/10905) 💬 1 | [armbian/build](https://github.com/armbian/build) | 5.5k | 🟢 beginner | 2026-10-04 |  |
 | [PCIe Gen 3/4 support](https://github.com/amoghmunikote/cmpunlocker/issues/9) 💬 14 | [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) | 698 | 🟡 help wanted | 2026-10-04 |  |
 | [NVLink](https://github.com/amoghmunikote/cmpunlocker/issues/13) 💬 8 | [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker) | 698 | 🟡 help wanted | 2026-10-04 |  |
 | [Change the LineageOS Updater app to link to our download server](https://github.com/lineageos4microg/docker-lineage-cicd/issues/935) 💬 5 | [lineageos4microg/docker-lineage-cicd](https://github.com/lineageos4microg/docker-lineage-cicd) | 558 | 🟡 help wanted | 2026-10-04 |  |
@@ -26,7 +28,7 @@
 | [[IMPROVEMENT] Implementing CLI Checks for Critical Resource Labels and Fields](https://github.com/longhorn/longhorn/issues/9458) 💬 2 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟢 beginner | 2026-09-28 | 🔏 DCO |
 | [[IMPROVEMENT] share-manager-pvc should have its own toleration setting or nodeaffinity for replica zones](https://github.com/longhorn/longhorn/issues/6509) 💬 1 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟢 beginner | 2026-09-28 | 🔏 DCO |
 | [[FEATURE] 'longhornctl' supports node maintenance](https://github.com/longhorn/longhorn/issues/8799) | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟡 help wanted | 2026-09-28 | 🔏 DCO |
-| [Missing icon: Lap](https://github.com/SylEleuth/gruvbox-plus-icon-pack/issues/556) | [SylEleuth/gruvbox-plus-icon-pack](https://github.com/SylEleuth/gruvbox-plus-icon-pack) | 799 | 🟡 help wanted | 2026-09-28 |  |
+| [Missing icon: Lap](https://github.com/SylEleuth/gruvbox-plus-icon-pack/issues/556) | [SylEleuth/gruvbox-plus-icon-pack](https://github.com/SylEleuth/gruvbox-plus-icon-pack) | 800 | 🟡 help wanted | 2026-09-28 |  |
 | [[Bug]: uInitrd CRC mismatch in community images for Orange Pi Zero3 (sun50iw9)](https://github.com/armbian/build/issues/10701) 💬 2 | [armbian/build](https://github.com/armbian/build) | 5.5k | 🟢 beginner | 2026-09-27 |  |
 | [Investigate if other banners have the same behavior of /etc/motd banner as described in #11826](https://github.com/ComplianceAsCode/content/issues/11844) 💬 1 | [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) | 2.8k | 🟢 beginner | 2026-09-27 |  |
 | [Server will not not respond on UDPv4, even when using ENABLE_BDS_V6BIND_FIX](https://github.com/itzg/docker-minecraft-bedrock-server/issues/684) 💬 7 | [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) | 1.9k | 🟡 help wanted | 2026-09-27 |  |
@@ -84,7 +86,7 @@
 | ["🙋 问题交流。。。 \| [Question] Some question..."请问，如何查看当前的应用版本号啊？](https://github.com/tty228/luci-app-wechatpush/issues/386) 💬 1 | [tty228/luci-app-wechatpush](https://github.com/tty228/luci-app-wechatpush) | 1.4k | 🟡 help wanted | 2026-08-13 |  |
 | [[Feature Request]: Auto max bit color depth for rockchip devices](https://github.com/armbian/build/issues/9415) 💬 3 | [armbian/build](https://github.com/armbian/build) | 5.5k | 🟢 beginner | 2026-08-12 |  |
 | [[Feature Request]: Stable 6.1 kernel build for Radxa Dragon Q6A](https://github.com/armbian/build/issues/9511) 💬 2 | [armbian/build](https://github.com/armbian/build) | 5.5k | 🟢 beginner | 2026-08-12 |  |
-| [Missing icon: Psychonauts 2](https://github.com/SylEleuth/gruvbox-plus-icon-pack/issues/350) 💬 3 | [SylEleuth/gruvbox-plus-icon-pack](https://github.com/SylEleuth/gruvbox-plus-icon-pack) | 799 | 🟡 help wanted | 2026-08-12 |  |
+| [Missing icon: Psychonauts 2](https://github.com/SylEleuth/gruvbox-plus-icon-pack/issues/350) 💬 3 | [SylEleuth/gruvbox-plus-icon-pack](https://github.com/SylEleuth/gruvbox-plus-icon-pack) | 800 | 🟡 help wanted | 2026-08-12 |  |
 | [Thank you for this awesome project](https://github.com/Frogging-Family/linux-tkg/issues/262) 💬 2 | [Frogging-Family/linux-tkg](https://github.com/Frogging-Family/linux-tkg) | 1.6k | 🟢 beginner | 2026-08-09 |  |
 | [Place to share proxy information](https://github.com/WhatsApp/proxy/issues/92) 💬 15 | [WhatsApp/proxy](https://github.com/WhatsApp/proxy) | 2.4k | 🟢 beginner | 2026-08-08 | ✍️ CLA |
 | [App Request: jtk](https://github.com/wimpysworld/deb-get/issues/1914) 💬 2 | [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) | 1.8k | 🟢 beginner | 2026-08-04 |  |

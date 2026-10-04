@@ -1,10 +1,10 @@
 # Haskell issues
 
-**18** open issues (8 labeled for beginners) across **6** active Haskell projects.
+**19** open issues (9 labeled for beginners) across **6** active Haskell projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/haskell.xml)
 
-> Updated automatically on **2026-10-04 11:49 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-04 21:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [RepeatedNamesInImportDirective error too strict](https://github.com/agda/agda/issues/8237) 💬 2 | [agda/agda](https://github.com/agda/agda) | 2.9k | 🟢 beginner | 2026-10-04 |  |
 | [Trusted registries don't work correctly for multi-part repo names](https://github.com/hadolint/hadolint/issues/401) 💬 8 | [hadolint/hadolint](https://github.com/hadolint/hadolint) | 12.5k | 🟡 help wanted | 2026-09-28 |  |
 | [Output to STDOUT blocks reporting to STDERR](https://github.com/gren-lang/compiler/issues/388) 💬 1 | [gren-lang/compiler](https://github.com/gren-lang/compiler) | 504 | 🟢 beginner | 2026-09-16 |  |
 | [Bugs/Issue8182 golden requires -fdebug, but the Bugs suite is not covered by fdebugTestFilter](https://github.com/agda/agda/issues/8748) 💬 1 | [agda/agda](https://github.com/agda/agda) | 2.9k | 🟡 help wanted | 2026-09-11 |  |

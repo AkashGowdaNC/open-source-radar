@@ -1,10 +1,10 @@
 # TypeScript issues
 
-**270** open issues (72 labeled for beginners) across **86** active TypeScript projects.
+**271** open issues (71 labeled for beginners) across **88** active TypeScript projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/typescript.xml)
 
-> Updated automatically on **2026-10-04 11:49 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-04 21:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,25 +12,24 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [A valid answer is not accepted](https://github.com/freeCodeCamp/freeCodeCamp/issues/70358) 💬 3 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 456.7k | 🟡 help wanted | 2026-10-04 |  |
-| [Business Card tests throw TypeErrors for missing markup](https://github.com/freeCodeCamp/freeCodeCamp/issues/70612) | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 456.7k | 🟡 help wanted | 2026-10-04 |  |
+| [PR path-labeler can remove labels added by concurrent workflows](https://github.com/freeCodeCamp/freeCodeCamp/issues/70526) | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 456.7k | 🟡 help wanted | 2026-10-04 |  |
 | [Rootless podman sandbox hit EACCES because --userns=keep-id is not set](https://github.com/google-gemini/gemini-cli/issues/29338) 💬 4 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 107.2k | 🟢 beginner | 2026-10-04 | ✍️ CLA |
 | [Selected button text has low contrast and is hard to read](https://github.com/nexu-io/open-design/issues/2685) 💬 11 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 99.4k | 🟢 beginner | 2026-10-04 | 🤖 disclose AI use · ✍️ CLA |
-| [[Bug]: Product media edit continues after a failed upload and hides the server's error](https://github.com/medusajs/medusa/issues/17059) 💬 9 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.6k | 🟢 beginner | 2026-10-04 |  |
+| [GET /api/notebooks/{id} returns 500 for an id without the table prefix](https://github.com/lfnovo/open-notebook/issues/1452) 💬 1 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 39.8k | 🟢 beginner | 2026-10-04 |  |
+| [Snyk vulnerability [SNYK-JS-BASICFTP-20419408]](https://github.com/backstage/backstage/issues/35971) | [backstage/backstage](https://github.com/backstage/backstage) | 34.6k | 🟡 help wanted | 2026-10-04 | 📄 AI policy · 🔏 DCO |
 | [💡 bottom Navigation bar {ui/ux improvement for phone: 6a/100}](https://github.com/super-productivity/super-productivity/issues/10095) 💬 4 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.5k | 🟡 help wanted | 2026-10-04 |  |
+| [Function Coercion Disabling Priority Registration & Fatal Process Crash on File Read in Mini Browser](https://github.com/eclipse-theia/theia/issues/18077) 💬 1 | [eclipse-theia/theia](https://github.com/eclipse-theia/theia) | 21.7k | 🟡 help wanted | 2026-10-04 | 🔏 DCO |
 | [Migrate UUIDv5 (SHA-1) usage in kbn-evals to FIPS 140-3 compliant alternative](https://github.com/elastic/kibana/issues/256090) 💬 2 | [elastic/kibana](https://github.com/elastic/kibana) | 21.3k | 🟢 beginner | 2026-10-04 | ⚠️ AI restricted |
 | [[kbn-evals] CLI profile flags hide that they control scores and traces](https://github.com/elastic/kibana/issues/273015) 💬 4 | [elastic/kibana](https://github.com/elastic/kibana) | 21.3k | 🟢 beginner | 2026-10-04 | ⚠️ AI restricted |
 | [Claude Code receives an unsupported SOCKS-only system proxy with no HTTP proxy override](https://github.com/nexu-io/open-design/issues/6969) 💬 13 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 99.4k | 🟡 help wanted | 2026-10-03 | 🤖 disclose AI use · ✍️ CLA |
 | [[Accessibility issue] Template variables: No designator for mandatory fields in forms (MAS issue: 258655)](https://github.com/grafana/grafana/issues/73397) 💬 4 | [grafana/grafana](https://github.com/grafana/grafana) | 77.1k | 🟡 help wanted | 2026-10-03 | ✍️ CLA |
-| [@tiptap/extension-mention: label containing a double quote is cut off after a Markdown round-trip](https://github.com/ueberdosis/tiptap/issues/8432) | [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) | 38.6k | 🟢 beginner | 2026-10-03 | 🤖 disclose AI use |
 | [🚀 Feature Request: CopilotChat support @ context](https://github.com/CopilotKit/CopilotKit/issues/1962) 💬 13 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 37.7k | 🟡 help wanted | 2026-10-03 |  |
 | [Dashboard i18n:validate fails for 30 of 34 locales because the sync workflow never removes stale keys](https://github.com/medusajs/medusa/issues/17122) 💬 1 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.6k | 🟡 help wanted | 2026-10-03 |  |
 | [[Bug]: custom path aliases breaks plugin dev hot reload](https://github.com/medusajs/medusa/issues/16535) 💬 8 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.6k | 🟡 help wanted | 2026-10-03 |  |
-| [feat(providers): add CodeBuddy international (codebuddy.ai) — only the China-region codebuddy-cn exists, alias](https://github.com/diegosouzapw/OmniRoute/issues/15173) 💬 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 72.8k | 🟡 help wanted | 2026-10-02 | 📄 AI policy |
-| [feat(backend): scaling guide with example configs for 8 and 32 concurrent coding agents](https://github.com/diegosouzapw/OmniRoute/issues/15243) 💬 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 72.8k | 🟡 help wanted | 2026-10-02 | 📄 AI policy |
+| [feat(providers): add CodeBuddy international (codebuddy.ai) — only the China-region codebuddy-cn exists, alias](https://github.com/diegosouzapw/OmniRoute/issues/15173) 💬 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 72.9k | 🟡 help wanted | 2026-10-02 | 📄 AI policy |
+| [feat(backend): scaling guide with example configs for 8 and 32 concurrent coding agents](https://github.com/diegosouzapw/OmniRoute/issues/15243) 💬 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 72.9k | 🟡 help wanted | 2026-10-02 | 📄 AI policy |
 | [[Bug]: Can not reopen switch file menu after renaming the file](https://github.com/actualbudget/actual/issues/8793) 💬 1 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.3k | 🟢 beginner | 2026-10-02 | 🤖 disclose AI use |
 | [Broken User Cancellation on Windows & Main-Thread Freezing in AI Terminal](https://github.com/eclipse-theia/theia/issues/18076) 💬 2 | [eclipse-theia/theia](https://github.com/eclipse-theia/theia) | 21.7k | 🟡 help wanted | 2026-10-02 | 🔏 DCO |
-| [Function Coercion Disabling Priority Registration & Fatal Process Crash on File Read in Mini Browser](https://github.com/eclipse-theia/theia/issues/18077) | [eclipse-theia/theia](https://github.com/eclipse-theia/theia) | 21.7k | 🟡 help wanted | 2026-10-02 | 🔏 DCO |
 | [Permanent Hanging Promise & RPC Memory Leak in SCM Extension Host](https://github.com/eclipse-theia/theia/issues/18075) 💬 1 | [eclipse-theia/theia](https://github.com/eclipse-theia/theia) | 21.7k | 🟡 help wanted | 2026-10-02 | 🔏 DCO |
 | [[Bug]: automigrate fails on EXDEV error](https://github.com/storybookjs/storybook/issues/30184) 💬 7 | [storybookjs/storybook](https://github.com/storybookjs/storybook) | 91.2k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use |
 | [[Discussion]: Why can the drawing feature upload reference images, but when using the image generation feature](https://github.com/CherryHQ/cherry-studio/issues/21257) | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 52.4k | 🟡 help wanted | 2026-10-01 | 🔏 DCO |
@@ -53,7 +52,7 @@
 | [[📖] How to debug Big js chunks on build](https://github.com/QwikDev/qwik/issues/6836) 💬 2 | [QwikDev/qwik](https://github.com/QwikDev/qwik) | 22.1k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
 | [[VS Code] Support Deno HTTP imports in config files](https://github.com/unocss/unocss/issues/3014) 💬 12 | [unocss/unocss](https://github.com/unocss/unocss) | 19k | 🟡 help wanted | 2026-09-29 |  |
 | [🧹 Help us clean up duplicate (or unnecessary) libraries in Context7](https://github.com/upstash/context7/issues/339) 💬 98 | [upstash/context7](https://github.com/upstash/context7) | 62.7k | 🟢 beginner | 2026-09-28 |  |
-| [[Feature Request]: Better custom theme handling](https://github.com/pear-devs/pear-desktop/issues/4085) 💬 1 | [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) | 33.6k | 🟢 beginner | 2026-09-28 |  |
+| [[Feature Request]: Better custom theme handling](https://github.com/pear-devs/pear-desktop/issues/4085) 💬 1 | [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) | 33.7k | 🟢 beginner | 2026-09-28 |  |
 | [BUG: views not adhering to sort order in view definition](https://github.com/beekeeper-studio/beekeeper-studio/issues/1521) 💬 10 | [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) | 23.7k | 🟢 beginner | 2026-09-28 | ✍️ CLA |
 | [Update Electron to avoid slow app on MacOS Tahoe](https://github.com/super-productivity/super-productivity/issues/5712) 💬 7 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.5k | 🟡 help wanted | 2026-09-28 |  |
 | [🚨 Add or give option to show both scheduled date and deadline in Kanbanboard and Eisenhauermatrix](https://github.com/super-productivity/super-productivity/issues/10097) 💬 2 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.5k | 🟡 help wanted | 2026-09-28 |  |
@@ -65,7 +64,8 @@
 | [💡 Add a complete list of all keyboard shortcuts](https://github.com/super-productivity/super-productivity/issues/10204) 💬 1 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.5k | 🟡 help wanted | 2026-09-26 |  |
 | [💡 search should also show projects and tags if needed](https://github.com/super-productivity/super-productivity/issues/10223) 💬 1 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.5k | 🟡 help wanted | 2026-09-26 |  |
 | [💡 Add syncing indicator when animations are disabled](https://github.com/super-productivity/super-productivity/issues/10224) 💬 1 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.5k | 🟡 help wanted | 2026-09-26 |  |
-| [[Enhancement] Add "Open a Repository" option for Local backend mode](https://github.com/OpenHands/OpenHands/issues/15758) 💬 7 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 89.9k | 🟢 beginner | 2026-09-25 |  |
+| [💡 monday.com Issue Provider/Sync](https://github.com/super-productivity/super-productivity/issues/10240) 💬 2 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.5k | 🟡 help wanted | 2026-09-26 |  |
+| [[Enhancement] Add "Open a Repository" option for Local backend mode](https://github.com/OpenHands/OpenHands/issues/15758) 💬 7 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 90k | 🟢 beginner | 2026-09-25 |  |
 | [[Bug]: '@medusajs/test-utils': database credentials are captured at module load, ignoring runner 'env'](https://github.com/medusajs/medusa/issues/16272) 💬 4 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.6k | 🟡 help wanted | 2026-09-25 |  |
 | [[Bug]: '@medusajs/test-utils': 'schema' option is exposed but not applied to Medusa config](https://github.com/medusajs/medusa/issues/16275) 💬 3 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.6k | 🟡 help wanted | 2026-09-25 |  |
 | [Treeshaking does not work when excluding components](https://github.com/fingerprintjs/fingerprintjs/issues/718) 💬 7 | [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) | 28.5k | 🟡 help wanted | 2026-09-25 |  |
@@ -86,7 +86,6 @@
 | [Snyk vulnerability [SNYK-JS-URIJS-19963961]](https://github.com/backstage/backstage/issues/35827) | [backstage/backstage](https://github.com/backstage/backstage) | 34.6k | 🟡 help wanted | 2026-09-20 | 📄 AI policy · 🔏 DCO |
 | [Snyk vulnerability [SNYK-JS-HTTPCACHESEMANTICS-19964068]](https://github.com/backstage/backstage/issues/35826) | [backstage/backstage](https://github.com/backstage/backstage) | 34.6k | 🟡 help wanted | 2026-09-20 | 📄 AI policy · 🔏 DCO |
 | [Snyk vulnerability [SNYK-JS-HTTPCACHESEMANTICS-19964064]](https://github.com/backstage/backstage/issues/35825) | [backstage/backstage](https://github.com/backstage/backstage) | 34.6k | 🟡 help wanted | 2026-09-20 | 📄 AI policy · 🔏 DCO |
-| [Snyk vulnerability [SNYK-JS-ADMZIP-19963965]](https://github.com/backstage/backstage/issues/35823) | [backstage/backstage](https://github.com/backstage/backstage) | 34.6k | 🟡 help wanted | 2026-09-20 | 📄 AI policy · 🔏 DCO |
 | [No update if hidden feature for 'UseSignal'](https://github.com/jupyterlab/jupyterlab/issues/14180) 💬 1 | [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) | 15.3k | 🟡 help wanted | 2026-09-20 |  |
 | [ASR provider: Google Gemini 3.5 Transcribe](https://github.com/THU-MAIC/OpenMAIC/issues/1546) | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 39.9k | 🟡 help wanted | 2026-09-19 |  |
 | [[Discussion]: The new version 2.0.7 is completely unusable, all configurations are showing errors, it's so har](https://github.com/CherryHQ/cherry-studio/issues/18857) 💬 3 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 52.4k | 🟡 help wanted | 2026-09-18 | 🔏 DCO |
@@ -117,6 +116,7 @@
 | [[Feature] Scaling at 125%](https://github.com/winboat-org/winboat/issues/341) 💬 4 | [winboat-org/winboat](https://github.com/winboat-org/winboat) | 23.1k | 🟢 beginner | 2026-09-14 |  |
 | [refactor(acp): recover live gateway before enforcing cached lifecycle state](https://github.com/NVIDIA/NemoClaw/issues/11690) | [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) | 22.7k | 🟡 help wanted | 2026-09-14 | 🤖 disclose AI use · 🔏 DCO |
 | [[lit-html] 'DirectiveResult' is just an empty interface](https://github.com/lit/lit/issues/4886) 💬 5 | [lit/lit](https://github.com/lit/lit) | 21.8k | 🟡 help wanted | 2026-09-14 | 🔏 DCO |
+| [[Bug]: GraphQL: don't add quotes around binding as query param when user has already provided quotes](https://github.com/appsmithorg/appsmith/issues/16713) 💬 1 | [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) | 41k | 🟡 help wanted | 2026-09-13 |  |
 | [[Bug]: Enable Banking with "imagin / CaixaBank" bank linking fails on desktop but works on mobile browser](https://github.com/actualbudget/actual/issues/8326) 💬 9 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.3k | 🟡 help wanted | 2026-09-13 | 🤖 disclose AI use |
 | [[Bug]: All Accounts totals do not match when a closed account has a balance](https://github.com/actualbudget/actual/issues/5413) 💬 6 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.3k | 🟢 beginner | 2026-09-13 | 🤖 disclose AI use |
 | [Map support](https://github.com/pascalorg/editor/issues/154) 💬 7 | [pascalorg/editor](https://github.com/pascalorg/editor) | 24.6k | 🟡 help wanted | 2026-09-12 |  |
@@ -126,7 +126,7 @@
 | [[Discussion]: Networking Issue](https://github.com/CherryHQ/cherry-studio/issues/17090) 💬 3 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 52.4k | 🟡 help wanted | 2026-09-10 | 🔏 DCO |
 | [[Discussion]: Why can't version 2.x modify an answer, while version 1.9.x can? r, and why is conversation cont](https://github.com/CherryHQ/cherry-studio/issues/18299) 💬 2 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 52.4k | 🟡 help wanted | 2026-09-10 | 🔏 DCO |
 | [Adopt React 19 APIs/features where it makes sense](https://github.com/eclipse-theia/theia/issues/17957) 💬 1 | [eclipse-theia/theia](https://github.com/eclipse-theia/theia) | 21.7k | 🟡 help wanted | 2026-09-10 | 🔏 DCO |
-| [🚨 CRITICAL: Verification & Truth Enforcement System Failure in Multi-Agent Architecture](https://github.com/ruvnet/ruflo/issues/640) 💬 12 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 73.8k | 🟡 help wanted | 2026-09-08 | 🤖 disclose AI use |
+| [🚨 CRITICAL: Verification & Truth Enforcement System Failure in Multi-Agent Architecture](https://github.com/ruvnet/ruflo/issues/640) 💬 12 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 73.9k | 🟡 help wanted | 2026-09-08 | 🤖 disclose AI use |
 | [[Discussion]: Why doesn’t Cherry Studio support some of Poe’s latest models?](https://github.com/CherryHQ/cherry-studio/issues/20203) | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 52.4k | 🟡 help wanted | 2026-09-08 | 🔏 DCO |
 | [Camera Component for mobile devices](https://github.com/Budibase/budibase/issues/17780) 💬 3 | [Budibase/budibase](https://github.com/Budibase/budibase) | 28.3k | 🟢 beginner | 2026-09-07 | ✍️ CLA |
 | [[Discussion]: Why was the global memory feature from 1.9.x removed in version 2.0.09? Hope for restoration or ](https://github.com/CherryHQ/cherry-studio/issues/20080) | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 52.4k | 🟡 help wanted | 2026-09-05 | 🔏 DCO |
@@ -198,7 +198,7 @@
 | [Adding a viewport "simulated real mode" with mockup](https://github.com/responsively-org/responsively-app/issues/363) 💬 2 | [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) | 25.2k | 🟡 help wanted | 2026-08-18 |  |
 | [Turn Dark Reader into what's supposed to be.](https://github.com/darkreader/darkreader/issues/6032) 💬 16 | [darkreader/darkreader](https://github.com/darkreader/darkreader) | 22.4k | 🟡 help wanted | 2026-08-18 |  |
 | [[Bug]: Rules notes with matches has a bug](https://github.com/actualbudget/actual/issues/6317) 💬 4 | [actualbudget/actual](https://github.com/actualbudget/actual) | 29.3k | 🟡 help wanted | 2026-08-13 | 🤖 disclose AI use |
-| [Support separate display text and TTS pronunciation text](https://github.com/moeru-ai/airi/issues/2255) | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 50k | 🟡 help wanted | 2026-08-12 |  |
+| [Support separate display text and TTS pronunciation text](https://github.com/moeru-ai/airi/issues/2255) | [moeru-ai/airi](https://github.com/moeru-ai/airi) | 50k | 🟡 help wanted | 2026-08-12 | 📄 AI policy |
 | [Replace raw form inputs with shared input components in the dotcom client](https://github.com/tldraw/tldraw/issues/9191) 💬 6 | [tldraw/tldraw](https://github.com/tldraw/tldraw) | 50.7k | 🟢 beginner | 2026-08-11 |  |
 | [Expand text input field on mobile](https://github.com/karakeep-app/karakeep/issues/2364) 💬 5 | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | 29.4k | 🟢 beginner | 2026-08-11 |  |
 | [@tracked: lazy evaluation](https://github.com/emberjs/ember.js/issues/18118) 💬 5 | [emberjs/ember.js](https://github.com/emberjs/ember.js) | 22.6k | 🟢 beginner | 2026-08-08 |  |
@@ -213,4 +213,4 @@
 | [(playwright, regression) TheiaWorkspace.remove() always fails with EBUSY](https://github.com/eclipse-theia/theia/issues/17784) 💬 3 | [eclipse-theia/theia](https://github.com/eclipse-theia/theia) | 21.7k | 🟡 help wanted | 2026-07-30 | 🔏 DCO |
 | [German characters in html notation will not correctly converted](https://github.com/karakeep-app/karakeep/issues/728) 💬 2 | [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | 29.4k | 🟢 beginner | 2026-07-29 |  |
 
-Showing the 200 most recently updated. See all 270 on the website.
+Showing the 200 most recently updated. See all 271 on the website.

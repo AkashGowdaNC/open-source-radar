@@ -1,10 +1,10 @@
 # Java issues
 
-**243** open issues (98 labeled for beginners) across **78** active Java projects.
+**247** open issues (100 labeled for beginners) across **78** active Java projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/java.xml)
 
-> Updated automatically on **2026-10-04 11:49 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-04 21:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,16 +12,21 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Google SAML IDP initiated login does not work](https://github.com/keycloak/keycloak/issues/42993) 💬 8 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.1k | 🟡 help wanted | 2026-10-04 | 🤖 disclose AI use · 🔏 DCO |
 | [OAuth2.1 Client-Policy prevents update of client](https://github.com/keycloak/keycloak/issues/30140) 💬 5 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.1k | 🟡 help wanted | 2026-10-04 | 🤖 disclose AI use · 🔏 DCO |
+| [[Filters] Execution interval "apply to" selectors do not work](https://github.com/kestra-io/kestra/issues/16429) 💬 7 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.2k | 🟢 beginner | 2026-10-04 |  |
+| [[Executions] Bulk action bar should only enable actions that all selected executions can accept](https://github.com/kestra-io/kestra/issues/19930) 💬 10 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.2k | 🟢 beginner | 2026-10-04 |  |
+| [fix(core): treat null as falsy in TruthUtils](https://github.com/kestra-io/kestra/issues/20311) 💬 3 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.2k | 🟢 beginner | 2026-10-04 |  |
 | [[Bug] [transform-v2] An error occurs after adding transform table_filter](https://github.com/apache/seatunnel/issues/9583) 💬 3 | [apache/seatunnel](https://github.com/apache/seatunnel) | 9.7k | 🟡 help wanted | 2026-10-04 | ✍️ CLA |
+| [[Enhancement] Add a method to export tree structure](https://github.com/apache/fesod/issues/83) 💬 1 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-04 | ✍️ CLA |
+| [[Enhancement] Add internationalization (i18n) support](https://github.com/apache/fesod/issues/57) 💬 6 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-04 | ✍️ CLA |
 | [Fix button placement at commit dialog](https://github.com/JabRef/jabref/issues/16730) 💬 10 | [JabRef/jabref](https://github.com/JabRef/jabref) | 4.8k | 🟢 beginner | 2026-10-04 | ⚠️ AI restricted |
+| [Write unit tests for RASAero importing](https://github.com/openrocket/openrocket/issues/2136) 💬 2 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | 3.1k | 🟢 beginner | 2026-10-04 | 📄 AI policy |
 | ["Cannot parse the JSON" error on Sessions tab on client.](https://github.com/keycloak/keycloak/issues/53003) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.1k | 🟡 help wanted | 2026-10-02 | 🤖 disclose AI use · 🔏 DCO |
 | [login/ui: OTP device picker in keycloak.v2 is not reachable or operable by keyboard](https://github.com/keycloak/keycloak/issues/51208) 💬 3 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.1k | 🟡 help wanted | 2026-10-02 | 🤖 disclose AI use · 🔏 DCO |
 | [C++ recompilation is too sensitive to preprocessor-only changes](https://github.com/bazelbuild/bazel/issues/18246) 💬 6 | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 25.9k | 🟡 help wanted | 2026-10-02 | ✍️ CLA |
 | [In "export full logs", write the AntennaPod version to the exported file](https://github.com/AntennaPod/AntennaPod/issues/8739) 💬 3 | [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) | 8.2k | 🟢 beginner | 2026-10-02 |  |
-| [Support a properties-file (available during runtime) for ml-models (Stateless evaluation in container)](https://github.com/vespa-engine/vespa/issues/9552) 💬 3 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7.1k | 🟢 beginner | 2026-10-02 |  |
 | [could javapp-pytorch support "torch::jit::export_onnx"](https://github.com/bytedeco/javacpp-presets/issues/1811) | [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) | 2.8k | 🟡 help wanted | 2026-10-02 |  |
-| [Google SAML IDP initiated login does not work](https://github.com/keycloak/keycloak/issues/42993) 💬 7 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.1k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · 🔏 DCO |
 | [Add support for selecting OpenTracing propagators](https://github.com/keycloak/keycloak/issues/33624) 💬 9 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.1k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · 🔏 DCO |
 | [Provide Content Security Policy to prevent embedding of iframes on unauhorized origins](https://github.com/keycloak/keycloak/issues/29782) 💬 7 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.1k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · 🔏 DCO |
 | [Duplicate --config=foo produces a seemingly pointless warning](https://github.com/bazelbuild/bazel/issues/11592) 💬 8 | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 25.9k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
@@ -142,7 +147,6 @@
 | [Write unit tests for cut, copy, paste, duplicate component actions](https://github.com/openrocket/openrocket/issues/1692) 💬 2 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | 3.1k | 🟢 beginner | 2026-08-09 | 📄 AI policy |
 | [Write unit tests for multi-component editing](https://github.com/openrocket/openrocket/issues/1690) | [openrocket/openrocket](https://github.com/openrocket/openrocket) | 3.1k | 🟢 beginner | 2026-08-09 | 📄 AI policy |
 | [Write unit tests for component parameter saving and re-opening](https://github.com/openrocket/openrocket/issues/1806) 💬 4 | [openrocket/openrocket](https://github.com/openrocket/openrocket) | 3.1k | 🟢 beginner | 2026-08-09 | 📄 AI policy |
-| [Write unit tests for RASAero importing](https://github.com/openrocket/openrocket/issues/2136) | [openrocket/openrocket](https://github.com/openrocket/openrocket) | 3.1k | 🟢 beginner | 2026-08-09 | 📄 AI policy |
 | [Support for removing metrics registered by CaffeineCacheMetrics](https://github.com/micrometer-metrics/micrometer/issues/5297) 💬 13 | [micrometer-metrics/micrometer](https://github.com/micrometer-metrics/micrometer) | 4.9k | 🟡 help wanted | 2026-08-07 | ✍️ CLA · 🔏 DCO |
 | [When creating an input, have graylog show a note if the selected port is already in use](https://github.com/Graylog2/graylog2-server/issues/15953) 💬 5 | [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) | 8.2k | 🟢 beginner | 2026-08-06 |  |
 | [Discrepancy in display counts on Sources view](https://github.com/Graylog2/graylog2-server/issues/6502) 💬 3 | [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) | 8.2k | 🟢 beginner | 2026-08-06 |  |
@@ -208,9 +212,5 @@
 | [[openvino] [hugectr][apex][FasterTransformer][horovod][NCNN][ggml][llm][faiss][USearch]these deeplearning tool](https://github.com/bytedeco/javacpp-presets/issues/1404) 💬 3 | [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) | 2.8k | 🟡 help wanted | 2026-06-04 |  |
 | [[GSoC 2025] Enhancing Dubbo Python Serialization](https://github.com/apache/dubbo/issues/15215) 💬 6 | [apache/dubbo](https://github.com/apache/dubbo) | 41.6k | 🟡 help wanted | 2026-06-02 | ✍️ CLA |
 | [Feature Request: Add Support for torch.jit.script, torch.jit.trace, and AOT Optimization APIs in JavaCPP PyTor](https://github.com/bytedeco/javacpp-presets/issues/1776) 💬 8 | [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) | 2.8k | 🟡 help wanted | 2026-06-02 |  |
-| [should we consider adding multiple overloaded [ forward] methods to org.bytedeco.pytorch.Module？](https://github.com/bytedeco/javacpp-presets/issues/1757) 💬 8 | [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) | 2.8k | 🟡 help wanted | 2026-06-01 |  |
-| [[Improvement][Alter] Add instance link to alert like email](https://github.com/apache/dolphinscheduler/issues/16716) 💬 5 | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14.5k | 🟡 help wanted | 2026-05-31 |  |
-| [[Bug] [seatunnel task] run the seatunnel task ,report "-e and --deploy-mode deprecated in 2.3.1, please use -m](https://github.com/apache/dolphinscheduler/issues/16617) 💬 2 | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14.5k | 🟡 help wanted | 2026-05-31 |  |
-| [Projects view, versions column should support semantic versioning](https://github.com/DependencyTrack/dependency-track/issues/378) 💬 3 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟡 help wanted | 2026-05-30 | ⚠️ AI restricted · 🔏 DCO |
 
-Showing the 200 most recently updated. See all 243 on the website.
+Showing the 200 most recently updated. See all 247 on the website.

@@ -1,10 +1,10 @@
 # Dart issues
 
-**48** open issues (25 labeled for beginners) across **30** active Dart projects.
+**47** open issues (24 labeled for beginners) across **29** active Dart projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/dart.xml)
 
-> Updated automatically on **2026-10-04 11:49 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-04 21:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [FTooltip consumes the Escape key even when the tooltip is not shown, so enclosing dialogs and popovers no long](https://github.com/duobaseio/forui/issues/1211) 💬 1 | [duobaseio/forui](https://github.com/duobaseio/forui) | 2.4k | 🟢 beginner | 2026-10-04 |  |
 | [Docs: migrating from library X](https://github.com/felangel/bloc/issues/1837) 💬 1 | [felangel/bloc](https://github.com/felangel/bloc) | 12.5k | 🟢 beginner | 2026-09-29 |  |
 | [[Debugger FR] Add option to disable breakpoints](https://github.com/flutter/devtools/issues/696) 💬 9 | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟢 beginner | 2026-09-29 | 📄 AI policy · ✍️ CLA |
 | [[User reported] Click on tags in the log events rows to filter by those tags](https://github.com/flutter/devtools/issues/9558) 💬 3 | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-09-29 | 📄 AI policy · ✍️ CLA |
@@ -37,7 +36,7 @@
 | [Ente Auth iOS: slow unlock](https://github.com/ente/ente/issues/4749) 💬 10 | [ente/ente](https://github.com/ente/ente) | 29.2k | 🟢 beginner | 2026-08-11 |  |
 | [Add a method to check whether the platform supports dynamic theming](https://github.com/material-foundation/flutter-packages/issues/390) 💬 7 | [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages) | 863 | 🟡 help wanted | 2026-08-07 |  |
 | [Improve development experience](https://github.com/material-foundation/flutter-packages/issues/299) | [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages) | 863 | 🟡 help wanted | 2026-08-07 |  |
-| [iOS版本播放界面侧滑返回](https://github.com/Predidit/Kazumi/issues/2427) | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 30.8k | 🟡 help wanted | 2026-08-04 |  |
+| [iOS版本播放界面侧滑返回](https://github.com/Predidit/Kazumi/issues/2427) | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 30.9k | 🟡 help wanted | 2026-08-04 |  |
 | [SOCKS5 Proxy/Orbot Support](https://github.com/ImranR98/Obtainium/issues/121) 💬 9 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.2k | 🟡 help wanted | 2026-07-31 | 📄 AI policy |
 | [gif 动态图打开后不会动态显示](https://github.com/fregie/pho/issues/28) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 |  |
 | [希望可以加入收藏功能](https://github.com/fregie/pho/issues/5) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 |  |
@@ -52,10 +51,10 @@
 | [Browers plugin? (eg. Firefox)](https://github.com/authpass/authpass/issues/41) 💬 13 | [authpass/authpass](https://github.com/authpass/authpass) | 2.8k | 🟡 help wanted | 2026-05-29 | ✍️ CLA |
 | [阅黑色背景右和下边会有一个白边](https://github.com/Anxcye/anx-reader/issues/93) 💬 4 | [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) | 8.9k | 🟡 help wanted | 2026-05-24 |  |
 | [feat: implement podcast sync api](https://github.com/ubuntu-flutter-community/musicpod/issues/36) 💬 6 | [ubuntu-flutter-community/musicpod](https://github.com/ubuntu-flutter-community/musicpod) | 672 | 🟡 help wanted | 2026-05-20 |  |
-| [Add advanced repeater settings controls in app UI](https://github.com/zjs81/meshcore-open/issues/237) 💬 1 | [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) | 628 | 🟢 beginner | 2026-05-10 |  |
+| [Add advanced repeater settings controls in app UI](https://github.com/zjs81/meshcore-open/issues/237) 💬 1 | [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) | 629 | 🟢 beginner | 2026-05-10 |  |
 | [[HDR] Linux - Native HDR Rendering Support](https://github.com/AimesSoft/NipaPlay-Reload/issues/423) | [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload) | 1.8k | 🟡 help wanted | 2026-05-05 |  |
 | [[HDR] Android - Native HDR Rendering Support](https://github.com/AimesSoft/NipaPlay-Reload/issues/421) | [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload) | 1.8k | 🟡 help wanted | 2026-05-05 |  |
-| [[UI/UX] Improve channel arragement](https://github.com/zjs81/meshcore-open/issues/70) | [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) | 628 | 🟢 beginner | 2026-05-05 |  |
+| [[UI/UX] Improve channel arragement](https://github.com/zjs81/meshcore-open/issues/70) | [zjs81/meshcore-open](https://github.com/zjs81/meshcore-open) | 629 | 🟢 beginner | 2026-05-05 |  |
 | [fix: 'shorebird preview' should detect/warn when targeting x86 devices](https://github.com/shorebirdtech/shorebird/issues/1173) 💬 11 | [shorebirdtech/shorebird](https://github.com/shorebirdtech/shorebird) | 3k | 🟢 beginner | 2026-05-03 |  |
 | [feat: Would like better usage information for 'aar' missing option](https://github.com/shorebirdtech/shorebird/issues/982) 💬 1 | [shorebirdtech/shorebird](https://github.com/shorebirdtech/shorebird) | 3k | 🟢 beginner | 2026-05-03 |  |
 | [Memory profile tables should scroll together](https://github.com/flutter/devtools/issues/9483) 💬 1 | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-05-03 | 📄 AI policy · ✍️ CLA |
