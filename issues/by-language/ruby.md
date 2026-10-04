@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-10-03 20:45 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-04 11:49 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -66,7 +66,7 @@
 | [class com.sun.nio.file.ExtendedOpenOption cannot access class jdk.internal.misc.FileSystemOption](https://github.com/jruby/jruby/issues/7835) 💬 7 | [jruby/jruby](https://github.com/jruby/jruby) | 3.9k | 🟢 beginner | 2026-07-09 |  |
 | [Links in Description](https://github.com/manyfold3d/manyfold/issues/4944) 💬 3 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-07-08 | 📄 AI policy · ✍️ CLA |
 | [Support 'distinct' when it comes to further association chaining](https://github.com/neo4jrb/activegraph/issues/1340) 💬 3 | [neo4jrb/activegraph](https://github.com/neo4jrb/activegraph) | 1.4k | 🟢 beginner | 2026-07-06 |  |
-| [Upload form missing a number of options](https://github.com/e621ng/e621ng/issues/1794) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 572 | 🟢 beginner | 2026-06-30 |  |
+| [Upload form missing a number of options](https://github.com/e621ng/e621ng/issues/1794) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 574 | 🟢 beginner | 2026-06-30 |  |
 | [Very low contrast difference on comments link on mobile when using high contrast](https://github.com/lobsters/lobsters/issues/2085) | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-06-24 |  |
 | [Disown CTA has unique focus and hover effect](https://github.com/lobsters/lobsters/issues/2099) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-06-24 |  |
 | [Create Huginn iPhone / Android app](https://github.com/huginn/huginn/issues/166) 💬 19 | [huginn/huginn](https://github.com/huginn/huginn) | 50k | 🟡 help wanted | 2026-06-20 |  |
@@ -89,17 +89,17 @@
 | [multiple favicon versions, some ugly](https://github.com/lobsters/lobsters/issues/1921) 💬 3 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-05-07 |  |
 | [Add SNOBOL](https://github.com/github-linguist/linguist/issues/7950) | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.7k | 🟢 beginner | 2026-05-06 |  |
 | [Add Uiua](https://github.com/github-linguist/linguist/issues/7949) | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.7k | 🟢 beginner | 2026-05-06 |  |
-| [[Tooling] Support VSCode breakpoints for Ruby (standard running)](https://github.com/e621ng/e621ng/issues/1940) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 572 | 🟡 help wanted | 2026-04-29 |  |
-| [[Users] Onboarding process](https://github.com/e621ng/e621ng/issues/1770) 💬 3 | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 572 | 🟡 help wanted | 2026-04-29 |  |
-| [Pools in upload form](https://github.com/e621ng/e621ng/issues/1882) 💬 1 | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 572 | 🟡 help wanted | 2026-04-29 |  |
-| [[Tests] Add client-side Playwright testing](https://github.com/e621ng/e621ng/issues/1936) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 572 | 🟡 help wanted | 2026-04-29 |  |
-| [Comment search should have a method of viewing results under the threshold](https://github.com/e621ng/e621ng/issues/1756) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 572 | 🟢 beginner | 2026-04-28 |  |
+| [[Tooling] Support VSCode breakpoints for Ruby (standard running)](https://github.com/e621ng/e621ng/issues/1940) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 574 | 🟡 help wanted | 2026-04-29 |  |
+| [[Users] Onboarding process](https://github.com/e621ng/e621ng/issues/1770) 💬 3 | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 574 | 🟡 help wanted | 2026-04-29 |  |
+| [Pools in upload form](https://github.com/e621ng/e621ng/issues/1882) 💬 1 | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 574 | 🟡 help wanted | 2026-04-29 |  |
+| [[Tests] Add client-side Playwright testing](https://github.com/e621ng/e621ng/issues/1936) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 574 | 🟡 help wanted | 2026-04-29 |  |
+| [Comment search should have a method of viewing results under the threshold](https://github.com/e621ng/e621ng/issues/1756) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 574 | 🟢 beginner | 2026-04-28 |  |
 | ['download_job_artifact_file' method fails when the artifact is a non-JSON text file](https://github.com/NARKOZ/gitlab/issues/621) 💬 2 | [NARKOZ/gitlab](https://github.com/NARKOZ/gitlab) | 1.1k | 🟡 help wanted | 2026-04-26 |  |
 | [Missing translations](https://github.com/openfoodfoundation/openfoodnetwork/issues/3681) | [openfoodfoundation/openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) | 1.3k | 🟡 help wanted | 2026-04-22 |  |
 | [Allow priority to be globally disabled/ignored](https://github.com/bensheldon/good_job/issues/1065) 💬 2 | [bensheldon/good_job](https://github.com/bensheldon/good_job) | 3k | 🟡 help wanted | 2026-04-17 |  |
-| [[UI] Add data elements to indexes, tables, and partials](https://github.com/e621ng/e621ng/issues/1829) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 572 | 🟢 beginner | 2026-04-15 |  |
+| [[UI] Add data elements to indexes, tables, and partials](https://github.com/e621ng/e621ng/issues/1829) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 574 | 🟢 beginner | 2026-04-15 |  |
 | [Add ArkScript language](https://github.com/github-linguist/linguist/issues/5416) 💬 2 | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.7k | 🟢 beginner | 2026-04-14 |  |
 | [Aliases for custom method](https://github.com/yosiat/panko_serializer/issues/66) 💬 14 | [yosiat/panko_serializer](https://github.com/yosiat/panko_serializer) | 635 | 🟢 beginner | 2026-04-09 |  |
-| [Post UI Navigation should show sets to maintainers, not just owners](https://github.com/e621ng/e621ng/issues/1779) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 572 | 🟢 beginner | 2026-04-08 |  |
-| [safe mode shows "deleted" for the profile picture in case the post is NSFW](https://github.com/e621ng/e621ng/issues/1553) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 572 | 🟢 beginner | 2026-04-08 |  |
-| [Refactor 'TagQuery#parse_query''s metatag matching switch to use a jump table](https://github.com/e621ng/e621ng/issues/1766) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 572 | 🟢 beginner | 2026-04-08 |  |
+| [Post UI Navigation should show sets to maintainers, not just owners](https://github.com/e621ng/e621ng/issues/1779) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 574 | 🟢 beginner | 2026-04-08 |  |
+| [safe mode shows "deleted" for the profile picture in case the post is NSFW](https://github.com/e621ng/e621ng/issues/1553) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 574 | 🟢 beginner | 2026-04-08 |  |
+| [Refactor 'TagQuery#parse_query''s metatag matching switch to use a jump table](https://github.com/e621ng/e621ng/issues/1766) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 574 | 🟢 beginner | 2026-04-08 |  |

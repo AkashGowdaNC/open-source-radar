@@ -1,10 +1,10 @@
 # OCaml issues
 
-**24** open issues (15 labeled for beginners) across **7** active OCaml projects.
+**23** open issues (14 labeled for beginners) across **6** active OCaml projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ocaml.xml)
 
-> Updated automatically on **2026-10-03 20:45 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-04 11:49 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -16,7 +16,6 @@
 | [dune fmt should be able to format single files](https://github.com/ocaml/dune/issues/7287) 💬 8 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟢 beginner | 2026-10-02 | 🔏 DCO |
 | [Incorrect value when installing a relocatable binary with dune-site](https://github.com/ocaml/dune/issues/5749) 💬 3 | [ocaml/dune](https://github.com/ocaml/dune) | 1.9k | 🟢 beginner | 2026-10-02 | 🔏 DCO |
 | [[FEATURE REQUEST] Allow to pass flags to Binaryen](https://github.com/ocsigen/js_of_ocaml/issues/1956) 💬 1 | [ocsigen/js_of_ocaml](https://github.com/ocsigen/js_of_ocaml) | 1.1k | 🟢 beginner | 2026-10-02 |  |
-| [Cannot easily change warnings in type declaration](https://github.com/ocaml/ocaml/issues/12301) 💬 15 | [ocaml/ocaml](https://github.com/ocaml/ocaml) | 6.6k | 🟢 beginner | 2026-09-30 | ✍️ CLA |
 | [Support for early returns inside loops that can be replaced with breaks](https://github.com/AeneasVerif/aeneas/issues/822) 💬 2 | [AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas) | 1k | 🟢 beginner | 2026-09-26 |  |
 | [Improve '--experimental' output](https://github.com/opengrep/opengrep/issues/134) 💬 1 | [opengrep/opengrep](https://github.com/opengrep/opengrep) | 3.1k | 🟢 beginner | 2026-09-17 |  |
 | [Declare axiom compatibility and axiom classification](https://github.com/rocq-prover/rocq/issues/10617) 💬 8 | [rocq-prover/rocq](https://github.com/rocq-prover/rocq) | 5.6k | 🟢 beginner | 2026-09-14 |  |

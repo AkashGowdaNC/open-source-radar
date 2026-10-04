@@ -1,10 +1,10 @@
 # Dart issues
 
-**49** open issues (24 labeled for beginners) across **31** active Dart projects.
+**48** open issues (25 labeled for beginners) across **30** active Dart projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/dart.xml)
 
-> Updated automatically on **2026-10-03 20:45 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-04 11:49 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [IzzyOnDroid releases lack armv8/aarch64 APKs](https://github.com/ethereal-developers/OpenScan/issues/125) 💬 2 | [ethereal-developers/OpenScan](https://github.com/ethereal-developers/OpenScan) | 1.8k | 🟡 help wanted | 2026-10-03 |  |
+| [FTooltip consumes the Escape key even when the tooltip is not shown, so enclosing dialogs and popovers no long](https://github.com/duobaseio/forui/issues/1211) 💬 1 | [duobaseio/forui](https://github.com/duobaseio/forui) | 2.4k | 🟢 beginner | 2026-10-04 |  |
 | [Docs: migrating from library X](https://github.com/felangel/bloc/issues/1837) 💬 1 | [felangel/bloc](https://github.com/felangel/bloc) | 12.5k | 🟢 beginner | 2026-09-29 |  |
 | [[Debugger FR] Add option to disable breakpoints](https://github.com/flutter/devtools/issues/696) 💬 9 | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟢 beginner | 2026-09-29 | 📄 AI policy · ✍️ CLA |
 | [[User reported] Click on tags in the log events rows to filter by those tags](https://github.com/flutter/devtools/issues/9558) 💬 3 | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-09-29 | 📄 AI policy · ✍️ CLA |
@@ -37,13 +37,12 @@
 | [Ente Auth iOS: slow unlock](https://github.com/ente/ente/issues/4749) 💬 10 | [ente/ente](https://github.com/ente/ente) | 29.2k | 🟢 beginner | 2026-08-11 |  |
 | [Add a method to check whether the platform supports dynamic theming](https://github.com/material-foundation/flutter-packages/issues/390) 💬 7 | [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages) | 863 | 🟡 help wanted | 2026-08-07 |  |
 | [Improve development experience](https://github.com/material-foundation/flutter-packages/issues/299) | [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages) | 863 | 🟡 help wanted | 2026-08-07 |  |
-| [iOS版本播放界面侧滑返回](https://github.com/Predidit/Kazumi/issues/2427) | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 30.6k | 🟡 help wanted | 2026-08-04 |  |
+| [iOS版本播放界面侧滑返回](https://github.com/Predidit/Kazumi/issues/2427) | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 30.8k | 🟡 help wanted | 2026-08-04 |  |
 | [SOCKS5 Proxy/Orbot Support](https://github.com/ImranR98/Obtainium/issues/121) 💬 9 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.2k | 🟡 help wanted | 2026-07-31 | 📄 AI policy |
 | [gif 动态图打开后不会动态显示](https://github.com/fregie/pho/issues/28) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 |  |
 | [希望可以加入收藏功能](https://github.com/fregie/pho/issues/5) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 |  |
 | [可以支援繁體中文嗎?](https://github.com/fregie/pho/issues/76) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 |  |
 | [[content] Add more flexible mechanism for 'FilesystemLoader' to ignore paths](https://github.com/schultek/jaspr/issues/789) | [schultek/jaspr](https://github.com/schultek/jaspr) | 2.5k | 🟢 beginner | 2026-07-16 |  |
-| [UnsupportedError: Cannot add to a fixed-length list when selecting or rendering large text in QuillEditor](https://github.com/singerdmx/flutter-quill/issues/2487) 💬 4 | [singerdmx/flutter-quill](https://github.com/singerdmx/flutter-quill) | 2.9k | 🟡 help wanted | 2026-07-03 |  |
 | [[Inspector V2] Widget properties tab highlight extends past its rounded edge](https://github.com/flutter/devtools/issues/8936) 💬 3 | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-07-03 | 📄 AI policy · ✍️ CLA |
 | [Text alignment issue in mobile app – A1 Professional Spanish Certification](https://github.com/freeCodeCamp/mobile/issues/1731) 💬 4 | [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile) | 582 | 🟢 beginner | 2026-07-01 |  |
 | [Can you added TV Version armv7 + 64](https://github.com/ImranR98/Obtainium/issues/2924) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.2k | 🟡 help wanted | 2026-06-23 | 📄 AI policy |
