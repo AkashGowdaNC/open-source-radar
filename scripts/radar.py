@@ -667,9 +667,10 @@ def render_language_feeds(
         '  <main class="wrap">',
         '    <section class="hero">',
         "      <h1>Beginner issue RSS feeds</h1>",
-        '      <p class="lede">Subscribe to language-specific RSS feeds to discover new '
+        '      <p class="lede">Subscribe to RSS feeds by language or topic to discover new '
         "beginner-friendly open source issues. Copy a feed link into your RSS or feed reader "
         "to subscribe.</p>",
+        "      <h2>Feeds by language</h2>",
         "      <ul>",
     ]
 
@@ -725,8 +726,6 @@ def render_language_feeds(
     feed_index.extend(
         [
             "      </ul>",
-            "    </section>",
-            '    <section class="hero">',
             "      <h2>Feeds by topic</h2>",
             "      <ul>",
         ]

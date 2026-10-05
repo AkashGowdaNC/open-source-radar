@@ -472,6 +472,22 @@ class LanguageFeedTests(unittest.TestCase):
                     index_html,
                 )
                 self.assertNotIn("topics/web.xml", index_html)
+                self.assertIn("<h2>Feeds by language</h2>", index_html)
+                self.assertIn("<h2>Feeds by topic</h2>", index_html)
+
+                # Topic feeds share the language feed structure but point at their own URLs.
+                channel = ET.parse(topics_dir / "ai-ml.xml").getroot().find("channel")
+                self.assertEqual(channel.findtext("title"), "AI and machine learning beginner issues")
+                self.assertEqual(
+                    channel.find(f"{{{radar.ATOM_NAMESPACE}}}link").get("href"),
+                    "https://tanbirramim.github.io/open-source-radar/feeds/topics/ai-ml.xml",
+                )
+                self.assertEqual(
+                    channel.findtext("link"),
+                    "https://github.com/TanbirRamim/open-source-radar/blob/main/issues/by-topic/ai-ml.md",
+                )
+                self.assertEqual(channel.findtext("lastBuildDate"), "Sun, 04 Oct 2026 12:00:00 +0000")
+                self.assertEqual(channel.findtext("item/description"), "owner/repo · 100 stars")
             finally:
                 radar.ROOT = original_root
 
