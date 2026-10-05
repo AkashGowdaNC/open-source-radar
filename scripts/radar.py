@@ -587,11 +587,64 @@ def page_header(title: str, subtitle: str, generated_at: str, extra: str = "") -
     )
 
 
+def _build_rss_tree(
+    title: str,
+    slug: str,
+    items: list[dict[str, Any]],
+    repositories: dict[str, Any],
+    generated_at: str,
+    feed_url_prefix: str,
+    page_url_segment: str,
+) -> ET.ElementTree:
+    """Build an RSS tree for one feed (shared by language and topic feeds).
+
+    `feed_url_prefix` is "" for language feeds and "topics/" for topic feeds.
+    `page_url_segment` is "by-language" or "by-topic" for the channel link.
+    """
+    rss = ET.Element("rss", {"version": "2.0"})
+    channel = ET.SubElement(rss, "channel")
+    ET.SubElement(channel, "title").text = f"{title} beginner issues"
+    ET.SubElement(channel, "lastBuildDate").text = format_datetime(iso_to_datetime(generated_at))
+    ET.SubElement(
+        channel,
+        f"{{{ATOM_NAMESPACE}}}link",
+        {
+            "href": f"https://tanbirramim.github.io/open-source-radar/feeds/{feed_url_prefix}{slug}.xml",
+            "rel": "self",
+            "type": "application/rss+xml",
+        },
+    )
+    ET.SubElement(
+        channel, "link"
+    ).text = f"https://github.com/TanbirRamim/open-source-radar/blob/main/issues/{page_url_segment}/{slug}.md"
+    ET.SubElement(channel, "description").text = f"Recently created beginner-friendly issues for {title}."
+
+    for issue in items[:50]:
+        item = ET.SubElement(channel, "item")
+        ET.SubElement(item, "title").text = issue["title"]
+        ET.SubElement(item, "link").text = issue["url"]
+        ET.SubElement(item, "guid", {"isPermaLink": "true"}).text = issue["url"]
+        created = dt.datetime.fromisoformat(issue["created"]).replace(tzinfo=dt.UTC)
+        ET.SubElement(item, "pubDate").text = format_datetime(created)
+        labels = issue.get("labels", [])
+        description = f"{issue['repo']} · {format_stars(repositories[issue['repo']]['stars'])} stars"
+        if labels:
+            description += f" · {', '.join(labels)}"
+        ET.SubElement(item, "description").text = description
+        for label in labels:
+            ET.SubElement(item, "category").text = label
+
+    tree = ET.ElementTree(rss)
+    ET.indent(tree, space="  ")
+    return tree
+
+
 def render_language_feeds(
     languages: dict[str, str],
     repositories: dict[str, Any],
     issues: list[dict[str, Any]],
     generated_at: str,
+    config: dict[str, Any],
 ) -> None:
     ET.register_namespace("atom", ATOM_NAMESPACE)
     feeds_dir = ROOT / "site" / "feeds"
@@ -614,9 +667,10 @@ def render_language_feeds(
         '  <main class="wrap">',
         '    <section class="hero">',
         "      <h1>Beginner issue RSS feeds</h1>",
-        '      <p class="lede">Subscribe to language-specific RSS feeds to discover new '
+        '      <p class="lede">Subscribe to RSS feeds by language or topic to discover new '
         "beginner-friendly open source issues. Copy a feed link into your RSS or feed reader "
         "to subscribe.</p>",
+        "      <h2>Feeds by language</h2>",
         "      <ul>",
     ]
 
@@ -631,52 +685,53 @@ def render_language_feeds(
             # Empty feeds stay on disk for existing subscribers but are not listed.
             feed_index.append(f'        <li><a href="{slug}.xml">{language} ({len(beginner_issues)})</a></li>')
 
-        rss = ET.Element(
-            "rss",
-            {
-                "version": "2.0",
-            },
+        tree = _build_rss_tree(
+            title=language,
+            slug=slug,
+            items=beginner_issues,
+            repositories=repositories,
+            generated_at=generated_at,
+            feed_url_prefix="",
+            page_url_segment="by-language",
         )
-        channel = ET.SubElement(rss, "channel")
-        ET.SubElement(channel, "title").text = f"{language} beginner issues"
-        ET.SubElement(channel, "lastBuildDate").text = format_datetime(iso_to_datetime(generated_at))
-        ET.SubElement(
-            channel,
-            f"{{{ATOM_NAMESPACE}}}link",
-            {
-                "href": f"https://tanbirramim.github.io/open-source-radar/feeds/{slug}.xml",
-                "rel": "self",
-                "type": "application/rss+xml",
-            },
-        )
-        ET.SubElement(
-            channel, "link"
-        ).text = f"https://github.com/TanbirRamim/open-source-radar/blob/main/issues/by-language/{slug}.md"
-        ET.SubElement(channel, "description").text = f"Recently created beginner-friendly issues for {language}."
-
-        for issue in beginner_issues[:50]:
-            item = ET.SubElement(channel, "item")
-            ET.SubElement(item, "title").text = issue["title"]
-            ET.SubElement(item, "link").text = issue["url"]
-            ET.SubElement(item, "guid", {"isPermaLink": "true"}).text = issue["url"]
-            created = dt.datetime.fromisoformat(issue["created"]).replace(tzinfo=dt.UTC)
-            ET.SubElement(item, "pubDate").text = format_datetime(created)
-            labels = issue.get("labels", [])
-            description = f"{issue['repo']} · {format_stars(repositories[issue['repo']]['stars'])} stars"
-            if labels:
-                description += f" · {', '.join(labels)}"
-            ET.SubElement(item, "description").text = description
-            for label in labels:
-                ET.SubElement(item, "category").text = label
-
-        tree = ET.ElementTree(rss)
-        ET.indent(tree, space="  ")
         tree.write(
             feeds_dir / f"{slug}.xml",
             encoding="utf-8",
             xml_declaration=True,
         )
 
+    topic_rows = []
+    topics_dir = feeds_dir / "topics"
+    topics_dir.mkdir(parents=True, exist_ok=True)
+    for slug, bucket in config["topics"].items():
+        subset = [
+            issue for issue in issues if issue["level"] == "beginner" and slug in repositories[issue["repo"]]["buckets"]
+        ]
+        subset.sort(key=lambda issue: issue["created"], reverse=True)
+
+        if subset:
+            topic_rows.append((bucket["title"], slug, len(subset)))
+
+        tree = _build_rss_tree(
+            title=bucket["title"],
+            slug=slug,
+            items=subset,
+            repositories=repositories,
+            generated_at=generated_at,
+            feed_url_prefix="topics/",
+            page_url_segment="by-topic",
+        )
+        tree.write(topics_dir / f"{slug}.xml", encoding="utf-8", xml_declaration=True)
+
+    feed_index.extend(
+        [
+            "      </ul>",
+            "      <h2>Feeds by topic</h2>",
+            "      <ul>",
+        ]
+    )
+    for title, slug, count in topic_rows:
+        feed_index.append(f'        <li><a href="topics/{slug}.xml">{title} ({count})</a></li>')
     feed_index.extend(
         [
             "      </ul>",
@@ -704,7 +759,7 @@ def render(config: dict[str, Any]) -> None:
     limit = config["issues"]["max_per_page"]
     languages: dict[str, str] = config["languages"]
 
-    render_language_feeds(languages, repositories, issues, generated_at)
+    render_language_feeds(languages, repositories, issues, generated_at, config)
 
     by_language_dir = ROOT / "issues" / "by-language"
     by_topic_dir = ROOT / "issues" / "by-topic"

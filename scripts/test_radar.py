@@ -358,6 +358,7 @@ class LanguageFeedTests(unittest.TestCase):
                     repositories,
                     issues,
                     "2026-10-04T12:00:00+00:00",
+                    {"topics": {}},
                 )
 
                 feed = Path(tmp) / "site" / "feeds" / "python.xml"
@@ -427,6 +428,66 @@ class LanguageFeedTests(unittest.TestCase):
                 erlang_feed = Path(tmp) / "site" / "feeds" / "erlang.xml"
                 self.assertTrue(erlang_feed.exists())
 
+            finally:
+                radar.ROOT = original_root
+
+    def test_render_topic_feeds_in_index(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            original_root = radar.ROOT
+            radar.ROOT = Path(tmp)
+            try:
+                repositories = {
+                    "owner/repo": {"language": "Python", "stars": 100, "buckets": ["ai-ml"]},
+                }
+                issues = [
+                    {
+                        "repo": "owner/repo",
+                        "level": "beginner",
+                        "title": "ML issue",
+                        "url": "https://github.com/owner/repo/issues/1",
+                        "created": "2026-09-20",
+                    },
+                ]
+                config = {
+                    "topics": {
+                        "ai-ml": {"title": "AI and machine learning"},
+                        "web": {"title": "Web development"},
+                    },
+                }
+                radar.render_language_feeds(
+                    {"Python": "python"},
+                    repositories,
+                    issues,
+                    "2026-10-04T12:00:00+00:00",
+                    config,
+                )
+
+                topics_dir = Path(tmp) / "site" / "feeds" / "topics"
+                self.assertTrue((topics_dir / "ai-ml.xml").exists())
+                self.assertTrue((topics_dir / "web.xml").exists())
+
+                index_html = (Path(tmp) / "site" / "feeds" / "index.html").read_text(encoding="utf-8")
+                self.assertIn(
+                    'href="topics/ai-ml.xml">AI and machine learning (1)',
+                    index_html,
+                )
+                self.assertNotIn("topics/web.xml", index_html)
+                self.assertIn("<h2>Feeds by language</h2>", index_html)
+                self.assertIn("<h2>Feeds by topic</h2>", index_html)
+
+                # Topic feeds share the language feed structure but point at their own URLs.
+                channel = ET.parse(topics_dir / "ai-ml.xml").getroot().find("channel")
+                self.assertEqual(channel.findtext("title"), "AI and machine learning beginner issues")
+                self.assertEqual(
+                    channel.find(f"{{{radar.ATOM_NAMESPACE}}}link").get("href"),
+                    "https://tanbirramim.github.io/open-source-radar/feeds/topics/ai-ml.xml",
+                )
+                self.assertEqual(
+                    channel.findtext("link"),
+                    "https://github.com/TanbirRamim/open-source-radar/blob/main/issues/by-topic/ai-ml.md",
+                )
+                self.assertEqual(channel.findtext("lastBuildDate"), "Sun, 04 Oct 2026 12:00:00 +0000")
+                self.assertEqual(channel.findtext("item/description"), "owner/repo · 100 stars")
             finally:
                 radar.ROOT = original_root
 
