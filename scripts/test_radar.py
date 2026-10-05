@@ -334,6 +334,7 @@ class LanguageFeedTests(unittest.TestCase):
                     },
                     repositories,
                     issues,
+                    "2026-10-04T12:00:00+00:00",
                 )
 
                 feed = Path(tmp) / "site" / "feeds" / "python.xml"
@@ -362,6 +363,10 @@ class LanguageFeedTests(unittest.TestCase):
                     items[0].findtext("pubDate"),
                     "Sun, 20 Sep 2026 00:00:00 +0000",
                 )
+                self.assertEqual(
+                    root.findtext("./channel/lastBuildDate"),
+                    "Sun, 04 Oct 2026 12:00:00 +0000",
+                )
 
                 index = Path(tmp) / "site" / "feeds" / "index.html"
                 self.assertTrue(index.exists())
@@ -373,6 +378,8 @@ class LanguageFeedTests(unittest.TestCase):
                     index_html,
                 )
                 self.assertIn('localStorage.getItem("radar-theme")', index_html)
+                # The index shows the same build time as the feeds' lastBuildDate.
+                self.assertIn("<p>Updated 2026-10-04 12:00 UTC.</p>", index_html)
                 # Languages with beginner issues get a link with a count.
                 self.assertIn('<li><a href="python.xml">Python (1)</a></li>', index_html)
                 self.assertIn('<li><a href="javascript.xml">JavaScript (1)</a></li>', index_html)
