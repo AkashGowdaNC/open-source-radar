@@ -1,10 +1,10 @@
 # C issues
 
-**154** open issues (39 labeled for beginners) across **62** active C projects.
+**156** open issues (40 labeled for beginners) across **63** active C projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/c.xml)
 
-> Updated automatically on **2026-10-04 21:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-05 13:11 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,9 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Remove priority queue from tree](https://github.com/openssl/openssl/issues/32983) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · ✍️ CLA |
 | [Build Error with new configuration BC-64 for Embarcadero-Borland Clang Compiler 64bit](https://github.com/openssl/openssl/issues/26452) 💬 14 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-04 | 🤖 disclose AI use · ✍️ CLA |
+| [[Bug] DOIO KB16-01 (rev1) large knob registers two inputs per detent](https://github.com/qmk/qmk_firmware/issues/26378) 💬 3 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-10-04 |  |
 | [Filesystem time on stat from 'nftw' not faked](https://github.com/wolfcw/libfaketime/issues/476) 💬 4 | [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) | 3.1k | 🟡 help wanted | 2026-10-04 |  |
 | [Variant analysis: 1 unfixed sibling safety gap in openssl](https://github.com/openssl/openssl/issues/33015) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-03 | 🤖 disclose AI use · ✍️ CLA |
 | [[Bug] B104 lock LEDs go dark until reboot (Leyden Jar firmware) - patch attached](https://github.com/qmk/qmk_firmware/issues/26496) | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-10-03 |  |
@@ -32,10 +34,9 @@
 | [Make Wycheproof CI (network) failure resistant](https://github.com/open-quantum-safe/liboqs/issues/2495) 💬 3 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-09-30 |  |
 | [Bank MSB shouldn't always be ignored in XG mode](https://github.com/FluidSynth/fluidsynth/issues/1378) 💬 26 | [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) | 2.5k | 🟡 help wanted | 2026-09-29 |  |
 | [Allow all system tray icons to be displayed on the dock.](https://github.com/microsoft/PowerToys/issues/46232) 💬 9 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.2k | 🟡 help wanted | 2026-09-27 |  |
-| [[Experiment] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 39.5k | 🟡 help wanted | 2026-09-27 |  |
+| [[Experiment] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 39.7k | 🟡 help wanted | 2026-09-27 |  |
 | [openssl cms sign command does not support 'noattr' when 'digest' is used](https://github.com/openssl/openssl/issues/28743) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use · ✍️ CLA |
 | [[robustness] -purpose crlsign\|ocsphelper infers aux-blind X509_TRUST_COMPAT (x509_vfy.c:2621) → anchor REJECT](https://github.com/openssl/openssl/issues/32365) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use · ✍️ CLA |
-| [macOS: intermittent CONNECTION_IDLE during handshake on loopback under sustained connect load](https://github.com/microsoft/msquic/issues/6265) 💬 2 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-09-26 | ✍️ CLA |
 | [Extensions for browser support monitoring](https://github.com/axel-download-accelerator/axel/issues/346) 💬 5 | [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) | 3.4k | 🟡 help wanted | 2026-09-26 |  |
 | [[BUG] Unable to restore the database](https://github.com/mydumper/mydumper/issues/2355) 💬 3 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.2k | 🟡 help wanted | 2026-09-24 |  |
 | [Investigate AddressSanitizer-like diagnostics for ThreadX](https://github.com/eclipse-threadx/threadx/issues/764) | [eclipse-threadx/threadx](https://github.com/eclipse-threadx/threadx) | 3.5k | 🟡 help wanted | 2026-09-22 | 🤖 disclose AI use · 🔏 DCO |
@@ -79,7 +80,7 @@
 | [arc_summary to be able to show only altered tunables,spl](https://github.com/openzfs/zfs/issues/11685) 💬 5 | [openzfs/zfs](https://github.com/openzfs/zfs) | 12.5k | 🟢 beginner | 2026-08-18 | 🔏 DCO |
 | [New Portuguese ID card support (june 2024)](https://github.com/OpenSC/OpenSC/issues/3482) 💬 8 | [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) | 3.1k | 🟡 help wanted | 2026-08-18 | 🤖 disclose AI use |
 | [[Image Resizer] Better support for HEiC image formats](https://github.com/microsoft/PowerToys/issues/1934) 💬 11 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.2k | 🟡 help wanted | 2026-08-17 |  |
-| [taosExplorer 服务web接口一直无返回，导致无法进入](https://github.com/taosdata/TDengine/issues/33620) 💬 8 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-08-17 |  |
+| [taosExplorer 服务web接口一直无返回，导致无法进入](https://github.com/taosdata/TDengine/issues/33620) 💬 8 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.1k | 🟡 help wanted | 2026-08-17 |  |
 | ["text selection" with keyboard](https://github.com/pwmt/zathura/issues/748) 💬 5 | [pwmt/zathura](https://github.com/pwmt/zathura) | 3.3k | 🟡 help wanted | 2026-08-17 |  |
 | [Multi Port MIDI Support](https://github.com/FluidSynth/fluidsynth/issues/1361) 💬 12 | [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) | 2.5k | 🟡 help wanted | 2026-08-16 |  |
 | [support pass buffer directly between two modules](https://github.com/wasm-micro-runtime/wasm-micro-runtime/issues/295) 💬 5 | [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) | 6.1k | 🟡 help wanted | 2026-08-15 |  |
@@ -89,7 +90,7 @@
 | [extreme edge-case where palera1n fails to bootstrap, requiring --force-revert to succeed](https://github.com/palera1n/palera1n/issues/665) 💬 8 | [palera1n/palera1n](https://github.com/palera1n/palera1n) | 6.5k | 🟡 help wanted | 2026-08-07 |  |
 | [Intel C++ Compiler Support](https://github.com/premake/premake-core/issues/227) 💬 2 | [premake/premake-core](https://github.com/premake/premake-core) | 3.6k | 🟡 help wanted | 2026-08-06 |  |
 | [[Keyboard Manager] Add an option for remapped keys to return to default when a modifier key is pressed](https://github.com/microsoft/PowerToys/issues/13480) 💬 11 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.2k | 🟡 help wanted | 2026-08-05 |  |
-| [在Dbeaver中，不能下载、使用最新驱动](https://github.com/taosdata/TDengine/issues/35396) 💬 2 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-08-04 |  |
+| [在Dbeaver中，不能下载、使用最新驱动](https://github.com/taosdata/TDengine/issues/35396) 💬 2 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.1k | 🟡 help wanted | 2026-08-04 |  |
 | [[Bug] Keyboard works when connected to laptop, but not through dock (modelh, thinkpad thunderbolt 3 workstatio](https://github.com/qmk/qmk_firmware/issues/23825) 💬 7 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-08-01 |  |
 | [gadgets: Run local tests on cri-o too](https://github.com/inspektor-gadget/inspektor-gadget/issues/3175) 💬 3 | [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) | 2.9k | 🟢 beginner | 2026-08-01 |  |
 | [gadgets/profile_cuda: Add missing documentation Guide section](https://github.com/inspektor-gadget/inspektor-gadget/issues/5630) 💬 1 | [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) | 2.9k | 🟢 beginner | 2026-08-01 |  |
@@ -108,22 +109,22 @@
 | [Add option to use English system command names (like in PowerToys Run)](https://github.com/microsoft/PowerToys/issues/38593) 💬 1 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.2k | 🟡 help wanted | 2026-07-18 |  |
 | [[Bug] Compiled firmware for yandrstudio/yr6095 do not work](https://github.com/qmk/qmk_firmware/issues/20982) 💬 11 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-07-18 |  |
 | [One shot mod keys locking when tapped in succession](https://github.com/qmk/qmk_firmware/issues/10872) 💬 2 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-07-18 |  |
-| [最近测试发现TDengine的WAL_LEVEL设置为2时，插入数据后并不会主动进行刷盘](https://github.com/taosdata/TDengine/issues/33659) 💬 4 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-07-17 |  |
+| [最近测试发现TDengine的WAL_LEVEL设置为2时，插入数据后并不会主动进行刷盘](https://github.com/taosdata/TDengine/issues/33659) 💬 4 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.1k | 🟡 help wanted | 2026-07-17 |  |
 | [Unify WAMR_BUILD_TARGET auto-detection across all CMake build files](https://github.com/wasm-micro-runtime/wasm-micro-runtime/issues/4966) 💬 1 | [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) | 6.1k | 🟡 help wanted | 2026-07-17 |  |
 | [[Run] Improve error message for file not found](https://github.com/microsoft/PowerToys/issues/11073) 💬 1 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.2k | 🟡 help wanted | 2026-07-15 |  |
 | [Add IP addresses in log messages](https://github.com/coturn/coturn/issues/756) 💬 8 | [coturn/coturn](https://github.com/coturn/coturn) | 14.5k | 🟡 help wanted | 2026-07-15 |  |
 | [OSX compatibility](https://github.com/cboxdoerfer/fsearch/issues/7) 💬 14 | [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) | 4.4k | 🟡 help wanted | 2026-07-14 |  |
 | [Tap to change page](https://github.com/pwmt/zathura/issues/938) 💬 4 | [pwmt/zathura](https://github.com/pwmt/zathura) | 3.3k | 🟡 help wanted | 2026-07-10 |  |
 | [Sioyek does not start](https://github.com/ahrm/sioyek/issues/1283) 💬 18 | [ahrm/sioyek](https://github.com/ahrm/sioyek) | 9.9k | 🟡 help wanted | 2026-07-09 |  |
-| [Support Client Migration (Client Side)](https://github.com/microsoft/msquic/issues/1946) 💬 5 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-07-09 | ✍️ CLA |
 | [External datagram I/O for the connection state machine](https://github.com/microsoft/msquic/issues/6132) 💬 2 | [microsoft/msquic](https://github.com/microsoft/msquic) | 4.8k | 🟡 help wanted | 2026-07-07 | ✍️ CLA |
 | [minor security issue: file descriptor leakage](https://github.com/DynamoRIO/dynamorio/issues/2884) 💬 1 | [DynamoRIO/dynamorio](https://github.com/DynamoRIO/dynamorio) | 3.2k | 🟢 beginner | 2026-07-07 | ✍️ CLA |
+| [Deduplicate the public key in the repository](https://github.com/inspektor-gadget/inspektor-gadget/issues/4699) 💬 4 | [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) | 2.9k | 🟢 beginner | 2026-07-07 |  |
 | [[YSQL] Investigate point-lookup path for fully-bound hash PK IN queries](https://github.com/yugabyte/yugabyte-db/issues/32026) 💬 1 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.6k | 🟢 beginner | 2026-07-06 |  |
 | [Investigate Windows 10 1607-1703 subpar d3d9 performance](https://github.com/elishacloud/dxwrapper/issues/164) 💬 6 | [elishacloud/dxwrapper](https://github.com/elishacloud/dxwrapper) | 2k | 🟡 help wanted | 2026-07-06 |  |
 | [Disabling columnstore does not pause columnstore policies](https://github.com/timescale/timescaledb/issues/8960) 💬 3 | [timescale/timescaledb](https://github.com/timescale/timescaledb) | 23.6k | 🟢 beginner | 2026-07-04 | ✍️ CLA |
 | [[PT Run] [Time and Date plugin] Add friendly date/time format](https://github.com/microsoft/PowerToys/issues/16809) 💬 3 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.2k | 🟢 beginner | 2026-07-03 |  |
 | [New Folder with Selection](https://github.com/microsoft/PowerToys/issues/3569) 💬 23 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.2k | 🟡 help wanted | 2026-06-30 |  |
-| [咨询是否存在文件句柄超限问题](https://github.com/taosdata/TDengine/issues/35377) 💬 1 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-06-30 |  |
+| [咨询是否存在文件句柄超限问题](https://github.com/taosdata/TDengine/issues/35377) 💬 1 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.1k | 🟡 help wanted | 2026-06-30 |  |
 | [.opus support for Peek](https://github.com/microsoft/PowerToys/issues/42576) 💬 4 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.2k | 🟢 beginner | 2026-06-28 |  |
 | [[BUG] ERROR 1064 .......'MASTER STATUS'](https://github.com/mydumper/mydumper/issues/2288) 💬 6 | [mydumper/mydumper](https://github.com/mydumper/mydumper) | 3.2k | 🟡 help wanted | 2026-06-26 |  |
 | [asymmetric key encryption in pkcs11 module does not work](https://github.com/OpenSC/OpenSC/issues/3144) 💬 2 | [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) | 3.1k | 🟢 beginner | 2026-06-26 | 🤖 disclose AI use |
@@ -137,6 +138,7 @@
 | [Find functions that perform temporary seek from the API and refactor to use the offset argument if possible](https://github.com/rizinorg/rizin/issues/2906) 💬 3 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-14 | 🤖 disclose AI use |
 | [Blank screen on previous window when opening a new one](https://github.com/ahrm/sioyek/issues/1155) 💬 35 | [ahrm/sioyek](https://github.com/ahrm/sioyek) | 9.9k | 🟡 help wanted | 2026-06-12 |  |
 | [Android (APK) build target](https://github.com/joncampbell123/dosbox-x/issues/959) 💬 61 | [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) | 3.8k | 🟡 help wanted | 2026-06-10 |  |
+| [Unsupported profile](https://github.com/i12bp8/TagTinker/issues/36) 💬 28 | [i12bp8/TagTinker](https://github.com/i12bp8/TagTinker) | 2k | 🟡 help wanted | 2026-06-09 |  |
 | [Core files not being created on SIGSEGV in ASAN/TSAN mode](https://github.com/yugabyte/yugabyte-db/issues/228) 💬 1 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.6k | 🟢 beginner | 2026-06-08 |  |
 | ['rz-asm' assembly results may be not correct](https://github.com/rizinorg/rizin/issues/1834) 💬 8 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-07 | 🤖 disclose AI use |
 | [XAP: add missing opcodes](https://github.com/rizinorg/rizin/issues/4661) 💬 5 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-07 | 🤖 disclose AI use |
@@ -162,7 +164,7 @@
 | [arm64 support on Windows](https://github.com/premake/premake-core/issues/2472) 💬 8 | [premake/premake-core](https://github.com/premake/premake-core) | 3.6k | 🟡 help wanted | 2026-04-25 |  |
 | [[BUG] Error in acos](https://github.com/IoLanguage/io/issues/489) 💬 8 | [IoLanguage/io](https://github.com/IoLanguage/io) | 2.8k | 🟢 beginner | 2026-04-20 |  |
 | [Document information about Screws used](https://github.com/RfidResearchGroup/ChameleonUltra/issues/326) 💬 6 | [RfidResearchGroup/ChameleonUltra](https://github.com/RfidResearchGroup/ChameleonUltra) | 3.1k | 🟢 beginner | 2026-04-17 |  |
-| [Tdengine 3.2.0.0.0 集群环境下同步数据慢慢慢慢](https://github.com/taosdata/TDengine/issues/34802) 💬 3 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-04-14 |  |
-| [导入数据集时遇到了性能问题](https://github.com/taosdata/TDengine/issues/34980) 💬 2 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-04-14 |  |
+| [Tdengine 3.2.0.0.0 集群环境下同步数据慢慢慢慢](https://github.com/taosdata/TDengine/issues/34802) 💬 3 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.1k | 🟡 help wanted | 2026-04-14 |  |
+| [导入数据集时遇到了性能问题](https://github.com/taosdata/TDengine/issues/34980) 💬 2 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.1k | 🟡 help wanted | 2026-04-14 |  |
 | [[RFC] Run-time dynamic linking support](https://github.com/wasm-micro-runtime/wasm-micro-runtime/issues/495) | [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) | 6.1k | 🟡 help wanted | 2026-04-13 |  |
 | [blink-common: Is 'caps.keep sys_admin' necessary?](https://github.com/netblue30/firejail/issues/7070) 💬 17 | [netblue30/firejail](https://github.com/netblue30/firejail) | 7.7k | 🟡 help wanted | 2026-04-10 |  |

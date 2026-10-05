@@ -1,10 +1,10 @@
 # Scala issues
 
-**30** open issues (17 labeled for beginners) across **17** active Scala projects.
+**29** open issues (16 labeled for beginners) across **17** active Scala projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/scala.xml)
 
-> Updated automatically on **2026-10-04 21:09 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-05 13:11 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,6 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [Native from_json with a schema that repeats a field name fails with "ArrowArray struct has 2 children (expecte](https://github.com/apache/datafusion-comet/issues/6592) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-10-04 | ✍️ CLA |
 | [Casting to a struct type with repeated field names fails with "ArrowArray struct has 2 children (expected 1)"](https://github.com/apache/datafusion-comet/issues/6591) | [apache/datafusion-comet](https://github.com/apache/datafusion-comet) | 1.3k | 🟢 beginner | 2026-10-04 | ✍️ CLA |
 | [[Improvement] Update Spark Ranger plugin to 2.7.0](https://github.com/apache/kyuubi/issues/7234) 💬 2 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA |
 | [Creating pull request via web API returns escaped response](https://github.com/gitbucket/gitbucket/issues/2306) 💬 7 | [gitbucket/gitbucket](https://github.com/gitbucket/gitbucket) | 9.4k | 🟡 help wanted | 2026-09-26 |  |
