@@ -661,6 +661,13 @@ def render_language_feeds(
             ET.SubElement(item, "guid", {"isPermaLink": "true"}).text = issue["url"]
             created = dt.datetime.fromisoformat(issue["created"]).replace(tzinfo=dt.UTC)
             ET.SubElement(item, "pubDate").text = format_datetime(created)
+            labels = issue.get("labels", [])
+            description = f"{issue['repo']} · {format_stars(repositories[issue['repo']]['stars'])} stars"
+            if labels:
+                description += f" · {', '.join(labels)}"
+            ET.SubElement(item, "description").text = description
+            for label in labels:
+                ET.SubElement(item, "category").text = label
 
         tree = ET.ElementTree(rss)
         ET.indent(tree, space="  ")
