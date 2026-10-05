@@ -14,6 +14,8 @@
   const queryText = document.getElementById("query-text");
   const queryLink = document.getElementById("query-link");
   const updated = document.getElementById("updated");
+  const languageFeed = document.getElementById("language-feed");
+  const languageFeedLink = document.getElementById("language-feed-link");
 
   let data = null;
   let filtered = [];
@@ -153,6 +155,12 @@
     summary.innerHTML = filtered.length
       ? `<strong>${numberFormat.format(filtered.length)}</strong> issues in <strong>${numberFormat.format(projectCount)}</strong> projects match.`
       : "No issues match these filters.";
+    const languageSlug = data.language_slugs?.[values.language];
+    languageFeed.hidden = !languageSlug;
+    if (languageSlug) {
+      languageFeedLink.href = `feeds/${languageSlug}.xml`;
+      languageFeedLink.textContent = `RSS feed for ${values.language} beginner issues`;
+    }
     empty.hidden = filtered.length > 0;
   }
 

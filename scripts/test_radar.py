@@ -259,7 +259,16 @@ class RenderSmokeTests(unittest.TestCase):
                                 "language": "Python",
                                 "buckets": ["ai"],
                                 "policy": {},
-                            }
+                            },
+                            "owner/go-repo": {
+                                "url": "https://github.com/owner/go-repo",
+                                "description": "Only help-wanted issues",
+                                "stars": 5,
+                                "open_count": 1,
+                                "language": "Go",
+                                "buckets": [],
+                                "policy": {},
+                            },
                         },
                         "issues": [
                             {
@@ -270,7 +279,16 @@ class RenderSmokeTests(unittest.TestCase):
                                 "comments": 0,
                                 "created": "2026-09-27",
                                 "updated": "2026-09-27",
-                            }
+                            },
+                            {
+                                "repo": "owner/go-repo",
+                                "level": "help-wanted",
+                                "title": "Refactor the parser",
+                                "url": "https://github.com/owner/go-repo/issues/2",
+                                "comments": 0,
+                                "created": "2026-09-26",
+                                "updated": "2026-09-26",
+                            },
                         ],
                     }
                 ),
@@ -280,7 +298,7 @@ class RenderSmokeTests(unittest.TestCase):
             radar.ROOT, radar.ISSUES_PATH, radar.SITE_DATA_PATH = root, issues_path, site_data_path
             config = {
                 "issues": {"max_per_page": 10},
-                "languages": {"Python": "python"},
+                "languages": {"Python": "python", "Go": "go"},
                 "topics": {"ai": {"title": "AI", "keywords": ["ai"]}},
             }
 
@@ -294,7 +312,11 @@ class RenderSmokeTests(unittest.TestCase):
             self.assertTrue((root / "site" / "feeds" / "python.xml").exists())
             self.assertTrue((root / "issues" / "by-topic" / "ai.md").exists())
             site_data = json.loads(site_data_path.read_text(encoding="utf-8"))
-            self.assertEqual([issue["title"] for issue in site_data["issues"]], ["Fix the fixture"])
+            self.assertEqual(
+                [issue["title"] for issue in site_data["issues"]], ["Fix the fixture", "Refactor the parser"]
+            )
+            # Go has no beginner issues, so its (empty) feed is not linked from the site.
+            self.assertEqual(site_data["language_slugs"], {"Python": "python"})
 
 
 class LanguageFeedTests(unittest.TestCase):
