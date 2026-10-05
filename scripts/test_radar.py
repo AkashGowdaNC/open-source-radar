@@ -358,6 +358,7 @@ class LanguageFeedTests(unittest.TestCase):
                     repositories,
                     issues,
                     "2026-10-04T12:00:00+00:00",
+                    {"topics": {}},
                 )
 
                 feed = Path(tmp) / "site" / "feeds" / "python.xml"
@@ -427,6 +428,50 @@ class LanguageFeedTests(unittest.TestCase):
                 erlang_feed = Path(tmp) / "site" / "feeds" / "erlang.xml"
                 self.assertTrue(erlang_feed.exists())
 
+            finally:
+                radar.ROOT = original_root
+
+    def test_render_topic_feeds_in_index(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            original_root = radar.ROOT
+            radar.ROOT = Path(tmp)
+            try:
+                repositories = {
+                    "owner/repo": {"language": "Python", "stars": 100, "buckets": ["ai-ml"]},
+                }
+                issues = [
+                    {
+                        "repo": "owner/repo",
+                        "level": "beginner",
+                        "title": "ML issue",
+                        "url": "https://github.com/owner/repo/issues/1",
+                        "created": "2026-09-20",
+                    },
+                ]
+                config = {
+                    "topics": {
+                        "ai-ml": {"title": "AI and machine learning"},
+                        "web": {"title": "Web development"},
+                    },
+                }
+                radar.render_language_feeds(
+                    {"Python": "python"},
+                    repositories,
+                    issues,
+                    "2026-10-04T12:00:00+00:00",
+                    config,
+                )
+
+                topics_dir = Path(tmp) / "site" / "feeds" / "topics"
+                self.assertTrue((topics_dir / "ai-ml.xml").exists())
+                self.assertTrue((topics_dir / "web.xml").exists())
+
+                index_html = (Path(tmp) / "site" / "feeds" / "index.html").read_text(encoding="utf-8")
+                self.assertIn(
+                    'href="topics/ai-ml.xml">AI and machine learning (1)',
+                    index_html,
+                )
+                self.assertNotIn("topics/web.xml", index_html)
             finally:
                 radar.ROOT = original_root
 
