@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/erlang.xml)
 
-> Updated automatically on **2026-10-05 13:11 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-05 23:52 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -13,5 +13,5 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [Can emqx cluster provide a docker swarm mode demo? Currently only the single-machine cluster deployed in docke](https://github.com/emqx/emqx/issues/6002) 💬 2 | [emqx/emqx](https://github.com/emqx/emqx) | 16.8k | 🟡 help wanted | 2026-06-04 |  |
-| [Unable to build on AIX 7.3 (ppc64le)](https://github.com/erlang/otp/issues/11111) 💬 3 | [erlang/otp](https://github.com/erlang/otp) | 12.3k | 🟡 help wanted | 2026-05-20 | 🔏 DCO |
-| [Lock order violation occurred when locking 'export_tab:[][mutex]'(none)!](https://github.com/erlang/otp/issues/11022) 💬 10 | [erlang/otp](https://github.com/erlang/otp) | 12.3k | 🟡 help wanted | 2026-05-19 | 🔏 DCO |
+| [Unable to build on AIX 7.3 (ppc64le)](https://github.com/erlang/otp/issues/11111) 💬 3 | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-05-20 | 🔏 DCO |
+| [Lock order violation occurred when locking 'export_tab:[][mutex]'(none)!](https://github.com/erlang/otp/issues/11022) 💬 10 | [erlang/otp](https://github.com/erlang/otp) | 12.4k | 🟡 help wanted | 2026-05-19 | 🔏 DCO |
