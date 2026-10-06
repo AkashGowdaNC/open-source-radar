@@ -1,6 +1,6 @@
 # Issue index
 
-**3357** open, unclaimed issues from **1176** active projects (1283 labeled for beginners). Updated 2026-10-06 12:53 UTC.
+**3381** open, unclaimed issues from **1174** active projects (1287 labeled for beginners). Updated 2026-10-06 22:38 UTC.
 
 Looking for a project rather than an issue? See the [projects directory](../projects/README.md).
 
@@ -8,26 +8,26 @@ Looking for a project rather than an issue? See the [projects directory](../proj
 
 | Language | Issues | Beginner | Projects |
 | --- | ---: | ---: | ---: |
-| [C++](by-language/cpp.md) | 343 | 116 | 102 |
-| [Go](by-language/go.md) | 326 | 78 | 80 |
-| [C#](by-language/csharp.md) | 300 | 90 | 85 |
-| [Rust](by-language/rust.md) | 297 | 120 | 93 |
-| [TypeScript](by-language/typescript.md) | 272 | 70 | 86 |
-| [Java](by-language/java.md) | 259 | 98 | 77 |
-| [Python](by-language/python.md) | 242 | 91 | 86 |
-| [PHP](by-language/php.md) | 163 | 81 | 51 |
-| [Kotlin](by-language/kotlin.md) | 159 | 56 | 72 |
-| [C](by-language/c.md) | 154 | 40 | 63 |
-| [JavaScript](by-language/javascript.md) | 152 | 70 | 59 |
+| [C++](by-language/cpp.md) | 352 | 115 | 102 |
+| [Go](by-language/go.md) | 326 | 77 | 80 |
+| [C#](by-language/csharp.md) | 319 | 94 | 85 |
+| [Rust](by-language/rust.md) | 299 | 123 | 93 |
+| [TypeScript](by-language/typescript.md) | 278 | 76 | 85 |
+| [Java](by-language/java.md) | 263 | 98 | 77 |
+| [Python](by-language/python.md) | 233 | 89 | 84 |
+| [Kotlin](by-language/kotlin.md) | 158 | 56 | 72 |
+| [PHP](by-language/php.md) | 157 | 77 | 52 |
+| [C](by-language/c.md) | 155 | 40 | 63 |
+| [JavaScript](by-language/javascript.md) | 150 | 69 | 59 |
 | [Shell](by-language/shell.md) | 123 | 61 | 50 |
 | [Swift](by-language/swift.md) | 103 | 43 | 61 |
 | [HTML](by-language/html.md) | 85 | 29 | 35 |
-| [Ruby](by-language/ruby.md) | 84 | 63 | 29 |
+| [Ruby](by-language/ruby.md) | 83 | 62 | 28 |
 | [Dart](by-language/dart.md) | 50 | 26 | 31 |
-| [Vue](by-language/vue.md) | 30 | 22 | 12 |
-| [Scala](by-language/scala.md) | 28 | 15 | 17 |
-| [Lua](by-language/lua.md) | 27 | 13 | 15 |
+| [Vue](by-language/vue.md) | 31 | 23 | 12 |
+| [Scala](by-language/scala.md) | 30 | 16 | 19 |
 | [Julia](by-language/julia.md) | 27 | 18 | 13 |
+| [Lua](by-language/lua.md) | 26 | 12 | 14 |
 | [OCaml](by-language/ocaml.md) | 23 | 14 | 6 |
 | [Jupyter Notebook](by-language/jupyter.md) | 21 | 12 | 9 |
 | [CSS](by-language/css.md) | 20 | 15 | 6 |
@@ -43,16 +43,16 @@ Looking for a project rather than an issue? See the [projects directory](../proj
 
 | Topic | Issues | Beginner | Projects |
 | --- | ---: | ---: | ---: |
-| [Mobile and desktop apps](by-topic/mobile.md) | 590 | 216 | 212 |
-| [Cloud, DevOps and infrastructure](by-topic/cloud-devops.md) | 499 | 196 | 137 |
-| [Developer tools](by-topic/devtools.md) | 401 | 164 | 146 |
-| [AI and machine learning](by-topic/ai-ml.md) | 398 | 155 | 129 |
-| [Data and databases](by-topic/data.md) | 316 | 153 | 91 |
-| [Web development](by-topic/web.md) | 254 | 109 | 107 |
-| [Security and privacy](by-topic/security.md) | 211 | 104 | 56 |
-| [Systems and embedded](by-topic/systems.md) | 191 | 90 | 48 |
+| [Mobile and desktop apps](by-topic/mobile.md) | 615 | 220 | 213 |
+| [Cloud, DevOps and infrastructure](by-topic/cloud-devops.md) | 498 | 200 | 136 |
+| [Developer tools](by-topic/devtools.md) | 405 | 162 | 145 |
+| [AI and machine learning](by-topic/ai-ml.md) | 397 | 153 | 126 |
+| [Data and databases](by-topic/data.md) | 310 | 150 | 90 |
+| [Web development](by-topic/web.md) | 251 | 108 | 105 |
+| [Security and privacy](by-topic/security.md) | 212 | 105 | 56 |
+| [Systems and embedded](by-topic/systems.md) | 189 | 89 | 47 |
 | [Games and graphics](by-topic/games-graphics.md) | 148 | 75 | 50 |
-| [Documentation and education](by-topic/docs-education.md) | 83 | 42 | 26 |
+| [Documentation and education](by-topic/docs-education.md) | 78 | 40 | 25 |
 | [Science and research](by-topic/science.md) | 60 | 39 | 19 |
-| [Finance and Web3](by-topic/finance-web3.md) | 52 | 18 | 14 |
+| [Finance and Web3](by-topic/finance-web3.md) | 54 | 18 | 14 |
 | [Robotics](by-topic/robotics.md) | 8 | 3 | 4 |
