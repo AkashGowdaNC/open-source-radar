@@ -1,10 +1,10 @@
 # Go issues
 
-**324** open issues (79 labeled for beginners) across **80** active Go projects.
+**326** open issues (78 labeled for beginners) across **80** active Go projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/go.xml)
 
-> Updated automatically on **2026-10-05 23:52 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-06 12:53 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,8 +12,12 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [cmd/go: cache hit takes too long on a test that opens many files](https://github.com/golang/go/issues/26726) 💬 17 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-06 |  |
+| [cmd/go: test cached run slower than real test run](https://github.com/golang/go/issues/26562) 💬 14 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-06 |  |
+| [runtime: linux/s390x test timeout](https://github.com/golang/go/issues/60413) 💬 882 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-06 |  |
+| [runtime: "unexpected signal during runtime execution" during bgscavenge on plan9](https://github.com/golang/go/issues/35456) 💬 98 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-06 |  |
 | [all: flaky failures on netbsd/arm](https://github.com/golang/go/issues/73820) 💬 759 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-05 |  |
-| [Wanted: Who is using Open Code Review? Please leave a comment!](https://github.com/alibaba/open-code-review/issues/1020) 💬 15 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 43.9k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · ✍️ CLA |
+| [Wanted: Who is using Open Code Review? Please leave a comment!](https://github.com/alibaba/open-code-review/issues/1020) 💬 15 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 44k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · ✍️ CLA |
 | [changefeedccl: make a changefeed setting for sink IO workers](https://github.com/cockroachdb/cockroach/issues/154546) 💬 6 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
 | [changefeedccl: add a log when a session disconnect causes a sinkless feed to stop](https://github.com/cockroachdb/cockroach/issues/154379) 💬 3 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
 | [kv,rpc: adopt static labels](https://github.com/cockroachdb/cockroach/issues/150493) 💬 3 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
@@ -40,16 +44,13 @@
 | [Add a comment once e2e finishes](https://github.com/kedacore/keda/issues/5308) 💬 15 | [kedacore/keda](https://github.com/kedacore/keda) | 10.6k | 🟡 help wanted | 2026-10-04 | 🔏 DCO |
 | [Provide support for authentication with SPIFFE](https://github.com/kedacore/keda/issues/672) 💬 7 | [kedacore/keda](https://github.com/kedacore/keda) | 10.6k | 🟡 help wanted | 2026-10-04 | 🔏 DCO |
 | [Contributor guide for naming and conventions](https://github.com/kedacore/keda/issues/592) 💬 7 | [kedacore/keda](https://github.com/kedacore/keda) | 10.6k | 🟡 help wanted | 2026-10-04 | 🔏 DCO |
-| [Kong library possibly mis-categorized](https://github.com/avelino/awesome-go/issues/6592) 💬 2 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 187.1k | 🟢 beginner | 2026-10-03 |  |
-| [runtime: linux/s390x test timeout](https://github.com/golang/go/issues/60413) 💬 880 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-03 |  |
+| [Kong library possibly mis-categorized](https://github.com/avelino/awesome-go/issues/6592) 💬 2 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 187.2k | 🟢 beginner | 2026-10-03 |  |
 | [runtime: deadlock while stopping the world (most recently openbsd/amd64)](https://github.com/golang/go/issues/62541) 💬 18 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-03 |  |
 | [runtime:cpu1: TestPreemptionAfterSyscall/100µs failures](https://github.com/golang/go/issues/72965) 💬 83 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-02 |  |
 | [cmd/pprof: TestDisasm failures](https://github.com/golang/go/issues/56574) 💬 67 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-01 |  |
 | [Feature request: Webhooks](https://github.com/juanfont/headscale/issues/1543) 💬 14 | [juanfont/headscale](https://github.com/juanfont/headscale) | 44.4k | 🟡 help wanted | 2026-10-01 | ⚠️ AI restricted |
 | [Keda Cron Scaler can't be unsuspended](https://github.com/kedacore/keda/issues/4044) 💬 5 | [kedacore/keda](https://github.com/kedacore/keda) | 10.6k | 🟡 help wanted | 2026-10-01 | 🔏 DCO |
-| [runtime: "unexpected signal during runtime execution" during bgscavenge on plan9](https://github.com/golang/go/issues/35456) 💬 97 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-09-30 |  |
 | [Prometheus agent mode using more heap memory than regular mode.](https://github.com/prometheus/prometheus/issues/10431) 💬 29 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | 66.4k | 🟡 help wanted | 2026-09-30 | 🔏 DCO |
-| [Binaries for management and signal (apt/yum)](https://github.com/netbirdio/netbird/issues/532) 💬 4 | [netbirdio/netbird](https://github.com/netbirdio/netbird) | 29.8k | 🟢 beginner | 2026-09-30 | ✍️ CLA |
 | [Old binaries are not available](https://github.com/goharbor/harbor/issues/22168) 💬 15 | [goharbor/harbor](https://github.com/goharbor/harbor) | 29.5k | 🟡 help wanted | 2026-09-30 | 🔏 DCO |
 | [Feature Request: Add official support for PostgreSQL 16, 17, and 18 in Harbor Helm Chart](https://github.com/goharbor/harbor/issues/23562) 💬 6 | [goharbor/harbor](https://github.com/goharbor/harbor) | 29.5k | 🟡 help wanted | 2026-09-30 | 🔏 DCO |
 | [Responsive UI for mobile Phone](https://github.com/goharbor/harbor/issues/22793) 💬 6 | [goharbor/harbor](https://github.com/goharbor/harbor) | 29.5k | 🟡 help wanted | 2026-09-30 | 🔏 DCO |
@@ -189,7 +190,7 @@
 | [Add external IDP id to IDP list](https://github.com/zitadel/zitadel/issues/8134) 💬 13 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-30 |  |
 | [[Enhancement]: 'aws_cloudwatch_metric_alarm': Add validation to prevent specifying both 'metric' and 'expressi](https://github.com/hashicorp/terraform-provider-aws/issues/41680) 💬 6 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | 11.1k | 🟢 beginner | 2026-07-30 | 🤖 disclose AI use |
 | [AWS ALB target of source EKS cluster getting drained while applying the source cluster backup to target EKS cl](https://github.com/velero-io/velero/issues/9576) 💬 2 | [velero-io/velero](https://github.com/velero-io/velero) | 10.3k | 🟡 help wanted | 2026-07-30 | 🔏 DCO |
-| [Support Fedora](https://github.com/aquasecurity/trivy/issues/121) 💬 21 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 38.2k | 🟡 help wanted | 2026-07-29 |  |
+| [Support Fedora](https://github.com/aquasecurity/trivy/issues/121) 💬 21 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 38.3k | 🟡 help wanted | 2026-07-29 |  |
 | [Clean up dead code](https://github.com/zitadel/zitadel/issues/10059) 💬 6 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟡 help wanted | 2026-07-29 |  |
 | [[Bug]: Link button is disabled until you enter some valid data, including valid email address](https://github.com/zitadel/zitadel/issues/8824) 💬 3 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-29 |  |
 | [2FA form improvements](https://github.com/zitadel/zitadel/issues/7529) 💬 2 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-29 |  |
@@ -211,6 +212,5 @@
 | [Support for metdata for both sources and tools in tools.yaml and description for sources](https://github.com/googleapis/mcp-toolbox/issues/1896) 💬 30 | [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) | 16.6k | 🟡 help wanted | 2026-07-16 | ✍️ CLA |
 | [Code gen: generate constants for validation parameters](https://github.com/go-swagger/go-swagger/issues/717) 💬 1 | [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | 10k | 🟡 help wanted | 2026-07-15 | 🔏 DCO |
 | [Animated connections don't honor prefers-reduced-motion](https://github.com/d2lang/d2/issues/1979) 💬 1 | [d2lang/d2](https://github.com/d2lang/d2) | 25.6k | 🟢 beginner | 2026-07-14 |  |
-| [[inputs.whois] Support RDAP lookup](https://github.com/influxdata/telegraf/issues/17243) 💬 3 | [influxdata/telegraf](https://github.com/influxdata/telegraf) | 17.8k | 🟡 help wanted | 2026-07-13 | ⚠️ AI restricted · ✍️ CLA |
 
-Showing the 200 most recently updated. See all 324 on the website.
+Showing the 200 most recently updated. See all 326 on the website.

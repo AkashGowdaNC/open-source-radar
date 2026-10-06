@@ -1,8 +1,8 @@
 # Cloud, DevOps and infrastructure issues
 
-**499** open issues (197 labeled for beginners) across **136** projects tagged with topics like `devops`, `kubernetes`, `docker`, `cloud`, `infrastructure`, `terraform`.
+**499** open issues (196 labeled for beginners) across **137** projects tagged with topics like `devops`, `kubernetes`, `docker`, `cloud`, `infrastructure`, `terraform`.
 
-> Updated automatically on **2026-10-05 23:52 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-06 12:53 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,22 +10,25 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [BetterAuth to implement multi-user support, roles, external auth providers](https://github.com/louislam/uptime-kuma/issues/6200) 💬 13 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.1k | 🟡 help wanted | 2026-10-05 | ⚠️ AI restricted |
-| [[Marketplace] Add Directus plugin](https://github.com/ToolJet/ToolJet/issues/18230) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use |
-| [[Marketplace] Add Meilisearch plugin](https://github.com/ToolJet/ToolJet/issues/18229) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use |
-| [[Marketplace] Add Grok plugin](https://github.com/ToolJet/ToolJet/issues/18228) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use |
-| [[Marketplace] Add Zoho Inventory plugin](https://github.com/ToolJet/ToolJet/issues/18226) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use |
-| [[Marketplace] Add Zoho Desk plugin](https://github.com/ToolJet/ToolJet/issues/18225) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use |
-| [[Marketplace] Add Zoho Books plugin](https://github.com/ToolJet/ToolJet/issues/18224) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use |
-| [[Marketplace] Add Zoho CRM plugin](https://github.com/ToolJet/ToolJet/issues/18223) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use |
+| [Add "Signature" component](https://github.com/ToolJet/ToolJet/issues/4859) 💬 4 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
+| [Allow integration with Pomerium proxy on GCP Cloud Run](https://github.com/ToolJet/ToolJet/issues/2798) 💬 1 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
+| [[Feature] Support Firestore Collection Group queries](https://github.com/ToolJet/ToolJet/issues/3802) 💬 2 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
+| [ScyllaDB data source integration](https://github.com/ToolJet/ToolJet/issues/3841) 💬 1 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
+| [Cannot deploy Tooljet when database uses a unix socket, likely due to a regression after wait-for-it was intro](https://github.com/ToolJet/ToolJet/issues/4618) 💬 4 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
+| [Allow S3 and other document storage solutions for app configuration storage](https://github.com/ToolJet/ToolJet/issues/4672) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
+| [Encrypted HTTP headers in REST and GraphQL sources](https://github.com/ToolJet/ToolJet/issues/5113) 💬 1 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
+| [AWS S3 feature request - add a new operation called "Multipart Upload"](https://github.com/ToolJet/ToolJet/issues/5689) 💬 6 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
+| ['TruthUtils.isFalsy(null)' returns false, so Assert passes on a null condition](https://github.com/kestra-io/kestra/issues/20311) 💬 11 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.3k | 🟢 beginner | 2026-10-06 |  |
+| [[YSQL] Side-by-side diff doesn't pick best expectfile](https://github.com/yugabyte/yugabyte-db/issues/28716) 💬 2 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.6k | 🟡 help wanted | 2026-10-06 |  |
+| [GCS needs someone with a real bucket to run its test](https://github.com/deeplethe/utopia/issues/214) 💬 2 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | 8.1k | 🟡 help wanted | 2026-10-06 | ✍️ CLA · 🔏 DCO |
+| [[Question] &lt;title&gt;Docker-compose install version 1.9.0, the browser open often appear, you with this lin](https://github.com/apache/hertzbeat/issues/4416) | [apache/hertzbeat](https://github.com/apache/hertzbeat) | 7.4k | 🟢 beginner | 2026-10-06 |  |
+| [BetterAuth to implement multi-user support, roles, external auth providers](https://github.com/louislam/uptime-kuma/issues/6200) 💬 13 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.2k | 🟡 help wanted | 2026-10-05 | ⚠️ AI restricted |
 | [Snyk vulnerability [SNYK-JS-POSTCSSSELECTORPARSER-20510276]](https://github.com/backstage/backstage/issues/35975) | [backstage/backstage](https://github.com/backstage/backstage) | 34.6k | 🟡 help wanted | 2026-10-05 | 📄 AI policy · 🔏 DCO |
 | [Snyk vulnerability [SNYK-JS-ZOD-20510278]](https://github.com/backstage/backstage/issues/35974) | [backstage/backstage](https://github.com/backstage/backstage) | 34.6k | 🟡 help wanted | 2026-10-05 | 📄 AI policy · 🔏 DCO |
 | [Snyk vulnerability [SNYK-JS-ADMZIP-20335419]](https://github.com/backstage/backstage/issues/35941) | [backstage/backstage](https://github.com/backstage/backstage) | 34.6k | 🟡 help wanted | 2026-10-05 | 📄 AI policy · 🔏 DCO |
-| [TaskRunLine.vue: replace explicit 'any' with real types](https://github.com/kestra-io/kestra/issues/20323) 💬 8 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.3k | 🟢 beginner | 2026-10-05 |  |
 | [🐛(Bug) Line wraps at a hyphen instead of a space](https://github.com/suitenumerique/docs/issues/2239) 💬 1 | [suitenumerique/docs](https://github.com/suitenumerique/docs) | 16.9k | 🟢 beginner | 2026-10-05 | 🤖 disclose AI use · 🔏 DCO |
 | [Simplify SecretInjection: drop basic_auth and query_params flags](https://github.com/superradcompany/microsandbox/issues/703) 💬 2 | [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 8.6k | 🟢 beginner | 2026-10-05 | 🔏 DCO |
 | [Expose ergonomic create_with_progress / create_detached_with_progress in the Rust SDK](https://github.com/superradcompany/microsandbox/issues/593) 💬 3 | [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 8.6k | 🟢 beginner | 2026-10-05 | 🔏 DCO |
-| [GCS needs someone with a real bucket to run its test](https://github.com/deeplethe/utopia/issues/214) 💬 1 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | 8.1k | 🟡 help wanted | 2026-10-05 | ✍️ CLA · 🔏 DCO |
 | [Possible new ideas for challenges](https://github.com/OWASP/wrongsecrets/issues/37) 💬 13 | [OWASP/wrongsecrets](https://github.com/OWASP/wrongsecrets) | 1.5k | 🟡 help wanted | 2026-10-05 |  |
 | [Add details about template from which an entry was created](https://github.com/elabftw/elabftw/issues/7520) 💬 2 | [elabftw/elabftw](https://github.com/elabftw/elabftw) | 1.4k | 🟢 beginner | 2026-10-05 |  |
 | [Improve visual marker of templates](https://github.com/elabftw/elabftw/issues/7519) | [elabftw/elabftw](https://github.com/elabftw/elabftw) | 1.4k | 🟢 beginner | 2026-10-05 |  |
@@ -46,16 +49,15 @@
 | [Add a comment once e2e finishes](https://github.com/kedacore/keda/issues/5308) 💬 15 | [kedacore/keda](https://github.com/kedacore/keda) | 10.6k | 🟡 help wanted | 2026-10-04 | 🔏 DCO |
 | [Provide support for authentication with SPIFFE](https://github.com/kedacore/keda/issues/672) 💬 7 | [kedacore/keda](https://github.com/kedacore/keda) | 10.6k | 🟡 help wanted | 2026-10-04 | 🔏 DCO |
 | [Contributor guide for naming and conventions](https://github.com/kedacore/keda/issues/592) 💬 7 | [kedacore/keda](https://github.com/kedacore/keda) | 10.6k | 🟡 help wanted | 2026-10-04 | 🔏 DCO |
-| [Make feedback anonymity mode discoverable](https://github.com/pacifio/atlas/issues/69) 💬 2 | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.1k | 🟢 beginner | 2026-10-04 |  |
-| [Auto-generate descriptive titles for agent tabs](https://github.com/pacifio/atlas/issues/70) 💬 2 | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.1k | 🟢 beginner | 2026-10-04 |  |
-| [Improve discoverability and hover feedback for workspace navigation controls](https://github.com/pacifio/atlas/issues/71) | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.1k | 🟢 beginner | 2026-10-04 |  |
-| [Add modifier-held tab-switcher hints for fast panel navigation](https://github.com/pacifio/atlas/issues/73) | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.1k | 🟢 beginner | 2026-10-04 |  |
-| [Keep the embedded browser strictly contained within its panel bounds](https://github.com/pacifio/atlas/issues/77) | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.1k | 🟡 help wanted | 2026-10-04 |  |
+| [Make feedback anonymity mode discoverable](https://github.com/pacifio/atlas/issues/69) 💬 2 | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.2k | 🟢 beginner | 2026-10-04 |  |
+| [Auto-generate descriptive titles for agent tabs](https://github.com/pacifio/atlas/issues/70) 💬 2 | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.2k | 🟢 beginner | 2026-10-04 |  |
+| [Improve discoverability and hover feedback for workspace navigation controls](https://github.com/pacifio/atlas/issues/71) | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.2k | 🟢 beginner | 2026-10-04 |  |
+| [Add modifier-held tab-switcher hints for fast panel navigation](https://github.com/pacifio/atlas/issues/73) | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.2k | 🟢 beginner | 2026-10-04 |  |
+| [Keep the embedded browser strictly contained within its panel bounds](https://github.com/pacifio/atlas/issues/77) | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.2k | 🟡 help wanted | 2026-10-04 |  |
 | [[BUG] Backup engine SIGSEGV on aarch64 with 16K page size kernel (Fedora Asahi Remix / Apple Silicon) — v1.11.](https://github.com/longhorn/longhorn/issues/12929) 💬 3 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟡 help wanted | 2026-10-04 | 🔏 DCO |
-| [Integrate cross-seed](https://github.com/kiriwalawren/nixflix/issues/360) 💬 2 | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 587 | 🟢 beginner | 2026-10-04 |  |
+| [Integrate cross-seed](https://github.com/kiriwalawren/nixflix/issues/360) 💬 2 | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 588 | 🟢 beginner | 2026-10-04 |  |
 | [[Accessibility issue] Template variables: No designator for mandatory fields in forms (MAS issue: 258655)](https://github.com/grafana/grafana/issues/73397) 💬 4 | [grafana/grafana](https://github.com/grafana/grafana) | 77.1k | 🟡 help wanted | 2026-10-03 | ✍️ CLA |
-| [Support Envoy's 'forwarded_proto_config' for PROXY Protocol destination port-based X-Forwarded-Proto](https://github.com/projectcontour/contour/issues/7392) 💬 4 | [projectcontour/contour](https://github.com/projectcontour/contour) | 4k | 🟡 help wanted | 2026-10-03 | 🔏 DCO |
-| [[Bug] Cannot load qwen3-vl series with lora adapter on vllm.](https://github.com/unslothai/unsloth/issues/3560) 💬 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.2k | 🟢 beginner | 2026-10-02 |  |
+| [[Bug] Cannot load qwen3-vl series with lora adapter on vllm.](https://github.com/unslothai/unsloth/issues/3560) 💬 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.3k | 🟢 beginner | 2026-10-02 |  |
 | [docs: surface repository examples and templates in the Recipes tab](https://github.com/ai-dynamo/dynamo/issues/13497) 💬 2 | [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | 8.2k | 🟢 beginner | 2026-10-02 | 📄 AI policy · 🔏 DCO |
 | ['information_schema.flows' include recent execution errors](https://github.com/GreptimeTeam/greptimedb/issues/5824) 💬 2 | [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) | 6.7k | 🟢 beginner | 2026-10-02 | ✍️ CLA · 🔏 DCO |
 | [Server-side meta tags](https://github.com/suitenumerique/docs/issues/739) 💬 1 | [suitenumerique/docs](https://github.com/suitenumerique/docs) | 16.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · 🔏 DCO |
@@ -84,7 +86,6 @@
 | [[FR] Event & Stage Logging with Timeline Annotations](https://github.com/mlflow/mlflow/issues/16892) 💬 8 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 28.3k | 🟡 help wanted | 2026-09-30 | 🔏 DCO |
 | [Config Doc - Support more features in Asciidoc -&gt; Mardown converter](https://github.com/quarkusio/quarkus/issues/43287) 💬 9 | [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | 15.9k | 🟢 beginner | 2026-09-30 | ⚠️ AI restricted · 🔏 DCO |
 | [Create standard environment setups for testing](https://github.com/youki-dev/youki/issues/2890) 💬 3 | [youki-dev/youki](https://github.com/youki-dev/youki) | 7.6k | 🟢 beginner | 2026-09-30 |  |
-| [Helm: images inside lists in values files are never detected (find_images_in_hash never calls handle_array_val](https://github.com/dependabot/dependabot-core/issues/16425) | [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) | 5.8k | 🟡 help wanted | 2026-09-30 |  |
 | [[Initiative]: Cloud Native Business Continuity: whitepaper and best practices](https://github.com/cncf/toc/issues/1779) 💬 12 | [cncf/toc](https://github.com/cncf/toc) | 1.9k | 🟡 help wanted | 2026-09-30 |  |
 | [Snyk vulnerability [SNYK-JS-PBKDF2-20251013]](https://github.com/backstage/backstage/issues/35926) | [backstage/backstage](https://github.com/backstage/backstage) | 34.6k | 🟡 help wanted | 2026-09-29 | 📄 AI policy · 🔏 DCO |
 | [Snyk vulnerability [SNYK-JS-SHELLQUOTE-20250993]](https://github.com/backstage/backstage/issues/35925) | [backstage/backstage](https://github.com/backstage/backstage) | 34.6k | 🟡 help wanted | 2026-09-29 | 📄 AI policy · 🔏 DCO |
@@ -92,25 +93,24 @@
 | [velero-plugin-for-aws v1.14.3 still sends x-amz-tagging on PutObject with Backblaze B2, despite #309's guard](https://github.com/velero-io/velero/issues/10584) 💬 1 | [velero-io/velero](https://github.com/velero-io/velero) | 10.3k | 🟡 help wanted | 2026-09-29 | 🔏 DCO |
 | [Service Worker Offline](https://github.com/TandoorRecipes/recipes/issues/621) 💬 7 | [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) | 8.7k | 🟢 beginner | 2026-09-29 |  |
 | [[Improvement] Update Spark Ranger plugin to 2.7.0](https://github.com/apache/kyuubi/issues/7234) 💬 2 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA |
-| [Bind services to loopback only by default](https://github.com/kiriwalawren/nixflix/issues/364) | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 587 | 🟢 beginner | 2026-09-29 |  |
+| [Bind services to loopback only by default](https://github.com/kiriwalawren/nixflix/issues/364) | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 588 | 🟢 beginner | 2026-09-29 |  |
 | [ListWatch: StreamWatcher is consuming high memory in high pod churn](https://github.com/kubernetes/kubernetes/issues/129705) 💬 13 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 128.3k | 🟡 help wanted | 2026-09-28 | 🤖 disclose AI use · ✍️ CLA |
 | [Confirm whether an installed '.deb' auto-updates, and document the answer](https://github.com/MODSetter/SurfSense/issues/2011) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [A podcast artifact is WAV; the bundled ffmpeg for MP3 is not built](https://github.com/MODSetter/SurfSense/issues/2001) | [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 16.3k | 🟡 help wanted | 2026-09-28 |  |
 | [Trusted registries don't work correctly for multi-part repo names](https://github.com/hadolint/hadolint/issues/401) 💬 8 | [hadolint/hadolint](https://github.com/hadolint/hadolint) | 12.5k | 🟡 help wanted | 2026-09-28 |  |
 | [[FEATURE] Node Affinity support for longhorn component deployment](https://github.com/longhorn/longhorn/issues/6035) 💬 2 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟢 beginner | 2026-09-28 | 🔏 DCO |
 | [[BUG] v2 volumes get stuck in unknown loading state if all nodes are labeled with 'disable-v2-data-engine=true](https://github.com/longhorn/longhorn/issues/11831) 💬 9 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟢 beginner | 2026-09-28 | 🔏 DCO |
-| [[IMPROVEMENT] Implementing CLI Checks for Critical Resource Labels and Fields](https://github.com/longhorn/longhorn/issues/9458) 💬 2 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟢 beginner | 2026-09-28 | 🔏 DCO |
 | [[IMPROVEMENT] share-manager-pvc should have its own toleration setting or nodeaffinity for replica zones](https://github.com/longhorn/longhorn/issues/6509) 💬 1 | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟢 beginner | 2026-09-28 | 🔏 DCO |
 | [[FEATURE] 'longhornctl' supports node maintenance](https://github.com/longhorn/longhorn/issues/8799) | [longhorn/longhorn](https://github.com/longhorn/longhorn) | 8k | 🟡 help wanted | 2026-09-28 | 🔏 DCO |
 | [[BUG] java.lang.OutOfMemoryError: GC overhead limit exceeded](https://github.com/apache/hertzbeat/issues/1714) 💬 14 | [apache/hertzbeat](https://github.com/apache/hertzbeat) | 7.4k | 🟢 beginner | 2026-09-28 |  |
-| [reinforce(gspo) training didn't yield any improments](https://github.com/unslothai/unsloth/issues/3485) 💬 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.2k | 🟡 help wanted | 2026-09-27 |  |
+| [reinforce(gspo) training didn't yield any improments](https://github.com/unslothai/unsloth/issues/3485) 💬 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.3k | 🟡 help wanted | 2026-09-27 |  |
 | [[Question] Add monitoring grouping function](https://github.com/apache/hertzbeat/issues/698) 💬 2 | [apache/hertzbeat](https://github.com/apache/hertzbeat) | 7.4k | 🟡 help wanted | 2026-09-27 |  |
 | [Auto-created tables can miss required columns when insert schemas differ](https://github.com/GreptimeTeam/greptimedb/issues/9185) 💬 4 | [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) | 6.7k | 🟢 beginner | 2026-09-27 | ✍️ CLA · 🔏 DCO |
 | [[Feed problem] Titles are not parsed properly.](https://github.com/FreshRSS/FreshRSS/issues/8162) 💬 5 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.2k | 🟡 help wanted | 2026-09-25 |  |
 | [Direct link to an experiment step from the step list](https://github.com/elabftw/elabftw/issues/7483) 💬 1 | [elabftw/elabftw](https://github.com/elabftw/elabftw) | 1.4k | 🟢 beginner | 2026-09-25 |  |
-| [Lidarr: Create metadata tags configuration service](https://github.com/kiriwalawren/nixflix/issues/335) 💬 1 | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 587 | 🟢 beginner | 2026-09-25 |  |
-| [Navidrome: add lyrics plugin](https://github.com/kiriwalawren/nixflix/issues/334) | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 587 | 🟢 beginner | 2026-09-25 |  |
-| [Integrate autobrr](https://github.com/kiriwalawren/nixflix/issues/359) 💬 1 | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 587 | 🟢 beginner | 2026-09-25 |  |
+| [Lidarr: Create metadata tags configuration service](https://github.com/kiriwalawren/nixflix/issues/335) 💬 1 | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 588 | 🟢 beginner | 2026-09-25 |  |
+| [Navidrome: add lyrics plugin](https://github.com/kiriwalawren/nixflix/issues/334) | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 588 | 🟢 beginner | 2026-09-25 |  |
+| [Integrate autobrr](https://github.com/kiriwalawren/nixflix/issues/359) 💬 1 | [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) | 588 | 🟢 beginner | 2026-09-25 |  |
 | [Batch offline service based on IP address](https://github.com/alibaba/nacos/issues/2272) 💬 24 | [alibaba/nacos](https://github.com/alibaba/nacos) | 33.4k | 🟢 beginner | 2026-09-24 | 🤖 disclose AI use · ✍️ CLA |
 | [[FEATURE] Add tawk.to actions to Pipedream MCP](https://github.com/PipedreamHQ/pipedream/issues/22017) 💬 1 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-09-24 |  |
 | [AzureProvisioner output saves connection strings to user secrets even if it did nothing](https://github.com/microsoft/aspire/issues/3298) 💬 5 | [microsoft/aspire](https://github.com/microsoft/aspire) | 6.3k | 🟢 beginner | 2026-09-24 |  |

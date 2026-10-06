@@ -1,10 +1,10 @@
 # Ruby issues
 
-**86** open issues (64 labeled for beginners) across **29** active Ruby projects.
+**84** open issues (63 labeled for beginners) across **29** active Ruby projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/ruby.xml)
 
-> Updated automatically on **2026-10-05 23:52 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-06 12:53 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -14,7 +14,6 @@
 | --- | --- | ---: | --- | --- | --- |
 | [Canceling comment edit triggers a JS exception and doesn't cancel](https://github.com/lobsters/lobsters/issues/2215) 💬 2 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-10-05 |  |
 | [Allow conversations to be "pinned"](https://github.com/AllYourBot/hostedgpt/issues/245) | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 512 | 🟢 beginner | 2026-10-05 |  |
-| [Helm: images inside lists in values files are never detected (find_images_in_hash never calls handle_array_val](https://github.com/dependabot/dependabot-core/issues/16425) | [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) | 5.8k | 🟡 help wanted | 2026-09-30 |  |
 | [Isolated reply comment form allows for two different reply forms.](https://github.com/lobsters/lobsters/issues/2098) 💬 2 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-09-30 |  |
 | [Test link on API Services and Language Models broken](https://github.com/AllYourBot/hostedgpt/issues/810) 💬 2 | [AllYourBot/hostedgpt](https://github.com/AllYourBot/hostedgpt) | 512 | 🟢 beginner | 2026-09-30 |  |
 | [Add support for Salam](https://github.com/github-linguist/linguist/issues/8206) 💬 3 | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.7k | 🟢 beginner | 2026-09-25 |  |
@@ -42,7 +41,7 @@
 | [[Feature Request] Dark Mode](https://github.com/endoflife-date/endoflife.date/issues/1187) 💬 10 | [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) | 3.4k | 🟢 beginner | 2026-08-28 |  |
 | [[Request] Generate policy file when using scaffolding](https://github.com/varvet/pundit/issues/735) 💬 5 | [varvet/pundit](https://github.com/varvet/pundit) | 8.5k | 🟢 beginner | 2026-08-15 |  |
 | [Make a performance comparison between replacing Turbolinks (plus rails-ujs) with Turbo and dropping it entirel](https://github.com/consuldemocracy/consuldemocracy/issues/5485) | [consuldemocracy/consuldemocracy](https://github.com/consuldemocracy/consuldemocracy) | 1.6k | 🟡 help wanted | 2026-08-14 |  |
-| [Add Warsh Qirat Data to QUL](https://github.com/TarteelAI/quranic-universal-library/issues/131) 💬 3 | [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) | 1k | 🟡 help wanted | 2026-08-08 |  |
+| [Add Warsh Qirat Data to QUL](https://github.com/TarteelAI/quranic-universal-library/issues/131) 💬 3 | [TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library) | 1.1k | 🟡 help wanted | 2026-08-08 |  |
 | [Allow using RSwag on specs other than :request](https://github.com/rswag/rswag/issues/364) 💬 14 | [rswag/rswag](https://github.com/rswag/rswag) | 2.2k | 🟡 help wanted | 2026-08-03 |  |
 | [Use largest thumbnail image from GCODE files](https://github.com/manyfold3d/manyfold/issues/6407) 💬 2 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-07-31 | 📄 AI policy · ✍️ CLA |
 | [Make immediate printing optional, with a choice dialog](https://github.com/manyfold3d/manyfold/issues/6447) 💬 6 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-07-31 | 📄 AI policy · ✍️ CLA |
@@ -63,7 +62,7 @@
 | [class com.sun.nio.file.ExtendedOpenOption cannot access class jdk.internal.misc.FileSystemOption](https://github.com/jruby/jruby/issues/7835) 💬 7 | [jruby/jruby](https://github.com/jruby/jruby) | 3.9k | 🟢 beginner | 2026-07-09 |  |
 | [Links in Description](https://github.com/manyfold3d/manyfold/issues/4944) 💬 3 | [manyfold3d/manyfold](https://github.com/manyfold3d/manyfold) | 2.2k | 🟢 beginner | 2026-07-08 | 📄 AI policy · ✍️ CLA |
 | [Support 'distinct' when it comes to further association chaining](https://github.com/neo4jrb/activegraph/issues/1340) 💬 3 | [neo4jrb/activegraph](https://github.com/neo4jrb/activegraph) | 1.4k | 🟢 beginner | 2026-07-06 |  |
-| [Upload form missing a number of options](https://github.com/e621ng/e621ng/issues/1794) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 577 | 🟢 beginner | 2026-06-30 |  |
+| [Upload form missing a number of options](https://github.com/e621ng/e621ng/issues/1794) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 578 | 🟢 beginner | 2026-06-30 |  |
 | [Very low contrast difference on comments link on mobile when using high contrast](https://github.com/lobsters/lobsters/issues/2085) | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-06-24 |  |
 | [Disown CTA has unique focus and hover effect](https://github.com/lobsters/lobsters/issues/2099) 💬 1 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-06-24 |  |
 | [Create Huginn iPhone / Android app](https://github.com/huginn/huginn/issues/166) 💬 19 | [huginn/huginn](https://github.com/huginn/huginn) | 50k | 🟡 help wanted | 2026-06-20 |  |
@@ -86,15 +85,14 @@
 | [multiple favicon versions, some ugly](https://github.com/lobsters/lobsters/issues/1921) 💬 3 | [lobsters/lobsters](https://github.com/lobsters/lobsters) | 4.8k | 🟢 beginner | 2026-05-07 |  |
 | [Add SNOBOL](https://github.com/github-linguist/linguist/issues/7950) | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.7k | 🟢 beginner | 2026-05-06 |  |
 | [Add Uiua](https://github.com/github-linguist/linguist/issues/7949) | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.7k | 🟢 beginner | 2026-05-06 |  |
-| [[Tooling] Support VSCode breakpoints for Ruby (standard running)](https://github.com/e621ng/e621ng/issues/1940) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 577 | 🟡 help wanted | 2026-04-29 |  |
-| [[Users] Onboarding process](https://github.com/e621ng/e621ng/issues/1770) 💬 3 | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 577 | 🟡 help wanted | 2026-04-29 |  |
-| [Pools in upload form](https://github.com/e621ng/e621ng/issues/1882) 💬 1 | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 577 | 🟡 help wanted | 2026-04-29 |  |
-| [[Tests] Add client-side Playwright testing](https://github.com/e621ng/e621ng/issues/1936) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 577 | 🟡 help wanted | 2026-04-29 |  |
-| [Comment search should have a method of viewing results under the threshold](https://github.com/e621ng/e621ng/issues/1756) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 577 | 🟢 beginner | 2026-04-28 |  |
+| [[Tooling] Support VSCode breakpoints for Ruby (standard running)](https://github.com/e621ng/e621ng/issues/1940) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 578 | 🟡 help wanted | 2026-04-29 |  |
+| [[Users] Onboarding process](https://github.com/e621ng/e621ng/issues/1770) 💬 3 | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 578 | 🟡 help wanted | 2026-04-29 |  |
+| [Pools in upload form](https://github.com/e621ng/e621ng/issues/1882) 💬 1 | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 578 | 🟡 help wanted | 2026-04-29 |  |
+| [[Tests] Add client-side Playwright testing](https://github.com/e621ng/e621ng/issues/1936) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 578 | 🟡 help wanted | 2026-04-29 |  |
+| [Comment search should have a method of viewing results under the threshold](https://github.com/e621ng/e621ng/issues/1756) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 578 | 🟢 beginner | 2026-04-28 |  |
 | ['download_job_artifact_file' method fails when the artifact is a non-JSON text file](https://github.com/NARKOZ/gitlab/issues/621) 💬 2 | [NARKOZ/gitlab](https://github.com/NARKOZ/gitlab) | 1.1k | 🟡 help wanted | 2026-04-26 |  |
 | [Missing translations](https://github.com/openfoodfoundation/openfoodnetwork/issues/3681) | [openfoodfoundation/openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) | 1.3k | 🟡 help wanted | 2026-04-22 |  |
 | [Allow priority to be globally disabled/ignored](https://github.com/bensheldon/good_job/issues/1065) 💬 2 | [bensheldon/good_job](https://github.com/bensheldon/good_job) | 3k | 🟡 help wanted | 2026-04-17 |  |
-| [[UI] Add data elements to indexes, tables, and partials](https://github.com/e621ng/e621ng/issues/1829) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 577 | 🟢 beginner | 2026-04-15 |  |
+| [[UI] Add data elements to indexes, tables, and partials](https://github.com/e621ng/e621ng/issues/1829) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 578 | 🟢 beginner | 2026-04-15 |  |
 | [Add ArkScript language](https://github.com/github-linguist/linguist/issues/5416) 💬 2 | [github-linguist/linguist](https://github.com/github-linguist/linguist) | 13.7k | 🟢 beginner | 2026-04-14 |  |
 | [Aliases for custom method](https://github.com/yosiat/panko_serializer/issues/66) 💬 14 | [yosiat/panko_serializer](https://github.com/yosiat/panko_serializer) | 635 | 🟢 beginner | 2026-04-09 |  |
-| [Post UI Navigation should show sets to maintainers, not just owners](https://github.com/e621ng/e621ng/issues/1779) | [e621ng/e621ng](https://github.com/e621ng/e621ng) | 577 | 🟢 beginner | 2026-04-08 |  |

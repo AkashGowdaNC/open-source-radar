@@ -1,10 +1,10 @@
 # JavaScript issues
 
-**158** open issues (74 labeled for beginners) across **61** active JavaScript projects.
+**152** open issues (70 labeled for beginners) across **59** active JavaScript projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/javascript.xml)
 
-> Updated automatically on **2026-10-05 23:52 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-06 12:53 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,28 +12,22 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [BetterAuth to implement multi-user support, roles, external auth providers](https://github.com/louislam/uptime-kuma/issues/6200) 💬 13 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.1k | 🟡 help wanted | 2026-10-05 | ⚠️ AI restricted |
-| [contact-extract and reply-watch: reuse parseFollowups() instead of two private copies](https://github.com/career-ops-hq/career-ops/issues/4784) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73.6k | 🟢 beginner | 2026-10-05 | 🤖 disclose AI use |
-| [docs: name path-resolver.mjs as the module scripts use to resolve the data root and tracker path](https://github.com/career-ops-hq/career-ops/issues/4783) | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73.6k | 🟢 beginner | 2026-10-05 | 🤖 disclose AI use |
-| [[Marketplace] Add Directus plugin](https://github.com/ToolJet/ToolJet/issues/18230) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use |
-| [[Marketplace] Add Meilisearch plugin](https://github.com/ToolJet/ToolJet/issues/18229) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use |
-| [[Marketplace] Add Grok plugin](https://github.com/ToolJet/ToolJet/issues/18228) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use |
-| [[Marketplace] Add Zoho Inventory plugin](https://github.com/ToolJet/ToolJet/issues/18226) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use |
-| [[Marketplace] Add Zoho Desk plugin](https://github.com/ToolJet/ToolJet/issues/18225) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use |
-| [[Marketplace] Add Zoho Books plugin](https://github.com/ToolJet/ToolJet/issues/18224) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use |
-| [[Marketplace] Add Zoho CRM plugin](https://github.com/ToolJet/ToolJet/issues/18223) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use |
-| [[PasswordInput]: Disallow invalid & warn when readonly or disabled](https://github.com/carbon-design-system/carbon/issues/20732) 💬 2 | [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) | 9.5k | 🟢 beginner | 2026-10-05 | 🔏 DCO |
-| [[Bug]: Inconsistent Focus Behavior in Carbon's OverflowMenu with FeatureFlags](https://github.com/carbon-design-system/carbon/issues/19295) | [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) | 9.5k | 🟡 help wanted | 2026-10-05 | 🔏 DCO |
-| [[Bug]: &lt;cds-number-input&gt;: Mouse wheel does not increment/decrement value when input is focused and disa](https://github.com/carbon-design-system/carbon/issues/20074) 💬 2 | [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) | 9.5k | 🟡 help wanted | 2026-10-05 | 🔏 DCO |
+| [Add "Signature" component](https://github.com/ToolJet/ToolJet/issues/4859) 💬 4 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
+| [Allow integration with Pomerium proxy on GCP Cloud Run](https://github.com/ToolJet/ToolJet/issues/2798) 💬 1 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
+| [[Feature] Support Firestore Collection Group queries](https://github.com/ToolJet/ToolJet/issues/3802) 💬 2 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
+| [ScyllaDB data source integration](https://github.com/ToolJet/ToolJet/issues/3841) 💬 1 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
+| [Cannot deploy Tooljet when database uses a unix socket, likely due to a regression after wait-for-it was intro](https://github.com/ToolJet/ToolJet/issues/4618) 💬 4 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
+| [Allow S3 and other document storage solutions for app configuration storage](https://github.com/ToolJet/ToolJet/issues/4672) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
+| [Encrypted HTTP headers in REST and GraphQL sources](https://github.com/ToolJet/ToolJet/issues/5113) 💬 1 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
+| [AWS S3 feature request - add a new operation called "Multipart Upload"](https://github.com/ToolJet/ToolJet/issues/5689) 💬 6 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
+| [BetterAuth to implement multi-user support, roles, external auth providers](https://github.com/louislam/uptime-kuma/issues/6200) 💬 13 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.2k | 🟡 help wanted | 2026-10-05 | ⚠️ AI restricted |
 | [[Feature request]: add some image examples](https://github.com/hovancik/stretchly/issues/1788) 💬 3 | [hovancik/stretchly](https://github.com/hovancik/stretchly) | 6.6k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use |
 | [[Help] cf部署完毕，邮箱后台怎么进入](https://github.com/maillab/cloud-mail/issues/553) 💬 1 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-10-03 |  |
 | [Add IE11 XXE to read local files](https://github.com/beefproject/beef/issues/1715) 💬 1 | [beefproject/beef](https://github.com/beefproject/beef) | 11k | 🟢 beginner | 2026-10-03 |  |
 | [update GetStoredCredentials, senglehardt.com, login manager autofill](https://github.com/beefproject/beef/issues/1974) 💬 2 | [beefproject/beef](https://github.com/beefproject/beef) | 11k | 🟢 beginner | 2026-10-03 |  |
 | [[Feature request]: Exclusions enhancement - Pause while camera is in use](https://github.com/hovancik/stretchly/issues/969) 💬 31 | [hovancik/stretchly](https://github.com/hovancik/stretchly) | 6.6k | 🟡 help wanted | 2026-10-03 | 🤖 disclose AI use |
 | [element with display flex do not create a new BFC itself](https://github.com/yangshun/front-end-interview-handbook/issues/159) 💬 1 | [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | 44k | 🟡 help wanted | 2026-10-02 |  |
-| [Make tooltips dismissable](https://github.com/WordPress/gutenberg/issues/15145) 💬 6 | [WordPress/gutenberg](https://github.com/WordPress/gutenberg) | 11.8k | 🟢 beginner | 2026-09-30 | 🤖 disclose AI use |
 | [Operation request: Protocol Data Unit (PDU) encoder/decoder](https://github.com/gchq/CyberChef/issues/256) 💬 8 | [gchq/CyberChef](https://github.com/gchq/CyberChef) | 36k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA |
-| [[Feedback]: UI Shell is way too complicated and not really documented](https://github.com/carbon-design-system/carbon/issues/19715) 💬 6 | [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) | 9.5k | 🟡 help wanted | 2026-09-29 | 🔏 DCO |
 | [[Bug]: Click causes black screen and unresponsiveness](https://github.com/hovancik/stretchly/issues/1860) 💬 1 | [hovancik/stretchly](https://github.com/hovancik/stretchly) | 6.6k | 🟡 help wanted | 2026-09-29 | 🤖 disclose AI use |
 | [Remove Safari 9 WebGL constants workaround](https://github.com/CesiumGS/cesium/issues/5315) 💬 3 | [CesiumGS/cesium](https://github.com/CesiumGS/cesium) | 15.8k | 🟢 beginner | 2026-09-28 | ✍️ CLA |
 | [[Help] 值是正确的但是一直显示❌ JWT secret mismatch](https://github.com/maillab/cloud-mail/issues/545) 💬 4 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-09-28 |  |
@@ -77,23 +71,23 @@
 | [Add 'defaultOptions' method to main beautifier](https://github.com/beautifier/js-beautify/issues/1584) 💬 4 | [beautifier/js-beautify](https://github.com/beautifier/js-beautify) | 9k | 🟢 beginner | 2026-09-01 |  |
 | [[Feature Request] Support line styles in Scattermapbox](https://github.com/plotly/plotly.js/issues/6791) 💬 12 | [plotly/plotly.js](https://github.com/plotly/plotly.js) | 18.4k | 🟢 beginner | 2026-08-28 | ⚠️ AI restricted |
 | [[Help] 按教程创建了 Worker，但是电子邮件 Catch-all 找不到 Worker，提示没有已部署的 Email Worker](https://github.com/maillab/cloud-mail/issues/440) 💬 7 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-08-28 |  |
-| [Add a public DNS resolver from an unrepresented region (Africa / South America / Middle East / Oceania)](https://github.com/jason5ng32/MyIP/issues/394) 💬 1 | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12k | 🟢 beginner | 2026-08-28 |  |
+| [Add a public DNS resolver from an unrepresented region (Africa / South America / Middle East / Oceania)](https://github.com/jason5ng32/MyIP/issues/394) 💬 1 | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.1k | 🟢 beginner | 2026-08-28 |  |
 | [[To Do] Add visual regression (Backstop) tests to Less](https://github.com/less/less.js/issues/3262) 💬 5 | [less/less.js](https://github.com/less/less.js) | 17k | 🟢 beginner | 2026-08-27 |  |
 | [i18n: translate the interview modes (plan/practice/debrief) to Indonesian](https://github.com/career-ops-hq/career-ops/issues/2784) 💬 10 | [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) | 73.6k | 🟢 beginner | 2026-08-26 | 🤖 disclose AI use |
 | [Proxying should support HTTP and HTTPS at the same time](https://github.com/usebruno/bruno/issues/1985) 💬 3 | [usebruno/bruno](https://github.com/usebruno/bruno) | 47.4k | 🟢 beginner | 2026-08-26 |  |
 | [Add a check to test if :hover styles require doubletapping links](https://github.com/GoogleChrome/lighthouse/issues/9474) 💬 9 | [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) | 30.9k | 🟢 beginner | 2026-08-26 | ✍️ CLA |
 | [[ACTION]](https://github.com/PipedreamHQ/pipedream/issues/21787) 💬 1 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-08-25 |  |
 | [Comprison on NULL differes from SQL](https://github.com/AlaSQL/alasql/issues/1414) 💬 14 | [AlaSQL/alasql](https://github.com/AlaSQL/alasql) | 7.3k | 🟢 beginner | 2026-08-25 |  |
-| [Connectivity test: add a Vietnam country list](https://github.com/jason5ng32/MyIP/issues/406) 💬 2 | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12k | 🟢 beginner | 2026-08-22 |  |
-| [🇯🇵 Japanese (ja) UI translation](https://github.com/jason5ng32/MyIP/issues/421) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12k | 🟢 beginner | 2026-08-22 |  |
-| [🇪🇸 Spanish (es) UI translation](https://github.com/jason5ng32/MyIP/issues/420) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12k | 🟢 beginner | 2026-08-22 |  |
-| [🇩🇪 German (de) UI translation](https://github.com/jason5ng32/MyIP/issues/419) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12k | 🟢 beginner | 2026-08-22 |  |
-| [Translate the README into your language](https://github.com/jason5ng32/MyIP/issues/415) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12k | 🟢 beginner | 2026-08-22 |  |
-| [Translate the README into Korean (README_KO.md)](https://github.com/jason5ng32/MyIP/issues/414) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12k | 🟢 beginner | 2026-08-22 |  |
-| [Translate the README into Japanese (README_JA.md)](https://github.com/jason5ng32/MyIP/issues/413) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12k | 🟢 beginner | 2026-08-22 |  |
-| [Translate the README into German (README_DE.md)](https://github.com/jason5ng32/MyIP/issues/412) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12k | 🟢 beginner | 2026-08-22 |  |
-| [Translate the README into Spanish (README_ES.md)](https://github.com/jason5ng32/MyIP/issues/410) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12k | 🟢 beginner | 2026-08-22 |  |
-| [Native speakers: review the French / Russian UI translations](https://github.com/jason5ng32/MyIP/issues/401) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12k | 🟢 beginner | 2026-08-22 |  |
+| [Connectivity test: add a Vietnam country list](https://github.com/jason5ng32/MyIP/issues/406) 💬 2 | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.1k | 🟢 beginner | 2026-08-22 |  |
+| [🇯🇵 Japanese (ja) UI translation](https://github.com/jason5ng32/MyIP/issues/421) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.1k | 🟢 beginner | 2026-08-22 |  |
+| [🇪🇸 Spanish (es) UI translation](https://github.com/jason5ng32/MyIP/issues/420) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.1k | 🟢 beginner | 2026-08-22 |  |
+| [🇩🇪 German (de) UI translation](https://github.com/jason5ng32/MyIP/issues/419) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.1k | 🟢 beginner | 2026-08-22 |  |
+| [Translate the README into your language](https://github.com/jason5ng32/MyIP/issues/415) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.1k | 🟢 beginner | 2026-08-22 |  |
+| [Translate the README into Korean (README_KO.md)](https://github.com/jason5ng32/MyIP/issues/414) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.1k | 🟢 beginner | 2026-08-22 |  |
+| [Translate the README into Japanese (README_JA.md)](https://github.com/jason5ng32/MyIP/issues/413) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.1k | 🟢 beginner | 2026-08-22 |  |
+| [Translate the README into German (README_DE.md)](https://github.com/jason5ng32/MyIP/issues/412) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.1k | 🟢 beginner | 2026-08-22 |  |
+| [Translate the README into Spanish (README_ES.md)](https://github.com/jason5ng32/MyIP/issues/410) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.1k | 🟢 beginner | 2026-08-22 |  |
+| [Native speakers: review the French / Russian UI translations](https://github.com/jason5ng32/MyIP/issues/401) | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.1k | 🟢 beginner | 2026-08-22 |  |
 | [[RFC]: Add C implementation for '@stdlib/stats/base/dists/beta/median'](https://github.com/stdlib-js/stdlib/issues/3429) 💬 2 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6k | 🟢 beginner | 2026-08-22 | 🤖 disclose AI use |
 | [[RFC]: Add C implementation for '@stdlib/stats/base/dists/chisquare/pdf'](https://github.com/stdlib-js/stdlib/issues/3508) 💬 2 | [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) | 6k | 🟢 beginner | 2026-08-22 | 🤖 disclose AI use |
 | [[riddle_quiz_maker] Update app metadata: description, logo and MCP URL](https://github.com/PipedreamHQ/pipedream/issues/21717) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-08-20 |  |
@@ -124,7 +118,7 @@
 | ['maxConns' option is ignored for incoming connections](https://github.com/webtorrent/webtorrent/issues/703) 💬 3 | [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) | 31.4k | 🟡 help wanted | 2026-07-17 |  |
 | [Mixed 'type' imports does not trigger 'import/no-duplicates'](https://github.com/import-js/eslint-plugin-import/issues/3035) 💬 2 | [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) | 5.9k | 🟡 help wanted | 2026-07-17 |  |
 | [Incorrect message when branch is not recognized as release branch](https://github.com/semantic-release/semantic-release/issues/1443) 💬 8 | [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) | 24.1k | 🟡 help wanted | 2026-07-16 |  |
-| [SMS Text to Speech/ Calling notification service](https://github.com/louislam/uptime-kuma/issues/3295) 💬 13 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.1k | 🟡 help wanted | 2026-07-12 | ⚠️ AI restricted |
+| [SMS Text to Speech/ Calling notification service](https://github.com/louislam/uptime-kuma/issues/3295) 💬 13 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.2k | 🟡 help wanted | 2026-07-12 | ⚠️ AI restricted |
 | [[ACTION] Contacts+](https://github.com/PipedreamHQ/pipedream/issues/21328) 💬 2 | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-07-11 |  |
 | [Integration: Microsoft Login / MS Graph API](https://github.com/sahat/hackathon-starter/issues/1357) 💬 2 | [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) | 35.3k | 🟡 help wanted | 2026-07-09 |  |
 | [Label double moves on batch movement](https://github.com/bpmn-io/bpmn-js/issues/1766) 💬 3 | [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js) | 9.7k | 🟢 beginner | 2026-07-08 |  |
@@ -153,10 +147,10 @@
 | [difference between inline and inline-block should include discussion about replaced / non-replaced elements](https://github.com/yangshun/front-end-interview-handbook/issues/160) 💬 3 | [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | 44k | 🟡 help wanted | 2026-06-05 |  |
 | [这是什么情况？](https://github.com/maillab/cloud-mail/issues/430) 💬 1 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.5k | 🟡 help wanted | 2026-06-03 |  |
 | [Runic formatting ?](https://github.com/JuliaPluto/Pluto.jl/issues/3534) 💬 3 | [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) | 5.4k | 🟢 beginner | 2026-06-01 |  |
-| [Add ping graph on the status page](https://github.com/louislam/uptime-kuma/issues/637) 💬 35 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.1k | 🟡 help wanted | 2026-05-27 | ⚠️ AI restricted |
+| [Add ping graph on the status page](https://github.com/louislam/uptime-kuma/issues/637) 💬 35 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.2k | 🟡 help wanted | 2026-05-27 | ⚠️ AI restricted |
 | [Expose Fuse to be used independently](https://github.com/Choices-js/Choices/issues/1370) 💬 1 | [Choices-js/Choices](https://github.com/Choices-js/Choices) | 6.8k | 🟢 beginner | 2026-05-25 |  |
 | [Allow changing the duration of zoom animations](https://github.com/Leaflet/Leaflet/issues/5332) 💬 8 | [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) | 45.7k | 🟡 help wanted | 2026-05-22 |  |
-| [Show detailed history of all received Push status=up events](https://github.com/louislam/uptime-kuma/issues/5949) 💬 3 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.1k | 🟡 help wanted | 2026-05-20 | ⚠️ AI restricted |
+| [Show detailed history of all received Push status=up events](https://github.com/louislam/uptime-kuma/issues/5949) 💬 3 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.2k | 🟡 help wanted | 2026-05-20 | ⚠️ AI restricted |
 | [&amp; TO & amp;](https://github.com/beautifier/js-beautify/issues/880) 💬 2 | [beautifier/js-beautify](https://github.com/beautifier/js-beautify) | 9k | 🟢 beginner | 2026-05-18 |  |
 | [Demo tests in 'tests/basic.js' are broken.](https://github.com/sandstorm-io/sandstorm/issues/3615) 💬 1 | [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) | 7.1k | 🟢 beginner | 2026-05-12 |  |
 | [add paper size option Generate pdf on server](https://github.com/idurar/idurar-erp-crm/issues/230) 💬 6 | [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) | 8.8k | 🟢 beginner | 2026-05-07 |  |
@@ -164,7 +158,7 @@
 | [use non blocking json parser](https://github.com/expressjs/body-parser/issues/132) 💬 17 | [expressjs/body-parser](https://github.com/expressjs/body-parser) | 5.5k | 🟡 help wanted | 2026-04-30 |  |
 | [Security improvement : refresh token (second token stored in localstorage)](https://github.com/idurar/idurar-erp-crm/issues/204) 💬 11 | [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) | 8.8k | 🟢 beginner | 2026-04-25 |  |
 | [[Feature request]: Modify "Pause Breaks" options](https://github.com/hovancik/stretchly/issues/1462) 💬 5 | [hovancik/stretchly](https://github.com/hovancik/stretchly) | 6.6k | 🟡 help wanted | 2026-04-23 | 🤖 disclose AI use |
-| [GameDig Discord Server Monitoring](https://github.com/louislam/uptime-kuma/issues/4304) 💬 7 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.1k | 🟢 beginner | 2026-04-21 | ⚠️ AI restricted |
+| [GameDig Discord Server Monitoring](https://github.com/louislam/uptime-kuma/issues/4304) 💬 7 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.2k | 🟢 beginner | 2026-04-21 | ⚠️ AI restricted |
 | [if i run node main.js it shows an error](https://github.com/mindcraft-bots/mindcraft/issues/764) 💬 1 | [mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft) | 5.8k | 🟡 help wanted | 2026-04-20 |  |
 | [[Bug]: Error 400 in ingress-nginx](https://github.com/plankanban/planka/issues/1567) 💬 2 | [plankanban/planka](https://github.com/plankanban/planka) | 12.6k | 🟡 help wanted | 2026-04-18 |  |
 | [RDP connection is not working](https://github.com/electerm/electerm/issues/3764) 💬 12 | [electerm/electerm](https://github.com/electerm/electerm) | 15.3k | 🟡 help wanted | 2026-04-17 |  |

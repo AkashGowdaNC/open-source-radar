@@ -1,10 +1,10 @@
 # Rust issues
 
-**294** open issues (121 labeled for beginners) across **93** active Rust projects.
+**297** open issues (120 labeled for beginners) across **93** active Rust projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/rust.xml)
 
-> Updated automatically on **2026-10-05 23:52 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-06 12:53 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,23 +12,26 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Feature: add support for kiro-cli](https://github.com/rtk-ai/rtk/issues/845) 💬 22 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82.5k | 🟡 help wanted | 2026-10-06 | ✍️ CLA |
+| [GCS needs someone with a real bucket to run its test](https://github.com/deeplethe/utopia/issues/214) 💬 2 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | 8.1k | 🟡 help wanted | 2026-10-06 | ✍️ CLA · 🔏 DCO |
+| [[feat] 跨设备剪切板同步](https://github.com/EcoPasteHub/EcoPaste/issues/62) 💬 27 | [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) | 7.5k | 🟢 beginner | 2026-10-06 |  |
+| [[DOC] Update readme to list the cloud storage supported](https://github.com/lance-format/lance/issues/287) 💬 1 | [lance-format/lance](https://github.com/lance-format/lance) | 7.1k | 🟢 beginner | 2026-10-06 |  |
+| [format_strings breaks after "\\\\" resulting in invalid output](https://github.com/rust-lang/rustfmt/issues/5138) 💬 12 | [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) | 7k | 🟡 help wanted | 2026-10-06 | 📄 AI policy |
 | [Confirmation dialog for deleting workspaces](https://github.com/flxzt/rnote/issues/1866) | [flxzt/rnote](https://github.com/flxzt/rnote) | 11.7k | 🟢 beginner | 2026-10-05 | 🤖 disclose AI use |
 | [Simplify SecretInjection: drop basic_auth and query_params flags](https://github.com/superradcompany/microsandbox/issues/703) 💬 2 | [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 8.6k | 🟢 beginner | 2026-10-05 | 🔏 DCO |
 | [Expose ergonomic create_with_progress / create_detached_with_progress in the Rust SDK](https://github.com/superradcompany/microsandbox/issues/593) 💬 3 | [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) | 8.6k | 🟢 beginner | 2026-10-05 | 🔏 DCO |
-| [GCS needs someone with a real bucket to run its test](https://github.com/deeplethe/utopia/issues/214) 💬 1 | [deeplethe/utopia](https://github.com/deeplethe/utopia) | 8.1k | 🟡 help wanted | 2026-10-05 | ✍️ CLA · 🔏 DCO |
-| [support binary operator highlight range](https://github.com/facebook/pyrefly/issues/5104) | [facebook/pyrefly](https://github.com/facebook/pyrefly) | 7k | 🟢 beginner | 2026-10-05 | 📄 AI policy · ✍️ CLA |
 | [ROCm accelerator init broken on Linux since 0.78.0 (hipErrorNoDevice)](https://github.com/koharu-rs/koharu/issues/1052) 💬 4 | [koharu-rs/koharu](https://github.com/koharu-rs/koharu) | 5.7k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use |
-| [bug: managed-workspace E2E tests intermittently fail with SQLite lock contention](https://github.com/NVIDIA/OpenShell/issues/3679) 💬 3 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 15k | 🟡 help wanted | 2026-10-04 | 🤖 disclose AI use · 🔏 DCO |
-| [Make feedback anonymity mode discoverable](https://github.com/pacifio/atlas/issues/69) 💬 2 | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.1k | 🟢 beginner | 2026-10-04 |  |
-| [Auto-generate descriptive titles for agent tabs](https://github.com/pacifio/atlas/issues/70) 💬 2 | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.1k | 🟢 beginner | 2026-10-04 |  |
-| [Improve discoverability and hover feedback for workspace navigation controls](https://github.com/pacifio/atlas/issues/71) | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.1k | 🟢 beginner | 2026-10-04 |  |
-| [Add modifier-held tab-switcher hints for fast panel navigation](https://github.com/pacifio/atlas/issues/73) | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.1k | 🟢 beginner | 2026-10-04 |  |
-| [Keep the embedded browser strictly contained within its panel bounds](https://github.com/pacifio/atlas/issues/77) | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.1k | 🟡 help wanted | 2026-10-04 |  |
+| [bug: managed-workspace E2E tests intermittently fail with SQLite lock contention](https://github.com/NVIDIA/OpenShell/issues/3679) 💬 3 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 15.1k | 🟡 help wanted | 2026-10-04 | 🤖 disclose AI use · 🔏 DCO |
+| [Make feedback anonymity mode discoverable](https://github.com/pacifio/atlas/issues/69) 💬 2 | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.2k | 🟢 beginner | 2026-10-04 |  |
+| [Auto-generate descriptive titles for agent tabs](https://github.com/pacifio/atlas/issues/70) 💬 2 | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.2k | 🟢 beginner | 2026-10-04 |  |
+| [Improve discoverability and hover feedback for workspace navigation controls](https://github.com/pacifio/atlas/issues/71) | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.2k | 🟢 beginner | 2026-10-04 |  |
+| [Add modifier-held tab-switcher hints for fast panel navigation](https://github.com/pacifio/atlas/issues/73) | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.2k | 🟢 beginner | 2026-10-04 |  |
+| [Keep the embedded browser strictly contained within its panel bounds](https://github.com/pacifio/atlas/issues/77) | [pacifio/atlas](https://github.com/pacifio/atlas) | 9.2k | 🟡 help wanted | 2026-10-04 |  |
 | [Feature: add 'rtk artisan' wrapper for Laravel projects](https://github.com/rtk-ai/rtk/issues/2617) 💬 4 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82.5k | 🟡 help wanted | 2026-10-03 | ✍️ CLA |
 | [[BUG] rtk ls always reports 0B file size on Windows](https://github.com/rtk-ai/rtk/issues/1084) 💬 2 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82.5k | 🟢 beginner | 2026-10-03 | ✍️ CLA |
 | [RTK hooks lacks support for github copilot -and github copilot app](https://github.com/rtk-ai/rtk/issues/4424) 💬 1 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82.5k | 🟡 help wanted | 2026-10-03 | ✍️ CLA |
 | ['rtk grep' uses ~31× the memory and ~4.9× the wall-clock of 'grep' for the same search](https://github.com/rtk-ai/rtk/issues/3392) 💬 6 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 82.5k | 🟡 help wanted | 2026-10-02 | ✍️ CLA |
-| [feat(api)!: split UpdateConfig into typed policy and settings mutations](https://github.com/NVIDIA/OpenShell/issues/3049) 💬 4 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 15k | 🟡 help wanted | 2026-10-02 | 🤖 disclose AI use · 🔏 DCO |
+| [feat(api)!: split UpdateConfig into typed policy and settings mutations](https://github.com/NVIDIA/OpenShell/issues/3049) 💬 4 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 15.1k | 🟡 help wanted | 2026-10-02 | 🤖 disclose AI use · 🔏 DCO |
 | [Cannot filter by an outer column inside EXCEPT](https://github.com/diesel-rs/diesel/issues/5253) | [diesel-rs/diesel](https://github.com/diesel-rs/diesel) | 14.2k | 🟡 help wanted | 2026-10-02 | ⚠️ AI restricted |
 | [Fuzzing for 'diesel_infer_query'](https://github.com/diesel-rs/diesel/issues/5222) 💬 1 | [diesel-rs/diesel](https://github.com/diesel-rs/diesel) | 14.2k | 🟡 help wanted | 2026-10-02 | ⚠️ AI restricted |
 | [docs: surface repository examples and templates in the Recipes tab](https://github.com/ai-dynamo/dynamo/issues/13497) 💬 2 | [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | 8.2k | 🟢 beginner | 2026-10-02 | 📄 AI policy · 🔏 DCO |
@@ -42,6 +45,8 @@
 | [Convert 'Past 5m...' dropdowns to duration selector](https://github.com/influxdata/influxdb/issues/18119) 💬 5 | [influxdata/influxdb](https://github.com/influxdata/influxdb) | 31.8k | 🟢 beginner | 2026-09-30 | ✍️ CLA |
 | [Expose incremental reindexing in python and node](https://github.com/lancedb/lancedb/issues/685) 💬 2 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11.6k | 🟢 beginner | 2026-09-30 |  |
 | [Create standard environment setups for testing](https://github.com/youki-dev/youki/issues/2890) 💬 3 | [youki-dev/youki](https://github.com/youki-dev/youki) | 7.6k | 🟢 beginner | 2026-09-30 |  |
+| [Overloaded constructor is not converted to a callable correctly](https://github.com/facebook/pyrefly/issues/5053) 💬 1 | [facebook/pyrefly](https://github.com/facebook/pyrefly) | 7k | 🟡 help wanted | 2026-09-30 | 📄 AI policy · ✍️ CLA |
+| [Add to winget-pkgs](https://github.com/xingkongliang/skills-manager/issues/497) 💬 1 | [xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager) | 5.6k | 🟡 help wanted | 2026-09-30 |  |
 | [Feature: search in the scroll buffer](https://github.com/zellij-org/zellij/issues/533) 💬 17 | [zellij-org/zellij](https://github.com/zellij-org/zellij) | 35.7k | 🟡 help wanted | 2026-09-29 |  |
 | [Warning for immediately called anonymous functions](https://github.com/gleam-lang/gleam/issues/6259) 💬 2 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | 22k | 🟢 beginner | 2026-09-29 | ⚠️ AI restricted |
 | ['@deprecated' attribute can be attached to 'import' item](https://github.com/gleam-lang/gleam/issues/6331) 💬 2 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | 22k | 🟢 beginner | 2026-09-29 | ⚠️ AI restricted |
@@ -142,7 +147,6 @@
 | [Bubble detection failure](https://github.com/koharu-rs/koharu/issues/944) 💬 5 | [koharu-rs/koharu](https://github.com/koharu-rs/koharu) | 5.7k | 🟡 help wanted | 2026-09-08 | 🤖 disclose AI use |
 | [Skip redundant length checks when pattern matching on multiple bit-array segments](https://github.com/gleam-lang/gleam/issues/6027) 💬 2 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | 22k | 🟡 help wanted | 2026-09-07 | ⚠️ AI restricted |
 | [Add Hurl to Offical Redhat/Centos/Fedora repository](https://github.com/Orange-OpenSource/hurl/issues/367) 💬 1 | [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) | 19.2k | 🟡 help wanted | 2026-09-07 | 📄 AI policy |
-| [[feat] 跨设备剪切板同步](https://github.com/EcoPasteHub/EcoPaste/issues/62) 💬 26 | [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) | 7.5k | 🟢 beginner | 2026-09-07 |  |
 | [Export all flow definitions](https://github.com/GreptimeTeam/greptimedb/issues/7679) 💬 1 | [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) | 6.7k | 🟡 help wanted | 2026-09-07 | ✍️ CLA · 🔏 DCO |
 | [Incorrect compiler emited error placement on constants used in if clauses](https://github.com/gleam-lang/gleam/issues/6238) 💬 1 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | 22k | 🟡 help wanted | 2026-09-06 | ⚠️ AI restricted |
 | [REPL](https://github.com/gleam-lang/gleam/issues/25) 💬 17 | [gleam-lang/gleam](https://github.com/gleam-lang/gleam) | 22k | 🟡 help wanted | 2026-09-06 | ⚠️ AI restricted |
@@ -207,10 +211,6 @@
 | [Autogenerated manifest docs](https://github.com/prefix-dev/pixi/issues/3021) 💬 4 | [prefix-dev/pixi](https://github.com/prefix-dev/pixi) | 7.8k | 🟢 beginner | 2026-08-05 | 🤖 disclose AI use |
 | [Implement case-changing utility methods](https://github.com/oven-sh/bun/issues/15087) 💬 17 | [oven-sh/bun](https://github.com/oven-sh/bun) | 96.1k | 🟢 beginner | 2026-08-04 |  |
 | [MessagePack codec (or VRL functions)](https://github.com/vectordotdev/vector/issues/8675) 💬 4 | [vectordotdev/vector](https://github.com/vectordotdev/vector) | 22.7k | 🟢 beginner | 2026-08-03 | 📄 AI policy · ✍️ CLA |
-| [Multi-label updates](https://github.com/FalkorDB/FalkorDB/issues/284) 💬 8 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.5k | 🟡 help wanted | 2026-08-03 |  |
-| [Consider RDF/SPARQL support](https://github.com/FalkorDB/FalkorDB/issues/173) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.5k | 🟡 help wanted | 2026-08-03 |  |
-| ["WHERE NOT (node)-[]-&gt;()" much slower than "OUTDEGREE(node)=0"](https://github.com/FalkorDB/FalkorDB/issues/146) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.5k | 🟡 help wanted | 2026-08-03 |  |
-| [Can I write nodes or relationships to the graph in parallel](https://github.com/FalkorDB/FalkorDB/issues/130) 💬 3 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.5k | 🟡 help wanted | 2026-08-03 |  |
-| [Document execution plan operations](https://github.com/FalkorDB/FalkorDB/issues/82) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.5k | 🟡 help wanted | 2026-08-03 |  |
+| [Multi-label updates](https://github.com/FalkorDB/FalkorDB/issues/284) 💬 8 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.6k | 🟡 help wanted | 2026-08-03 |  |
 
-Showing the 200 most recently updated. See all 294 on the website.
+Showing the 200 most recently updated. See all 297 on the website.

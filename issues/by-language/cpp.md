@@ -1,10 +1,10 @@
 # C++ issues
 
-**343** open issues (117 labeled for beginners) across **102** active C++ projects.
+**343** open issues (116 labeled for beginners) across **102** active C++ projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/cpp.xml)
 
-> Updated automatically on **2026-10-05 23:52 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-06 12:53 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,14 +12,16 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [protobuf_generate() ignores --proto_path passed through PROTOC_OPTIONS](https://github.com/protocolbuffers/protobuf/issues/30162) 💬 4 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 72.1k | 🟡 help wanted | 2026-10-06 | ✍️ CLA |
+| [Preferences: Material page has two nested vertical scrollbars](https://github.com/FreeCAD/FreeCAD/issues/15696) 💬 7 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34k | 🟡 help wanted | 2026-10-06 | ⚠️ AI restricted |
+| [Would an AIX port of s3fs be welcome?](https://github.com/s3fs-fuse/s3fs-fuse/issues/2977) 💬 4 | [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) | 10k | 🟡 help wanted | 2026-10-06 |  |
+| [Rotate-only interaction mode](https://github.com/f3d-app/f3d/issues/3538) 💬 6 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.7k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
 | [Notice in UI on updating the Terminal app + Fix a Release Notes link to point to the actual release page and n](https://github.com/microsoft/terminal/issues/12886) 💬 18 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105.1k | 🟢 beginner | 2026-10-05 | 🤖 disclose AI use |
 | [[FEATURE]CPU Scheduling algorithms](https://github.com/TheAlgorithms/C-Plus-Plus/issues/1574) 💬 19 | [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | 34.7k | 🟡 help wanted | 2026-10-05 |  |
 | [Shape color is not displayed correctly after change in tree](https://github.com/FreeCAD/FreeCAD/issues/6069) 💬 16 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34k | 🟡 help wanted | 2026-10-05 | ⚠️ AI restricted |
 | [Ability to force the creation of a folder](https://github.com/transmission/transmission/issues/5614) 💬 8 | [transmission/transmission](https://github.com/transmission/transmission) | 15.3k | 🟡 help wanted | 2026-10-05 |  |
-| [Support webrtc for webtorrent clients](https://github.com/transmission/transmission/issues/47) 💬 67 | [transmission/transmission](https://github.com/transmission/transmission) | 15.3k | 🟢 beginner | 2026-10-05 |  |
 | [Wrong icon is displayed in tray](https://github.com/hluk/CopyQ/issues/2078) 💬 15 | [hluk/CopyQ](https://github.com/hluk/CopyQ) | 12.3k | 🟡 help wanted | 2026-10-05 |  |
 | [Execution time limit annotations](https://github.com/nasa/fprime/issues/3688) 💬 4 | [nasa/fprime](https://github.com/nasa/fprime) | 11.8k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use |
-| [Would an AIX port of s3fs be welcome?](https://github.com/s3fs-fuse/s3fs-fuse/issues/2977) 💬 3 | [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) | 10k | 🟡 help wanted | 2026-10-05 |  |
 | [Sidebar position set to top after exiting fullscreen YouTube video](https://github.com/zen-browser/desktop/issues/14389) 💬 4 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | 44.8k | 🟢 beginner | 2026-10-04 |  |
 | [STEP import: "Show progress bar when importing" option is clutter](https://github.com/FreeCAD/FreeCAD/issues/31162) 💬 1 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34k | 🟢 beginner | 2026-10-04 | ⚠️ AI restricted |
 | [UI: There is no visual reference to the Sketch that is being edited AKA FreeCAD doesn't handle styling of the ](https://github.com/FreeCAD/FreeCAD/issues/20599) 💬 16 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34k | 🟢 beginner | 2026-10-04 | ⚠️ AI restricted |
@@ -40,7 +42,6 @@
 | [Preference file damaged after content disk got full. After restart are no content files shown, but seeding wor](https://github.com/transmission/transmission/issues/9119) | [transmission/transmission](https://github.com/transmission/transmission) | 15.3k | 🟡 help wanted | 2026-10-02 |  |
 | [Add keyboard maximize shortcut](https://github.com/mumble-voip/mumble/issues/6871) 💬 16 | [mumble-voip/mumble](https://github.com/mumble-voip/mumble) | 8.3k | 🟢 beginner | 2026-10-02 |  |
 | [Tile mode for background image stretch](https://github.com/microsoft/terminal/issues/3193) 💬 4 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105.1k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use |
-| [protobuf_generate() ignores --proto_path passed through PROTOC_OPTIONS](https://github.com/protocolbuffers/protobuf/issues/30162) 💬 3 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 72.1k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
 | [TechDraw: Keyboard navigation of the Section Plane is chaotic](https://github.com/FreeCAD/FreeCAD/issues/30833) 💬 6 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34k | 🟢 beginner | 2026-10-01 | ⚠️ AI restricted |
 | [Link: Lighting is not working well when the choice is "Two Side"](https://github.com/FreeCAD/FreeCAD/issues/22170) 💬 17 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 34k | 🟡 help wanted | 2026-10-01 | ⚠️ AI restricted |
 | [Move Wiki into doc/ folder in repo](https://github.com/ninja-build/ninja/issues/2843) 💬 2 | [ninja-build/ninja](https://github.com/ninja-build/ninja) | 13.3k | 🟡 help wanted | 2026-10-01 |  |
@@ -144,13 +145,12 @@
 | [clang-tidy: enable performance-*](https://github.com/alibaba/zvec/issues/291) 💬 3 | [alibaba/zvec](https://github.com/alibaba/zvec) | 16.1k | 🟡 help wanted | 2026-09-08 |  |
 | [clang-tidy: enable clang-analyzer-*](https://github.com/alibaba/zvec/issues/292) | [alibaba/zvec](https://github.com/alibaba/zvec) | 16.1k | 🟡 help wanted | 2026-09-08 |  |
 | [Copter: move RC_Channels_Copter::save_trim to Copter class](https://github.com/ArduPilot/ardupilot/issues/32279) 💬 6 | [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 16k | 🟢 beginner | 2026-09-08 | 🤖 disclose AI use |
-| [GLTF Unsupported extensions](https://github.com/f3d-app/f3d/issues/608) 💬 9 | [f3d-app/f3d](https://github.com/f3d-app/f3d) | 4.7k | 🟡 help wanted | 2026-09-08 | 🤖 disclose AI use |
 | [Add ability to not automatically copy whitespace-only selections](https://github.com/microsoft/terminal/issues/11751) 💬 6 | [microsoft/terminal](https://github.com/microsoft/terminal) | 105.1k | 🟡 help wanted | 2026-09-07 | 🤖 disclose AI use |
 | [llama cpp server cant open to public](https://github.com/ggml-org/llama.cpp/issues/6268) 💬 8 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 130.4k | 🟢 beginner | 2026-09-06 | ⚠️ AI restricted |
 | [Fallback code paths with "SIMD Everywhere"](https://github.com/simdjson/simdjson/issues/1091) 💬 6 | [simdjson/simdjson](https://github.com/simdjson/simdjson) | 24.4k | 🟢 beginner | 2026-09-06 | 📄 AI policy |
 | [Add option for voice over language](https://github.com/diasurgical/DevilutionX/issues/5742) 💬 2 | [diasurgical/DevilutionX](https://github.com/diasurgical/DevilutionX) | 9.8k | 🟢 beginner | 2026-09-06 |  |
 | [[BUG] Python groupby rolling aggregations return index inconsistent with pandas](https://github.com/NVIDIA/cudf/issues/10249) 💬 7 | [NVIDIA/cudf](https://github.com/NVIDIA/cudf) | 9.8k | 🟢 beginner | 2026-09-06 |  |
-| ['clear(..)' supports a sync mode](https://github.com/bpftrace/bpftrace/issues/3549) 💬 8 | [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) | 10.3k | 🟢 beginner | 2026-09-04 | 🔏 DCO |
+| ['clear(..)' supports a sync mode](https://github.com/bpftrace/bpftrace/issues/3549) 💬 8 | [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) | 10.4k | 🟢 beginner | 2026-09-04 | 🔏 DCO |
 | [Bazel rules for C#](https://github.com/protocolbuffers/protobuf/issues/18352) 💬 4 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 72.1k | 🟡 help wanted | 2026-09-03 | ✍️ CLA |
 | [C++ \| Array size of enumeration not reliable in case of not consecutive numbers (actual size does not match)](https://github.com/protocolbuffers/protobuf/issues/15541) 💬 5 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 72.1k | 🟡 help wanted | 2026-09-03 | ✍️ CLA |
 | [Signed / unsigned comparison warning on MSVC](https://github.com/protocolbuffers/protobuf/issues/15028) 💬 2 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 72.1k | 🟡 help wanted | 2026-09-03 | ✍️ CLA |
