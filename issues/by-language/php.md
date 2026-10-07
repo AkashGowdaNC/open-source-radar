@@ -1,10 +1,10 @@
 # PHP issues
 
-**157** open issues (77 labeled for beginners) across **52** active PHP projects.
+**156** open issues (77 labeled for beginners) across **50** active PHP projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/php.xml)
 
-> Updated automatically on **2026-10-06 22:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-07 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,8 +12,10 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Add a default limit to the results of the 'occ taskprocessing:list' command](https://github.com/nextcloud/server/issues/65243) | [nextcloud/server](https://github.com/nextcloud/server) | 37k | 🟢 beginner | 2026-10-07 | 🤖 disclose AI use · 🔏 DCO |
+| [Missing translations for Hungarian (hu)](https://github.com/symfony/symfony/issues/66100) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-07 |  |
+| [Exhibitor header image is not fitted to the fixed header size](https://github.com/fossasia/WPFAevent/issues/338) 💬 8 | [fossasia/WPFAevent](https://github.com/fossasia/WPFAevent) | 827 | 🟢 beginner | 2026-10-07 |  |
 | [Missing translations for Burmese (my)](https://github.com/symfony/symfony/issues/51897) 💬 2 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-10-06 |  |
-| [Exhibitor header image is not fitted to the fixed header size](https://github.com/fossasia/WPFAevent/issues/338) 💬 4 | [fossasia/WPFAevent](https://github.com/fossasia/WPFAevent) | 827 | 🟢 beginner | 2026-10-06 |  |
 | [Bind Parameters - support '?'](https://github.com/phpmyadmin/phpmyadmin/issues/19259) 💬 2 | [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 7.9k | 🟡 help wanted | 2026-10-05 | 🔏 DCO |
 | [Add details about template from which an entry was created](https://github.com/elabftw/elabftw/issues/7520) 💬 2 | [elabftw/elabftw](https://github.com/elabftw/elabftw) | 1.4k | 🟢 beginner | 2026-10-05 |  |
 | [Improve visual marker of templates](https://github.com/elabftw/elabftw/issues/7519) | [elabftw/elabftw](https://github.com/elabftw/elabftw) | 1.4k | 🟢 beginner | 2026-10-05 |  |
@@ -21,12 +23,12 @@
 | [Feature request: Agents API support](https://github.com/openai-php/client/issues/809) 💬 1 | [openai-php/client](https://github.com/openai-php/client) | 5.8k | 🟡 help wanted | 2026-10-03 |  |
 | [User country map: allow to zoom in countries when no clickable area](https://github.com/matomo-org/matomo/issues/11319) 💬 5 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 21.9k | 🟡 help wanted | 2026-10-01 |  |
 | [Installation with DB connection over TLS not possible](https://github.com/matomo-org/matomo/issues/16404) 💬 4 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 21.9k | 🟡 help wanted | 2026-10-01 |  |
-| [In form, label have the for attribute](https://github.com/Leantime/leantime/issues/202) 💬 1 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.7k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
-| [Flexible Timesheet Entries](https://github.com/Leantime/leantime/issues/230) 💬 1 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.7k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
-| [[BUG] improve Accessibility](https://github.com/Leantime/leantime/issues/299) 💬 4 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.7k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
-| [[BUG] RTL needs further improvements](https://github.com/Leantime/leantime/issues/456) 💬 2 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.7k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
-| [Move all repo calls from controllers to services](https://github.com/Leantime/leantime/issues/1532) 💬 1 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.7k | 🟢 beginner | 2026-10-01 | ✍️ CLA |
-| [Write documentation](https://github.com/Leantime/leantime/issues/1950) 💬 7 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.7k | 🟢 beginner | 2026-10-01 | ✍️ CLA |
+| [In form, label have the for attribute](https://github.com/Leantime/leantime/issues/202) 💬 1 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.8k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
+| [Flexible Timesheet Entries](https://github.com/Leantime/leantime/issues/230) 💬 1 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.8k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
+| [[BUG] improve Accessibility](https://github.com/Leantime/leantime/issues/299) 💬 4 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.8k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
+| [[BUG] RTL needs further improvements](https://github.com/Leantime/leantime/issues/456) 💬 2 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.8k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
+| [Move all repo calls from controllers to services](https://github.com/Leantime/leantime/issues/1532) 💬 1 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.8k | 🟢 beginner | 2026-10-01 | ✍️ CLA |
+| [Write documentation](https://github.com/Leantime/leantime/issues/1950) 💬 7 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.8k | 🟢 beginner | 2026-10-01 | ✍️ CLA |
 | [Change Image Annotation View Width With Panel Width](https://github.com/Submitty/Submitty/issues/13171) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 801 | 🟢 beginner | 2026-10-01 |  |
 | [[Feature:InstructorUI] Improve error / success feedback on course creation](https://github.com/Submitty/Submitty/issues/13178) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 801 | 🟢 beginner | 2026-10-01 |  |
 | [Peer graders should never see grade inquiries](https://github.com/Submitty/Submitty/issues/13355) 💬 1 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 801 | 🟢 beginner | 2026-10-01 |  |
@@ -38,10 +40,10 @@
 | [[Feed problem] Titles are not parsed properly.](https://github.com/FreshRSS/FreshRSS/issues/8162) 💬 5 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.2k | 🟡 help wanted | 2026-09-25 |  |
 | [Direct link to an experiment step from the step list](https://github.com/elabftw/elabftw/issues/7483) 💬 1 | [elabftw/elabftw](https://github.com/elabftw/elabftw) | 1.4k | 🟢 beginner | 2026-09-25 |  |
 | [Feature Request: merge tickets by toggle buttons on ticket list](https://github.com/freescout-help-desk/freescout/issues/5662) 💬 1 | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4.6k | 🟡 help wanted | 2026-09-24 |  |
-| [Opcache Optimization triggering Segmentation Faults when using OpenTelemetry hooks](https://github.com/open-telemetry/opentelemetry-php/issues/1512) 💬 3 | [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) | 914 | 🟡 help wanted | 2026-09-23 |  |
-| [Inconsistent console exporter behavior/documentation](https://github.com/open-telemetry/opentelemetry-php/issues/1645) 💬 2 | [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) | 914 | 🟡 help wanted | 2026-09-23 |  |
-| [Allow dependency for google/protobuf v^5.34](https://github.com/open-telemetry/opentelemetry-php/issues/1902) 💬 1 | [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) | 914 | 🟡 help wanted | 2026-09-23 |  |
-| [[opentelemetry-php-contrib] auto PDO - add support for trace propagation through user variables](https://github.com/open-telemetry/opentelemetry-php/issues/2001) 💬 1 | [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) | 914 | 🟡 help wanted | 2026-09-23 |  |
+| [Opcache Optimization triggering Segmentation Faults when using OpenTelemetry hooks](https://github.com/open-telemetry/opentelemetry-php/issues/1512) 💬 3 | [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) | 915 | 🟡 help wanted | 2026-09-23 |  |
+| [Inconsistent console exporter behavior/documentation](https://github.com/open-telemetry/opentelemetry-php/issues/1645) 💬 2 | [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) | 915 | 🟡 help wanted | 2026-09-23 |  |
+| [Allow dependency for google/protobuf v^5.34](https://github.com/open-telemetry/opentelemetry-php/issues/1902) 💬 1 | [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) | 915 | 🟡 help wanted | 2026-09-23 |  |
+| [[opentelemetry-php-contrib] auto PDO - add support for trace propagation through user variables](https://github.com/open-telemetry/opentelemetry-php/issues/2001) 💬 1 | [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) | 915 | 🟡 help wanted | 2026-09-23 |  |
 | [unnecessary folder in mobile app feed list](https://github.com/FreshRSS/FreshRSS/issues/2742) 💬 8 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.2k | 🟢 beginner | 2026-09-22 |  |
 | [Feat request: Contact conversations don't include anything they were cced or recipients of](https://github.com/freescout-help-desk/freescout/issues/5656) | [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) | 4.6k | 🟡 help wanted | 2026-09-22 |  |
 | [[Bug]: Web Updater’s "start update" button unreachable without scroll bar](https://github.com/nextcloud/server/issues/40624) 💬 3 | [nextcloud/server](https://github.com/nextcloud/server) | 37k | 🟢 beginner | 2026-09-21 | 🤖 disclose AI use · 🔏 DCO |
@@ -66,7 +68,6 @@
 | [Missing translations for Lithuanian (lt)](https://github.com/symfony/symfony/issues/65558) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-09-19 |  |
 | [Missing translations for Latvian (lv)](https://github.com/symfony/symfony/issues/64503) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-09-19 |  |
 | [Missing translations for Italian (it)](https://github.com/symfony/symfony/issues/66170) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-09-19 |  |
-| [Missing translations for Hungarian (hu)](https://github.com/symfony/symfony/issues/66100) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-09-19 |  |
 | [Missing translations for Hebrew (he)](https://github.com/symfony/symfony/issues/64499) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-09-19 |  |
 | [Missing translations for German (de)](https://github.com/symfony/symfony/issues/66099) | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-09-19 |  |
 | [Missing translations for Galician (gl)](https://github.com/symfony/symfony/issues/64496) 💬 1 | [symfony/symfony](https://github.com/symfony/symfony) | 31.2k | 🟢 beginner | 2026-09-19 |  |
@@ -79,7 +80,7 @@
 | [Chamilo automatic deployment - Ansible](https://github.com/chamilo/chamilo-lms/issues/2502) 💬 7 | [chamilo/chamilo-lms](https://github.com/chamilo/chamilo-lms) | 1k | 🟡 help wanted | 2026-09-17 |  |
 | [editing forum thread to update category](https://github.com/Submitty/Submitty/issues/13366) 💬 2 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 801 | 🟢 beginner | 2026-09-17 |  |
 | [confusions with "my late days/extensions page"](https://github.com/Submitty/Submitty/issues/6068) 💬 1 | [Submitty/Submitty](https://github.com/Submitty/Submitty) | 801 | 🟢 beginner | 2026-09-17 |  |
-| [schedule:work run artisan relative to current working dir](https://github.com/laravel/framework/issues/56390) 💬 3 | [laravel/framework](https://github.com/laravel/framework) | 34.9k | 🟡 help wanted | 2026-09-16 |  |
+| [schedule:work run artisan relative to current working dir](https://github.com/laravel/framework/issues/56390) 💬 3 | [laravel/framework](https://github.com/laravel/framework) | 35k | 🟡 help wanted | 2026-09-16 |  |
 | [Document need some custom attributes,eg:metadata](https://github.com/LLPhant/LLPhant/issues/313) | [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) | 1.7k | 🟡 help wanted | 2026-09-16 |  |
 | [Ollama cloud and webSearch](https://github.com/LLPhant/LLPhant/issues/421) | [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) | 1.7k | 🟡 help wanted | 2026-09-16 |  |
 | [Meilisearch Vector Database Support](https://github.com/LLPhant/LLPhant/issues/425) | [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) | 1.7k | 🟡 help wanted | 2026-09-16 |  |
@@ -89,10 +90,10 @@
 | [[Bug] Simplepie destroys headers with a JSON value](https://github.com/FreshRSS/FreshRSS/issues/8636) 💬 1 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.2k | 🟡 help wanted | 2026-09-08 |  |
 | [[Feature]Subscribe FreshRSS's logs itself as rss](https://github.com/FreshRSS/FreshRSS/issues/6839) 💬 3 | [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) | 16.2k | 🟡 help wanted | 2026-09-08 |  |
 | [Set width and height for images to keep proper image ratio and reduce CLS](https://github.com/PrestaShop/PrestaShop/issues/25854) 💬 11 | [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) | 9.2k | 🟡 help wanted | 2026-09-08 |  |
-| [JsonApiResource loads relationships one model at a time, so ?include= on a collection costs a query per record](https://github.com/laravel/framework/issues/61252) 💬 3 | [laravel/framework](https://github.com/laravel/framework) | 34.9k | 🟡 help wanted | 2026-09-07 |  |
+| [JsonApiResource loads relationships one model at a time, so ?include= on a collection costs a query per record](https://github.com/laravel/framework/issues/61252) 💬 3 | [laravel/framework](https://github.com/laravel/framework) | 35k | 🟡 help wanted | 2026-09-07 |  |
 | [Private comment not available on REST api (webservice)](https://github.com/PrestaShop/PrestaShop/issues/30731) 💬 6 | [PrestaShop/PrestaShop](https://github.com/PrestaShop/PrestaShop) | 9.2k | 🟡 help wanted | 2026-09-07 |  |
 | [Active and Canceled both return true](https://github.com/laravel/cashier-stripe/issues/1791) 💬 5 | [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe) | 2.5k | 🟡 help wanted | 2026-09-06 |  |
-| [Stack push not always working](https://github.com/laravel/framework/issues/60221) 💬 7 | [laravel/framework](https://github.com/laravel/framework) | 34.9k | 🟡 help wanted | 2026-09-01 |  |
+| [Stack push not always working](https://github.com/laravel/framework/issues/60221) 💬 7 | [laravel/framework](https://github.com/laravel/framework) | 35k | 🟡 help wanted | 2026-09-01 |  |
 | [Subscription::currentPeriodStart / currentPeriodEnd causes lazy load error when preventLazyLoad is active](https://github.com/laravel/cashier-stripe/issues/1844) 💬 2 | [laravel/cashier-stripe](https://github.com/laravel/cashier-stripe) | 2.5k | 🟡 help wanted | 2026-09-01 |  |
 | [Add option to exclude certain HTTP statuses from tracing in SDK](https://github.com/getsentry/sentry-php/issues/1913) 💬 1 | [getsentry/sentry-php](https://github.com/getsentry/sentry-php) | 1.9k | 🟢 beginner | 2026-09-01 |  |
 | [Add Documentation for Custom Transport](https://github.com/getsentry/sentry-php/issues/1924) 💬 1 | [getsentry/sentry-php](https://github.com/getsentry/sentry-php) | 1.9k | 🟢 beginner | 2026-09-01 |  |
@@ -130,8 +131,7 @@
 | [Uuid v7 generated in wrong order](https://github.com/ramsey/uuid/issues/536) 💬 29 | [ramsey/uuid](https://github.com/ramsey/uuid) | 12.6k | 🟡 help wanted | 2026-07-06 |  |
 | [CodeMirror hint box should be wider](https://github.com/phpmyadmin/phpmyadmin/issues/17409) 💬 9 | [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 7.9k | 🟢 beginner | 2026-07-02 | 🔏 DCO |
 | [Support for Auth-Proxys like authelia (SSO)](https://github.com/Kovah/LinkAce/issues/331) 💬 2 | [Kovah/LinkAce](https://github.com/Kovah/LinkAce) | 3.3k | 🟡 help wanted | 2026-07-02 |  |
-| [[Checkout Address Step] Address form submitted after enter key pressed in Api Login](https://github.com/Sylius/Sylius/issues/11900) 💬 2 | [Sylius/Sylius](https://github.com/Sylius/Sylius) | 8.6k | 🟢 beginner | 2026-07-01 | 📄 AI policy |
-| [Support Otlp Profiling](https://github.com/open-telemetry/opentelemetry-php/issues/1984) | [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) | 914 | 🟡 help wanted | 2026-07-01 |  |
+| [Support Otlp Profiling](https://github.com/open-telemetry/opentelemetry-php/issues/1984) | [open-telemetry/opentelemetry-php](https://github.com/open-telemetry/opentelemetry-php) | 915 | 🟡 help wanted | 2026-07-01 |  |
 | [Use an external LED as a status led](https://github.com/RaspAP/raspap-webgui/issues/2108) 💬 3 | [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) | 5.2k | 🟢 beginner | 2026-06-23 |  |
 | [Supervisors create connections with drivers they don't belong to](https://github.com/laravel/horizon/issues/1704) 💬 4 | [laravel/horizon](https://github.com/laravel/horizon) | 4.2k | 🟡 help wanted | 2026-06-23 |  |
 | [Segments \| Improve geographical segmentations: Continent & Regions segment are not clear](https://github.com/matomo-org/matomo/issues/11261) 💬 4 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 21.9k | 🟡 help wanted | 2026-06-22 |  |
@@ -160,7 +160,7 @@
 | [Cypht "offline" error message: can we add more details?](https://github.com/cypht-org/cypht/issues/761) 💬 2 | [cypht-org/cypht](https://github.com/cypht-org/cypht) | 1.8k | 🟡 help wanted | 2026-05-14 |  |
 | [[HLAPI] Context-aware data fetching](https://github.com/glpi-project/glpi/issues/24218) | [glpi-project/glpi](https://github.com/glpi-project/glpi) | 6.4k | 🟡 help wanted | 2026-05-13 | 🤖 disclose AI use |
 | [Add moderation contact information or button? (report content feature)](https://github.com/PrivateBin/PrivateBin/issues/674) 💬 8 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | 8.7k | 🟢 beginner | 2026-05-03 | 🤖 disclose AI use |
-| [Inconsistent orWhere behavior after upgrade from Laravel 10.x to 13.x](https://github.com/laravel/framework/issues/59516) 💬 4 | [laravel/framework](https://github.com/laravel/framework) | 34.9k | 🟡 help wanted | 2026-05-01 |  |
+| [Inconsistent orWhere behavior after upgrade from Laravel 10.x to 13.x](https://github.com/laravel/framework/issues/59516) 💬 4 | [laravel/framework](https://github.com/laravel/framework) | 35k | 🟡 help wanted | 2026-05-01 |  |
 | [Ability to set default_phone_region to none / E.164 only](https://github.com/nextcloud/server/issues/49460) 💬 6 | [nextcloud/server](https://github.com/nextcloud/server) | 37k | 🟢 beginner | 2026-04-29 | 🤖 disclose AI use · 🔏 DCO |
 | [[FR] Auto-subscribe to folders](https://github.com/cypht-org/cypht/issues/460) 💬 1 | [cypht-org/cypht](https://github.com/cypht-org/cypht) | 1.8k | 🟡 help wanted | 2026-04-16 |  |
 | [3.0.0-RC: @package partially not inherited for "classless functions/constants"](https://github.com/phpDocumentor/phpDocumentor/issues/2318) 💬 4 | [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) | 4.3k | 🟡 help wanted | 2026-04-15 |  |
@@ -168,4 +168,3 @@
 | [Increase icons set](https://github.com/chamilo/chamilo-lms/issues/5776) | [chamilo/chamilo-lms](https://github.com/chamilo/chamilo-lms) | 1k | 🟡 help wanted | 2026-04-13 |  |
 | [Add support property "border-radius" for IMG tag](https://github.com/mpdf/mpdf/issues/428) 💬 8 | [mpdf/mpdf](https://github.com/mpdf/mpdf) | 4.7k | 🟡 help wanted | 2026-04-12 |  |
 | [Broken links at search at main page.](https://github.com/phpDocumentor/phpDocumentor/issues/3500) 💬 5 | [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) | 4.3k | 🟡 help wanted | 2026-04-12 |  |
-| [Embedded links in PDF output do not work when page numbering is enabled](https://github.com/invoiceninja/invoiceninja/issues/7543) 💬 4 | [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) | 10.2k | 🟡 help wanted | 2026-04-10 | ✍️ CLA |

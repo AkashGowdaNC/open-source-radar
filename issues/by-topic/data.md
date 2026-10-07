@@ -1,8 +1,8 @@
 # Data and databases issues
 
-**310** open issues (150 labeled for beginners) across **90** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
+**309** open issues (148 labeled for beginners) across **89** projects tagged with topics like `database`, `sql`, `postgresql`, `mysql`, `sqlite`, `nosql`.
 
-> Updated automatically on **2026-10-06 22:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-07 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,44 +10,44 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Printing a renamed table in a nonpublic schema makes queries target a nonexistent relation](https://github.com/diesel-rs/diesel/issues/5277) 💬 2 | [diesel-rs/diesel](https://github.com/diesel-rs/diesel) | 14.2k | 🟡 help wanted | 2026-10-07 | ⚠️ AI restricted |
+| [Cannot filter by an outer column inside EXCEPT](https://github.com/diesel-rs/diesel/issues/5253) 💬 2 | [diesel-rs/diesel](https://github.com/diesel-rs/diesel) | 14.2k | 🟡 help wanted | 2026-10-07 | ⚠️ AI restricted |
 | [Firebird SQL async "Event"](https://github.com/dbeaver/dbeaver/issues/5153) 💬 3 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 52k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
-| [chore(core): handle or remove unused 'TraceLevel' in 'DefaultTracer'](https://github.com/kestra-io/kestra/issues/20302) 💬 10 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.3k | 🟢 beginner | 2026-10-06 |  |
 | [[YSQL] Side-by-side diff doesn't pick best expectfile](https://github.com/yugabyte/yugabyte-db/issues/28716) 💬 2 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.6k | 🟡 help wanted | 2026-10-06 |  |
 | [[Question] &lt;title&gt;Docker-compose install version 1.9.0, the browser open often appear, you with this lin](https://github.com/apache/hertzbeat/issues/4416) | [apache/hertzbeat](https://github.com/apache/hertzbeat) | 7.4k | 🟢 beginner | 2026-10-06 |  |
 | [Microsoft Azure Connection: Service principal secret does not get masked when providing connection via URI env](https://github.com/apache/airflow/issues/38144) 💬 10 | [apache/airflow](https://github.com/apache/airflow) | 47.1k | 🟢 beginner | 2026-10-05 | 🤖 disclose AI use · ✍️ CLA |
-| [changefeedccl: make a changefeed setting for sink IO workers](https://github.com/cockroachdb/cockroach/issues/154546) 💬 6 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [changefeedccl: add a log when a session disconnect causes a sinkless feed to stop](https://github.com/cockroachdb/cockroach/issues/154379) 💬 3 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [kv,rpc: adopt static labels](https://github.com/cockroachdb/cockroach/issues/150493) 💬 3 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [changefeedccl: incorrect metric types](https://github.com/cockroachdb/cockroach/issues/134547) 💬 4 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [changefeedccl: support azure-blob prefix for azure blob storage sink](https://github.com/cockroachdb/cockroach/issues/124074) 💬 4 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [changefeedccl: fix flush_hist_nanos callback in cloud storage and webhook sinks](https://github.com/cockroachdb/cockroach/issues/121248) 💬 2 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [changefeedccl: emittedmessages metric resolved messages semantics aren't consistent](https://github.com/cockroachdb/cockroach/issues/111043) 💬 2 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [cdc: allow changefeeds on materialized views](https://github.com/cockroachdb/cockroach/issues/105730) 💬 3 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [logictest: randomize hash-sharding primary and secondary indexes](https://github.com/cockroachdb/cockroach/issues/87210) 💬 1 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [scplan: presence of a NotImplemented op in a plan should throw an error](https://github.com/cockroachdb/cockroach/issues/83672) | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [changefeedccl: decrease PTS increment if gcttl is lower](https://github.com/cockroachdb/cockroach/issues/83195) 💬 2 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [sql/catalog/lease: NameCache is not timestamp aware](https://github.com/cockroachdb/cockroach/issues/80107) 💬 2 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [sql: add tooling to delete data for a lost table index, specifically](https://github.com/cockroachdb/cockroach/issues/77153) 💬 1 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [geo/geomfn: implement ST_LocateBetweenElevations({geometry,float8,float8})](https://github.com/cockroachdb/cockroach/issues/60889) 💬 1 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [geo/geomfn: implement ST_LocateBetween({float8,float8,geometry,float8})](https://github.com/cockroachdb/cockroach/issues/60888) 💬 3 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [geo/geomfn: implement ST_LocateAlong({float8,float8,geometry})](https://github.com/cockroachdb/cockroach/issues/60887) 💬 1 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [changefeedccl: make a changefeed setting for sink IO workers](https://github.com/cockroachdb/cockroach/issues/154546) 💬 6 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [changefeedccl: add a log when a session disconnect causes a sinkless feed to stop](https://github.com/cockroachdb/cockroach/issues/154379) 💬 3 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [kv,rpc: adopt static labels](https://github.com/cockroachdb/cockroach/issues/150493) 💬 3 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [changefeedccl: incorrect metric types](https://github.com/cockroachdb/cockroach/issues/134547) 💬 4 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [changefeedccl: support azure-blob prefix for azure blob storage sink](https://github.com/cockroachdb/cockroach/issues/124074) 💬 4 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [changefeedccl: fix flush_hist_nanos callback in cloud storage and webhook sinks](https://github.com/cockroachdb/cockroach/issues/121248) 💬 2 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [changefeedccl: emittedmessages metric resolved messages semantics aren't consistent](https://github.com/cockroachdb/cockroach/issues/111043) 💬 2 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [cdc: allow changefeeds on materialized views](https://github.com/cockroachdb/cockroach/issues/105730) 💬 3 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [logictest: randomize hash-sharding primary and secondary indexes](https://github.com/cockroachdb/cockroach/issues/87210) 💬 1 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [scplan: presence of a NotImplemented op in a plan should throw an error](https://github.com/cockroachdb/cockroach/issues/83672) | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [changefeedccl: decrease PTS increment if gcttl is lower](https://github.com/cockroachdb/cockroach/issues/83195) 💬 2 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [sql/catalog/lease: NameCache is not timestamp aware](https://github.com/cockroachdb/cockroach/issues/80107) 💬 2 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [sql: add tooling to delete data for a lost table index, specifically](https://github.com/cockroachdb/cockroach/issues/77153) 💬 1 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [geo/geomfn: implement ST_LocateBetweenElevations({geometry,float8,float8})](https://github.com/cockroachdb/cockroach/issues/60889) 💬 1 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [geo/geomfn: implement ST_LocateBetween({float8,float8,geometry,float8})](https://github.com/cockroachdb/cockroach/issues/60888) 💬 3 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [geo/geomfn: implement ST_LocateAlong({float8,float8,geometry})](https://github.com/cockroachdb/cockroach/issues/60887) 💬 1 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
 | [Bind Parameters - support '?'](https://github.com/phpmyadmin/phpmyadmin/issues/19259) 💬 2 | [phpmyadmin/phpmyadmin](https://github.com/phpmyadmin/phpmyadmin) | 7.9k | 🟡 help wanted | 2026-10-05 | 🔏 DCO |
 | [Add details about template from which an entry was created](https://github.com/elabftw/elabftw/issues/7520) 💬 2 | [elabftw/elabftw](https://github.com/elabftw/elabftw) | 1.4k | 🟢 beginner | 2026-10-05 |  |
 | [Improve visual marker of templates](https://github.com/elabftw/elabftw/issues/7519) | [elabftw/elabftw](https://github.com/elabftw/elabftw) | 1.4k | 🟢 beginner | 2026-10-05 |  |
 | [Add highlighting for "required" Dropdown / Radio Button extra-fields](https://github.com/elabftw/elabftw/issues/7528) | [elabftw/elabftw](https://github.com/elabftw/elabftw) | 1.4k | 🟢 beginner | 2026-10-05 |  |
 | [[Accessibility issue] Template variables: No designator for mandatory fields in forms (MAS issue: 258655)](https://github.com/grafana/grafana/issues/73397) 💬 4 | [grafana/grafana](https://github.com/grafana/grafana) | 77.1k | 🟡 help wanted | 2026-10-03 | ✍️ CLA |
-| [Cannot filter by an outer column inside EXCEPT](https://github.com/diesel-rs/diesel/issues/5253) | [diesel-rs/diesel](https://github.com/diesel-rs/diesel) | 14.2k | 🟡 help wanted | 2026-10-02 | ⚠️ AI restricted |
 | [Fuzzing for 'diesel_infer_query'](https://github.com/diesel-rs/diesel/issues/5222) 💬 1 | [diesel-rs/diesel](https://github.com/diesel-rs/diesel) | 14.2k | 🟡 help wanted | 2026-10-02 | ⚠️ AI restricted |
 | [Long unknown keys are truncated to known keys in some request decoders](https://github.com/tarantool/tarantool/issues/13284) 💬 1 | [tarantool/tarantool](https://github.com/tarantool/tarantool) | 3.7k | 🟢 beginner | 2026-10-02 |  |
 | [[documentation] show how to get hamilton running on snowpark](https://github.com/apache/hamilton/issues/56) 💬 4 | [apache/hamilton](https://github.com/apache/hamilton) | 2.6k | 🟢 beginner | 2026-10-02 | ✍️ CLA |
 | [User country map: allow to zoom in countries when no clickable area](https://github.com/matomo-org/matomo/issues/11319) 💬 5 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 21.9k | 🟡 help wanted | 2026-10-01 |  |
 | [Installation with DB connection over TLS not possible](https://github.com/matomo-org/matomo/issues/16404) 💬 4 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 21.9k | 🟡 help wanted | 2026-10-01 |  |
-| [In form, label have the for attribute](https://github.com/Leantime/leantime/issues/202) 💬 1 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.7k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
-| [Flexible Timesheet Entries](https://github.com/Leantime/leantime/issues/230) 💬 1 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.7k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
-| [[BUG] improve Accessibility](https://github.com/Leantime/leantime/issues/299) 💬 4 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.7k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
-| [[BUG] RTL needs further improvements](https://github.com/Leantime/leantime/issues/456) 💬 2 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.7k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
-| [Move all repo calls from controllers to services](https://github.com/Leantime/leantime/issues/1532) 💬 1 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.7k | 🟢 beginner | 2026-10-01 | ✍️ CLA |
-| [Write documentation](https://github.com/Leantime/leantime/issues/1950) 💬 7 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.7k | 🟢 beginner | 2026-10-01 | ✍️ CLA |
+| [In form, label have the for attribute](https://github.com/Leantime/leantime/issues/202) 💬 1 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.8k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
+| [Flexible Timesheet Entries](https://github.com/Leantime/leantime/issues/230) 💬 1 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.8k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
+| [[BUG] improve Accessibility](https://github.com/Leantime/leantime/issues/299) 💬 4 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.8k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
+| [[BUG] RTL needs further improvements](https://github.com/Leantime/leantime/issues/456) 💬 2 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.8k | 🟡 help wanted | 2026-10-01 | ✍️ CLA |
+| [Move all repo calls from controllers to services](https://github.com/Leantime/leantime/issues/1532) 💬 1 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.8k | 🟢 beginner | 2026-10-01 | ✍️ CLA |
+| [Write documentation](https://github.com/Leantime/leantime/issues/1950) 💬 7 | [Leantime/leantime](https://github.com/Leantime/leantime) | 11.8k | 🟢 beginner | 2026-10-01 | ✍️ CLA |
 | [Convert 'Past 5m...' dropdowns to duration selector](https://github.com/influxdata/influxdb/issues/18119) 💬 5 | [influxdata/influxdb](https://github.com/influxdata/influxdb) | 31.8k | 🟢 beginner | 2026-09-30 | ✍️ CLA |
 | [Expose incremental reindexing in python and node](https://github.com/lancedb/lancedb/issues/685) 💬 2 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11.6k | 🟢 beginner | 2026-09-30 |  |
 | [end-to-end tests for ioredis and dragonfly](https://github.com/dragonflydb/dragonfly/issues/383) 💬 7 | [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) | 31.8k | 🟢 beginner | 2026-09-29 | ✍️ CLA · 🔏 DCO |
@@ -87,6 +87,7 @@
 | [\\echo and \\warn -n problem on interactive](https://github.com/xo/usql/issues/215) 💬 1 | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
 | [feature: support vi key bindings (ala readline/bash/psql vi modes)](https://github.com/xo/usql/issues/236) 💬 5 | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
 | ['\\ss' without arguments lists columns for all tables](https://github.com/xo/usql/issues/363) 💬 2 | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
+| [Implement privilege related \\d commands](https://github.com/xo/usql/issues/172) | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
 | [积木报表在线填报表单中数据字典不能获取系统中已有数据字典、新增又提示编码已经存在](https://github.com/jeecgboot/jimureport/issues/4797) | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.5k | 🟡 help wanted | 2026-09-23 |  |
 | [积木报表横向分组一级标题无法设置分组合计](https://github.com/jeecgboot/jimureport/issues/4796) 💬 1 | [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) | 8.5k | 🟡 help wanted | 2026-09-23 |  |
 | [Unit test stub autogenerator](https://github.com/apache/hamilton/issues/74) 💬 6 | [apache/hamilton](https://github.com/apache/hamilton) | 2.6k | 🟢 beginner | 2026-09-23 | ✍️ CLA |
@@ -146,11 +147,11 @@
 | [Support for PowerPC 'ppc64le' architecture](https://github.com/qdrant/qdrant/issues/3940) 💬 2 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 35k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use |
 | [Flacky 'test_parallel_graph_build' on Windows](https://github.com/qdrant/qdrant/issues/1452) 💬 2 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 35k | 🟡 help wanted | 2026-09-04 | 🤖 disclose AI use |
 | [Refresh CHYT benchmark results](https://github.com/ClickHouse/ClickBench/issues/1459) | [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench) | 1.1k | 🟡 help wanted | 2026-09-03 |  |
-| [Style Issues caused by RTL](https://github.com/directus/directus/issues/25599) 💬 6 | [directus/directus](https://github.com/directus/directus) | 38.1k | 🟡 help wanted | 2026-09-02 |  |
-| [Item permissions rules filter - '_in' operator with dynamic variable of array type](https://github.com/directus/directus/issues/24395) 💬 2 | [directus/directus](https://github.com/directus/directus) | 38.1k | 🟡 help wanted | 2026-09-02 |  |
-| [Packages using memory even if they are not used](https://github.com/directus/directus/issues/24334) 💬 4 | [directus/directus](https://github.com/directus/directus) | 38.1k | 🟡 help wanted | 2026-09-02 |  |
-| ['_some' operator limited to top-level relations prevents complex nested filtering](https://github.com/directus/directus/issues/25403) 💬 7 | [directus/directus](https://github.com/directus/directus) | 38.1k | 🟡 help wanted | 2026-09-02 |  |
-| [M2A Relation Display Not Showing Properly](https://github.com/directus/directus/issues/25348) 💬 4 | [directus/directus](https://github.com/directus/directus) | 38.1k | 🟡 help wanted | 2026-09-02 |  |
+| [Style Issues caused by RTL](https://github.com/directus/directus/issues/25599) 💬 6 | [directus/directus](https://github.com/directus/directus) | 38.2k | 🟡 help wanted | 2026-09-02 |  |
+| [Item permissions rules filter - '_in' operator with dynamic variable of array type](https://github.com/directus/directus/issues/24395) 💬 2 | [directus/directus](https://github.com/directus/directus) | 38.2k | 🟡 help wanted | 2026-09-02 |  |
+| [Packages using memory even if they are not used](https://github.com/directus/directus/issues/24334) 💬 4 | [directus/directus](https://github.com/directus/directus) | 38.2k | 🟡 help wanted | 2026-09-02 |  |
+| ['_some' operator limited to top-level relations prevents complex nested filtering](https://github.com/directus/directus/issues/25403) 💬 7 | [directus/directus](https://github.com/directus/directus) | 38.2k | 🟡 help wanted | 2026-09-02 |  |
+| [M2A Relation Display Not Showing Properly](https://github.com/directus/directus/issues/25348) 💬 4 | [directus/directus](https://github.com/directus/directus) | 38.2k | 🟡 help wanted | 2026-09-02 |  |
 | [Alternative query result format other than []dict](https://github.com/googleapis/mcp-toolbox/issues/1537) 💬 6 | [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) | 16.6k | 🟡 help wanted | 2026-09-02 | ✍️ CLA |
 | [Improve logging for circuit breakers](https://github.com/elastic/elasticsearch/issues/62452) 💬 11 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 78.2k | 🟡 help wanted | 2026-09-01 | ✍️ CLA |
 | [Firebase Support](https://github.com/typeorm/typeorm/issues/2769) 💬 9 | [typeorm/typeorm](https://github.com/typeorm/typeorm) | 36.7k | 🟢 beginner | 2026-09-01 |  |
@@ -202,13 +203,12 @@
 | [REST test against clusters with dedicated master nodes](https://github.com/elastic/elasticsearch/issues/34563) 💬 15 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 78.2k | 🟡 help wanted | 2026-08-05 | ✍️ CLA |
 | [在Dbeaver中，不能下载、使用最新驱动](https://github.com/taosdata/TDengine/issues/35396) 💬 2 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-08-04 |  |
 | [MessagePack codec (or VRL functions)](https://github.com/vectordotdev/vector/issues/8675) 💬 4 | [vectordotdev/vector](https://github.com/vectordotdev/vector) | 22.7k | 🟢 beginner | 2026-08-03 | 📄 AI policy · ✍️ CLA |
-| [Multi-label updates](https://github.com/FalkorDB/FalkorDB/issues/284) 💬 8 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.7k | 🟡 help wanted | 2026-08-03 |  |
-| [Consider RDF/SPARQL support](https://github.com/FalkorDB/FalkorDB/issues/173) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.7k | 🟡 help wanted | 2026-08-03 |  |
-| ["WHERE NOT (node)-[]-&gt;()" much slower than "OUTDEGREE(node)=0"](https://github.com/FalkorDB/FalkorDB/issues/146) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.7k | 🟡 help wanted | 2026-08-03 |  |
-| [Can I write nodes or relationships to the graph in parallel](https://github.com/FalkorDB/FalkorDB/issues/130) 💬 3 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.7k | 🟡 help wanted | 2026-08-03 |  |
-| [Document execution plan operations](https://github.com/FalkorDB/FalkorDB/issues/82) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.7k | 🟡 help wanted | 2026-08-03 |  |
-| [Redis Graph doesn't allow single quote to be escaped when creating a vertex/edge](https://github.com/FalkorDB/FalkorDB/issues/71) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.7k | 🟡 help wanted | 2026-08-03 |  |
+| [Multi-label updates](https://github.com/FalkorDB/FalkorDB/issues/284) 💬 8 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.8k | 🟡 help wanted | 2026-08-03 |  |
+| [Consider RDF/SPARQL support](https://github.com/FalkorDB/FalkorDB/issues/173) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.8k | 🟡 help wanted | 2026-08-03 |  |
+| ["WHERE NOT (node)-[]-&gt;()" much slower than "OUTDEGREE(node)=0"](https://github.com/FalkorDB/FalkorDB/issues/146) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.8k | 🟡 help wanted | 2026-08-03 |  |
+| [Can I write nodes or relationships to the graph in parallel](https://github.com/FalkorDB/FalkorDB/issues/130) 💬 3 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.8k | 🟡 help wanted | 2026-08-03 |  |
+| [Document execution plan operations](https://github.com/FalkorDB/FalkorDB/issues/82) 💬 1 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.8k | 🟡 help wanted | 2026-08-03 |  |
+| [Redis Graph doesn't allow single quote to be escaped when creating a vertex/edge](https://github.com/FalkorDB/FalkorDB/issues/71) 💬 2 | [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) | 7.8k | 🟡 help wanted | 2026-08-03 |  |
 | [add support for signed data types for TTL](https://github.com/ydb-platform/ydb/issues/12751) | [ydb-platform/ydb](https://github.com/ydb-platform/ydb) | 4.8k | 🟢 beginner | 2026-08-03 |  |
-| [Group MCP tools by read and write/ delete](https://github.com/PostHog/posthog/issues/76236) 💬 2 | [PostHog/posthog](https://github.com/PostHog/posthog) | 40.2k | 🟢 beginner | 2026-08-02 | ⚠️ AI restricted |
 
-Showing the 200 most recently updated. See all 310 on the website.
+Showing the 200 most recently updated. See all 309 on the website.

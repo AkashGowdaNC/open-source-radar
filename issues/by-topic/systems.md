@@ -1,8 +1,8 @@
 # Systems and embedded issues
 
-**189** open issues (89 labeled for beginners) across **47** projects tagged with topics like `operating-system`, `embedded`, `kernel`, `rust-lang`, `systems-programming`, `wasm`.
+**189** open issues (88 labeled for beginners) across **49** projects tagged with topics like `operating-system`, `embedded`, `kernel`, `rust-lang`, `systems-programming`, `wasm`.
 
-> Updated automatically on **2026-10-06 22:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-07 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,11 +10,12 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Unpriviledged installation on Windows with MSI installer](https://github.com/prefix-dev/pixi/issues/3338) 💬 7 | [prefix-dev/pixi](https://github.com/prefix-dev/pixi) | 7.8k | 🟢 beginner | 2026-10-07 | 🤖 disclose AI use |
 | [Use boxed slices instead of Vec where appropriate](https://github.com/bytecodealliance/wasmtime/issues/5879) 💬 5 | [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) | 18.7k | 🟢 beginner | 2026-10-06 | ⚠️ AI restricted |
-| [AzureProvisioner output saves connection strings to user secrets even if it did nothing](https://github.com/microsoft/aspire/issues/3298) 💬 6 | [microsoft/aspire](https://github.com/microsoft/aspire) | 6.3k | 🟢 beginner | 2026-10-06 |  |
+| [DefaultDateFormat option](https://github.com/MudBlazor/MudBlazor/issues/10319) 💬 4 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟡 help wanted | 2026-10-06 |  |
+| [On Windows no packed artifact runs from v1.18.2: layer extraction, os error 123](https://github.com/smol-machines/smolvm/issues/1575) | [smol-machines/smolvm](https://github.com/smol-machines/smolvm) | 6.6k | 🟡 help wanted | 2026-10-06 |  |
 | [Execution time limit annotations](https://github.com/nasa/fprime/issues/3688) 💬 4 | [nasa/fprime](https://github.com/nasa/fprime) | 11.8k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use |
 | [MudDataGrid Cell edit mode - Select and Autocomplete not calling CommittedItemChanges](https://github.com/MudBlazor/MudBlazor/issues/6910) 💬 7 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟡 help wanted | 2026-10-05 |  |
-| [Given_TextBlock.When_Inlines_Transitively_Change fails when Windows is in dark mode (expects OS-theme default ](https://github.com/unoplatform/uno/issues/25013) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-10-05 |  |
 | [With nothing focused, key events are raised above Window.Content, so KeyDown handlers on Window.Content stop f](https://github.com/unoplatform/uno/issues/25004) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-10-05 |  |
 | [MicaBackdrop.Kind is a generated NotImplemented stub although the Skia hosts implement it](https://github.com/unoplatform/uno/issues/24993) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-10-05 |  |
 | [Automation peers of WinUI controls-library controls return a short ClassName instead of the namespace-qualifie](https://github.com/unoplatform/uno/issues/24992) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-10-05 |  |
@@ -40,7 +41,6 @@
 | [Stale ", Uno" assembly name in ApiInformation lookups disables ArrayPool and FrameworkTemplatePool memory mana](https://github.com/unoplatform/uno/issues/24871) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-10-01 |  |
 | [Uno.Sdk 7.0 compiles a leftover Platforms/MacCatalyst folder into every head except Desktop](https://github.com/unoplatform/uno/issues/24870) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-10-01 |  |
 | [Audio no sound （Add asio support)](https://github.com/rustdesk/rustdesk/issues/3762) 💬 57 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 125.3k | 🟡 help wanted | 2026-09-30 | 🔏 DCO |
-| [boot-*.cmd: one failing DT overlay discards every selected overlay for that boot](https://github.com/armbian/build/issues/10862) 💬 1 | [armbian/build](https://github.com/armbian/build) | 5.5k | 🟢 beginner | 2026-09-30 |  |
 | [Rhai standard library.](https://github.com/rhaiscript/rhai/issues/451) 💬 17 | [rhaiscript/rhai](https://github.com/rhaiscript/rhai) | 5.7k | 🟡 help wanted | 2026-09-29 |  |
 | [Replace 'scanMonitorLookupCaches()' loop with memset](https://github.com/eclipse-openj9/openj9/issues/24803) | [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) | 3.5k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA · 🔏 DCO |
 | [More Linux distros compatible](https://github.com/rustdesk/rustdesk/issues/3565) 💬 9 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 125.3k | 🟡 help wanted | 2026-09-28 | 🔏 DCO |
@@ -143,13 +143,13 @@
 | [在Dbeaver中，不能下载、使用最新驱动](https://github.com/taosdata/TDengine/issues/35396) 💬 2 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-08-04 |  |
 | [MessagePack codec (or VRL functions)](https://github.com/vectordotdev/vector/issues/8675) 💬 4 | [vectordotdev/vector](https://github.com/vectordotdev/vector) | 22.7k | 🟢 beginner | 2026-08-03 | 📄 AI policy · ✍️ CLA |
 | [Add drag and drop functionality to TreeView](https://github.com/MudBlazor/MudBlazor/issues/5987) 💬 16 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟡 help wanted | 2026-08-03 |  |
+| [Add more docstring examples](https://github.com/pyodide/pyodide/issues/1955) 💬 10 | [pyodide/pyodide](https://github.com/pyodide/pyodide) | 14.9k | 🟢 beginner | 2026-07-30 |  |
 | [[RFC] Lack of support for types none, exn and noexn.](https://github.com/wasm-micro-runtime/wasm-micro-runtime/issues/4814) | [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) | 6.1k | 🟡 help wanted | 2026-07-30 |  |
 | [RFC: Use the target_features section to verify compatibility](https://github.com/wasm-micro-runtime/wasm-micro-runtime/issues/4569) 💬 2 | [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) | 6.1k | 🟡 help wanted | 2026-07-30 |  |
 | [Host Function capability to call into Wasm Function](https://github.com/WasmEdge/WasmEdge/issues/1673) 💬 5 | [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) | 10.8k | 🟡 help wanted | 2026-07-29 | 🤖 disclose AI use · 🔏 DCO |
 | [Changing FontSize in MudTheme breaks components](https://github.com/MudBlazor/MudBlazor/issues/10394) 💬 3 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-07-26 |  |
 | [CapsuleRegistry duplicate capsule/uplink registration uses UnsupportedEntryPoint and docs cite nonexistent var](https://github.com/astrid-runtime/astrid/issues/476) 💬 2 | [astrid-runtime/astrid](https://github.com/astrid-runtime/astrid) | 10.3k | 🟢 beginner | 2026-07-26 | ⚠️ AI restricted · 🔏 DCO |
 | [Remove dead AgentHandler stub from astrid-hooks](https://github.com/astrid-runtime/astrid/issues/497) 💬 2 | [astrid-runtime/astrid](https://github.com/astrid-runtime/astrid) | 10.3k | 🟢 beginner | 2026-07-26 | ⚠️ AI restricted · 🔏 DCO |
-| [MudTreeView: Child nodes with 'Visible=false' due to filtering are affected by parent selection in MultiSelect](https://github.com/MudBlazor/MudBlazor/issues/10414) 💬 4 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟡 help wanted | 2026-07-25 |  |
 | [Emulation check for CVE-2026-24061 – GNU InetUtils telnetd Authentication Bypass Vulnerability](https://github.com/e-m-b-a/emba/issues/1905) 💬 1 | [e-m-b-a/emba](https://github.com/e-m-b-a/emba) | 3.7k | 🟢 beginner | 2026-07-23 |  |
 | [Intellij Plugin](https://github.com/Automattic/harper/issues/362) 💬 12 | [Automattic/harper](https://github.com/Automattic/harper) | 16.2k | 🟡 help wanted | 2026-07-22 | 🤖 disclose AI use |
 | [False positive: "more cut" wrongly flagged to change to "cuter"](https://github.com/Automattic/harper/issues/3297) | [Automattic/harper](https://github.com/Automattic/harper) | 16.2k | 🟡 help wanted | 2026-07-19 | 🤖 disclose AI use |

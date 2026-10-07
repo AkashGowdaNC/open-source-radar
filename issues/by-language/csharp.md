@@ -1,10 +1,10 @@
 # C# issues
 
-**319** open issues (94 labeled for beginners) across **85** active C# projects.
+**315** open issues (91 labeled for beginners) across **85** active C# projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/csharp.xml)
 
-> Updated automatically on **2026-10-06 22:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-07 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,21 +12,22 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Invalid 'CS8648' When the 'using' statement is inside a try-catch block](https://github.com/dotnet/roslyn/issues/85891) 💬 5 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-10-07 | ✍️ CLA |
+| [Address race in PerformanceCounterLib](https://github.com/dotnet/runtime/issues/90803) 💬 20 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-10-07 | ✍️ CLA |
+| [MQ: Enable Azure MCP Server to Query Recent Service Updates (e.g., Key Vault changes in last X days)](https://github.com/microsoft/mcp/issues/1073) 💬 5 | [microsoft/mcp](https://github.com/microsoft/mcp) | 3.7k | 🟡 help wanted | 2026-10-07 |  |
 | [User Secrets broke on different first word capitalization](https://github.com/dotnet/aspnetcore/issues/8602) 💬 4 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38.5k | 🟡 help wanted | 2026-10-06 | ✍️ CLA |
-| [Address race in PerformanceCounterLib](https://github.com/dotnet/runtime/issues/90803) 💬 20 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-10-06 | ✍️ CLA |
-| [AzureProvisioner output saves connection strings to user secrets even if it did nothing](https://github.com/microsoft/aspire/issues/3298) 💬 6 | [microsoft/aspire](https://github.com/microsoft/aspire) | 6.3k | 🟢 beginner | 2026-10-06 |  |
+| [Adds Futures Fill Model](https://github.com/QuantConnect/Lean/issues/4605) 💬 2 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 21.9k | 🟢 beginner | 2026-10-06 |  |
+| [DefaultDateFormat option](https://github.com/MudBlazor/MudBlazor/issues/10319) 💬 4 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟡 help wanted | 2026-10-06 |  |
 | [Enhancement: create ActorTaskScheduler overload that schedules Task to dispatcher without blocking current act](https://github.com/akkadotnet/akka.net/issues/4363) 💬 3 | [akkadotnet/akka.net](https://github.com/akkadotnet/akka.net) | 5.1k | 🟡 help wanted | 2026-10-06 |  |
 | [Document types of supported queries and semantics](https://github.com/akkadotnet/akka.net/issues/5723) 💬 3 | [akkadotnet/akka.net](https://github.com/akkadotnet/akka.net) | 5.1k | 🟡 help wanted | 2026-10-06 |  |
 | ['Akka.Tests.Actor.ActorCellSpec.Cell_should_clear_current_message_after_receive' fails with NRE](https://github.com/akkadotnet/akka.net/issues/6283) | [akkadotnet/akka.net](https://github.com/akkadotnet/akka.net) | 5.1k | 🟡 help wanted | 2026-10-06 |  |
 | [Add support for numerical enum values](https://github.com/microsoft/kiota/issues/5165) 💬 12 | [microsoft/kiota](https://github.com/microsoft/kiota) | 3.8k | 🟡 help wanted | 2026-10-06 | ✍️ CLA |
-| [MQ: Enable Azure MCP Server to Query Recent Service Updates (e.g., Key Vault changes in last X days)](https://github.com/microsoft/mcp/issues/1073) 💬 4 | [microsoft/mcp](https://github.com/microsoft/mcp) | 3.7k | 🟡 help wanted | 2026-10-06 |  |
 | [[Improvement & Bugfix] Fallback decoder for 8-bit grayscale PNGs (industrial/matrix) & embedded localization f](https://github.com/Ruben2776/PicView/issues/403) 💬 5 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.6k | 🟡 help wanted | 2026-10-06 |  |
 | [Duplicate embedded resource error for EmbeddedResource with different LogicalNames](https://github.com/dotnet/sdk/issues/2657) 💬 4 | [dotnet/sdk](https://github.com/dotnet/sdk) | 3.2k | 🟢 beginner | 2026-10-06 |  |
 | [Perf-trap with 'IBinaryInteger&lt;T&gt;.WriteLittleEndian'](https://github.com/dotnet/runtime/issues/77969) 💬 6 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
 | [[System.Text.Json] : More accurate error messages when failing to map fields or parameters](https://github.com/dotnet/runtime/issues/88048) 💬 12 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
 | [[mono] Implement pinvoke-detach-1.cs tests on Windows](https://github.com/dotnet/runtime/issues/43093) 💬 5 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
 | [MudDataGrid Cell edit mode - Select and Autocomplete not calling CommittedItemChanges](https://github.com/MudBlazor/MudBlazor/issues/6910) 💬 7 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟡 help wanted | 2026-10-05 |  |
-| [Given_TextBlock.When_Inlines_Transitively_Change fails when Windows is in dark mode (expects OS-theme default ](https://github.com/unoplatform/uno/issues/25013) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-10-05 |  |
 | [With nothing focused, key events are raised above Window.Content, so KeyDown handlers on Window.Content stop f](https://github.com/unoplatform/uno/issues/25004) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-10-05 |  |
 | [MicaBackdrop.Kind is a generated NotImplemented stub although the Skia hosts implement it](https://github.com/unoplatform/uno/issues/24993) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-10-05 |  |
 | [Automation peers of WinUI controls-library controls return a short ClassName instead of the namespace-qualifie](https://github.com/unoplatform/uno/issues/24992) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-10-05 |  |
@@ -34,7 +35,6 @@
 | [Setting 'ScrollViewer.ZoomMode' to 'Disabled' resets 'ZoomFactor' to 1 (WinUI keeps the current zoom)](https://github.com/unoplatform/uno/issues/24988) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-10-05 |  |
 | [Classes deriving from Ellipse or Rectangle default to Stretch.None and render nothing](https://github.com/unoplatform/uno/issues/24978) | [unoplatform/uno](https://github.com/unoplatform/uno) | 10.1k | 🟢 beginner | 2026-10-05 |  |
 | [CpuMath Enhancement: Make bound checking of loops in hardware intrinsics more efficient](https://github.com/dotnet/machinelearning/issues/835) 💬 4 | [dotnet/machinelearning](https://github.com/dotnet/machinelearning) | 9.4k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
-| [Japanese IME crashes application with ExecutionEngineException](https://github.com/dotnet/wpf/issues/2326) 💬 6 | [dotnet/wpf](https://github.com/dotnet/wpf) | 7.7k | 🟡 help wanted | 2026-10-05 |  |
 | [[feature request] Add opt-in to export unsampled but recording Activities from trace processors](https://github.com/open-telemetry/opentelemetry-dotnet/issues/6452) 💬 2 | [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) | 3.8k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
 | [Workload resolver should check for WorkloadManifest.json file instead of just looking for a directory](https://github.com/dotnet/sdk/issues/21676) 💬 3 | [dotnet/sdk](https://github.com/dotnet/sdk) | 3.2k | 🟢 beginner | 2026-10-05 |  |
 | [Feature: Add support for Windows 11 new context menu items](https://github.com/files-community/Files/issues/8251) 💬 12 | [files-community/Files](https://github.com/files-community/Files) | 45.8k | 🟡 help wanted | 2026-10-04 |  |
@@ -213,4 +213,4 @@
 | [Improve parser error recovery for misplaced 'ref' modifier of a struct declaration](https://github.com/dotnet/roslyn/issues/84734) 💬 5 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-08-10 | ✍️ CLA |
 | ["Playlist not available" for public playlist](https://github.com/Tyrrrz/YoutubeDownloader/issues/732) 💬 2 | [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | 16.4k | 🟡 help wanted | 2026-08-10 |  |
 
-Showing the 200 most recently updated. See all 319 on the website.
+Showing the 200 most recently updated. See all 315 on the website.

@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/clojure.xml)
 
-> Updated automatically on **2026-10-06 22:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-07 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,7 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
-| [What companies or projects are using Datalevin?](https://github.com/datalevin/datalevin/issues/383) 💬 6 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | 1.5k | 🟡 help wanted | 2026-10-06 |  |
+| [What companies or projects are using Datalevin?](https://github.com/datalevin/datalevin/issues/383) 💬 7 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | 1.5k | 🟡 help wanted | 2026-10-07 |  |
 | [Page is duplicated in favorites after renaming](https://github.com/logseq/logseq/issues/8596) 💬 4 | [logseq/logseq](https://github.com/logseq/logseq) | 45.2k | 🟢 beginner | 2026-10-01 | ✍️ CLA |
 | [Web Search Tool](https://github.com/editor-code-assistant/eca/issues/70) 💬 8 | [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) | 1k | 🟢 beginner | 2026-09-15 |  |
 | [Zombie chrome-headless processes created on element export](https://github.com/penpot/penpot/issues/10339) 💬 1 | [penpot/penpot](https://github.com/penpot/penpot) | 60.8k | 🟢 beginner | 2026-09-08 | 🤖 disclose AI use · 🔏 DCO |

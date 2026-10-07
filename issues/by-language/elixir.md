@@ -1,10 +1,10 @@
 # Elixir issues
 
-**6** open issues (5 labeled for beginners) across **3** active Elixir projects.
+**7** open issues (6 labeled for beginners) across **4** active Elixir projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/elixir.xml)
 
-> Updated automatically on **2026-10-06 22:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-07 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Reduce Engine size](https://github.com/expert-lsp/expert/issues/924) | [expert-lsp/expert](https://github.com/expert-lsp/expert) | 2.1k | 🟢 beginner | 2026-10-07 |  |
 | ["Polls closing soon" gives confusing notification when pressing its refresh button](https://github.com/bonfire-networks/bonfire-app/issues/2243) | [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) | 942 | 🟢 beginner | 2026-08-29 |  |
 | [Overview of who opened the mail/ clicked on links](https://github.com/pentacent/keila/issues/109) 💬 6 | [pentacent/keila](https://github.com/pentacent/keila) | 2.2k | 🟢 beginner | 2026-08-01 | ✍️ CLA |
 | [Github Action for automatically running pgbench](https://github.com/supabase/supavisor/issues/11) 💬 4 | [supabase/supavisor](https://github.com/supabase/supavisor) | 2.3k | 🟢 beginner | 2026-07-15 |  |

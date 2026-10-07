@@ -1,10 +1,10 @@
 # Java issues
 
-**263** open issues (98 labeled for beginners) across **77** active Java projects.
+**258** open issues (97 labeled for beginners) across **75** active Java projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/java.xml)
 
-> Updated automatically on **2026-10-06 22:38 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-07 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,21 +12,18 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Crash on startup on Android 6.0.1: NullPointerException "Attempt to read from null array" in MainActivity.onCr](https://github.com/TeamNewPipe/NewPipe/issues/13866) 💬 5 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 39.9k | 🟢 beginner | 2026-10-07 | 📄 AI policy |
+| [Create option to enable overide email theme for clients](https://github.com/keycloak/keycloak/issues/8744) 💬 8 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · 🔏 DCO |
+| [CIMD: Unbounded persistent client creation via path variation](https://github.com/keycloak/keycloak/issues/50532) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · 🔏 DCO |
 | [Firebird SQL async "Event"](https://github.com/dbeaver/dbeaver/issues/5153) 💬 3 | [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 52k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
 | [App Crash on mark video as watched](https://github.com/TeamNewPipe/NewPipe/issues/10939) 💬 10 | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) | 39.9k | 🟢 beginner | 2026-10-06 | 📄 AI policy |
 | [Client credentials hashing (encryption / decryption)](https://github.com/keycloak/keycloak/issues/15567) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use · 🔏 DCO |
-| [Resource indicators: refresh of an offline token ignores the resource parameter and widens aud](https://github.com/keycloak/keycloak/issues/53261) 💬 1 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use · 🔏 DCO |
-| [chore(core): handle or remove unused 'TraceLevel' in 'DefaultTracer'](https://github.com/kestra-io/kestra/issues/20302) 💬 10 | [kestra-io/kestra](https://github.com/kestra-io/kestra) | 29.3k | 🟢 beginner | 2026-10-06 |  |
 | [[Question] &lt;title&gt;Docker-compose install version 1.9.0, the browser open often appear, you with this lin](https://github.com/apache/hertzbeat/issues/4416) | [apache/hertzbeat](https://github.com/apache/hertzbeat) | 7.4k | 🟢 beginner | 2026-10-06 |  |
 | [Proposal: Migrate docs from Material for MkDocs to Zensical](https://github.com/DependencyTrack/dependency-track/issues/7597) 💬 1 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟡 help wanted | 2026-10-06 | ⚠️ AI restricted · 🔏 DCO |
 | [Listing client roles on a cold realm cache is taking 45s for a customer with many roles](https://github.com/keycloak/keycloak/issues/50900) 💬 3 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · 🔏 DCO |
 | [Device authorization user_code verification has no server-side rate limit](https://github.com/keycloak/keycloak/issues/51275) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · 🔏 DCO |
-| [CIMD: Unbounded persistent client creation via path variation](https://github.com/keycloak/keycloak/issues/50532) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · 🔏 DCO |
 | [Inconsistency in credential label validation between Admin API and Account API](https://github.com/keycloak/keycloak/issues/51440) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · 🔏 DCO |
 | [OTPFormAuthenticator succeeds with credential type 'otp', but the terminal LOGIN event does not retain it; Web](https://github.com/keycloak/keycloak/issues/52725) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · 🔏 DCO |
-| [[CIMD] The hostname line on the consent screen is hard-coded English and cannot be localised](https://github.com/keycloak/keycloak/issues/53515) 💬 1 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · 🔏 DCO |
-| [ClassNotFound PersistenceManager when starting server](https://github.com/keycloak/keycloak/issues/52352) 💬 2 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · 🔏 DCO |
-| [Client registration: an OIDC registration with any unknown client metadata property is rejected, but RFC 7591 ](https://github.com/keycloak/keycloak/issues/53363) 💬 1 | [keycloak/keycloak](https://github.com/keycloak/keycloak) | 37.2k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · 🔏 DCO |
 | [[Feature] Support for reading and importing embedded images within cells](https://github.com/apache/fesod/issues/22) 💬 3 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
 | [[Question] Support using Fesod on Android system](https://github.com/apache/fesod/issues/12) 💬 8 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
 | [[Enhancement] Support interface projection exports](https://github.com/apache/fesod/issues/366) 💬 4 | [apache/fesod](https://github.com/apache/fesod) | 6.2k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
@@ -117,7 +114,6 @@
 | [[DSIP-64] Add more workflow Integration test cases in master.](https://github.com/apache/dolphinscheduler/issues/16479) 💬 7 | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14.5k | 🟢 beginner | 2026-09-01 |  |
 | [[BUG] String(s) terminate after 2000 chars](https://github.com/opensearch-project/OpenSearch/issues/6323) 💬 11 | [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13.8k | 🟢 beginner | 2026-09-01 | 🔏 DCO |
 | [[DB TLS Connection][Helm Chart] Request for the feature for connecting to external DB with TLS connection](https://github.com/apache/dolphinscheduler/issues/17550) 💬 1 | [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) | 14.5k | 🟡 help wanted | 2026-08-31 |  |
-| [Consolidate code snippets from the docs and '/examples' folder](https://github.com/testcontainers/testcontainers-java/issues/1167) 💬 9 | [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) | 8.7k | 🟢 beginner | 2026-08-31 |  |
 | [Improve wording when "continuing onto" motorways..](https://github.com/graphhopper/graphhopper/issues/1287) 💬 16 | [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper) | 6.7k | 🟢 beginner | 2026-08-31 |  |
 | [Document meaning of pemWorkDirectory](https://github.com/jetty/jetty.project/issues/12795) 💬 3 | [jetty/jetty.project](https://github.com/jetty/jetty.project) | 4.1k | 🟡 help wanted | 2026-08-31 |  |
 | [[Feature] Improve the compatibility test between the new and old versions of paimon](https://github.com/apache/paimon/issues/3531) 💬 3 | [apache/paimon](https://github.com/apache/paimon) | 3.4k | 🟢 beginner | 2026-08-31 |  |
@@ -152,7 +148,6 @@
 | [Support cast from varchar to day-time interval type](https://github.com/trinodb/trino/issues/4697) 💬 5 | [trinodb/trino](https://github.com/trinodb/trino) | 13.3k | 🟢 beginner | 2026-08-16 | ✍️ CLA |
 | [[Feature]: Add ArgumentHexColor](https://github.com/Minestom/Minestom/issues/3199) 💬 3 | [Minestom/Minestom](https://github.com/Minestom/Minestom) | 3.3k | 🟢 beginner | 2026-08-16 |  |
 | [Elasticsearch connector does not support a path prefix](https://github.com/trinodb/trino/issues/26930) 💬 6 | [trinodb/trino](https://github.com/trinodb/trino) | 13.3k | 🟢 beginner | 2026-08-15 | ✍️ CLA |
-| [Docs: Clarify Spark branch write precedence over WAP branch](https://github.com/apache/iceberg/issues/15916) 💬 5 | [apache/iceberg](https://github.com/apache/iceberg) | 9.3k | 🟢 beginner | 2026-08-14 | ⚠️ AI restricted · ✍️ CLA |
 | [Improve coverage reporting for partially covered expressions](https://github.com/tlaplus/tlaplus/issues/845) 💬 5 | [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus) | 3.1k | 🟡 help wanted | 2026-08-13 | 🔏 DCO |
 | [Optimize jdk.internal.misc.Unsafe.storeStoreFence() into no-op on x86 platforms](https://github.com/eclipse-openj9/openj9/issues/19042) 💬 3 | [eclipse-openj9/openj9](https://github.com/eclipse-openj9/openj9) | 3.5k | 🟢 beginner | 2026-08-12 | 🤖 disclose AI use · ✍️ CLA · 🔏 DCO |
 | ['--test_output=streamed' does not stream the logs when executing remotely](https://github.com/bazelbuild/bazel/issues/30651) | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 25.9k | 🟡 help wanted | 2026-08-11 | ✍️ CLA |
@@ -212,5 +207,10 @@
 | [Add nodejs Analyzer](https://github.com/oracle/opengrok/issues/3470) 💬 2 | [oracle/opengrok](https://github.com/oracle/opengrok) | 5k | 🟡 help wanted | 2026-06-22 | 🔏 DCO |
 | [Checkbox next to Group Name in Project Dropdown menu](https://github.com/oracle/opengrok/issues/4331) 💬 2 | [oracle/opengrok](https://github.com/oracle/opengrok) | 5k | 🟡 help wanted | 2026-06-22 | 🔏 DCO |
 | [Memory consumption with tesseract](https://github.com/bytedeco/javacpp-presets/issues/1375) 💬 6 | [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) | 2.8k | 🟡 help wanted | 2026-06-20 |  |
+| [[Feature]: Sub-agent events are not visible in AG-UI frontend when using 'SubAgentTool' with 'forwardEvents(tr](https://github.com/agentscope-ai/agentscope-java/issues/1046) 💬 1 | [agentscope-ai/agentscope-java](https://github.com/agentscope-ai/agentscope-java) | 5.9k | 🟡 help wanted | 2026-06-19 |  |
+| [Error Message Could be Improved for 'http_file'](https://github.com/bazelbuild/bazel/issues/16375) 💬 8 | [bazelbuild/bazel](https://github.com/bazelbuild/bazel) | 25.9k | 🟢 beginner | 2026-06-16 | ✍️ CLA |
+| [[Feature Request] Analyzers on non-text sub fields](https://github.com/opensearch-project/OpenSearch/issues/11882) 💬 3 | [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) | 13.8k | 🟡 help wanted | 2026-06-15 | 🔏 DCO |
+| [Set SameSite attribute on session cookie created by the frontend](https://github.com/DependencyTrack/dependency-track/issues/2985) 💬 1 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟢 beginner | 2026-06-15 | ⚠️ AI restricted · 🔏 DCO |
+| [pytorch issue ，ModuleDictImpl need mapping void insert(const std::string& key, std::shared_ptr&lt;Module&gt; m](https://github.com/bytedeco/javacpp-presets/issues/1781) 💬 1 | [bytedeco/javacpp-presets](https://github.com/bytedeco/javacpp-presets) | 2.8k | 🟡 help wanted | 2026-06-15 |  |
 
-Showing the 200 most recently updated. See all 263 on the website.
+Showing the 200 most recently updated. See all 258 on the website.
