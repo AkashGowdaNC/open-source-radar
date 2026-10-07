@@ -1,8 +1,8 @@
 # Web development issues
 
-**250** open issues (108 labeled for beginners) across **104** projects tagged with topics like `web`, `frontend`, `react`, `vue`, `svelte`, `angular`.
+**251** open issues (110 labeled for beginners) across **103** projects tagged with topics like `web`, `frontend`, `react`, `vue`, `svelte`, `angular`.
 
-> Updated automatically on **2026-10-07 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -11,11 +11,11 @@
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
 | [PY-09-docling-core: 'validate_misplaced_list_items' drops the children of multi-run list items, so 'export_to_](https://github.com/docling-project/docling/issues/4609) 💬 4 | [docling-project/docling](https://github.com/docling-project/docling) | 68.5k | 🟢 beginner | 2026-10-07 |  |
+| [Close workspace search with the Escape key](https://github.com/penpot/penpot/issues/9540) 💬 2 | [penpot/penpot](https://github.com/penpot/penpot) | 60.8k | 🟢 beginner | 2026-10-07 | 🤖 disclose AI use · 🔏 DCO |
+| [[Feature Request] Treeview: Determine what element is being hovered over](https://github.com/vuetifyjs/vuetify/issues/20333) 💬 4 | [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) | 41k | 🟢 beginner | 2026-10-07 |  |
 | [Typography.Paragraph's ellipsis tooltip becomes inconsistent when used inside Select options.](https://github.com/ant-design/ant-design/issues/54677) 💬 5 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 99.7k | 🟡 help wanted | 2026-10-06 |  |
 | [Statistics -&gt; Views popup help doesn't take account of custom count_view_after value](https://github.com/Chocobozzz/PeerTube/issues/7580) 💬 6 | [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) | 15.3k | 🟢 beginner | 2026-10-06 | 🤖 disclose AI use |
-| [DefaultDateFormat option](https://github.com/MudBlazor/MudBlazor/issues/10319) 💬 4 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟡 help wanted | 2026-10-06 |  |
 | [Proposal: Migrate docs from Material for MkDocs to Zensical](https://github.com/DependencyTrack/dependency-track/issues/7597) 💬 1 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟡 help wanted | 2026-10-06 | ⚠️ AI restricted · 🔏 DCO |
-| [Add support for numerical enum values](https://github.com/microsoft/kiota/issues/5165) 💬 12 | [microsoft/kiota](https://github.com/microsoft/kiota) | 3.8k | 🟡 help wanted | 2026-10-06 | ✍️ CLA |
 | [📢 NaiveUI Feature Requests & Task Assignment](https://github.com/tusen-ai/naive-ui/issues/6737) 💬 10 | [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) | 18.6k | 🟡 help wanted | 2026-10-05 |  |
 | [Use the global primary color for all component theme defaults](https://github.com/tusen-ai/naive-ui/issues/8228) | [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) | 18.6k | 🟡 help wanted | 2026-10-05 |  |
 | [More AI-friendly Theme Editor](https://github.com/tusen-ai/naive-ui/issues/8227) | [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) | 18.6k | 🟡 help wanted | 2026-10-05 |  |
@@ -28,7 +28,7 @@
 | [🚀 Feature Request: CopilotChat support @ context](https://github.com/CopilotKit/CopilotKit/issues/1962) 💬 13 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 37.8k | 🟡 help wanted | 2026-10-03 |  |
 | [Dashboard i18n:validate fails for 30 of 34 locales because the sync workflow never removes stale keys](https://github.com/medusajs/medusa/issues/17122) 💬 1 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.6k | 🟡 help wanted | 2026-10-03 |  |
 | [[Bug]: custom path aliases breaks plugin dev hot reload](https://github.com/medusajs/medusa/issues/16535) 💬 8 | [medusajs/medusa](https://github.com/medusajs/medusa) | 36.6k | 🟡 help wanted | 2026-10-03 |  |
-| [[Bug] Cannot load qwen3-vl series with lora adapter on vllm.](https://github.com/unslothai/unsloth/issues/3560) 💬 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.3k | 🟢 beginner | 2026-10-02 |  |
+| [[Bug] Cannot load qwen3-vl series with lora adapter on vllm.](https://github.com/unslothai/unsloth/issues/3560) 💬 10 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.4k | 🟢 beginner | 2026-10-02 |  |
 | [element with display flex do not create a new BFC itself](https://github.com/yangshun/front-end-interview-handbook/issues/159) 💬 1 | [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) | 44k | 🟡 help wanted | 2026-10-02 |  |
 | [🚀 Feature Request: agentId != name](https://github.com/CopilotKit/CopilotKit/issues/4775) 💬 4 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 37.8k | 🟢 beginner | 2026-10-02 |  |
 | [[Bug]: automigrate fails on EXDEV error](https://github.com/storybookjs/storybook/issues/30184) 💬 7 | [storybookjs/storybook](https://github.com/storybookjs/storybook) | 91.2k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use |
@@ -39,7 +39,7 @@
 | [[📖] useServerData (in v2)](https://github.com/QwikDev/qwik/issues/7955) 💬 1 | [QwikDev/qwik](https://github.com/QwikDev/qwik) | 22.1k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
 | [[📖] explain uncontrolled vs controlled components](https://github.com/QwikDev/qwik/issues/6336) 💬 5 | [QwikDev/qwik](https://github.com/QwikDev/qwik) | 22.1k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
 | [[📖] How to debug Big js chunks on build](https://github.com/QwikDev/qwik/issues/6836) 💬 2 | [QwikDev/qwik](https://github.com/QwikDev/qwik) | 22.1k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use |
-| [reinforce(gspo) training didn't yield any improments](https://github.com/unslothai/unsloth/issues/3485) 💬 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.3k | 🟡 help wanted | 2026-09-27 |  |
+| [reinforce(gspo) training didn't yield any improments](https://github.com/unslothai/unsloth/issues/3485) 💬 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.4k | 🟡 help wanted | 2026-09-27 |  |
 | [[p5.js 2.0+ Bug Report]: Floats in strands shaders are always rounded to 4 decimals](https://github.com/processing/p5.js/issues/8884) 💬 16 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-27 | ⚠️ AI restricted |
 | [noiseMode(SIMPLEX) add-on library](https://github.com/processing/p5.js/issues/6152) 💬 20 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-09-22 | ⚠️ AI restricted |
 | [List LibreSign in beginner-friendly open source directories](https://github.com/LibreSign/libresign/issues/8284) 💬 5 | [LibreSign/libresign](https://github.com/LibreSign/libresign) | 828 | 🟢 beginner | 2026-09-21 | 🤖 disclose AI use · 🔏 DCO |
@@ -62,6 +62,7 @@
 | [输入 【介绍一下html-anything】，导出html单文件出现错误 1. 第一页只展示一半 2. 左右键不起作用 3. 从第二页开始都是黑底空白页 4. 。。。。。。](https://github.com/nexu-io/html-anything/issues/152) 💬 2 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 9k | 🟡 help wanted | 2026-09-14 | ✍️ CLA |
 | [Connect Crow to Apache and Nginx using custom modules](https://github.com/CrowCpp/Crow/issues/94) 💬 4 | [CrowCpp/Crow](https://github.com/CrowCpp/Crow) | 5k | 🟡 help wanted | 2026-09-14 |  |
 | [[Bug]: GraphQL: don't add quotes around binding as query param when user has already provided quotes](https://github.com/appsmithorg/appsmith/issues/16713) 💬 1 | [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) | 41k | 🟡 help wanted | 2026-09-13 |  |
+| [Numeric Field does not support Percent format](https://github.com/MudBlazor/MudBlazor/issues/11241) 💬 7 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-09-13 |  |
 | [Map support](https://github.com/pascalorg/editor/issues/154) 💬 7 | [pascalorg/editor](https://github.com/pascalorg/editor) | 24.7k | 🟡 help wanted | 2026-09-12 |  |
 | [io.grpc.StatusRuntimeException: DEADLINE_EXCEEDED: deadline exceeded after 0.981473792s. [buffered_nanos=71961](https://github.com/apache/dubbo/issues/12414) 💬 11 | [apache/dubbo](https://github.com/apache/dubbo) | 41.6k | 🟢 beginner | 2026-09-11 | ✍️ CLA |
 | [disable SUBMIT button when no changes AND handle units of measure](https://github.com/rjsf-team/react-jsonschema-form/issues/4098) 💬 3 | [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) | 15.9k | 🟡 help wanted | 2026-09-11 |  |
@@ -91,8 +92,8 @@
 | ['_some' operator limited to top-level relations prevents complex nested filtering](https://github.com/directus/directus/issues/25403) 💬 7 | [directus/directus](https://github.com/directus/directus) | 38.2k | 🟡 help wanted | 2026-09-02 |  |
 | [M2A Relation Display Not Showing Properly](https://github.com/directus/directus/issues/25348) 💬 4 | [directus/directus](https://github.com/directus/directus) | 38.2k | 🟡 help wanted | 2026-09-02 |  |
 | [[Tracker] 任务清单](https://github.com/ant-design/ant-design/issues/58972) 💬 4 | [ant-design/ant-design](https://github.com/ant-design/ant-design) | 99.7k | 🟡 help wanted | 2026-09-01 |  |
-| [[Feature] Running Usloth Studion in kaggle](https://github.com/unslothai/unsloth/issues/4944) 💬 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.3k | 🟡 help wanted | 2026-09-01 |  |
-| [Request for Notebook to Fine-Tune Qwen TTS (or Alternatives Using Existing Notebooks)](https://github.com/unslothai/unsloth/issues/3961) 💬 4 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.3k | 🟢 beginner | 2026-09-01 |  |
+| [[Feature] Running Usloth Studion in kaggle](https://github.com/unslothai/unsloth/issues/4944) 💬 2 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.4k | 🟡 help wanted | 2026-09-01 |  |
+| [Request for Notebook to Fine-Tune Qwen TTS (or Alternatives Using Existing Notebooks)](https://github.com/unslothai/unsloth/issues/3961) 💬 4 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 77.4k | 🟢 beginner | 2026-09-01 |  |
 | [Docling on n8n nodes](https://github.com/docling-project/docling/issues/890) 💬 1 | [docling-project/docling](https://github.com/docling-project/docling) | 68.5k | 🟡 help wanted | 2026-09-01 |  |
 | [Responsive images generated with contain fit and an aspect ratio that causes pillarboxing are missing high res](https://github.com/gatsbyjs/gatsby/issues/33647) 💬 11 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) | 55.9k | 🟡 help wanted | 2026-09-01 |  |
 | [Catch and handle ChunkLoadError](https://github.com/gatsbyjs/gatsby/issues/33844) 💬 11 | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) | 55.9k | 🟡 help wanted | 2026-09-01 |  |
@@ -166,6 +167,7 @@
 | [Ability to search similar images "from" partner assets](https://github.com/immich-app/immich/issues/21855) 💬 6 | [immich-app/immich](https://github.com/immich-app/immich) | 115.7k | 🟢 beginner | 2026-07-30 |  |
 | [feat: implement pi-rpc protocol for Pi agent](https://github.com/nexu-io/html-anything/issues/130) 💬 2 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 9k | 🟡 help wanted | 2026-07-27 | ✍️ CLA |
 | [Changing FontSize in MudTheme breaks components](https://github.com/MudBlazor/MudBlazor/issues/10394) 💬 3 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-07-26 |  |
+| [MudTreeView: Child nodes with 'Visible=false' due to filtering are affected by parent selection in MultiSelect](https://github.com/MudBlazor/MudBlazor/issues/10414) 💬 4 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟡 help wanted | 2026-07-25 |  |
 | [Import Grafana Dashboard JSON](https://github.com/SigNoz/signoz/issues/6425) 💬 6 | [SigNoz/signoz](https://github.com/SigNoz/signoz) | 32.3k | 🟡 help wanted | 2026-07-24 |  |
 | [HDR support](https://github.com/xanderfrangos/twinkle-tray/issues/97) 💬 90 | [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) | 9.1k | 🟡 help wanted | 2026-07-23 |  |
 | [Intellij Plugin](https://github.com/Automattic/harper/issues/362) 💬 12 | [Automattic/harper](https://github.com/Automattic/harper) | 16.2k | 🟡 help wanted | 2026-07-22 | 🤖 disclose AI use |
@@ -208,7 +210,5 @@
 | [setAttributes() invalidates references to earlier canvases](https://github.com/processing/p5.js/issues/5902) 💬 8 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-06-20 | ⚠️ AI restricted |
 | [Feature Proposal: unfollow all](https://github.com/bonfire-networks/bonfire-app/issues/2049) | [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) | 942 | 🟢 beginner | 2026-06-20 |  |
 | [用户案例 \| Who's using Kratos?](https://github.com/go-kratos/kratos/issues/969) 💬 47 | [go-kratos/kratos](https://github.com/go-kratos/kratos) | 26k | 🟡 help wanted | 2026-06-18 |  |
-| [Add additional WebGL filter stress scenarios to visual regression suite](https://github.com/processing/p5.js/issues/8550) 💬 4 | [processing/p5.js](https://github.com/processing/p5.js) | 24.1k | 🟡 help wanted | 2026-06-17 | ⚠️ AI restricted |
-| [Restore help menu in bottom-right corner and replace sidebar help menu with user menu](https://github.com/tldraw/tldraw/issues/8880) 💬 3 | [tldraw/tldraw](https://github.com/tldraw/tldraw) | 50.8k | 🟢 beginner | 2026-06-15 |  |
 
-Showing the 200 most recently updated. See all 250 on the website.
+Showing the 200 most recently updated. See all 251 on the website.

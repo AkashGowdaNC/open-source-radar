@@ -1,8 +1,8 @@
 # Security and privacy issues
 
-**208** open issues (104 labeled for beginners) across **56** projects tagged with topics like `security`, `privacy`, `cryptography`, `encryption`, `authentication`, `oauth`.
+**206** open issues (104 labeled for beginners) across **56** projects tagged with topics like `security`, `privacy`, `cryptography`, `encryption`, `authentication`, `oauth`.
 
-> Updated automatically on **2026-10-07 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -10,14 +10,14 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Implement RFC 10032](https://github.com/openssl/openssl/issues/33064) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · ✍️ CLA |
 | [SSH corruptions with 3.0.13 on AARCH64](https://github.com/openssl/openssl/issues/33072) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · ✍️ CLA |
 | [[Bug]: Registration / Privacy Policy Link without Checkbox / German DSVGO](https://github.com/zitadel/zitadel/issues/10130) 💬 3 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-10-07 |  |
 | [DHCPv6 analyzer additions](https://github.com/zeek/zeek/issues/5947) | [zeek/zeek](https://github.com/zeek/zeek) | 8.1k | 🟢 beginner | 2026-10-07 | 🤖 disclose AI use |
+| [Make Wycheproof CI (network) failure resistant](https://github.com/open-quantum-safe/liboqs/issues/2495) 💬 5 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-07 |  |
 | [Proposal: Migrate docs from Material for MkDocs to Zensical](https://github.com/DependencyTrack/dependency-track/issues/7597) 💬 1 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟡 help wanted | 2026-10-06 | ⚠️ AI restricted · 🔏 DCO |
-| [Make Wycheproof CI (network) failure resistant](https://github.com/open-quantum-safe/liboqs/issues/2495) 💬 4 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-06 |  |
 | [[Feature]: Add a way to export and import app settings](https://github.com/kitsumed/ShizuCallRecorder/issues/122) 💬 5 | [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) | 1.7k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
 | [04-test_bio_dgram.t hangs on HP-UX (hpux-ipf32 and hpux-ipf64, IA64)](https://github.com/openssl/openssl/issues/33112) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · ✍️ CLA |
-| [Remove priority queue from tree](https://github.com/openssl/openssl/issues/32983) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · ✍️ CLA |
 | [Integration with ticktick or Vikunja](https://github.com/super-productivity/super-productivity/issues/2312) 💬 28 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.6k | 🟡 help wanted | 2026-10-05 |  |
 | [Loginflow SSO for Nextcloud](https://github.com/super-productivity/super-productivity/issues/914) 💬 30 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.6k | 🟡 help wanted | 2026-10-05 |  |
 | [💡 [Android] Feature Request: Customizable Bottom Navigation Bar Layout](https://github.com/super-productivity/super-productivity/issues/7637) 💬 9 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.6k | 🟡 help wanted | 2026-10-05 |  |
@@ -27,10 +27,8 @@
 | [Build Error with new configuration BC-64 for Embarcadero-Borland Clang Compiler 64bit](https://github.com/openssl/openssl/issues/26452) 💬 14 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-04 | 🤖 disclose AI use · ✍️ CLA |
 | [💡 bottom Navigation bar {ui/ux improvement for phone: 6a/100}](https://github.com/super-productivity/super-productivity/issues/10095) 💬 4 | [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) | 22.6k | 🟡 help wanted | 2026-10-04 |  |
 | [OpenSSL retains consumed TLS 1.3 stage secrets](https://github.com/openssl/openssl/issues/32213) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
-| [get_crl callback: revocation reasons accumulation broken for multiple CDPs, causes X509_V_ERR_UNABLE_TO_GET_CR](https://github.com/openssl/openssl/issues/33055) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [Cleanup in EVP_SKEY from PKCS#12 files processing](https://github.com/openssl/openssl/issues/33041) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [SSL_load_client_CA_file ignores TRUSTED CERTIFICATE PEM blocks](https://github.com/openssl/openssl/issues/33020) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
-| [Implement RFC 10032](https://github.com/openssl/openssl/issues/33064) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [User country map: allow to zoom in countries when no clickable area](https://github.com/matomo-org/matomo/issues/11319) 💬 5 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 21.9k | 🟡 help wanted | 2026-10-01 |  |
 | [Installation with DB connection over TLS not possible](https://github.com/matomo-org/matomo/issues/16404) 💬 4 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 21.9k | 🟡 help wanted | 2026-10-01 |  |
 | ['x509_from_der' segfaults with invalid input](https://github.com/zeek/zeek/issues/5927) 💬 3 | [zeek/zeek](https://github.com/zeek/zeek) | 8.1k | 🟢 beginner | 2026-10-01 | 🤖 disclose AI use |
@@ -58,7 +56,7 @@
 | [Two maps created with 'om', seem to share the same underlying buffer](https://github.com/rizinorg/rizin/issues/6771) 💬 1 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟡 help wanted | 2026-09-20 | 🤖 disclose AI use |
 | [[Feature Request] dns protection](https://github.com/0xCUB3/wBlock/issues/716) 💬 3 | [0xCUB3/wBlock](https://github.com/0xCUB3/wBlock) | 3k | 🟡 help wanted | 2026-09-19 |  |
 | [[Bug] Opening popup triggers extension mode flip](https://github.com/openstyles/stylus/issues/1810) 💬 6 | [openstyles/stylus](https://github.com/openstyles/stylus) | 6.9k | 🟡 help wanted | 2026-09-18 |  |
-| [macbook use Touch ID instead password](https://github.com/GyulyVGC/sniffnet/issues/1300) 💬 3 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 41.3k | 🟢 beginner | 2026-09-17 | 🤖 disclose AI use |
+| [macbook use Touch ID instead password](https://github.com/GyulyVGC/sniffnet/issues/1300) 💬 3 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 41.4k | 🟢 beginner | 2026-09-17 | 🤖 disclose AI use |
 | [Update speed tests to measure GPU performance for cuPQC code](https://github.com/open-quantum-safe/liboqs/issues/2160) 💬 42 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-09-16 |  |
 | [Empty indices are incorrectly included in the search target](https://github.com/Graylog2/graylog2-server/issues/6016) 💬 7 | [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) | 8.2k | 🟢 beginner | 2026-09-13 |  |
 | [[Feature]: InCallService - Add a option to whitelist allowed third-party apps package name](https://github.com/kitsumed/ShizuCallRecorder/issues/46) 💬 3 | [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) | 1.7k | 🟡 help wanted | 2026-09-11 | 🤖 disclose AI use |
@@ -69,13 +67,13 @@
 | [Support Unified Push](https://github.com/ungoogled-software/ungoogled-chromium/issues/3675) 💬 20 | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-09-07 |  |
 | [Support Bearer Tokens for authenticating instead of using a token in basic auth](https://github.com/Graylog2/graylog2-server/issues/5167) 💬 2 | [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) | 8.2k | 🟢 beginner | 2026-09-07 |  |
 | [Support import of OpenVEX statements](https://github.com/DependencyTrack/dependency-track/issues/7094) 💬 8 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟢 beginner | 2026-09-07 | ⚠️ AI restricted · 🔏 DCO |
-| [ci: enable the use of a dependancy bot](https://github.com/ImranR98/Obtainium/issues/3275) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.2k | 🟢 beginner | 2026-09-06 | 📄 AI policy |
+| [ci: enable the use of a dependancy bot](https://github.com/ImranR98/Obtainium/issues/3275) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.3k | 🟢 beginner | 2026-09-06 | 📄 AI policy |
 | [include git commit id in status information and artifact README](https://github.com/yacy/yacy_search_server/issues/466) 💬 1 | [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) | 4.1k | 🟢 beginner | 2026-09-06 |  |
 | [Add flag to disable Web Audio API](https://github.com/ungoogled-software/ungoogled-chromium/issues/3944) | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-09-04 |  |
 | [[Flatpak] Auth: Failed to launch: libsecret_error: Failed to unlock the keyring](https://github.com/ente/ente/issues/6564) 💬 6 | [ente/ente](https://github.com/ente/ente) | 29.3k | 🟡 help wanted | 2026-09-03 |  |
-| [CLI Support for Injecting Envars into Docker-Compose Containers without embedding the CLI in Container Images](https://github.com/Infisical/infisical/issues/425) 💬 8 | [Infisical/infisical](https://github.com/Infisical/infisical) | 29.6k | 🟡 help wanted | 2026-09-01 |  |
+| [CLI Support for Injecting Envars into Docker-Compose Containers without embedding the CLI in Container Images](https://github.com/Infisical/infisical/issues/425) 💬 8 | [Infisical/infisical](https://github.com/Infisical/infisical) | 29.7k | 🟡 help wanted | 2026-09-01 |  |
 | [Support header sso (Forward Auth)](https://github.com/lldap/lldap/issues/352) 💬 15 | [lldap/lldap](https://github.com/lldap/lldap) | 6.5k | 🟢 beginner | 2026-08-31 |  |
-| [Docs: add a Wikipedia page about Sniffnet](https://github.com/GyulyVGC/sniffnet/issues/975) 💬 2 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 41.3k | 🟢 beginner | 2026-08-28 | 🤖 disclose AI use |
+| [Docs: add a Wikipedia page about Sniffnet](https://github.com/GyulyVGC/sniffnet/issues/975) 💬 2 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 41.4k | 🟢 beginner | 2026-08-28 | 🤖 disclose AI use |
 | [Possibility to use Mutelist in DynamoDB to all providers](https://github.com/prowler-cloud/prowler/issues/5777) 💬 1 | [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) | 15k | 🟡 help wanted | 2026-08-28 |  |
 | [Add a public DNS resolver from an unrepresented region (Africa / South America / Middle East / Oceania)](https://github.com/jason5ng32/MyIP/issues/394) 💬 1 | [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) | 12.1k | 🟢 beginner | 2026-08-28 |  |
 | [Change how file writing is done to prevent issues with third-party cloud services](https://github.com/kitsumed/ShizuCallRecorder/issues/113) 💬 2 | [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) | 1.7k | 🟡 help wanted | 2026-08-28 | 🤖 disclose AI use |
@@ -116,7 +114,7 @@
 | [Update stats on Dashboard in real-time](https://github.com/AdguardTeam/AdGuardHome/issues/1739) 💬 10 | [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | 37.3k | 🟡 help wanted | 2026-08-03 |  |
 | [Wrong OS/ARCH for Docker Image](https://github.com/AdguardTeam/AdGuardHome/issues/1265) 💬 11 | [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | 37.3k | 🟡 help wanted | 2026-08-03 |  |
 | [Feature flag to enable QUIC for custom CAs](https://github.com/ungoogled-software/ungoogled-chromium/issues/3894) | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-08-01 |  |
-| [SOCKS5 Proxy/Orbot Support](https://github.com/ImranR98/Obtainium/issues/121) 💬 9 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.2k | 🟡 help wanted | 2026-07-31 | 📄 AI policy |
+| [SOCKS5 Proxy/Orbot Support](https://github.com/ImranR98/Obtainium/issues/121) 💬 9 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.3k | 🟡 help wanted | 2026-07-31 | 📄 AI policy |
 | [[android] Add instructions on how to add a missing TTS language](https://github.com/organicmaps/organicmaps/issues/6210) 💬 4 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.6k | 🟢 beginner | 2026-07-30 | 🔏 DCO |
 | [Distance to stop in route](https://github.com/organicmaps/organicmaps/issues/10784) 💬 10 | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 15.6k | 🟢 beginner | 2026-07-30 | 🔏 DCO |
 | [Visualize if a user is federated or local](https://github.com/zitadel/zitadel/issues/4594) 💬 2 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-30 |  |
@@ -167,7 +165,7 @@
 | [asymmetric key encryption in pkcs11 module does not work](https://github.com/OpenSC/OpenSC/issues/3144) 💬 2 | [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) | 3.1k | 🟢 beginner | 2026-06-26 | 🤖 disclose AI use |
 | [[Feature]: Migrate from SharedPreferences to Preferences DataStore](https://github.com/kitsumed/ShizuCallRecorder/issues/3) | [kitsumed/ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder) | 1.7k | 🟡 help wanted | 2026-06-26 | 🤖 disclose AI use |
 | [Notify user, when response of Hub Authentication takes a long time](https://github.com/cryptomator/cryptomator/issues/3162) 💬 3 | [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) | 16.3k | 🟢 beginner | 2026-06-24 |  |
-| [Can you added TV Version armv7 + 64](https://github.com/ImranR98/Obtainium/issues/2924) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.2k | 🟡 help wanted | 2026-06-23 | 📄 AI policy |
+| [Can you added TV Version armv7 + 64](https://github.com/ImranR98/Obtainium/issues/2924) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.3k | 🟡 help wanted | 2026-06-23 | 📄 AI policy |
 | [Bring back the scrollable-tabstrip flag](https://github.com/ungoogled-software/ungoogled-chromium/issues/3832) | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-06-22 |  |
 | [Segments \| Improve geographical segmentations: Continent & Regions segment are not clear](https://github.com/matomo-org/matomo/issues/11261) 💬 4 | [matomo-org/matomo](https://github.com/matomo-org/matomo) | 21.9k | 🟡 help wanted | 2026-06-22 |  |
 | [PT BR - Portuguese Brazil](https://github.com/itsfatduck/optimizerDuck/issues/34) 💬 1 | [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) | 10.3k | 🟢 beginner | 2026-06-16 |  |
@@ -210,5 +208,7 @@
 | [hide close button("x") on first half(first tab) of "split view"](https://github.com/ungoogled-software/ungoogled-chromium/issues/3771) | [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) | 27.9k | 🟡 help wanted | 2026-05-05 |  |
 | [Add moderation contact information or button? (report content feature)](https://github.com/PrivateBin/PrivateBin/issues/674) 💬 8 | [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) | 8.7k | 🟢 beginner | 2026-05-03 | 🤖 disclose AI use |
 | [Towards a centralized vulnerability database for Dependency-Track](https://github.com/DependencyTrack/dependency-track/issues/4122) 💬 14 | [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) | 4.3k | 🟡 help wanted | 2026-04-29 | ⚠️ AI restricted · 🔏 DCO |
+| [Add Homebrew cask to have a Sniffnet.app in Applications](https://github.com/GyulyVGC/sniffnet/issues/309) 💬 3 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 41.4k | 🟢 beginner | 2026-04-28 | 🤖 disclose AI use |
+| [FR: Add Ubuntu Change Logs for Updates](https://github.com/tailscale/tailscale/issues/314) 💬 5 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | 37.2k | 🟢 beginner | 2026-04-28 | 🔏 DCO |
 
-Showing the 200 most recently updated. See all 208 on the website.
+Showing the 200 most recently updated. See all 206 on the website.

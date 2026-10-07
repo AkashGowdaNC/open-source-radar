@@ -1,10 +1,10 @@
 # Scala issues
 
-**29** open issues (15 labeled for beginners) across **18** active Scala projects.
+**31** open issues (17 labeled for beginners) across **18** active Scala projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/scala.xml)
 
-> Updated automatically on **2026-10-07 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,8 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Make user & community blog Atom feeds discoverable](https://github.com/lichess-org/lila/issues/21960) 💬 5 | [lichess-org/lila](https://github.com/lichess-org/lila) | 18.8k | 🟢 beginner | 2026-10-07 | 🤖 disclose AI use |
+| [HTML bug: Puzzle theme selector descriptions missing](https://github.com/lichess-org/lila/issues/21988) 💬 1 | [lichess-org/lila](https://github.com/lichess-org/lila) | 18.8k | 🟢 beginner | 2026-10-07 | 🤖 disclose AI use |
 | [Support Typst raw blocks](https://github.com/scalameta/scalafmt/issues/5245) 💬 2 | [scalameta/scalafmt](https://github.com/scalameta/scalafmt) | 1.5k | 🟡 help wanted | 2026-10-06 |  |
 | [[Improvement] Update Spark Ranger plugin to 2.7.0](https://github.com/apache/kyuubi/issues/7234) 💬 2 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-09-29 | 🤖 disclose AI use · ✍️ CLA |
 | [Creating pull request via web API returns escaped response](https://github.com/gitbucket/gitbucket/issues/2306) 💬 7 | [gitbucket/gitbucket](https://github.com/gitbucket/gitbucket) | 9.4k | 🟡 help wanted | 2026-09-26 |  |
@@ -19,9 +21,9 @@
 | [Unable to create a routes file with same name as a method in Predef](https://github.com/playframework/playframework/issues/10204) 💬 7 | [playframework/playframework](https://github.com/playframework/playframework) | 12.6k | 🟡 help wanted | 2026-09-18 |  |
 | [EntityDecoder MediaRange translation](https://github.com/http4s/http4s/issues/4973) 💬 11 | [http4s/http4s](https://github.com/http4s/http4s) | 2.6k | 🟢 beginner | 2026-09-05 |  |
 | [[FEATURE] Extract kyuubiClientPrincipal/kyuubiClientKeytab from JDBC connection properties](https://github.com/apache/kyuubi/issues/6689) 💬 1 | [apache/kyuubi](https://github.com/apache/kyuubi) | 2.4k | 🟢 beginner | 2026-08-31 | 🤖 disclose AI use · ✍️ CLA |
-| [[feature]: Make methods like 'Kyo.collectAll' available in objects like 'Sync'](https://github.com/getkyo/kyo/issues/1640) 💬 2 | [getkyo/kyo](https://github.com/getkyo/kyo) | 816 | 🟢 beginner | 2026-08-28 |  |
-| [[actor] Opt-in per-actor dead-letter queue for unprocessed messages on shutdown](https://github.com/getkyo/kyo/issues/1690) | [getkyo/kyo](https://github.com/getkyo/kyo) | 816 | 🟡 help wanted | 2026-08-28 |  |
-| [[feature]: Kerberos auth for kyo-sql-postgres](https://github.com/getkyo/kyo/issues/1841) | [getkyo/kyo](https://github.com/getkyo/kyo) | 816 | 🟡 help wanted | 2026-08-28 |  |
+| [[feature]: Make methods like 'Kyo.collectAll' available in objects like 'Sync'](https://github.com/getkyo/kyo/issues/1640) 💬 2 | [getkyo/kyo](https://github.com/getkyo/kyo) | 817 | 🟢 beginner | 2026-08-28 |  |
+| [[actor] Opt-in per-actor dead-letter queue for unprocessed messages on shutdown](https://github.com/getkyo/kyo/issues/1690) | [getkyo/kyo](https://github.com/getkyo/kyo) | 817 | 🟡 help wanted | 2026-08-28 |  |
+| [[feature]: Kerberos auth for kyo-sql-postgres](https://github.com/getkyo/kyo/issues/1841) | [getkyo/kyo](https://github.com/getkyo/kyo) | 817 | 🟡 help wanted | 2026-08-28 |  |
 | [OrganizeImports: regex alternation (\|) in groups config doesn't match imports correctly](https://github.com/scalacenter/scalafix/issues/2477) 💬 4 | [scalacenter/scalafix](https://github.com/scalacenter/scalafix) | 875 | 🟢 beginner | 2026-08-27 |  |
 | [Board editor: possibly disable 960 Castling in standard](https://github.com/lichess-org/lila/issues/12926) 💬 9 | [lichess-org/lila](https://github.com/lichess-org/lila) | 18.8k | 🟢 beginner | 2026-08-15 | 🤖 disclose AI use |
 | [Clean constructor parameters for 'Indexer' and 'ScalaCli'](https://github.com/scalameta/metals/issues/4788) 💬 6 | [scalameta/metals](https://github.com/scalameta/metals) | 2.3k | 🟢 beginner | 2026-08-12 |  |

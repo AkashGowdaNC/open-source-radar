@@ -1,10 +1,10 @@
 # JavaScript issues
 
-**152** open issues (70 labeled for beginners) across **59** active JavaScript projects.
+**151** open issues (69 labeled for beginners) across **60** active JavaScript projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/javascript.xml)
 
-> Updated automatically on **2026-10-07 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,17 +12,18 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [[Marketplace] Add Cloudflare Workers KV plugin](https://github.com/ToolJet/ToolJet/issues/18238) 💬 1 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use |
+| [Add "Signature" component](https://github.com/ToolJet/ToolJet/issues/4859) 💬 4 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use |
 | [[Marketplace] Add Cloudflare AI Search plugin](https://github.com/ToolJet/ToolJet/issues/18240) 💬 1 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use |
-| [[Bug]: Time-to-break tray mode requests missing number icons above 99 minutes](https://github.com/hovancik/stretchly/issues/1858) 💬 1 | [hovancik/stretchly](https://github.com/hovancik/stretchly) | 6.6k | 🟢 beginner | 2026-10-07 | 🤖 disclose AI use |
-| [Add "Signature" component](https://github.com/ToolJet/ToolJet/issues/4859) 💬 4 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
+| [if i run node main.js it shows an error](https://github.com/mindcraft-bots/mindcraft/issues/764) 💬 2 | [mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft) | 5.8k | 🟡 help wanted | 2026-10-07 |  |
+| [Add a note for Windows 10 Firefox users to playready.html](https://github.com/Dash-Industry-Forum/dash.js/issues/4753) 💬 3 | [Dash-Industry-Forum/dash.js](https://github.com/Dash-Industry-Forum/dash.js) | 5.5k | 🟢 beginner | 2026-10-07 |  |
+| [BufferController.prepareForPlaybackSeek throws when sourceBufferSink is null](https://github.com/Dash-Industry-Forum/dash.js/issues/5150) | [Dash-Industry-Forum/dash.js](https://github.com/Dash-Industry-Forum/dash.js) | 5.5k | 🟢 beginner | 2026-10-07 |  |
 | [Allow integration with Pomerium proxy on GCP Cloud Run](https://github.com/ToolJet/ToolJet/issues/2798) 💬 1 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
 | [[Feature] Support Firestore Collection Group queries](https://github.com/ToolJet/ToolJet/issues/3802) 💬 2 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
 | [ScyllaDB data source integration](https://github.com/ToolJet/ToolJet/issues/3841) 💬 1 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
 | [Cannot deploy Tooljet when database uses a unix socket, likely due to a regression after wait-for-it was intro](https://github.com/ToolJet/ToolJet/issues/4618) 💬 4 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
 | [Allow S3 and other document storage solutions for app configuration storage](https://github.com/ToolJet/ToolJet/issues/4672) | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
 | [Encrypted HTTP headers in REST and GraphQL sources](https://github.com/ToolJet/ToolJet/issues/5113) 💬 1 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
-| [AWS S3 feature request - add a new operation called "Multipart Upload"](https://github.com/ToolJet/ToolJet/issues/5689) 💬 6 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 41k | 🟡 help wanted | 2026-10-06 | 🤖 disclose AI use |
-| [[FEATURE] Add tawk.to actions to Pipedream MCP](https://github.com/PipedreamHQ/pipedream/issues/22017) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-10-06 |  |
 | [Parse error for quoted export/import names](https://github.com/google/closure-compiler/issues/3961) 💬 3 | [google/closure-compiler](https://github.com/google/closure-compiler) | 7.7k | 🟡 help wanted | 2026-10-06 |  |
 | [BetterAuth to implement multi-user support, roles, external auth providers](https://github.com/louislam/uptime-kuma/issues/6200) 💬 13 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.2k | 🟡 help wanted | 2026-10-05 | ⚠️ AI restricted |
 | [[Feature request]: add some image examples](https://github.com/hovancik/stretchly/issues/1788) 💬 3 | [hovancik/stretchly](https://github.com/hovancik/stretchly) | 6.6k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use |
@@ -46,7 +47,6 @@
 | [Change the shortcut keys in tooltip titles to show 'cmd' on Mac instead of 'ctrl'](https://github.com/josdejong/jsoneditor/issues/1628) 💬 12 | [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) | 12.3k | 🟡 help wanted | 2026-09-13 |  |
 | [Implement an option to enable/disable date tags](https://github.com/josdejong/jsoneditor/issues/1553) 💬 5 | [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) | 12.3k | 🟡 help wanted | 2026-09-13 |  |
 | [enum dropdown in anyOf \\ oneOf](https://github.com/josdejong/jsoneditor/issues/1653) 💬 2 | [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) | 12.3k | 🟡 help wanted | 2026-09-13 |  |
-| [[TRIGGER]](https://github.com/PipedreamHQ/pipedream/issues/21956) | [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) | 11.7k | 🟢 beginner | 2026-09-10 |  |
 | [[BUG]: Background image is rendered at an incorrect size after box zoom followed by mouse wheel zoom out](https://github.com/plotly/plotly.js/issues/7914) 💬 8 | [plotly/plotly.js](https://github.com/plotly/plotly.js) | 18.4k | 🟢 beginner | 2026-09-09 | ⚠️ AI restricted |
 | [Decision tree visualization](https://github.com/lutzroeder/netron/issues/180) 💬 1 | [lutzroeder/netron](https://github.com/lutzroeder/netron) | 33.6k | 🟡 help wanted | 2026-09-08 |  |
 | [[Help] catch-all那里现在需要email worker，咋办？](https://github.com/maillab/cloud-mail/issues/564) 💬 2 | [maillab/cloud-mail](https://github.com/maillab/cloud-mail) | 14.6k | 🟡 help wanted | 2026-09-07 |  |
@@ -160,7 +160,6 @@
 | [Security improvement : refresh token (second token stored in localstorage)](https://github.com/idurar/idurar-erp-crm/issues/204) 💬 11 | [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) | 8.9k | 🟢 beginner | 2026-04-25 |  |
 | [[Feature request]: Modify "Pause Breaks" options](https://github.com/hovancik/stretchly/issues/1462) 💬 5 | [hovancik/stretchly](https://github.com/hovancik/stretchly) | 6.6k | 🟡 help wanted | 2026-04-23 | 🤖 disclose AI use |
 | [GameDig Discord Server Monitoring](https://github.com/louislam/uptime-kuma/issues/4304) 💬 7 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 92.2k | 🟢 beginner | 2026-04-21 | ⚠️ AI restricted |
-| [if i run node main.js it shows an error](https://github.com/mindcraft-bots/mindcraft/issues/764) 💬 1 | [mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft) | 5.8k | 🟡 help wanted | 2026-04-20 |  |
 | [[Bug]: Error 400 in ingress-nginx](https://github.com/plankanban/planka/issues/1567) 💬 2 | [plankanban/planka](https://github.com/plankanban/planka) | 12.6k | 🟡 help wanted | 2026-04-18 |  |
 | [RDP connection is not working](https://github.com/electerm/electerm/issues/3764) 💬 12 | [electerm/electerm](https://github.com/electerm/electerm) | 15.3k | 🟡 help wanted | 2026-04-17 |  |
 | [Documentation Translation (we first need committed translators)](https://github.com/highlightjs/highlight.js/issues/2777) 💬 22 | [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) | 25k | 🟢 beginner | 2026-04-16 | 🤖 disclose AI use |

@@ -1,10 +1,10 @@
 # C# issues
 
-**315** open issues (91 labeled for beginners) across **85** active C# projects.
+**313** open issues (92 labeled for beginners) across **84** active C# projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/csharp.xml)
 
-> Updated automatically on **2026-10-07 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -14,14 +14,14 @@
 | --- | --- | ---: | --- | --- | --- |
 | [Invalid 'CS8648' When the 'using' statement is inside a try-catch block](https://github.com/dotnet/roslyn/issues/85891) 💬 5 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-10-07 | ✍️ CLA |
 | [Address race in PerformanceCounterLib](https://github.com/dotnet/runtime/issues/90803) 💬 20 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-10-07 | ✍️ CLA |
+| [Add a Native AOT analyzer to raise an error with test methods from binary references](https://github.com/xunit/xunit/issues/3649) | [xunit/xunit](https://github.com/xunit/xunit) | 4.6k | 🟡 help wanted | 2026-10-07 |  |
+| [JSON property-name casing is inconsistent between JSON-RPC envelope and request params](https://github.com/modelcontextprotocol/csharp-sdk/issues/1897) 💬 2 | [modelcontextprotocol/csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) | 4.6k | 🟡 help wanted | 2026-10-07 |  |
 | [MQ: Enable Azure MCP Server to Query Recent Service Updates (e.g., Key Vault changes in last X days)](https://github.com/microsoft/mcp/issues/1073) 💬 5 | [microsoft/mcp](https://github.com/microsoft/mcp) | 3.7k | 🟡 help wanted | 2026-10-07 |  |
 | [User Secrets broke on different first word capitalization](https://github.com/dotnet/aspnetcore/issues/8602) 💬 4 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38.5k | 🟡 help wanted | 2026-10-06 | ✍️ CLA |
 | [Adds Futures Fill Model](https://github.com/QuantConnect/Lean/issues/4605) 💬 2 | [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 21.9k | 🟢 beginner | 2026-10-06 |  |
-| [DefaultDateFormat option](https://github.com/MudBlazor/MudBlazor/issues/10319) 💬 4 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟡 help wanted | 2026-10-06 |  |
 | [Enhancement: create ActorTaskScheduler overload that schedules Task to dispatcher without blocking current act](https://github.com/akkadotnet/akka.net/issues/4363) 💬 3 | [akkadotnet/akka.net](https://github.com/akkadotnet/akka.net) | 5.1k | 🟡 help wanted | 2026-10-06 |  |
 | [Document types of supported queries and semantics](https://github.com/akkadotnet/akka.net/issues/5723) 💬 3 | [akkadotnet/akka.net](https://github.com/akkadotnet/akka.net) | 5.1k | 🟡 help wanted | 2026-10-06 |  |
 | ['Akka.Tests.Actor.ActorCellSpec.Cell_should_clear_current_message_after_receive' fails with NRE](https://github.com/akkadotnet/akka.net/issues/6283) | [akkadotnet/akka.net](https://github.com/akkadotnet/akka.net) | 5.1k | 🟡 help wanted | 2026-10-06 |  |
-| [Add support for numerical enum values](https://github.com/microsoft/kiota/issues/5165) 💬 12 | [microsoft/kiota](https://github.com/microsoft/kiota) | 3.8k | 🟡 help wanted | 2026-10-06 | ✍️ CLA |
 | [[Improvement & Bugfix] Fallback decoder for 8-bit grayscale PNGs (industrial/matrix) & embedded localization f](https://github.com/Ruben2776/PicView/issues/403) 💬 5 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.6k | 🟡 help wanted | 2026-10-06 |  |
 | [Duplicate embedded resource error for EmbeddedResource with different LogicalNames](https://github.com/dotnet/sdk/issues/2657) 💬 4 | [dotnet/sdk](https://github.com/dotnet/sdk) | 3.2k | 🟢 beginner | 2026-10-06 |  |
 | [Perf-trap with 'IBinaryInteger&lt;T&gt;.WriteLittleEndian'](https://github.com/dotnet/runtime/issues/77969) 💬 6 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-10-05 | ✍️ CLA |
@@ -129,6 +129,7 @@
 | [MemoryExtensions: multi-value IndexOfAny/IndexOfAnyExcept/LastIndexOfAny/LastIndexOfAnyExcept missing int/long](https://github.com/dotnet/runtime/issues/131367) 💬 8 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-14 | ✍️ CLA |
 | [Add CanSelect property to MudTreeViewItem](https://github.com/MudBlazor/MudBlazor/issues/11195) 💬 1 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-09-14 |  |
 | [TensorPrimitives.MinNumber(ReadOnlySpan&lt;T&gt;) incorrectly propagates NaN](https://github.com/dotnet/runtime/issues/133346) 💬 2 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-13 | ✍️ CLA |
+| [Numeric Field does not support Percent format](https://github.com/MudBlazor/MudBlazor/issues/11241) 💬 7 | [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor) | 10.6k | 🟢 beginner | 2026-09-13 |  |
 | [dotnet build /v:q is not as quiet as msbuild /v:q](https://github.com/dotnet/sdk/issues/10032) 💬 20 | [dotnet/sdk](https://github.com/dotnet/sdk) | 3.2k | 🟢 beginner | 2026-09-13 |  |
 | [There is an inconsistency in behavior between 'string.Format(IFormatProvider?, string, *)' and 'string.Format(](https://github.com/dotnet/runtime/issues/119756) 💬 3 | [dotnet/runtime](https://github.com/dotnet/runtime) | 18.3k | 🟡 help wanted | 2026-09-12 | ✍️ CLA |
 | [The Hebrew translation is a complete mess.](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/issues/1219) 💬 3 | [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) | 9.7k | 🟡 help wanted | 2026-09-12 |  |
@@ -169,9 +170,6 @@
 | [Setting 'ListView.CheckBoxes' after 'ListView.StateImageList' destroys imagelist](https://github.com/dotnet/winforms/issues/3531) 💬 2 | [dotnet/winforms](https://github.com/dotnet/winforms) | 4.9k | 🟡 help wanted | 2026-08-26 |  |
 | [[ONBOARD] Azure Arc Developer Scenarios](https://github.com/microsoft/mcp/issues/163) 💬 1 | [microsoft/mcp](https://github.com/microsoft/mcp) | 3.7k | 🟡 help wanted | 2026-08-26 |  |
 | [feat: Add Azure Synapse Analytics tools to Azure MCP Server](https://github.com/microsoft/mcp/issues/2122) 💬 3 | [microsoft/mcp](https://github.com/microsoft/mcp) | 3.7k | 🟡 help wanted | 2026-08-26 |  |
-| [[Bug]: Inconsistent examples/schemas generated for types](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/issues/3006) 💬 4 | [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) | 5.5k | 🟡 help wanted | 2026-08-25 | 🤖 disclose AI use |
-| [[Bug]: Request Body not display in minimal api](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/issues/3179) 💬 3 | [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) | 5.5k | 🟡 help wanted | 2026-08-25 | 🤖 disclose AI use |
-| [[Bug] Discriminated polymorphism does not populate anyOf and oneOf, in contrast with Swagger documentation](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/issues/3166) 💬 1 | [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) | 5.5k | 🟡 help wanted | 2026-08-25 | 🤖 disclose AI use |
 | [Add prompt for the delete keybinding controller button in the keybindings menu](https://github.com/Revolutionary-Games/Thrive/issues/4049) 💬 17 | [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) | 3.7k | 🟢 beginner | 2026-08-25 |  |
 | [Title: [Feature Request] Add simple annotation tools: arrow marker and mosaic blur](https://github.com/Ruben2776/PicView/issues/350) | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.6k | 🟡 help wanted | 2026-08-24 |  |
 | [Customizable user-defined actions (in the context menu)](https://github.com/Ruben2776/PicView/issues/383) | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.6k | 🟡 help wanted | 2026-08-24 |  |
@@ -212,5 +210,7 @@
 | [Capitalization of build folders names in case sensitive OS's](https://github.com/dotnet/sdk/issues/375) 💬 16 | [dotnet/sdk](https://github.com/dotnet/sdk) | 3.2k | 🟡 help wanted | 2026-08-11 |  |
 | [Improve parser error recovery for misplaced 'ref' modifier of a struct declaration](https://github.com/dotnet/roslyn/issues/84734) 💬 5 | [dotnet/roslyn](https://github.com/dotnet/roslyn) | 20.7k | 🟡 help wanted | 2026-08-10 | ✍️ CLA |
 | ["Playlist not available" for public playlist](https://github.com/Tyrrrz/YoutubeDownloader/issues/732) 💬 2 | [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | 16.4k | 🟡 help wanted | 2026-08-10 |  |
+| [macOS: Cannot open image by double-click when path contains special characters like []&lt;&gt;](https://github.com/Ruben2776/PicView/issues/336) 💬 1 | [Ruben2776/PicView](https://github.com/Ruben2776/PicView) | 3.6k | 🟡 help wanted | 2026-08-10 |  |
+| [HttpRuleParser GetExpressionLength allows invalid characters.](https://github.com/dotnet/aspnetcore/issues/2694) 💬 2 | [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38.5k | 🟡 help wanted | 2026-08-09 | ✍️ CLA |
 
-Showing the 200 most recently updated. See all 315 on the website.
+Showing the 200 most recently updated. See all 313 on the website.

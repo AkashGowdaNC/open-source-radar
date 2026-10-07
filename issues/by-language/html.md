@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/html.xml)
 
-> Updated automatically on **2026-10-07 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -34,8 +34,8 @@
 | [(1.37) Move resource managers page to new section](https://github.com/kubernetes/website/issues/56615) 💬 4 | [kubernetes/website](https://github.com/kubernetes/website) | 5.4k | 🟡 help wanted | 2026-09-09 |  |
 | [Check for obsoletes](https://github.com/mgaudet/CompilerJobs/issues/83) 💬 5 | [mgaudet/CompilerJobs](https://github.com/mgaudet/CompilerJobs) | 782 | 🟢 beginner | 2026-09-08 |  |
 | [Translation needed for existing languages](https://github.com/sumn2u/learn-javascript/issues/346) 💬 2 | [sumn2u/learn-javascript](https://github.com/sumn2u/learn-javascript) | 1.1k | 🟢 beginner | 2026-08-29 |  |
-| [功能增强：为RPG MV 和 RPG MZ增加汉化功能](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/36) 💬 1 | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 578 | 🟢 beginner | 2026-08-27 |  |
-| [功能增强：添加外置显式跳转的支持](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/28) | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 578 | 🟢 beginner | 2026-08-25 |  |
+| [功能增强：为RPG MV 和 RPG MZ增加汉化功能](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/36) 💬 1 | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 581 | 🟢 beginner | 2026-08-27 |  |
+| [功能增强：添加外置显式跳转的支持](https://github.com/Weiss-UltimateSavior/Tyranor-Next/issues/28) | [Weiss-UltimateSavior/Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) | 581 | 🟢 beginner | 2026-08-25 |  |
 | [Add play store promo](https://github.com/openfoodfacts/openfoodfacts-server/issues/604) 💬 6 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟢 beginner | 2026-08-21 | 🤖 disclose AI use |
 | [addTagOnEnter setting](https://github.com/yairEO/tagify/issues/1500) 💬 5 | [yairEO/tagify](https://github.com/yairEO/tagify) | 3.9k | 🟡 help wanted | 2026-08-17 |  |
 | [[HELP] Access control by Cloudflare IPs](https://github.com/tobychui/zoraxy/issues/761) 💬 7 | [tobychui/zoraxy](https://github.com/tobychui/zoraxy) | 5.5k | 🟡 help wanted | 2026-08-16 |  |
@@ -88,7 +88,7 @@
 | [Add Open Props emitter ('&lt;host&gt;-open-props.css')](https://github.com/Manavarya09/design-extract/issues/106) | [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) | 4.2k | 🟢 beginner | 2026-05-16 |  |
 | [Browsing through the source code - possible bug in PackageUtilities?](https://github.com/NuGet/Home/issues/9724) 💬 1 | [NuGet/Home](https://github.com/NuGet/Home) | 1.6k | 🟢 beginner | 2026-05-10 |  |
 | [NullReferenceException during list package in NuGet.CommandLine.XPlat](https://github.com/NuGet/Home/issues/13397) 💬 14 | [NuGet/Home](https://github.com/NuGet/Home) | 1.6k | 🟡 help wanted | 2026-05-06 |  |
-| [zh_cn Translation ambiguity in Chapter "Collections Types" of Scala 3 Book](https://github.com/scala/docs.scala-lang/issues/3257) 💬 3 | [scala/docs.scala-lang](https://github.com/scala/docs.scala-lang) | 575 | 🟡 help wanted | 2026-05-06 |  |
+| [zh_cn Translation ambiguity in Chapter "Collections Types" of Scala 3 Book](https://github.com/scala/docs.scala-lang/issues/3257) 💬 3 | [scala/docs.scala-lang](https://github.com/scala/docs.scala-lang) | 574 | 🟡 help wanted | 2026-05-06 |  |
 | [Swipe for pagination of search results](https://github.com/openfoodfacts/openfoodfacts-server/issues/1029) 💬 2 | [openfoodfacts/openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) | 1.2k | 🟡 help wanted | 2026-05-05 | 🤖 disclose AI use |
 | [OpenMoji Request: Cranberries](https://github.com/hfg-gmuend/openmoji/issues/633) 💬 8 | [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) | 4.6k | 🟡 help wanted | 2026-05-03 |  |
 | [[HELP] CORS Error with Immich](https://github.com/tobychui/zoraxy/issues/680) 💬 3 | [tobychui/zoraxy](https://github.com/tobychui/zoraxy) | 5.5k | 🟡 help wanted | 2026-04-22 |  |

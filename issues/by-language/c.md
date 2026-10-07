@@ -1,10 +1,10 @@
 # C issues
 
-**157** open issues (39 labeled for beginners) across **64** active C projects.
+**153** open issues (39 labeled for beginners) across **62** active C projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/c.xml)
 
-> Updated automatically on **2026-10-07 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,16 +12,16 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Implement RFC 10032](https://github.com/openssl/openssl/issues/33064) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · ✍️ CLA |
 | [SSH corruptions with 3.0.13 on AARCH64](https://github.com/openssl/openssl/issues/33072) 💬 3 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · ✍️ CLA |
 | [resource access monitor / tracing doc and current recommendations](https://github.com/sandboxie-plus/Sandboxie/issues/1915) 💬 4 | [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | 19.6k | 🟡 help wanted | 2026-10-07 |  |
 | [Feature Request: Add libnnzsrv.so (Oracle) TLS master secret extraction support](https://github.com/gojue/ecapture/issues/999) | [gojue/ecapture](https://github.com/gojue/ecapture) | 15.5k | 🟡 help wanted | 2026-10-07 |  |
 | [faketime causes indefinite hangs in some complex runtimes, like firefox and Sun Java JDK/JRE](https://github.com/wolfcw/libfaketime/issues/373) 💬 1 | [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) | 3.1k | 🟡 help wanted | 2026-10-07 |  |
 | [Monotonic timerfd not skipped even if env var is set](https://github.com/wolfcw/libfaketime/issues/378) 💬 3 | [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) | 3.1k | 🟡 help wanted | 2026-10-07 |  |
+| [Make Wycheproof CI (network) failure resistant](https://github.com/open-quantum-safe/liboqs/issues/2495) 💬 5 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-07 |  |
 | [[YSQL] Side-by-side diff doesn't pick best expectfile](https://github.com/yugabyte/yugabyte-db/issues/28716) 💬 2 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.6k | 🟡 help wanted | 2026-10-06 |  |
-| [Make Wycheproof CI (network) failure resistant](https://github.com/open-quantum-safe/liboqs/issues/2495) 💬 4 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-06 |  |
 | [Allow all system tray icons to be displayed on the dock.](https://github.com/microsoft/PowerToys/issues/46232) 💬 10 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.3k | 🟡 help wanted | 2026-10-05 |  |
 | [04-test_bio_dgram.t hangs on HP-UX (hpux-ipf32 and hpux-ipf64, IA64)](https://github.com/openssl/openssl/issues/33112) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · ✍️ CLA |
-| [Remove priority queue from tree](https://github.com/openssl/openssl/issues/32983) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · ✍️ CLA |
 | [DPI Clutch and middle mouse not working (Razer Basilisk V3 X HyperSpeed)](https://github.com/openrazer/openrazer/issues/2591) 💬 9 | [openrazer/openrazer](https://github.com/openrazer/openrazer) | 4.5k | 🟡 help wanted | 2026-10-05 |  |
 | [Build Error with new configuration BC-64 for Embarcadero-Borland Clang Compiler 64bit](https://github.com/openssl/openssl/issues/26452) 💬 14 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-04 | 🤖 disclose AI use · ✍️ CLA |
 | [[Bug] DOIO KB16-01 (rev1) large knob registers two inputs per detent](https://github.com/qmk/qmk_firmware/issues/26378) 💬 3 | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-10-04 |  |
@@ -31,15 +31,13 @@
 | [kew roadmap: "Project Joy"](https://github.com/ravachol/kew/issues/575) 💬 76 | [ravachol/kew](https://github.com/ravachol/kew) | 3.1k | 🟡 help wanted | 2026-10-03 |  |
 | [Maintain Previously Set Volume Level for Powertoys Peek after Every Reboot](https://github.com/microsoft/PowerToys/issues/31810) 💬 1 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 139.3k | 🟡 help wanted | 2026-10-01 |  |
 | [OpenSSL retains consumed TLS 1.3 stage secrets](https://github.com/openssl/openssl/issues/32213) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
-| [get_crl callback: revocation reasons accumulation broken for multiple CDPs, causes X509_V_ERR_UNABLE_TO_GET_CR](https://github.com/openssl/openssl/issues/33055) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [Cleanup in EVP_SKEY from PKCS#12 files processing](https://github.com/openssl/openssl/issues/33041) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [SSL_load_client_CA_file ignores TRUSTED CERTIFICATE PEM blocks](https://github.com/openssl/openssl/issues/33020) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
-| [Implement RFC 10032](https://github.com/openssl/openssl/issues/33064) 💬 1 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-10-01 | 🤖 disclose AI use · ✍️ CLA |
 | [Adding FAEST](https://github.com/open-quantum-safe/liboqs/issues/2101) 💬 14 | [open-quantum-safe/liboqs](https://github.com/open-quantum-safe/liboqs) | 3.1k | 🟡 help wanted | 2026-10-01 |  |
 | [Large test input file distributed with latest 3.0/3.5 releases](https://github.com/openssl/openssl/issues/32603) 💬 5 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-30 | 🤖 disclose AI use · ✍️ CLA |
 | [[Bug] GMMK Pro rev1 ANSI: LEDs on first AW20216S driver stay dark on master; fixed by lowering SPI speed](https://github.com/qmk/qmk_firmware/issues/26492) | [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) | 20.7k | 🟡 help wanted | 2026-09-30 |  |
 | [Bank MSB shouldn't always be ignored in XG mode](https://github.com/FluidSynth/fluidsynth/issues/1378) 💬 26 | [FluidSynth/fluidsynth](https://github.com/FluidSynth/fluidsynth) | 2.5k | 🟡 help wanted | 2026-09-29 |  |
-| [[Experiment] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 40.2k | 🟡 help wanted | 2026-09-27 |  |
+| [[Experiment] expert-transition-history placement policy vs gate-momentum — controlled A/B for hypothesis #1](https://github.com/JustVugg/colibri/issues/708) 💬 12 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | 40.3k | 🟡 help wanted | 2026-09-27 |  |
 | [openssl cms sign command does not support 'noattr' when 'digest' is used](https://github.com/openssl/openssl/issues/28743) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-27 | 🤖 disclose AI use · ✍️ CLA |
 | [[robustness] -purpose crlsign\|ocsphelper infers aux-blind X509_TRUST_COMPAT (x509_vfy.c:2621) → anchor REJECT](https://github.com/openssl/openssl/issues/32365) 💬 2 | [openssl/openssl](https://github.com/openssl/openssl) | 30.9k | 🟡 help wanted | 2026-09-26 | 🤖 disclose AI use · ✍️ CLA |
 | [Extensions for browser support monitoring](https://github.com/axel-download-accelerator/axel/issues/346) 💬 5 | [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) | 3.4k | 🟡 help wanted | 2026-09-26 |  |
@@ -141,7 +139,6 @@
 | [Find functions that perform temporary seek from the API and refactor to use the offset argument if possible](https://github.com/rizinorg/rizin/issues/2906) 💬 3 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-14 | 🤖 disclose AI use |
 | [Blank screen on previous window when opening a new one](https://github.com/ahrm/sioyek/issues/1155) 💬 35 | [ahrm/sioyek](https://github.com/ahrm/sioyek) | 9.9k | 🟡 help wanted | 2026-06-12 |  |
 | [Android (APK) build target](https://github.com/joncampbell123/dosbox-x/issues/959) 💬 61 | [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x) | 3.8k | 🟡 help wanted | 2026-06-10 |  |
-| [Unsupported profile](https://github.com/i12bp8/TagTinker/issues/36) 💬 28 | [i12bp8/TagTinker](https://github.com/i12bp8/TagTinker) | 2k | 🟡 help wanted | 2026-06-09 |  |
 | [Core files not being created on SIGSEGV in ASAN/TSAN mode](https://github.com/yugabyte/yugabyte-db/issues/228) 💬 1 | [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) | 10.6k | 🟢 beginner | 2026-06-08 |  |
 | ['rz-asm' assembly results may be not correct](https://github.com/rizinorg/rizin/issues/1834) 💬 8 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-07 | 🤖 disclose AI use |
 | [XAP: add missing opcodes](https://github.com/rizinorg/rizin/issues/4661) 💬 5 | [rizinorg/rizin](https://github.com/rizinorg/rizin) | 3.9k | 🟢 beginner | 2026-06-07 | 🤖 disclose AI use |
@@ -168,4 +165,3 @@
 | [Tdengine 3.2.0.0.0 集群环境下同步数据慢慢慢慢](https://github.com/taosdata/TDengine/issues/34802) 💬 3 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-04-14 |  |
 | [导入数据集时遇到了性能问题](https://github.com/taosdata/TDengine/issues/34980) 💬 2 | [taosdata/TDengine](https://github.com/taosdata/TDengine) | 25.2k | 🟡 help wanted | 2026-04-14 |  |
 | [[RFC] Run-time dynamic linking support](https://github.com/wasm-micro-runtime/wasm-micro-runtime/issues/495) | [wasm-micro-runtime/wasm-micro-runtime](https://github.com/wasm-micro-runtime/wasm-micro-runtime) | 6.1k | 🟡 help wanted | 2026-04-13 |  |
-| [blink-common: Is 'caps.keep sys_admin' necessary?](https://github.com/netblue30/firejail/issues/7070) 💬 17 | [netblue30/firejail](https://github.com/netblue30/firejail) | 7.7k | 🟡 help wanted | 2026-04-10 |  |

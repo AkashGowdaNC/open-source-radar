@@ -1,10 +1,10 @@
 # Clojure issues
 
-**13** open issues (10 labeled for beginners) across **9** active Clojure projects.
+**14** open issues (11 labeled for beginners) across **9** active Clojure projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/clojure.xml)
 
-> Updated automatically on **2026-10-07 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,6 +12,7 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [Close workspace search with the Escape key](https://github.com/penpot/penpot/issues/9540) 💬 2 | [penpot/penpot](https://github.com/penpot/penpot) | 60.8k | 🟢 beginner | 2026-10-07 | 🤖 disclose AI use · 🔏 DCO |
 | [What companies or projects are using Datalevin?](https://github.com/datalevin/datalevin/issues/383) 💬 7 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | 1.5k | 🟡 help wanted | 2026-10-07 |  |
 | [Page is duplicated in favorites after renaming](https://github.com/logseq/logseq/issues/8596) 💬 4 | [logseq/logseq](https://github.com/logseq/logseq) | 45.2k | 🟢 beginner | 2026-10-01 | ✍️ CLA |
 | [Web Search Tool](https://github.com/editor-code-assistant/eca/issues/70) 💬 8 | [editor-code-assistant/eca](https://github.com/editor-code-assistant/eca) | 1k | 🟢 beginner | 2026-09-15 |  |

@@ -4,7 +4,7 @@
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/dart.xml)
 
-> Updated automatically on **2026-10-07 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -25,7 +25,7 @@
 | [Handle MainActivity destruction on Android (like retrieveLostData of ImagePicker)](https://github.com/vicajilau/flutter_file_picker/issues/1258) 💬 12 | [vicajilau/flutter_file_picker](https://github.com/vicajilau/flutter_file_picker) | 1.6k | 🟡 help wanted | 2026-09-10 |  |
 | [[Feature Request] Support range versions](https://github.com/leoafarias/fvm/issues/751) 💬 1 | [leoafarias/fvm](https://github.com/leoafarias/fvm) | 5.5k | 🟡 help wanted | 2026-09-08 |  |
 | [Migration guide Firebase to Serverpod](https://github.com/serverpod/serverpod/issues/3337) 💬 8 | [serverpod/serverpod](https://github.com/serverpod/serverpod) | 3.3k | 🟢 beginner | 2026-09-07 |  |
-| [ci: enable the use of a dependancy bot](https://github.com/ImranR98/Obtainium/issues/3275) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.2k | 🟢 beginner | 2026-09-06 | 📄 AI policy |
+| [ci: enable the use of a dependancy bot](https://github.com/ImranR98/Obtainium/issues/3275) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.3k | 🟢 beginner | 2026-09-06 | 📄 AI policy |
 | [[Flatpak] Auth: Failed to launch: libsecret_error: Failed to unlock the keyring](https://github.com/ente/ente/issues/6564) 💬 6 | [ente/ente](https://github.com/ente/ente) | 29.3k | 🟡 help wanted | 2026-09-03 |  |
 | [Create integration test for 'appFlavor'](https://github.com/getsentry/sentry-dart/issues/1802) | [getsentry/sentry-dart](https://github.com/getsentry/sentry-dart) | 873 | 🟢 beginner | 2026-09-01 |  |
 | [Add option maxCacheSize](https://github.com/getsentry/sentry-dart/issues/1830) 💬 1 | [getsentry/sentry-dart](https://github.com/getsentry/sentry-dart) | 873 | 🟢 beginner | 2026-09-01 |  |
@@ -38,15 +38,15 @@
 | [Ente Auth iOS: slow unlock](https://github.com/ente/ente/issues/4749) 💬 10 | [ente/ente](https://github.com/ente/ente) | 29.3k | 🟢 beginner | 2026-08-11 |  |
 | [Add a method to check whether the platform supports dynamic theming](https://github.com/material-foundation/flutter-packages/issues/390) 💬 7 | [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages) | 864 | 🟡 help wanted | 2026-08-07 |  |
 | [Improve development experience](https://github.com/material-foundation/flutter-packages/issues/299) | [material-foundation/flutter-packages](https://github.com/material-foundation/flutter-packages) | 864 | 🟡 help wanted | 2026-08-07 |  |
-| [iOS版本播放界面侧滑返回](https://github.com/Predidit/Kazumi/issues/2427) | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 31.4k | 🟡 help wanted | 2026-08-04 |  |
-| [SOCKS5 Proxy/Orbot Support](https://github.com/ImranR98/Obtainium/issues/121) 💬 9 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.2k | 🟡 help wanted | 2026-07-31 | 📄 AI policy |
+| [iOS版本播放界面侧滑返回](https://github.com/Predidit/Kazumi/issues/2427) | [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 31.5k | 🟡 help wanted | 2026-08-04 |  |
+| [SOCKS5 Proxy/Orbot Support](https://github.com/ImranR98/Obtainium/issues/121) 💬 9 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.3k | 🟡 help wanted | 2026-07-31 | 📄 AI policy |
 | [gif 动态图打开后不会动态显示](https://github.com/fregie/pho/issues/28) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 |  |
 | [希望可以加入收藏功能](https://github.com/fregie/pho/issues/5) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 |  |
 | [可以支援繁體中文嗎?](https://github.com/fregie/pho/issues/76) 💬 1 | [fregie/pho](https://github.com/fregie/pho) | 1.2k | 🟢 beginner | 2026-07-29 |  |
 | [[content] Add more flexible mechanism for 'FilesystemLoader' to ignore paths](https://github.com/schultek/jaspr/issues/789) | [schultek/jaspr](https://github.com/schultek/jaspr) | 2.5k | 🟢 beginner | 2026-07-16 |  |
 | [[Inspector V2] Widget properties tab highlight extends past its rounded edge](https://github.com/flutter/devtools/issues/8936) 💬 3 | [flutter/devtools](https://github.com/flutter/devtools) | 1.7k | 🟡 help wanted | 2026-07-03 | 📄 AI policy · ✍️ CLA |
 | [Text alignment issue in mobile app – A1 Professional Spanish Certification](https://github.com/freeCodeCamp/mobile/issues/1731) 💬 4 | [freeCodeCamp/mobile](https://github.com/freeCodeCamp/mobile) | 582 | 🟢 beginner | 2026-07-01 |  |
-| [Can you added TV Version armv7 + 64](https://github.com/ImranR98/Obtainium/issues/2924) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.2k | 🟡 help wanted | 2026-06-23 | 📄 AI policy |
+| [Can you added TV Version armv7 + 64](https://github.com/ImranR98/Obtainium/issues/2924) 💬 3 | [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) | 20.3k | 🟡 help wanted | 2026-06-23 | 📄 AI policy |
 | [App Crashes while Scrolling Broadcast Carousel](https://github.com/lichess-org/mobile/issues/1769) 💬 2 | [lichess-org/mobile](https://github.com/lichess-org/mobile) | 2.6k | 🟡 help wanted | 2026-06-14 | 🤖 disclose AI use |
 | [[typed_sql] MariaDB and MySQL support](https://github.com/google/dart-neats/issues/330) | [google/dart-neats](https://github.com/google/dart-neats) | 509 | 🟡 help wanted | 2026-06-09 | ✍️ CLA |
 | [[Feature Request] implement a flickering method to introduce grayscale](https://github.com/fossasia/badgemagic-app/issues/1671) 💬 4 | [fossasia/badgemagic-app](https://github.com/fossasia/badgemagic-app) | 2k | 🟡 help wanted | 2026-06-04 |  |

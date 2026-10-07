@@ -1,10 +1,10 @@
 # Go issues
 
-**329** open issues (77 labeled for beginners) across **81** active Go projects.
+**333** open issues (77 labeled for beginners) across **81** active Go projects.
 
 [RSS feed](https://tanbirramim.github.io/open-source-radar/feeds/go.xml)
 
-> Updated automatically on **2026-10-07 12:39 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
+> Updated automatically on **2026-10-07 22:59 UTC**. Every issue listed here was open, unassigned and without an open or merged pull request when it was collected. Always read the issue and the project's contributing guide before you start.
 >
 > Prefer filters and search? Use the [website](https://tanbirramim.github.io/open-source-radar/). New here? Start with the [guide](../../guide/README.md).
 
@@ -12,35 +12,40 @@
 
 | Issue | Repository | Stars | Level | Updated | Notes |
 | --- | --- | ---: | --- | --- | --- |
+| [all: flaky failures on netbsd/arm](https://github.com/golang/go/issues/73820) 💬 761 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-07 |  |
+| [runtime: flaky failures on NetBSD since CL 526118](https://github.com/golang/go/issues/62524) 💬 170 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-07 |  |
+| [runtime: deadlock while stopping the world (most recently openbsd/amd64)](https://github.com/golang/go/issues/62541) 💬 20 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-07 |  |
+| [x/pkgsite: incorrect rewriting of the repository URL](https://github.com/golang/go/issues/79690) 💬 6 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-07 |  |
 | [runtime: linux/s390x test timeout](https://github.com/golang/go/issues/60413) 💬 883 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-07 |  |
+| [skiped e2e test for PodResources API](https://github.com/kubernetes/kubernetes/issues/133326) 💬 18 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 128.4k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · ✍️ CLA |
+| [node_e2e: Cleanup configuration and rename jenkins/ directory](https://github.com/kubernetes/kubernetes/issues/106119) 💬 15 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 128.4k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · ✍️ CLA |
+| [Clean up features for SIG Node e2e tests](https://github.com/kubernetes/kubernetes/issues/134172) 💬 10 | [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) | 128.4k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · ✍️ CLA |
+| [Explain every exclusion in the storage integration capabilities skip lists](https://github.com/jaegertracing/jaeger/issues/9788) | [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | 23.3k | 🟡 help wanted | 2026-10-07 | 📄 AI policy · 🔏 DCO |
 | [[Bug]: Registration / Privacy Policy Link without Checkbox / German DSVGO](https://github.com/zitadel/zitadel/issues/10130) 💬 3 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-10-07 |  |
 | [[Bug]: X-Forwarded-User and X-Forwarded-Email headers not returned when using auth-url mode with Ingress](https://github.com/oauth2-proxy/oauth2-proxy/issues/3127) 💬 2 | [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) | 15.1k | 🟡 help wanted | 2026-10-07 | 🤖 disclose AI use · 🔏 DCO |
 | [cmd/go: versioned package doc shows unexpected doc for stdlib](https://github.com/golang/go/issues/81670) 💬 5 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-06 |  |
 | [cmd/go: use cached copy instead of GOTMPDIR archive](https://github.com/golang/go/issues/81727) 💬 3 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-06 |  |
 | [runtime/race: TestRace failures in RaceWaitGroupWrongAdd](https://github.com/golang/go/issues/64038) 💬 46 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-06 |  |
-| [runtime: deadlock while stopping the world (most recently openbsd/amd64)](https://github.com/golang/go/issues/62541) 💬 19 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-06 |  |
-| [all: flaky failures on netbsd/arm](https://github.com/golang/go/issues/73820) 💬 760 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-06 |  |
-| [runtime: flaky failures on NetBSD since CL 526118](https://github.com/golang/go/issues/62524) 💬 169 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-06 |  |
 | [cmd/go: cache hit takes too long on a test that opens many files](https://github.com/golang/go/issues/26726) 💬 17 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-06 |  |
 | [cmd/go: test cached run slower than real test run](https://github.com/golang/go/issues/26562) 💬 14 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-06 |  |
 | [runtime: "unexpected signal during runtime execution" during bgscavenge on plan9](https://github.com/golang/go/issues/35456) 💬 98 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-06 |  |
-| [Wanted: Who is using Open Code Review? Please leave a comment!](https://github.com/alibaba/open-code-review/issues/1020) 💬 15 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 44.1k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · ✍️ CLA |
-| [changefeedccl: make a changefeed setting for sink IO workers](https://github.com/cockroachdb/cockroach/issues/154546) 💬 6 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [changefeedccl: add a log when a session disconnect causes a sinkless feed to stop](https://github.com/cockroachdb/cockroach/issues/154379) 💬 3 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [kv,rpc: adopt static labels](https://github.com/cockroachdb/cockroach/issues/150493) 💬 3 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [changefeedccl: incorrect metric types](https://github.com/cockroachdb/cockroach/issues/134547) 💬 4 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [changefeedccl: support azure-blob prefix for azure blob storage sink](https://github.com/cockroachdb/cockroach/issues/124074) 💬 4 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [changefeedccl: fix flush_hist_nanos callback in cloud storage and webhook sinks](https://github.com/cockroachdb/cockroach/issues/121248) 💬 2 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [changefeedccl: emittedmessages metric resolved messages semantics aren't consistent](https://github.com/cockroachdb/cockroach/issues/111043) 💬 2 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [cdc: allow changefeeds on materialized views](https://github.com/cockroachdb/cockroach/issues/105730) 💬 3 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [logictest: randomize hash-sharding primary and secondary indexes](https://github.com/cockroachdb/cockroach/issues/87210) 💬 1 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [scplan: presence of a NotImplemented op in a plan should throw an error](https://github.com/cockroachdb/cockroach/issues/83672) | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [changefeedccl: decrease PTS increment if gcttl is lower](https://github.com/cockroachdb/cockroach/issues/83195) 💬 2 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [sql/catalog/lease: NameCache is not timestamp aware](https://github.com/cockroachdb/cockroach/issues/80107) 💬 2 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [sql: add tooling to delete data for a lost table index, specifically](https://github.com/cockroachdb/cockroach/issues/77153) 💬 1 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [geo/geomfn: implement ST_LocateBetweenElevations({geometry,float8,float8})](https://github.com/cockroachdb/cockroach/issues/60889) 💬 1 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [geo/geomfn: implement ST_LocateBetween({float8,float8,geometry,float8})](https://github.com/cockroachdb/cockroach/issues/60888) 💬 3 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
-| [geo/geomfn: implement ST_LocateAlong({float8,float8,geometry})](https://github.com/cockroachdb/cockroach/issues/60887) 💬 1 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.5k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [Wanted: Who is using Open Code Review? Please leave a comment!](https://github.com/alibaba/open-code-review/issues/1020) 💬 15 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 44.2k | 🟡 help wanted | 2026-10-05 | 🤖 disclose AI use · ✍️ CLA |
+| [changefeedccl: make a changefeed setting for sink IO workers](https://github.com/cockroachdb/cockroach/issues/154546) 💬 6 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [changefeedccl: add a log when a session disconnect causes a sinkless feed to stop](https://github.com/cockroachdb/cockroach/issues/154379) 💬 3 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [kv,rpc: adopt static labels](https://github.com/cockroachdb/cockroach/issues/150493) 💬 3 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [changefeedccl: incorrect metric types](https://github.com/cockroachdb/cockroach/issues/134547) 💬 4 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [changefeedccl: support azure-blob prefix for azure blob storage sink](https://github.com/cockroachdb/cockroach/issues/124074) 💬 4 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [changefeedccl: fix flush_hist_nanos callback in cloud storage and webhook sinks](https://github.com/cockroachdb/cockroach/issues/121248) 💬 2 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [changefeedccl: emittedmessages metric resolved messages semantics aren't consistent](https://github.com/cockroachdb/cockroach/issues/111043) 💬 2 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [cdc: allow changefeeds on materialized views](https://github.com/cockroachdb/cockroach/issues/105730) 💬 3 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [logictest: randomize hash-sharding primary and secondary indexes](https://github.com/cockroachdb/cockroach/issues/87210) 💬 1 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [scplan: presence of a NotImplemented op in a plan should throw an error](https://github.com/cockroachdb/cockroach/issues/83672) | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [changefeedccl: decrease PTS increment if gcttl is lower](https://github.com/cockroachdb/cockroach/issues/83195) 💬 2 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [sql/catalog/lease: NameCache is not timestamp aware](https://github.com/cockroachdb/cockroach/issues/80107) 💬 2 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [sql: add tooling to delete data for a lost table index, specifically](https://github.com/cockroachdb/cockroach/issues/77153) 💬 1 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [geo/geomfn: implement ST_LocateBetweenElevations({geometry,float8,float8})](https://github.com/cockroachdb/cockroach/issues/60889) 💬 1 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [geo/geomfn: implement ST_LocateBetween({float8,float8,geometry,float8})](https://github.com/cockroachdb/cockroach/issues/60888) 💬 3 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
+| [geo/geomfn: implement ST_LocateAlong({float8,float8,geometry})](https://github.com/cockroachdb/cockroach/issues/60887) 💬 1 | [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) | 32.6k | 🟢 beginner | 2026-10-05 | ✍️ CLA |
 | [Provide .NET Core template for building external scalers](https://github.com/kedacore/keda/issues/800) 💬 2 | [kedacore/keda](https://github.com/kedacore/keda) | 10.6k | 🟡 help wanted | 2026-10-04 | 🔏 DCO |
 | [Add e2e test for Huawei Cloudeye Scaler](https://github.com/kedacore/keda/issues/1524) 💬 1 | [kedacore/keda](https://github.com/kedacore/keda) | 10.6k | 🟡 help wanted | 2026-10-04 | 🔏 DCO |
 | [Add e2e test for Liiklus Topic Scaler](https://github.com/kedacore/keda/issues/1529) 💬 1 | [kedacore/keda](https://github.com/kedacore/keda) | 10.6k | 🟡 help wanted | 2026-10-04 | 🔏 DCO |
@@ -49,7 +54,7 @@
 | [Provide e2e tests for Redis using Azure Cache for Redis](https://github.com/kedacore/keda/issues/3325) 💬 4 | [kedacore/keda](https://github.com/kedacore/keda) | 10.6k | 🟡 help wanted | 2026-10-04 | 🔏 DCO |
 | [Provide support for authentication with SPIFFE](https://github.com/kedacore/keda/issues/672) 💬 7 | [kedacore/keda](https://github.com/kedacore/keda) | 10.6k | 🟡 help wanted | 2026-10-04 | 🔏 DCO |
 | [Contributor guide for naming and conventions](https://github.com/kedacore/keda/issues/592) 💬 7 | [kedacore/keda](https://github.com/kedacore/keda) | 10.6k | 🟡 help wanted | 2026-10-04 | 🔏 DCO |
-| [Kong library possibly mis-categorized](https://github.com/avelino/awesome-go/issues/6592) 💬 2 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 187.3k | 🟢 beginner | 2026-10-03 |  |
+| [Kong library possibly mis-categorized](https://github.com/avelino/awesome-go/issues/6592) 💬 2 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | 187.4k | 🟢 beginner | 2026-10-03 |  |
 | [runtime:cpu1: TestPreemptionAfterSyscall/100µs failures](https://github.com/golang/go/issues/72965) 💬 83 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-02 |  |
 | [cmd/pprof: TestDisasm failures](https://github.com/golang/go/issues/56574) 💬 67 | [golang/go](https://github.com/golang/go) | 139.3k | 🟡 help wanted | 2026-10-01 |  |
 | [Feature request: Webhooks](https://github.com/juanfont/headscale/issues/1543) 💬 14 | [juanfont/headscale](https://github.com/juanfont/headscale) | 44.4k | 🟡 help wanted | 2026-10-01 | ⚠️ AI restricted |
@@ -80,7 +85,6 @@
 | [\\echo and \\warn -n problem on interactive](https://github.com/xo/usql/issues/215) 💬 1 | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
 | [feature: support vi key bindings (ala readline/bash/psql vi modes)](https://github.com/xo/usql/issues/236) 💬 5 | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
 | ['\\ss' without arguments lists columns for all tables](https://github.com/xo/usql/issues/363) 💬 2 | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
-| [Implement privilege related \\d commands](https://github.com/xo/usql/issues/172) | [xo/usql](https://github.com/xo/usql) | 10.1k | 🟡 help wanted | 2026-09-23 |  |
 | [Support For Windows Containers](https://github.com/kubernetes/minikube/issues/2015) 💬 68 | [kubernetes/minikube](https://github.com/kubernetes/minikube) | 32.2k | 🟡 help wanted | 2026-09-22 |  |
 | [i18n: Streamline Singular/Plural Nouns](https://github.com/stashapp/stash/issues/1924) 💬 6 | [stashapp/stash](https://github.com/stashapp/stash) | 13.1k | 🟡 help wanted | 2026-09-22 | ⚠️ AI restricted |
 | [Help about Telegram Custom alerts](https://github.com/TwiN/gatus/issues/1809) | [TwiN/gatus](https://github.com/TwiN/gatus) | 12.3k | 🟡 help wanted | 2026-09-22 |  |
@@ -208,9 +212,5 @@
 | [console: Highlight required fields consistently](https://github.com/zitadel/zitadel/issues/5712) 💬 3 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-29 |  |
 | [Add Org metadata to metadata scope](https://github.com/zitadel/zitadel/issues/4419) 💬 5 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | 15.2k | 🟢 beginner | 2026-07-29 |  |
 | [Allow users to specify a Storage Class when backing up to S3](https://github.com/velero-io/velero/issues/3137) 💬 7 | [velero-io/velero](https://github.com/velero-io/velero) | 10.3k | 🟢 beginner | 2026-07-29 | 🔏 DCO |
-| [When using azure volume_snapshotter, env update from /credentials/cloud doesn't handle removed params](https://github.com/velero-io/velero/issues/3152) 💬 1 | [velero-io/velero](https://github.com/velero-io/velero) | 10.3k | 🟢 beginner | 2026-07-29 | 🔏 DCO |
-| [Consider making it easier to add fsfreeze or other pre/post hooks to pods](https://github.com/velero-io/velero/issues/1872) 💬 2 | [velero-io/velero](https://github.com/velero-io/velero) | 10.3k | 🟢 beginner | 2026-07-29 | 🔏 DCO |
-| [TestLoad* failures: unexpected path expansion](https://github.com/ent/ent/issues/3013) 💬 6 | [ent/ent](https://github.com/ent/ent) | 17.2k | 🟢 beginner | 2026-07-23 | ✍️ CLA |
-| [draw.io (diagrams.net) files format (mxGraph) export / import](https://github.com/d2lang/d2/issues/743) 💬 3 | [d2lang/d2](https://github.com/d2lang/d2) | 25.6k | 🟢 beginner | 2026-07-22 |  |
 
-Showing the 200 most recently updated. See all 329 on the website.
+Showing the 200 most recently updated. See all 333 on the website.
